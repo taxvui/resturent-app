@@ -4,7 +4,7 @@ import 'package:flutter/material.dart';
 import 'package:form_builder_validators/form_builder_validators.dart';
 import 'package:skeletonizer/skeletonizer.dart';
 
-import '../../../../../../i18n/strings.g.dart';
+import 'package:restaurant_pos/i18n/strings.g.dart';
 import '../../../../../core/core.dart';
 import '../../../../../data/repository/repository.dart';
 import '../../../../../widgets/widgets.dart';
