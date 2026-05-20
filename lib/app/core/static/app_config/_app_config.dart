@@ -4,7 +4,7 @@ abstract class AppConfig {
   static const String orgDomain = 'acnoo.com';
 
   ///[baseUrl] must be the backend's base url `WITHOUT ANY TRAILING SLASH(/)`
-  static const String baseUrl = 'https://restaurantapp.acnoo.xyz';
+  static const String baseUrl = 'https://pos.maxui.net';
 
   // Purchase Code
   static const String purchaseCode = 'YOUR_PURCHASE_CODE';
