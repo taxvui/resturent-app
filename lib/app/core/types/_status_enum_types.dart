@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-import '../../../i18n/strings.g.dart';
+import 'package:restaurant_pos/i18n/strings.g.dart';
 import '../core.dart';
 
 enum TableStatus {

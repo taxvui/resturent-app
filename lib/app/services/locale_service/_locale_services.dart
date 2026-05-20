@@ -2,7 +2,7 @@ import 'package:fdevs_fitkit/fdevs_fitkit.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 
-import '../../../i18n/strings.g.dart';
+import 'package:restaurant_pos/i18n/strings.g.dart';
 import '../services.dart';
 import '../../core/core.dart' show DAppSPrefsKeys;
 

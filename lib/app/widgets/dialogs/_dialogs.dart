@@ -2,7 +2,7 @@ import 'package:fdevs_fitkit/fdevs_fitkit.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:iconly/iconly.dart';
-import '../../../i18n/strings.g.dart';
+import 'package:restaurant_pos/i18n/strings.g.dart';
 
 import '../../core/core.dart';
 

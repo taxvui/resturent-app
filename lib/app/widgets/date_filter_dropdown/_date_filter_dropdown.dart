@@ -4,7 +4,7 @@ import 'package:flutter/material.dart';
 import 'package:iconly/iconly.dart';
 import 'package:intl/intl.dart' as intl;
 
-import '../../../i18n/strings.g.dart';
+import 'package:restaurant_pos/i18n/strings.g.dart';
 import '../../core/core.dart';
 import '../custom_dropdown/_custom_dropdown.dart';
 

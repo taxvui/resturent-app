@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:fdevs_fitkit/fdevs_fitkit.dart';
-import '../../../i18n/strings.g.dart';
+import 'package:restaurant_pos/i18n/strings.g.dart';
 
 class VerificationDialog extends StatelessWidget {
   const VerificationDialog({

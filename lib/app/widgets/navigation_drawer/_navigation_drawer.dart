@@ -3,7 +3,7 @@ import 'package:fdevs_fitkit/fdevs_fitkit.dart';
 import 'package:flutter/material.dart';
 import 'package:universal_image/universal_image.dart';
 
-import '../../../i18n/strings.g.dart';
+import 'package:restaurant_pos/i18n/strings.g.dart';
 import '../../core/core.dart';
 
 class CustomNavigationDrawer extends StatelessWidget {
