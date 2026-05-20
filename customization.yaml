@@ -3,16 +3,16 @@
 app_name: "Restaurant App"
 
 # [package_name] will be used for package name in android and app bundle id in ios.
-package_name: "com.acnoo.restaurantapp"
+package_name: "com.maxui.net"
 
 # [org_domain] will be used for the website reference. This is mostly used for copyright reference (i.e: PDF footer, Thermal invoice etc.).
 # you can find where this is name is being used from `orgDomain` variable's reference in `lib/app/core/static/app_config/_app_config.dart` this file.
-org_domain: "https://acnoo.com"
+org_domain: "https://maxui.net"
 
 # [base_url] will be used as the base of your backend api server.
 # you can find where this is name is being used from `baseUrl` variable's reference in `lib/app/core/static/app_config/_app_config.dart` this file.
 # NOTE: [baseUrl] must be the backend's base url `WITHOUT ANY TRAILING SLASH(/)`
-base_url: "https://restaurantapp.acnoo.com"
+base_url: "https://pos.maxui.net"
 
 # For App Icon & Launcher Icon:
 # Just replace `assets/app/app_launcher/app_launcher_icon.png` this with your own icon.
