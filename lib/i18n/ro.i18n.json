@@ -1,0 +1,1561 @@
+{
+  "@@meta": {
+    "languageCode": "ro_RO",
+    "languageName": "Romanian",
+    "version": "1.0.0"
+  },
+  "common": {
+    "signIn": "Autentificare",
+    "signUp": "Înregistrare",
+    "verifyEmail": "Verificare Email",
+    "customizeProfile": "Personalizare Profil",
+    "imageOrLogo": "Logo sau Imagine",
+    "createNewPassword": "Creare Parolă Nouă",
+    "itemsList": "Listă Articole",
+    "searchItemsName": "Caută Nume Articole",
+    "categoryList": "Listă Categorii",
+    "brandList": "Listă Mărci",
+    "unitList": "Listă Unități",
+    "itemDetails": "Detalii Articol",
+    "addStock": "Adaugă Stoc",
+    "profile": "Profil",
+    "language": "Limbă",
+    "termsAndConditions": "Termeni și Condiții",
+    "aboutUs": "Despre Noi",
+    "logout": "Deconectare",
+    "editProfile": "Editare Profil",
+    "fullName": "Nume Complet",
+    "email": "E-mail",
+    "mobileNumber": "Număr de Telefon Mobil",
+    "address": "Adresă",
+    "password": "Parolă",
+    "forgotPassword": "Ai uitat parola",
+    "edit": "Editare",
+    "delete": "Ștergere",
+    "addItems": "Adaugă Articole",
+    "stock": "Stoc",
+    "currentStock": "Stoc Curent",
+    "value": "Valoare",
+    "sales": "Vânzări",
+    "purchase": "Achiziție",
+    "price": "Preț",
+    "image": "Imagine",
+    "upload": "Încarcă",
+    "addNew": "Adaugă Nou",
+    "pricing": "Prețuri",
+    "name": "Nume",
+    "category(plural)": {
+      "one": "Categorie",
+      "other": "Categories"
+    },
+    "areas": "Areas",
+    "brand": "Marcă",
+    "lowStock": "Stoc Scăzut",
+    "unit": "Unitate",
+    "vat": "TVA",
+    "taxType": "Tip Taxă",
+    "purchasePrice": "Preț de Achiziție",
+    "sellingPrice": "Preț de Vânzare",
+    "wholeSalePrice": "Preț En-gros",
+    "dealerPrice": "Preț Distribuitor",
+    "searchHere": "Caută Aici",
+    "totalItems": "Total Articole",
+    "stockValue": "Valoare Stoc",
+    "congratulation": "Felicitări",
+    "salesList": "Listă Vânzări",
+    "searchInvoiceNumber": "Caută nr. factură",
+    "view": "Vizualizare",
+    "kFor": "Pentru",
+    "total": "Total",
+    "subTotal": "Subtotal",
+    "insufficientStockAvailableStock": "Stoc insuficient, stoc disponibil",
+    "discount": "Reducere",
+    "selectOne": "Selectează una",
+    "allCategory": "Toate Categoriile",
+    "details": "Detalii",
+    "parcel": "Colet",
+    "kot": "Kot",
+    "table": "Masa",
+    "holdTable": "Rezervă Masă",
+    "capacity": "Capacitate",
+    "commonHint": "Ex: 10",
+    "pleaseEnterQuantity": "Te rugăm să introduci cantitatea",
+    "quantityMustBeGreaterThanZero": "Cantitatea trebuie să fie mai mare decât 0",
+    "mobile": "Mobil",
+    "orderNo": "Nr. Comandă",
+    "dateAndTime": "Data și Ora",
+    "items": "Articole",
+    "totalAmount": "Suma Totală",
+    "paidAmount": "Suma Plătită",
+    "dueAmount": "Suma Datorată",
+    "paymentType": "Tip Plată",
+    "thankYou": "Mulțumim",
+    "developedBy": "Dezvoltat de ${domain: String}",
+    "qty": "Preț",
+    "amount": "Sumă",
+    "dashboard": "Panou de Control",
+    "reports": "Rapoarte",
+    "home": "Acasă",
+    "parties": "Părți",
+    "subscriptionPlan": "Plan de Abonament",
+    "estimateList": "Listă Oferte",
+    "purchaseList": "Listă Achiziții",
+    "dueList": "Listă Datorii",
+    "lossOrProfit": "Pierdere/Profit",
+    "stocks": "Stocuri",
+    "moneyInList": "Listă Intrări de Bani",
+    "moneyOutList": "Listă Ieșiri de Bani",
+    "transactionList": "Listă Tranzacții",
+    "income": "Venit",
+    "expense": "Cheltuială",
+    "quickView": "Vizualizare Rapidă",
+    "to": "către",
+    "totalSales": "Total Vânzări",
+    "totalPurchase": "Total Achiziții",
+    "holdNumber": "Comenzi Rezervate",
+    "totalExpense": "Total Cheltuieli",
+    "loss": "Pierdere",
+    "profit": "Profit",
+    "recentTransaction": "Tranzacții Recente",
+    "invoice": "Factură",
+    "moneyIn": "Intrare de Bani",
+    "moneyOut": "Ieșire de Bani",
+    "paid": "Plătit",
+    "due": "Datorat",
+    "partial": "Parțial",
+    "print": "Imprimare",
+    "addCategory": "Adaugă Categorie",
+    "addExpense": "Adaugă Cheltuială",
+    "search": "Caută...",
+    "viewDetails": "Vezi Detalii",
+    "title": "Titlu",
+    "date": "Dată",
+    "note": "Notă",
+    "phoneNumber": "Număr de Telefon",
+    "type": "Tip",
+    "selectContactSType": "Selectează tipul de contact",
+    "moreInfo": "Mai multe informații",
+    "paymentReceived": "Plată Primită",
+    "selectSupplier": "Selectează furnizorul",
+    "supplier": "Furnizor",
+    "received": "Primit",
+    "balanceDue": "Sold Datorat",
+    "addPurchase": "Adaugă Achiziție",
+    "selectedItemWillBeCleared": "Articolele selectate vor fi șterse.",
+    "searchItemName": "Caută nume articol",
+    "billItems": "Articole Factură",
+    "addMoreItems": "Adaugă Mai Multe Articole",
+    "payAmount": "Suma de Plată",
+    "salesReport": "Raport Vânzări",
+    "purchaseReport": "Raport Achiziții",
+    "stockReport": "Raport Stoc",
+    "dueReport": "Raport Datorii",
+    "dueCollectionReport": "Raport Colectări Datorii",
+    "transactionReport": "Raport Tranzacții",
+    "incomeReport": "Raport Venituri",
+    "dueCollectionList": "Listă Colectări Datorii",
+    "expenseReport": "Rapoarte Cheltuieli",
+    "dueCollection": "Colectare Datorie",
+    "myProfile": "Profilul Meu",
+    "printingOption": "Opțiune Imprimare",
+    "currency": "Monedă",
+    "paymentMethod": "Metodă de Plată",
+    "rateUs": "Evaluează-ne",
+    "termAndCondition": "Termeni și Condiții",
+    "tableList": "Listă Mese",
+    "addTable": "Adaugă Masă",
+    "vatRate": "Rată TVA %",
+    "action": "Acțiune",
+    "status": "Statut",
+    "active": "Activ",
+    "inActive": "Inactiv",
+    "subVats": "Sub-TVA-uri",
+    "add": "Adaugă",
+    "taxRate": "Rată Taxă %",
+    "subTaxes": "Sub-Taxe",
+    "group": "grup",
+    "VAT": "TVA",
+    "subTaxList": "Listă Sub-Taxe",
+    "vatPercent": "Procent TVA",
+    "statusIsCannotInActive": "Statusul nu poate fi inactiv dacă TVA-ul este aplicat vânzărilor.",
+    "vatOnSales": "TVA la Vânzări",
+    "transaction": "Tranzacție",
+    "version": "Versiunea ${version: String}",
+    "hold": "Rezervă",
+    "empty": "Gol",
+    "appName": "Restaurant App",
+    "duePayment": "Plată scadentă",
+    "orders": "Comenzi",
+    "all": "Toate",
+    "ingredient": "Ingredient",
+    "menus": "Meniuri",
+    "modifierGroups": "Grupuri de modificatori",
+    "itemModifiers": "Modificatori de articol",
+    "staff": "Personal",
+    "coupon": "Cupon",
+    "pay": "Plătește",
+    "pendingOrders": "Comenzi în așteptare",
+    "order": "Comandă",
+    "payNow": "Plătește acum",
+    "addStaff": "Adaugă personal",
+    "designation": "Denumire",
+    "itemAdded": "Articol adăugat",
+    "noItemAdded": "Niciun articol adăugat",
+    "saveNPrint": "Salvează și printează",
+    "allowMultiSelection": "Permite selecție multiplă",
+    "required": "Obligatoriu",
+    "optional": "Opțional",
+    "allowMultiSelectionForSale": "Permite selecție multiplă pentru vânzări",
+    "isRequired": "Este obligatoriu",
+    "modifier": "Modificator",
+    "fullPayment": "Plată integrală",
+    "payment": "Plată",
+    "addTip": "Adaugă bacșiș",
+    "netPayable": "Total de plată",
+    "receiveAmount": "Suma primită",
+    "changeAmount": "Restul",
+    "quotationList": "Listă Cotații",
+    "addQuotation": "Adaugă Cotație",
+    "convert": "Convertește",
+    "variations": "Variații",
+    "instructions": "Instrucțiuni",
+    "unavailable": "Indisponibil",
+    "tip": "Bacșiș",
+    "salesQuotationReport": "Raport Cotație Vânzări",
+    "orderType": "Tip Comandă",
+    "deliveryCharge": "Taxă de Livrare",
+    "receiptNo": "Nr. chitanță",
+    "paidBy": "Plătit de",
+    "receivedBy": "Primit de",
+    "paymentAmount": "Suma plătită",
+    "remainingDue": "Sold rămas",
+    "roleNPermission": "Rol & Permisiune",
+    "sl": "SL",
+    "features": "Funcționalități",
+    "create": "Creare",
+    "update": "Actualizează",
+    "quotations": "Cotații",
+    "restaurant": "Restaurant",
+    "printerProfile": "Profil imprimantă",
+    "kitchenOrders": "Comenzi bucătărie",
+    "kitchen(plural)": {
+      "one": "Bucătărie",
+      "other": "Bucătării"
+    },
+    "allKOT": "Toate KOT",
+    "cancelKOT": "Anulare KOT",
+    "selectCancelReason": "Selectați motivul anulării",
+    "additionalComment": "Comentariu suplimentar",
+    "enterComment": "Introduceți comentariul",
+    "orderStatus": "Stare comandă",
+    "selectOrderStatus": "Selectați starea comenzii",
+    "kotReport": "Raport KOT",
+    "itemFoodType": "Tip mâncare",
+    "selectItemFoodType": "Selectați @:common.itemFoodType",
+    "markAllAsRead": "Marcați totul ca citit",
+    "online": "Online",
+    "cancelledReason": "Cancelled Reason",
+    "hrm": "HRM",
+    "notAvailable": "N/A"
+  },
+  "exceptions": {
+    "somethingWentWrong": "A apărut o eroare, te rugăm să încerci din nou",
+    "noCategoryFound": "Nicio categorie găsită!\n Te rugăm să încerci să adaugi o categorie.",
+    "doYouWantToDeleteThisCategory": "Sigur vrei să ștergi această categorie?",
+    "noBrandFound": "Nicio marcă găsită!\n Te rugăm să încerci să adaugi o marcă.",
+    "doYouWantToDeleteThisBrand": "Sigur vrei să ștergi această marcă?",
+    "noItemStockFound": "Niciun stoc de articole găsit!\n Te rugăm să încerci să adaugi un articol.",
+    "noUnitFound": "Nicio unitate găsită!\n Te rugăm să încerci să adaugi o unitate.",
+    "doYouDeleteThisUnit": "Sigur vrei să ștergi această unitate?",
+    "noSaleFoundPleaseSAddProduct": "Nicio vânzare găsită!\n Te rugăm să încerci să adaugi o vânzare.",
+    "doYouWantToDeleteThisSale": "Sigur vrei să ștergi această vânzare?",
+    "pleaseAddItemToTheCartFirst": "Te rugăm să adaugi articole în coș mai întâi",
+    "noItemAdded": "Niciun articol adăugat",
+    "cannotEditOthersTable": "Nu se poate edita o altă masă.",
+    "tableIsAlreadyBlocked": "Masa este deja rezervată.",
+    "failedToGetCustomerDetails": "Nu s-au putut obține detaliile clientului.",
+    "noTableFoundPleaseTryAgain": "Nicio masă găsită!\n Te rugăm să încerci să adaugi o masă.",
+    "noDueCollectionFound": "Nicio factură scadentă găsită!\n Poți vedea facturile scadente când sunt disponibile.",
+    "noExpenseFoundPleaseTryAddingExpense": "Nicio cheltuială găsită!\n Te rugăm să încerci să adaugi o cheltuială.",
+    "doYouWantToDeleteThisExpense": "Sigur vrei să ștergi această cheltuială?",
+    "noExpenseCategoryFound": "Nicio categorie de cheltuieli găsită!\n Te rugăm să încerci să adaugi o categorie de cheltuieli.",
+    "noTransactionFound": "Nicio tranzacție găsită, te rugăm să încerci mai târziu!",
+    "pleaseSelectACategory": "Te rugăm să selectezi o categorie",
+    "noIncomeFound": "Niciun venit găsit!\n Te rugăm să încerci să adaugi un venit",
+    "doYouWantToDeleteThisIncome": "Sigur vrei să ștergi acest venit?",
+    "noIncomeCategoryFoundAddingAIncome": "Nicio categorie de venituri găsită!\n Te rugăm să încerci să adaugi o categorie de venituri.",
+    "noItemFoundPleaseTryAddingItem": "Niciun articol găsit!\n Te rugăm să încerci să adaugi un articol.",
+    "noPartiesFound": "Nicio parte găsită",
+    "doYouWantToDeleteThisParty": "Sigur vrei să ștergi această parte?",
+    "noLedgerFound": "Nicio înregistrare găsită!\n Te rugăm să încerci să adaugi o ${transactionType: String}",
+    "areYouSureYouSureWantToDeleteThisTaxType": "Sigur vrei să ștergi acest tip de ${taxType: String}?",
+    "noItemFoundPleaseSTryAddingAnPurchase": "Niciun articol găsit!\n Te rugăm să încerci să adaugi o achiziție.",
+    "doYouWantToDeleteThisPurchase": "Sigur vrei să ștergi această achiziție?",
+    "noTransactionFoundYouSeeTransactionHereWhenAvailable": "Nicio tranzacție găsită!\n Vei vedea tranzacțiile aici când vor fi disponibile.",
+    "noSaleFoundPleaseTryAddingSale": "Nicio vânzare găsită!\n Te rugăm să încerci să adaugi o vânzare.",
+    "noPurchaseFoundPleaseTryAddingPurchase": "Nicio achiziție găsită!\n Te rugăm să încerci să adaugi o achiziție.",
+    "noItemIncomeFound": "Niciun venit de articol găsit!\n Vei vedea datele despre venituri când vor fi disponibile.",
+    "noItemExpenseFound": "Nicio cheltuială de articol găsită!\n Vei vedea datele despre cheltuieli când vor fi disponibile.",
+    "noItemDueInvoiceFound": "Nicio factură scadentă de articol găsită!\n Vei vedea facturile scadente când vor fi disponibile.",
+    "noItemDueCollectionInvoiceFound": "'Nicio factură scadentă de colectare de articol găsită!\n Vei vedea facturile scadente de colectare când vor fi disponibile.",
+    "doYouWantToDeleteThisTable": "Sigur vrei să ștergi această masă?'",
+    "thisVatIsBeingUsedOnSales": "Acest TVA este utilizat la vânzări!",
+    "noPaymentMethodFoundPleaseTryAddingAPaymentMethod": "Nicio metodă de plată găsită!\n Te rugăm să încerci să adaugi o metodă de plată.",
+    "pleaseSelectACustomerFirst": "Vă rugăm să selectați mai întâi un client.",
+    "pleaseSelectATableToCreateAKot": "Vă rugăm să selectați o masă pentru a crea un KOT.",
+    "noStaffFound": "Nu s-a găsit personal!\\n Vă rugăm să încercați să adăugați personal.",
+    "noIngredientFound": "Nu s-a găsit niciun ingredient!\\n Vă rugăm să încercați să adăugați un ingredient.",
+    "exceedsPaymentAmount": "Suma primită nu trebuie să fie mai mare decât suma de plată.",
+    "noItemModifierFound": "Nu s-a găsit niciun modificator de articol!\\n Vă rugăm să încercați să adăugați un modificator de articol.",
+    "noModifierGroupFound": "Nu s-a găsit niciun grup de modificatori!\\n Vă rugăm să încercați să adăugați un grup de modificatori.",
+    "noOptionsFound": "Nu s-au găsit opțiuni!",
+    "maxImageCountLimit": "Puteți selecta doar până la 5 imagini.",
+    "noQuotationFound": "Nu s-a găsit nicio cotație!\\n Vă rugăm să încercați să adăugați o cotație.",
+    "noPermittedUserFound": "Nu a fost găsit niciun utilizator permis!\\n Vă rugăm să încercați să adăugați un utilizator."
+  },
+  "prompt": {
+    "logout": {
+      "title": "@:common.logout",
+      "message": "Sigur vrei să te deconectezi?"
+    },
+    "unsavedWarning": {
+      "title": "Vrei să te întorci?",
+      "message": "Câmpurile modificate s-ar putea să nu fie salvate!"
+    },
+    "verify": {
+      "title": "Verifică-ți e-mailul",
+      "description(rich)": "Am trimis un e-mail cu un cod de verificare${emailSpan}\n\nEste posibil ca e-mailul să fi ajuns în folderul de spam."
+    },
+    "subscriptionExpired": {
+      "title": "Abonamentul a Expirat!",
+      "message": "Te rugăm să te abonezi pentru a continua.",
+      "action": "Abonează-te"
+    },
+    "items": {
+      "delete": {
+        "title": "Sigur vrei să ștergi acest articol?"
+      },
+      "filter": {
+        "title": "Filtrează După",
+        "extra": {
+          "lowToHigh": "De la mic la mare @:common.price",
+          "highToLow": "De la mare la mic @:common.price"
+        }
+      }
+    },
+    "checkInternet": {
+      "title": "Nicio Conexiune la Internet",
+      "message": "Te rugăm să verifici conexiunea Wi-Fi sau rețeaua mobilă și să încerci din nou"
+    },
+    "back": {
+      "title": "Apasă din nou înapoi pentru a ieși."
+    },
+    "stockModelSheet": {
+      "title": "Adaugă Stoc Nou"
+    },
+    "paymentMethod": {
+      "title": "Sigur vrei să ștergi această metodă de plată?"
+    },
+    "extMsg": {
+      "kotSavedSuccessfully": "KOT salvat cu succes"
+    },
+    "deleteStaff": "Doriți să ștergeți acest membru al personalului?",
+    "deleteIngredient": "Doriți să ștergeți acest ingredient?",
+    "deleteItemModifier": "Doriți să ștergeți acest modificator de articol?",
+    "deleteModifierGroup": "Doriți să ștergeți acest grup de modificatori?",
+    "deleteQuotation": "Doriți să ștergeți această cotație?"
+  },
+  "form": {
+    "fullName": {
+      "label": "@:common.fullName",
+      "hint": "Introdu @:common.fullName",
+      "errors": {
+        "required": "Te rugăm să introduci @:common.fullName"
+      }
+    },
+    "email": {
+      "label": "@:common.email",
+      "hint": "Introdu adresa ta de @:common.email",
+      "errors": {
+        "required": "Te rugăm să introduci adresa ta de @:common.email",
+        "invalid": "⦸ Email Invalid, Te Rugăm Să Încearci Din Nou"
+      }
+    },
+    "password": {
+      "label": "@:common.password",
+      "hint": "* * * * * * * *",
+      "errors": {
+        "required": "Te rugăm să introduci @:common.password",
+        "minLength": "Parola trebuie să aibă cel puțin ${count} caractere!"
+      }
+    },
+    "confirmPassword": {
+      "label": "Confirmă Parola",
+      "hint": "* * * * * * * *",
+      "errors": {
+        "required": "Te rugăm să introduci @:common.password",
+        "invalid": "'Confirmă parola nu se potrivește!"
+      }
+    },
+    "otp": {
+      "errors": {
+        "required": "Te rugăm să introduci codul OTP.",
+        "invalid": "Te rugăm să introduci codul OTP curent."
+      }
+    },
+    "profile": {
+      "businessCategory": {
+        "label": "Categoria Afacerii",
+        "hint": "Selectează categoria afacerii",
+        "errors": {
+          "required": "Te rugăm să selectezi categoria afacerii"
+        }
+      },
+      "shopOrStore": {
+        "label": "Nume Magazin*",
+        "hint": "Introdu numele magazinului",
+        "errors": {
+          "required": "Te rugăm să introduci numele magazinului tău"
+        }
+      },
+      "openingBalance": {
+        "label": "Sold Inițial",
+        "hint": "Introdu soldul inițial"
+      },
+      "vatGstTitle": {
+        "label": "Titlu TVA/GST",
+        "hint": "Introdu TVA/GST"
+      },
+      "vatGstNumber": {
+        "label": "Număr TVA/GST",
+        "hint": "Introdu numărul TVA/GST"
+      }
+    },
+    "vat": {
+      "name": {
+        "label": "Nume",
+        "hint": "Introdu numele TVA",
+        "error": {
+          "required": "Te rugăm să introduci numele TVA"
+        }
+      },
+      "subVat": {
+        "label": "Sub-TVA",
+        "hint": "Selectează sub-TVA",
+        "errors": {
+          "required": "Te rugăm să selectezi un sub-TVA"
+        }
+      },
+      "rate": {
+        "label": "Rată TVA %",
+        "hint": "Introduceți cota TVA",
+        "errors": {
+          "required": "Vă rugăm să introduceți cota TVA."
+        }
+      }
+    },
+    "category": {
+      "label": "@:common.category",
+      "hint": "Selectează categoria articolului",
+      "error": {
+        "required": "Te rugăm să introduci numele categoriei"
+      }
+    },
+    "items": {
+      "barcode": {
+        "label": "Cod de Bare",
+        "hint": "@:common.selectOne"
+      },
+      "itemName": {
+        "label": "Nume Articol",
+        "hint": "Introdu numele articolului",
+        "extra": {
+          "required": "Te rugăm să introduci numele articolului"
+        }
+      },
+      "itemCategory": {
+        "label": "Categoria Articolului",
+        "hint": "Categoria Articolului",
+        "extra": {
+          "label": "Selectează categoria",
+          "required": "Te rugăm să selectezi o categorie"
+        }
+      },
+      "brand": {
+        "label": "@:common.brand",
+        "hint": "@:common.selectOne",
+        "extra": {
+          "hint": "Introdu numele mărcii",
+          "required": "Te rugăm să introduci numele mărcii"
+        }
+      },
+      "unit": {
+        "label": "@:common.unit",
+        "hint": "@:common.selectOne",
+        "error": {
+          "required": "Te rugăm să introduci numele unității"
+        }
+      },
+      "stock": {
+        "label": "Stoc Inițial",
+        "hint": "@:common.commonHint",
+        "extra": {
+          "required": "Te rugăm să introduci cantitatea articolului."
+        }
+      },
+      "lowStock": {
+        "label": "@:common.lowStock",
+        "hint": "Ex: 5"
+      },
+      "purchasePrice": {
+        "label": "@:common.purchasePrice",
+        "hint": "Ex: 40 lei",
+        "error": {
+          "required": "Te rugăm să introduci prețul de achiziție."
+        }
+      },
+      "salePrice": {
+        "label": "Preț de Vânzare",
+        "hint": "Ex: 60 lei",
+        "error": {
+          "required": "Te rugăm să introduci prețul de vânzare."
+        }
+      },
+      "totalSalePrice": {
+        "label": "Preț Total de Vânzare",
+        "hint": "Ex: 100 lei"
+      },
+      "wholeSalePrice": {
+        "label": "@:common.wholeSalePrice",
+        "hint": "Introdu prețul en-gros"
+      },
+      "dealerPrice": {
+        "label": "@:common.dealerPrice",
+        "hint": "Introdu prețul distribuitorului"
+      },
+      "discount": {
+        "label": "Reducere (%)",
+        "hint": "@:common.commonHint"
+      },
+      "applicableTax": {
+        "label": "Taxă Aplicabilă",
+        "hint": "@:common.selectOne"
+      },
+      "vatType": {
+        "label": "@:common.taxType",
+        "errorText": {
+          "required": "Te rugăm să selectezi un tip de TVA"
+        }
+      },
+      "menu": {
+        "label": "Alegeți meniul",
+        "errors": {
+          "required": "Vă rugăm să selectați un meniu."
+        },
+        "hint": "Selectați un meniu",
+        "extra": {
+          "selectNavLabel": "Selectează meniul articolului"
+        }
+      },
+      "modifierItems": {
+        "label": "Articole modificatoare",
+        "hint": "Selectați articole modificatoare"
+      },
+      "preparationTime": {
+        "label(rich)": "Timp de preparare ${minutes(Minute)}",
+        "hint": "Ex: 30"
+      },
+      "variation": {
+        "name": {
+          "label": "Nume",
+          "hint": "Introduceți variația",
+          "errors": {
+            "required": "Vă rugăm să introduceți numele variației."
+          }
+        },
+        "price": {
+          "errors": {
+            "required": "Vă rugăm să introduceți prețul."
+          },
+          "label": "Preț",
+          "hint": "Ex: 30 lei"
+        }
+      }
+    },
+    "itemCart": {
+      "hint": "@:common.commonHint",
+      "error": {
+        "required": "@:common.pleaseEnterQuantity",
+        "noZero": "@:common.quantityMustBeGreaterThanZero"
+      }
+    },
+    "sales": {
+      "autoGenerateInvoice": {
+        "label": "Nr. Factură",
+        "hint": "P-00001"
+      },
+      "date": {
+        "label": "Dată"
+      },
+      "customer": {
+        "label": "Client",
+        "hint": "Selectează clientul"
+      },
+      "phone": {
+        "label": "Număr de Telefon",
+        "hint": "Introdu numărul de telefon"
+      },
+      "address": {
+        "label": "Adresă",
+        "hint": "Introdu adresa"
+      },
+      "deliveryCharge": {
+        "label": "@:common.deliveryCharge",
+        "hint": "Ex: 20 lei",
+        "hint2": "Taxă Ex: 10 lei"
+      },
+      "table": {
+        "hint": "Selectează masa"
+      },
+      "waiter": {
+        "hint": "Selectează chelnerul"
+      }
+    },
+    "bill": {
+      "label": "Nr. Factură",
+      "hint": "P-00001"
+    },
+    "supplier": {
+      "label": "Furnizor",
+      "hint": "Selectează Furnizor",
+      "extra": {
+        "required": "Te rugăm să selectezi un furnizor"
+      }
+    },
+    "phone": {
+      "label": "Număr de Telefon",
+      "hint": "Introdu numărul de telefon",
+      "errors": {
+        "required": "Te rugăm să introduci numărul de telefon."
+      }
+    },
+    "address": {
+      "label": "Adresa Companiei",
+      "hint": "Introdu adresa companiei"
+    },
+    "payment": {
+      "label": "Nume",
+      "hint": "Introdu numele plății",
+      "error": {
+        "required": "Te rugăm să introduci un nume pentru metoda de plată"
+      }
+    },
+    "expense": {
+      "label": "Categoria Cheltuielilor",
+      "hint": "Selectează categoria cheltuielilor",
+      "error": {
+        "required": "Te rugăm să introduci categoria cheltuielilor"
+      }
+    },
+    "income": {
+      "label": "Categoria Veniturilor",
+      "hint": "Introdu numele categoriei",
+      "error": {
+        "required": "Te rugăm să introduci numele categoriei"
+      },
+      "incomeTitle": {
+        "label": "Titlul Venitului",
+        "hint": "Introdu venitul"
+      },
+      "incomeCategory": {
+        "label": "Categoria Veniturilor",
+        "hint": "Selectează categoria"
+      },
+      "payment": {
+        "label": "Plată",
+        "hint": "Ex: 10 lei"
+      }
+    },
+    "note": {
+      "label": "Notă (Opțional)",
+      "hint": "Introdu Text"
+    },
+    "parties": {
+      "partyName": {
+        "label": "Nume Parte",
+        "hint": "Introdu numele părții",
+        "error": {
+          "required": "Te rugăm să introduci numele părții"
+        }
+      },
+      "partyPhone": {
+        "label": "Număr de Telefon",
+        "hint": "Introdu numărul de telefon",
+        "error": {
+          "required": "Te rugăm să introduci numărul de telefon"
+        }
+      }
+    },
+    "table": {
+      "name": {
+        "label": "Nume Masă",
+        "hint": "Introdu numele mesei",
+        "error": {
+          "required": "Te rugăm să introduci numele mesei"
+        }
+      },
+      "capacity": {
+        "label": "Capacitate",
+        "hint": "Introdu capacitatea",
+        "error": {
+          "required": "Te rugăm să introduci capacitatea"
+        }
+      }
+    },
+    "designation": {
+      "label": "@:common.designation",
+      "hint": "Selectați o denumire",
+      "errors": {
+        "required": "Vă rugăm să selectați o denumire."
+      }
+    },
+    "ingredientName": {
+      "label": "Nume ingredient",
+      "hint": "Introduceți numele ingredientului",
+      "errors": {
+        "required": "Vă rugăm să introduceți numele ingredientului"
+      }
+    },
+    "item": {
+      "label": "Articol",
+      "hint": "Selectează articolul",
+      "errors": {
+        "required": "Vă rugăm să selectați un articol."
+      }
+    },
+    "modifierGroup": {
+      "label": "Grup de modificatori",
+      "hint": "Selectați grupul de modificatori",
+      "errors": {
+        "required": "Vă rugăm să selectați un grup de modificatori."
+      }
+    },
+    "description": {
+      "label": "Descriere",
+      "hint": "Introduceți descrierea"
+    },
+    "staff": {
+      "label": "@:common.staff",
+      "hint": "Selectați un angajat",
+      "errors": {
+        "required": "Vă rugăm selectați un angajat"
+      }
+    },
+    "loginUserName": {
+      "label": "Nume utilizator conectare",
+      "hint": "Introduceți numele de utilizator sau adresa de email",
+      "errors": {
+        "required": "Vă rugăm introduceți numele de utilizator sau adresa de email"
+      }
+    }
+  },
+  "action": {
+    "next": "Următorul",
+    "getStarted": "Începe",
+    "skip": "Sari",
+    "select": "Selectează",
+    "save": "Salvează",
+    "verify": "Verifică",
+    "signIn": "@:common.signIn",
+    "signUp": "@:common.signUp",
+    "continue": "Continuă",
+    "no": "Nu",
+    "yes": "Da",
+    "okay": "OK",
+    "cancel": "Anulează",
+    "confirm": "Confirmă",
+    "tryAgain": "Încearcă Din Nou",
+    "reset": "Resetează",
+    "apply": "Aplică",
+    "stockAdjust": "Ajustează Stocul",
+    "addMoreItems": "Adaugă Mai Multe Articole",
+    "hold": "Rezervă",
+    "parcel": "@:common.parcel",
+    "buyNow": "Cumpără Acum",
+    "viewAll": "Vezi Tot",
+    "viewLedger": "Vezi registru",
+    "submit": "Trimite",
+    "selected": "Selectat",
+    "addToCart": "Adaugă în coș",
+    "selectAll": "Selectați tot",
+    "update": "@:common.update",
+    "addRole": "Adăugați rol"
+  },
+  "pages": {
+    "language": {
+      "appbarTitle": "@:action.select @:common.language"
+    },
+    "onboard": {
+      "onboardData": {
+        "data1": {
+          "title": "Ușor de utilizat @:common.appName",
+          "description": "Comenzi fără efort, Rezervări facile\\n Simplifică-ți Restaurantul cu ușurință!"
+        },
+        "data2": {
+          "title": "Gestionarea Comenzilor Fără Efort",
+          "description": "Simplifică procesul de preluare a comenzilor restaurantului tău cu sistemul nostru POS intuitiv."
+        },
+        "data3": {
+          "title": "Analize și Rapoarte Excelente",
+          "description": "Tabloul nostru de bord analitic oferă rapoarte în timp real despre vânzări și achiziții"
+        }
+      }
+    },
+    "signIn": {
+      "title": "Bine ai revenit",
+      "subtitle": "Te rugăm să introduci detaliile tale.",
+      "extra": {
+        "rememberMe": "Ține-mă minte",
+        "signUpNavigator(rich)": "Nu ai un cont? ${getStarted(@:action.getStarted)}",
+        "forgotPassword": "@:common.forgotPassword?"
+      }
+    },
+    "signUp": {
+      "title": "Creează un cont",
+      "subtitle": "Te rugăm să introduci detaliile tale",
+      "extra": {
+        "signInNavigator(rich)": "Ai deja un cont? ${signIn(@:action.signIn)}"
+      }
+    },
+    "forgotPassword": {
+      "title": "@:common.forgotPassword",
+      "subtitle": "Introdu adresa ta de email pentru a-ți recupera parola."
+    },
+    "otpVerification": {
+      "title": "Verificare",
+      "subtitle": "Un cod PIN din 6 cifre a fost trimis la adresa ta de email",
+      "extra": {
+        "codeResend": {
+          "codeSendIn": "Codul va fi trimis în",
+          "resendCode": "Retrimite codul"
+        }
+      }
+    },
+    "resetPassword": {
+      "title": "Resetează parola",
+      "subtitle": "Resetează-ți parola pentru recuperare și conectează-te la contul tău",
+      "extra": {
+        "dialog": {
+          "title": "Modificat cu succes!",
+          "subtitle": "Conectează-te cu noua ta parolă.\nTe redirecționăm către Conectare..."
+        }
+      }
+    },
+    "items": {
+      "itemList": {
+        "extra": {
+          "emptyItem": "Niciun articol găsit!\nTe rugăm să încerci să adaugi un articol."
+        }
+      },
+      "manageItems": {
+        "title": "Adaugă un articol nou",
+        "title2": "Editează articolul",
+        "extra": {
+          "maximum": "Maxim 5",
+          "wholeSaleAndDealerPrice": "Preț en-gros și pentru distribuitori",
+          "addDiscount": "Adaugă reducere",
+          "addVat": "Adaugă TVA"
+        }
+      },
+      "itemDetails": {
+        "title": "Detalii articol",
+        "extra": {
+          "noImageAvailable": "Nicio imagine disponibilă!",
+          "preparationTime(rich)": "Timp de preparare: ${min: Șir} ${mins(mins)}",
+          "pleaseSelectVariation": "Vă rugăm să selectați o variație",
+          "pleaseSelectOption": "Vă rugăm să selectați o opțiune.",
+          "enterYourInstruction": "Introduceți instrucțiunile dumneavoastră"
+        }
+      }
+    },
+    "category": {
+      "addNewCategory": "Adaugă o categorie nouă",
+      "editCategory": "Editează categoria"
+    },
+    "brand": {
+      "addNewBrand": "Adaugă o marcă nouă",
+      "editBrand": "Editează marca"
+    },
+    "unit": {
+      "addNewUnit": "Adaugă o unitate nouă",
+      "editUnit": "Editează unitatea"
+    },
+    "stock": {
+      "stockList": "Lista stocului"
+    },
+    "aboutUs": {
+      "title": "Despre noi"
+    },
+    "privacyPolicy": {
+      "title": "Politica de confidențialitate"
+    },
+    "termAndCondition": {
+      "title": "@:common.termAndCondition"
+    },
+    "orders": {
+      "manageOrders": {
+        "extra": {
+          "billItems": "Articole factură",
+          "manageQuantity": "Gestionează cantitatea"
+        },
+        "title": {
+          "editOrder": "Editează Comandă",
+          "editKOT": "Editare KOT"
+        }
+      }
+    },
+    "onlinePayment": {
+      "title": "Plată online"
+    },
+    "paymentStatus": {
+      "success": {
+        "title": "Mulțumim!",
+        "message": "Vom revizui plata și o vom aproba în termen de 24 de ore.",
+        "actionButtonText": "Vezi factura"
+      },
+      "fail": {
+        "title": "Oops! Plata a eșuat",
+        "message": "Tranzacția ta a eșuat din cauza unei erori tehnice.",
+        "actionButtonText": "Încearcă din nou"
+      }
+    },
+    "confirmationDialog": {
+      "title": "Deconectare",
+      "message": "Sigur dorești să te deconectezi?",
+      "acceptationText": "Nu",
+      "rejectionText": "Deconectare"
+    },
+    "payment": {
+      "title": "@:common.paymentMethod",
+      "addPaymentMethod": "Adaugă o metodă de plată nouă",
+      "editPaymentMethod": "Editează metoda de plată",
+      "choseOnlinePayment": "Alege plata online",
+      "selectPaymentMethod": "Selectează metoda de plată",
+      "pleaseSelectAPaymentMethod": "Te rugăm să selectezi o metodă de plată.",
+      "methodStatus": {
+        "title": "Statut",
+        "message": "Statutul nu poate fi inactiv dacă Vizualizarea rapidă este activată!."
+      }
+    },
+    "subscriptionPlan": {
+      "title": "Achiziționează Planul Premium",
+      "extra": {
+        "actionButtonText": "Înapoi",
+        "message": "Plata abonamentului a fost efectuată cu succes.\n\nAcum poți accesa funcțiile la care te-ai abonat.",
+        "mostPopular": "Cel mai popular"
+      }
+    },
+    "invoicePreview": {
+      "title": "Previzualizare factură",
+      "message": "Previzualizarea PDF va fi disponibilă în curând"
+    },
+    "currency": {
+      "title": "@:common.currency"
+    },
+    "dashboard": {
+      "overview": "Prezentare generală",
+      "dashboardPrivacy": "Confidențialitatea tabloului de bord",
+      "moneyInAndMoneyOut": "Intrări și ieșiri de bani",
+      "lossAndProfitOverView": "Prezentare generală a profitului și pierderilor"
+    },
+    "due": {
+      "title": "@:common.dueList",
+      "collectionList": "Lista de colectări",
+      "dueCollection": "Colectare datorată"
+    },
+    "expense": {
+      "title": "@:common.expense",
+      "editExpense": "Editează cheltuiala",
+      "addNewExpense": "Adaugă cheltuială nouă",
+      "editExpenseCategory": "Editează categoria de cheltuieli",
+      "addNewExpenseCategory": "Adaugă categorie nouă de cheltuieli",
+      "payment": "Plată",
+      "expenseCategory": "Categorie de cheltuieli",
+      "selectCategory": "Selectează categoria",
+      "allExpense": "Toate cheltuielile",
+      "pleaseSelectACategory": "Selectează o categorie",
+      "expenseTitle": {
+        "label": "Titlul cheltuielii",
+        "hint": "Introdu cheltuiala"
+      }
+    },
+    "lossProfit": {
+      "title": "Listă pierderi/profituri",
+      "noLossProfitFound": "Nu s-a găsit nicio pierdere/profit!\nTe rugăm să încerci să creezi vânzări."
+    },
+    "income": {
+      "editIncomeCategory": "Editează categoria de venituri",
+      "addNewIncomeCategory": "Adaugă o categorie de venituri nouă",
+      "incomeCategory": "Categoria de venituri",
+      "allIncome": "Toate veniturile",
+      "editIncome": "Editează venitul",
+      "addNewIncome": "Editează venitul",
+      "addIncome": "Adaugă venit"
+    },
+    "moneyIn": {
+      "title": "Lista intrărilor de bani",
+      "totalPaymentIn": "Total intrări de bani"
+    },
+    "moneyOut": {
+      "title": "Lista ieșirilor de bani",
+      "totalMoneyOut": "Total ieșiri de bani"
+    },
+    "profile": {
+      "title": "Profilul meu",
+      "editProfile": "Editează profilul",
+      "businessInformation": "Informații despre afacere",
+      "profileInformation": "Informații despre profil"
+    },
+    "parties": {
+      "title": "Lista părților",
+      "allParties": "Toate părțile",
+      "customer": "Client",
+      "supplier": "Furnizor",
+      "addParties": "Adaugă părți",
+      "editParties": "Editează părți",
+      "partiesDetails": "Detalii părți",
+      "personalInfo": "Informații personale"
+    },
+    "ledger": {
+      "subTitle": "Registru"
+    },
+    "purchase": {
+      "title": "Adaugă o achiziție nouă",
+      "editPurchase": "Editează achiziția"
+    },
+    "reports": {
+      "title": "Rapoarte"
+    },
+    "table": {
+      "title": "Adaugă o masă nouă",
+      "editTable": "Editează masa"
+    },
+    "tax": {
+      "title": "Rate TVA",
+      "buildHeaderTitle": "Rate TVA - Gestionează ratele tale TVA",
+      "vatGroup": {
+        "title": "Grup TVA",
+        "subTitle": "Grup TVA - Gestionează grupul tău TVA"
+      }
+    },
+    "vat": {
+      "addNewVat": "Adaugă un TVA nou",
+      "editVat": "Editează TVA-ul",
+      "addNewVatGroup": "Adaugă un Grup TVA nou",
+      "editVatGroup": "Editează Grupul TVA"
+    },
+    "orderList": {
+      "title": "Listă Comenzi",
+      "filters": {
+        "orderType": {
+          "label": "@:common.orderType",
+          "hint": "Selectează Tip Comandă"
+        },
+        "paymentStatus": {
+          "hint": "Selectează Status Plată",
+          "label": "Status Plată"
+        }
+      }
+    },
+    "staffs": {
+      "staffList": {
+        "filters": {
+          "designation": {
+            "label": "Denumire",
+            "hint": "Selectează Denumirea"
+          }
+        },
+        "title": "Tot Personalul"
+      },
+      "manageStaff": {
+        "title1": "Adaugă Personal Nou",
+        "title2": "Actualizează Personal"
+      }
+    },
+    "ingredient": {
+      "ingredientList": {
+        "title1": "Listă Ingrediente",
+        "title2": "Selectează Ingredientul"
+      },
+      "manageIngredient": {
+        "title1": "Adaugă Ingredient Nou",
+        "title2": "Editează Ingredient"
+      }
+    },
+    "itemModifier": {
+      "itemModifierList": {
+        "title": "@:common.itemModifiers"
+      },
+      "manageItemModifier": {
+        "title1": "Adaugă Modificatori Articole",
+        "title2": "Editează Modificatori Articole"
+      }
+    },
+    "quotation": {
+      "manageQuotation": {
+        "title": {
+          "add": "Adaugă Cotație Nouă",
+          "edit": "Editează Cotație",
+          "convert": "Convertește în Vânzare"
+        }
+      }
+    },
+    "rolePermission": {
+      "rolePermissionList": {
+        "title": "Listă Roluri & Permisiuni"
+      },
+      "manageRolePermission": {
+        "title1": "Adaugă Rol Nou",
+        "title2": "Editează Rol"
+      }
+    },
+    "printingOption": {
+      "title": "Opțiune Imprimare",
+      "form": {
+        "companyAddress": {
+          "label": "Adresa Companiei",
+          "hint": "Introdu adresa companiei"
+        },
+        "noteLabel": {
+          "label": "Etichetă Notă",
+          "hint": "Introdu eticheta notei."
+        },
+        "note": {
+          "label": "Notă",
+          "hint": "Introdu nota."
+        },
+        "postSaleMessage": {
+          "label": "Mesaj Post Vânzare",
+          "hint": "Introdu mesajul post vânzare"
+        },
+        "printingMethod": {
+          "label": "Metodă Imprimare",
+          "hint": "Selectează Metoda de Imprimare"
+        },
+        "printerProfile": {
+          "label": "Profil Imprimantă",
+          "hint": "Selectează profilul imprimantei"
+        },
+        "paperSize": {
+          "label": "Dimensiunea Hârtiei Imprimantei Termice",
+          "hint": "Selectează dimensiunea hârtiei imprimantei"
+        },
+        "printerDpi": {
+          "label": "DPI Imprimantă",
+          "hint": "Ex: 203"
+        },
+        "printingMargin": {
+          "label": "Margine Imprimare",
+          "hint": "Ex: 2"
+        }
+      },
+      "tooltip": {
+        "printingMethod": {
+          "title": "Listă derulantă cu opțiuni:",
+          "default": "• Implicit (Metodă nativă pentru imprimarea caracterelor standard UE)",
+          "image": "• Imagine (Recomandat pentru imprimarea caracterelor Unicode)"
+        }
+      },
+      "action": {
+        "save": "Salvează"
+      }
+    },
+    "kitchen": {
+      "list": {
+        "noKitchensFound": "Nu s-au găsit bucătării.\n Vă rugăm să încercați să adăugați una."
+      },
+      "manage": {
+        "addKitchen": "Adaugă Bucătărie",
+        "editKitchen": "Editează Bucătăria",
+        "kitchenName": {
+          "label": "Nume Bucătărie",
+          "hint": "Introduceți numele bucătăriei",
+          "error": "Vă rugăm să introduceți numele bucătăriei."
+        },
+        "description": {
+          "label": "Descriere",
+          "hint": "Introduceți descrierea"
+        }
+      },
+      "manageItems": {
+        "title": "Gestionează Articolele",
+        "addedItems": "Articole Adăugate",
+        "selectItemsError": "Vă rugăm să selectați articole.",
+        "noItemsAdded": "Niciun articol adăugat încă!\nVă rugăm să încercați să adăugați articole."
+      },
+      "card": {
+        "itemName": "Nume Articol",
+        "manageItems": "+ Gestionează Articolele",
+        "deleteItemConfirm": "Doriți să ștergeți acest articol?",
+        "deleteKitchenConfirm": "Doriți să ștergeți această bucătărie?"
+      }
+    }
+  },
+  "enums": {
+    "dropdownDateFilter": {
+      "daily": "Zilnic",
+      "weekly": "Săptămânal",
+      "monthly": "Lunar",
+      "yearly": "Anual",
+      "custom": "Personalizat"
+    },
+    "orderTypes": {
+      "dineIn": "Servire la masă",
+      "pickUp": "Ridicare",
+      "delivery": "Livrare",
+      "reservation": "Rezervare",
+      "quotation": "Cotație"
+    },
+    "paymentStatus": {
+      "paid": "Plătit",
+      "unpaid": "Neplătit"
+    },
+    "staffTypes": {
+      "manager": "Manager",
+      "waiter": "Chelner",
+      "chef": "Bucătar",
+      "cleaner": "Curățător",
+      "driver": "Șofer",
+      "deliveryBoy": "Curiere"
+    },
+    "itemFoodTypes": {
+      "veg": "Vegetarian",
+      "nonVeg": "Non-Vegetarian",
+      "egg": "Ou",
+      "drink": "Băutură",
+      "others": "Altele"
+    },
+    "itemTypes": {
+      "single": "Simplu",
+      "variation": "Variație"
+    },
+    "quotationStatus": {
+      "open": "Deschisă",
+      "closed": "Închisă"
+    },
+    "tableStatus": {
+      "running": "Ocupată",
+      "available": "Liberă"
+    },
+    "thermalPrinterPrintingMethod": {
+      "image": "Imagine",
+      "default": "Implicit"
+    },
+    "kotOrderStatus": {
+      "label": {
+        "pending": "În așteptare",
+        "preparing": "În preparare",
+        "ready": "Comandă gata",
+        "served": "Servit",
+        "cancelled": "Anulat"
+      },
+      "pending": "În așteptare",
+      "preparing": "În preparare",
+      "ready": "Comandă gata",
+      "served": "Servit",
+      "cancelled": "Anulat"
+    },
+    "kotItemStatus": {
+      "pending": "Începe gătirea",
+      "start": "Marchează ca gata",
+      "ready": "Gata"
+    }
+  },
+  "thermalPrint": {
+    "invoice": {
+      "purchaseInvoiceLabel": "Factură de Cumpărare: ${invoiceNumber: String}",
+      "saleInvoiceLabel": "Nr. Comandă: ${invoiceNumber: String}",
+      "receiptNoLabel": "Nr. Bon Fiscal: ${invoiceNumber: String}",
+      "orderNoKotLabel": "Nr. Comandă: ${invoiceNumber: String}",
+      "nameLabel": "Nume: ${name: String}",
+      "mobileLabel": "Mobil: ${phone: String}",
+      "purchasedByLabel": "Cumpărat de: ${role: String}",
+      "salesByLabel": "Vândut de: ${role: String}",
+      "paidByLabel": "${label: String}: ${role: String}",
+      "paidToReceivedFromLabel": "${label: String}: ${name: String}",
+      "orderTypeLabel": "Tip Comandă: ${orderType: String}",
+      "tableLabel": "Masă: ${tableName: String}",
+      "tableNoLabel": "Nr. Masă: ${tableName: String}",
+      "dateLabel": "Data: ${dateTime: String}",
+      "invoiceFlag": "FACTURĂ",
+      "receiptFlag": "BON FISCAL",
+      "paidBy": "Plătit de",
+      "receivedBy": "Primit de",
+      "paidTo": "Plătit către",
+      "receivedFrom": "Primit de la",
+      "seller": "Vânzător: ${name: String}",
+      "address": "Adresă: ${addr: String}",
+      "vatNo": "CUI/CIF",
+      "tel": "Tel: ${phoneNumber: String}",
+      "timeLabel": "Ora: ${dateTime: String}"
+    },
+    "tableHeaders": {
+      "sl": "Nr. Crt.",
+      "item": "Articol",
+      "cost": "Cost",
+      "qty": "Cant.",
+      "uPrice": "Pr. Unic",
+      "amount": "Sumă",
+      "total": "Total",
+      "invoiceTable": "Factură",
+      "dueTable": "Datorat"
+    },
+    "summary": {
+      "subTotal": "Subtotal:",
+      "discount": "Reducere: ${percentFmt: String}",
+      "vat": "${vatName: String}: ${rateFmt: String}%",
+      "tip": "Bacșiș:",
+      "deliveryCharge": "Taxă Livrare:",
+      "totalPayable": "Total de Plată:",
+      "paidAmount": "Sumă Plătită:",
+      "dueAmount": "Sumă Datorată:",
+      "paymentType": "Tip Plată: ${method: String}",
+      "remainingDue": "Rest de Plată:",
+      "paymentAmount": "Sumă Plată:",
+      "itemsCount": "Articole: ${count: int}",
+      "qtyTotal": "Cant.: ${totalQty: int}"
+    },
+    "footer": {
+      "note": "${noteLabel: String}: ${note: String}",
+      "developedBy": "${developByLabel: String} ${developBy: String}"
+    }
+  },
+  "hrm": {
+    "department": "Departament",
+    "designation": "Funcție",
+    "shift": "Tură",
+    "employee": "Angajat",
+    "leave": "Concediu",
+    "leaveType": "Tip concediu",
+    "leaveRequest": "Cerere concediu",
+    "holiday": "Sărbătoare",
+    "attendance": "Prezență",
+    "payroll": "Salarizare",
+    "pageTitles": {
+      "department": "Departament",
+      "designation": "Funcție",
+      "shift": "Tură",
+      "employee": "Angajat",
+      "leave": "Concediu",
+      "leaveType": "Tip concediu",
+      "holiday": "Sărbătoare",
+      "attendance": "Prezență",
+      "payroll": "Salarizare",
+      "leaveReports": "Rapoarte concediu",
+      "payrollReports": "Rapoarte salarizare",
+      "attendanceReports": "Rapoarte prezență",
+      "addDepartment": "Adaugă departament",
+      "editDepartment": "Editează departament",
+      "addDesignation": "Adaugă funcție",
+      "editDesignation": "Editează funcție",
+      "addShift": "Adăugare tură",
+      "editShift": "Editare tură",
+      "addEmployee": "Adaugă angajat",
+      "editEmployee": "Editează angajat",
+      "addLeave": "Adaugă concediu",
+      "editLeave": "Editează concediu",
+      "addLeaveType": "Adaugă tip concediu",
+      "editLeaveType": "Editează tip concediu",
+      "addHoliday": "Adaugă sărbătoare",
+      "editHoliday": "Editează sărbătoare",
+      "addAttendance": "Adaugă prezență",
+      "editAttendance": "Editează prezență",
+      "addPayroll": "Adaugă salarizare",
+      "editPayroll": "Editează salarizare"
+    },
+    "form": {
+      "labels": {
+        "department": "Departament",
+        "designation": "Funcție",
+        "shift": "Tură",
+        "employee": "Angajat",
+        "leaveType": "Tip concediu",
+        "leaveDuration": "Durată concediu",
+        "paymentYear": "An de plată",
+        "paymentType": "Tip de plată",
+        "breakStatus": "Stare pauză",
+        "startTime": "Ora de începere",
+        "endTime": "Ora de încheiere",
+        "startBreakTime": "Început pauză",
+        "endBreakTime": "Sfârșit pauză",
+        "breakTime": "Ora pauzei",
+        "breakDuration": "Durata pauzei",
+        "timeIn": "Ora sosirii",
+        "timeOut": "Ora plecării",
+        "duration": "Durată",
+        "country": "Țară",
+        "salary": "Salariu",
+        "gender": "Gen",
+        "birthDate": "Data nașterii",
+        "joinDate": "Data angajării",
+        "holidayName": "Nume sărbătoare",
+        "startDate": "Data de început",
+        "endDate": "Data de sfârșit",
+        "month": "Luna",
+        "year": "An",
+        "status": "Stare",
+        "description": "Descriere",
+        "amount": "Sumă",
+        "payment": "Plată",
+        "departmentName": "Nume departament",
+        "designationName": "Numele funcției",
+        "image": "Imagine",
+        "name": "Nume"
+      },
+      "hints": {
+        "selectEmployee": "Selectează angajat",
+        "selectDepartment": "Selectează departament",
+        "selectDesignation": "Selectează funcție",
+        "selectShift": "Selectează tură",
+        "selectLeaveType": "Selectează tip concediu",
+        "selectMonth": "Selectează luna",
+        "selectYear": "Selectează anul",
+        "selectDate": "Selectează data",
+        "selectStartDate": "Selectează data de început",
+        "selectEndDate": "Selectează data de sfârșit",
+        "selectTimeIn": "Selectează ora sosirii",
+        "selectTimeOut": "Selectează ora plecării",
+        "selectStartTime": "Selectează ora de începere",
+        "selectEndTime": "Selectează ora de încheiere",
+        "selectStatus": "Selectează starea",
+        "selectGender": "Selectează genul",
+        "selectPaymentType": "Selectează tipul de plată",
+        "enterFullName": "Introdu numele complet",
+        "enterEmail": "Introdu email",
+        "enterPhone": "Introdu telefon",
+        "enterCountry": "Introdu țara",
+        "enterSalary": "Ex: 500",
+        "enterHolidayName": "Introdu numele sărbătorii",
+        "enterDescription": "Introdu descrierea...",
+        "autoCalculated": "Calculat automat",
+        "selectDatesFirst": "Selectează întâi datele",
+        "allEmployee": "Toți angajații",
+        "selectEmployeeFirst": "Selectează întâi angajatul",
+        "enterDepartmentName": "Introdu numele departamentului",
+        "enterDesignationName": "Introduceți numele funcției",
+        "ex": "{value}",
+        "selectBirthDate": "Selectează data nașterii",
+        "selectJoinDate": "Selectează data angajării",
+        "selectBreakStatus": "Selectați starea pauzei",
+        "enterLeaveTypeName": "Introduceți numele tipului de concediu"
+      }
+    },
+    "emptyStates": {
+      "noLeaves": "Nu s-au găsit concedii",
+      "noPayrollRecords": "Nu s-au găsit înregistrări salarizare",
+      "noAttendanceRecords": "Nu s-au găsit înregistrări prezență",
+      "noLeaveTypes": "Nu s-au găsit tipuri de concediu",
+      "noEmployees": "Nu s-au găsit angajați",
+      "noHolidays": "Nu s-au găsit sărbători",
+      "noShifts": "Nu s-au găsit ture",
+      "noDesignations": "Nu s-au găsit funcții",
+      "noDepartments": "Nu s-au găsit departamente"
+    },
+    "confirmations": {
+      "deleteAttendance": "Sigur doriți să ștergeți această prezență?",
+      "deletePayroll": "Sigur doriți să ștergeți această salarizare?",
+      "deleteLeave": "Sigur doriți să ștergeți acest concediu?",
+      "deleteLeaveType": "Doriți să ștergeți acest tip de concediu?",
+      "deleteEmployee": "Sigur doriți să ștergeți acest angajat?",
+      "deleteHoliday": "Sigur doriți să ștergeți această sărbătoare?",
+      "deleteShift": "Doriți să ștergeți această tură?",
+      "deleteDesignation": "Sigur doriți să ștergeți această funcție?",
+      "deleteDepartment": "Sigur doriți să ștergeți acest departament?"
+    },
+    "validation": {
+      "selectEmployee": "Vă rugăm selectați un angajat",
+      "selectMonth": "Vă rugăm selectați o lună",
+      "selectEndDate": "Vă rugăm selectați data de sfârșit",
+      "endDateAfterStart": "Data de sfârșit trebuie să fie după data de început",
+      "selectStatus": "Vă rugăm să selectați starea",
+      "selectLeaveType": "Vă rugăm selectați un tip de concediu",
+      "selectStartDate": "Vă rugăm selectați data de început",
+      "selectDate": "Vă rugăm selectați o dată",
+      "selectTimeIn": "Vă rugăm să selectați ora de intrare",
+      "selectTimeOut": "Vă rugăm să selectați ora de ieșire",
+      "enterDepartmentName": "Vă rugăm introduceți numele departamentului",
+      "enterDesignationName": "Vă rugăm să introduceți numele funcției",
+      "enterName": "Vă rugăm introduceți un nume",
+      "selectDesignation": "Vă rugăm selectați o funcție",
+      "selectDepartment": "Vă rugăm selectați un departament",
+      "enterEmail": "Vă rugăm introduceți un email",
+      "enterValidEmail": "Vă rugăm introduceți un email valid",
+      "enterPhoneNumber": "Vă rugăm introduceți un număr de telefon",
+      "enterCountry": "Vă rugăm introduceți o țară",
+      "enterSalary": "Vă rugăm introduceți un salariu",
+      "selectGender": "Vă rugăm selectați un gen",
+      "selectShift": "Vă rugăm selectați o tură",
+      "selectBirthDate": "Vă rugăm selectați data nașterii",
+      "selectJoinDate": "Vă rugăm selectați data angajării",
+      "enterHolidayName": "Vă rugăm introduceți numele sărbătorii",
+      "selectBreakStatus": "Vă rugăm să selectați starea pauzei",
+      "selectPaymentYear": "Vă rugăm să selectați anul plății",
+      "selectPaymentType": "Vă rugăm să selectați tipul plății",
+      "enterAmount": "Vă rugăm să introduceți suma",
+      "selectStartBreakTime": "Vă rugăm să selectați ora de început a pauzei",
+      "selectEndBreakTime": "Vă rugăm să selectați ora de sfârșit a pauzei",
+      "enterLeaveTypeName": "Vă rugăm să introduceți numele tipului de concediu",
+      "selectStartTime": "Vă rugăm să selectați ora de început",
+      "selectEndTime": "Vă rugăm să selectați ora de sfârșit"
+    },
+    "dropdowns": {
+      "addNew": "+ Adaugă nou",
+      "morning": "Dimineață",
+      "day": "Zi",
+      "evening": "Seară",
+      "night": "Noapte",
+      "yes": "Da",
+      "no": "Nu",
+      "approved": "Aprobat",
+      "rejected": "Respins",
+      "terminated": "Încetat",
+      "suspended": "Suspendat",
+      "male": "Masculin",
+      "female": "Feminin",
+      "pending": "În așteptare",
+      "active": "Activ",
+      "inactive": "Inactiv",
+      "paid": "Plătit",
+      "unpaid": "Neplătit"
+    },
+    "units": {
+      "days": "zile"
+    },
+    "fallbacks": {
+      "noNoteAvailable": "Nicio notă disponibilă",
+      "noDescriptionAvailable": "Nicio descriere disponibilă",
+      "selectEmployeeFirst": "Selectați întâi un angajat"
+    },
+    "success": {
+      "leaveDelete": "Concediu șters cu succes",
+      "attendanceDelete": "Prezență ștearsă cu succes",
+      "attendanceAdd": "Prezență adăugată cu succes",
+      "attendanceUpdate": "Prezență actualizată cu succes",
+      "leaveAdd": "Concediu adăugat cu succes",
+      "leaveUpdate": "Concediu actualizat cu succes",
+      "departmentDelete": "Departament șters cu succes",
+      "departmentAdd": "Departament adăugat cu succes",
+      "departmentUpdate": "Departament actualizat cu succes",
+      "designationDelete": "Funcție ștearsă cu succes",
+      "designationAdd": "Funcție adăugată cu succes",
+      "designationUpdate": "Funcție actualizată cu succes",
+      "employeeDelete": "Angajat șters cu succes",
+      "employeeAdd": "Angajat adăugat cu succes",
+      "employeeUpdate": "Angajat actualizat cu succes",
+      "holidayDelete": "Sărbătoare ștearsă cu succes",
+      "holidayAdd": "Sărbătoare adăugată cu succes",
+      "holidayUpdate": "Sărbătoare actualizată cu succes",
+      "leaveTypeDelete": "Tip concediu șters cu succes"
+    }
+  }
+}

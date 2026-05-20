@@ -1,0 +1,1561 @@
+{
+  "@@meta": {
+    "languageCode": "tr_TR",
+    "languageName": "Turkish",
+    "version": "1.0.0"
+  },
+  "common": {
+    "signIn": "Giriş Yap",
+    "signUp": "Kaydol",
+    "verifyEmail": "E-postayı Doğrula",
+    "customizeProfile": "Profili Özelleştir",
+    "imageOrLogo": "Logo veya Resim",
+    "createNewPassword": "Yeni Şifre Oluştur",
+    "itemsList": "Ürün Listesi",
+    "searchItemsName": "Ürün Adı Ara",
+    "categoryList": "Kategori Listesi",
+    "brandList": "Marka Listesi",
+    "unitList": "Birim Listesi",
+    "itemDetails": "Ürün Detayları",
+    "addStock": "Stok Ekle",
+    "profile": "Profil",
+    "language": "Dil",
+    "termsAndConditions": "Şartlar ve Koşullar",
+    "aboutUs": "Hakkımızda",
+    "logout": "Çıkış Yap",
+    "editProfile": "Profili Düzenle",
+    "fullName": "Tam Adı",
+    "email": "E-posta",
+    "mobileNumber": "Cep Telefonu Numarası",
+    "address": "Adres",
+    "password": "Şifre",
+    "forgotPassword": "Şifremi Unuttum",
+    "edit": "Düzenle",
+    "delete": "Sil",
+    "addItems": "Ürün Ekle",
+    "stock": "Stok",
+    "currentStock": "Mevcut Stok",
+    "value": "Değer",
+    "sales": "Satışlar",
+    "purchase": "Satın Alma",
+    "price": "Fiyat",
+    "image": "Resim",
+    "upload": "Yükle",
+    "addNew": "Yeni Ekle",
+    "pricing": "Fiyatlandırma",
+    "name": "Adı",
+    "category(plural)": {
+      "one": "Kategori",
+      "other": "Kategoris"
+    },
+    "areas": "Areas",
+    "brand": "Marka",
+    "lowStock": "Düşük Stok",
+    "unit": "Birim",
+    "vat": "KDV",
+    "taxType": "Vergi Türü",
+    "purchasePrice": "Alış Fiyatı",
+    "sellingPrice": "Satış Fiyatı",
+    "wholeSalePrice": "Toptan Satış Fiyatı",
+    "dealerPrice": "Bayi Fiyatı",
+    "searchHere": "Burada Ara",
+    "totalItems": "Toplam Ürün",
+    "stockValue": "Stok Değeri",
+    "congratulation": "Tebrikler",
+    "salesList": "Satış Listesi",
+    "searchInvoiceNumber": "Fatura No Ara",
+    "view": "Görünüm",
+    "kFor": "İçin",
+    "total": "Toplam",
+    "subTotal": "Ara Toplam",
+    "insufficientStockAvailableStock": "Yetersiz stok, mevcut stok",
+    "discount": "İndirim",
+    "selectOne": "Birini Seçin",
+    "allCategory": "Tüm Kategoriler",
+    "details": "Detaylar",
+    "parcel": "Paket",
+    "kot": "KOT",
+    "table": "Masa",
+    "holdTable": "Masayı Beklet",
+    "capacity": "Kapasite",
+    "commonHint": "Örn: 10",
+    "pleaseEnterQuantity": "Lütfen miktar girin",
+    "quantityMustBeGreaterThanZero": "Miktar 0'dan büyük olmalı",
+    "mobile": "Mobil",
+    "orderNo": "Sipariş No",
+    "dateAndTime": "Tarih ve Saat",
+    "items": "Ürünler",
+    "totalAmount": "Toplam Tutar",
+    "paidAmount": "Ödenen Tutar",
+    "dueAmount": "Kalan Tutar",
+    "paymentType": "Ödeme Türü",
+    "thankYou": "Teşekkür Ederiz",
+    "developedBy": "Geliştiren: ${domain: String}",
+    "qty": "Fiyat",
+    "amount": "Tutar",
+    "dashboard": "Gösterge Panosu",
+    "reports": "Raporlar",
+    "home": "Ana Sayfa",
+    "parties": "Taraflar",
+    "subscriptionPlan": "Abonelik Planı",
+    "estimateList": "Teklif Listesi",
+    "purchaseList": "Satın Alma Listesi",
+    "dueList": "Kalan Ödeme Listesi",
+    "lossOrProfit": "Kar/Zarar",
+    "stocks": "Stoklar",
+    "moneyInList": "Gelen Para Listesi",
+    "moneyOutList": "Giden Para Listesi",
+    "transactionList": "İşlem Listesi",
+    "income": "Gelir",
+    "expense": "Gider",
+    "quickView": "Hızlı Görünüm",
+    "to": "ile",
+    "totalSales": "Toplam Satış",
+    "totalPurchase": "Toplam Satın Alma",
+    "holdNumber": "Bekleyen Siparişler",
+    "totalExpense": "Toplam Gider",
+    "loss": "Zarar",
+    "profit": "Kar",
+    "recentTransaction": "Son İşlemler",
+    "invoice": "Fatura",
+    "moneyIn": "Gelen Para",
+    "moneyOut": "Giden Para",
+    "paid": "Ödendi",
+    "due": "Kalan",
+    "partial": "Kısmi",
+    "print": "Yazdır",
+    "addCategory": "Kategori Ekle",
+    "addExpense": "Gider Ekle",
+    "search": "Ara...",
+    "viewDetails": "Detayları Görüntüle",
+    "title": "Başlık",
+    "date": "Tarih",
+    "note": "Not",
+    "phoneNumber": "Telefon Numarası",
+    "type": "Tür",
+    "selectContactSType": "İletişim türünü seçin",
+    "moreInfo": "Daha Fazla Bilgi",
+    "paymentReceived": "Ödeme Alındı",
+    "selectSupplier": "Tedarikçi Seçin",
+    "supplier": "Tedarikçi",
+    "received": "Alındı",
+    "balanceDue": "Kalan Bakiye",
+    "addPurchase": "Satın Alma Ekle",
+    "selectedItemWillBeCleared": "Seçilen öğeler temizlenecek.",
+    "searchItemName": "Ürün adı ara",
+    "billItems": "Fatura Öğeleri",
+    "addMoreItems": "Daha Fazla Ürün Ekle",
+    "payAmount": "Ödeme Tutarı",
+    "salesReport": "Satış Raporu",
+    "purchaseReport": "Satın Alma Raporu",
+    "stockReport": "Stok Raporu",
+    "dueReport": "Kalan Ödeme Raporu",
+    "dueCollectionReport": "Kalan Tahsilat Raporu",
+    "transactionReport": "İşlem Raporu",
+    "incomeReport": "Gelir Raporu",
+    "dueCollectionList": "Kalan Tahsilat Listesi",
+    "expenseReport": "Gider Raporları",
+    "dueCollection": "Kalan Tahsilat",
+    "myProfile": "Profilim",
+    "printingOption": "Yazdırma Seçeneği",
+    "currency": "Para Birimi",
+    "paymentMethod": "Ödeme Yöntemi",
+    "rateUs": "Bizi Değerlendirin",
+    "termAndCondition": "Şartlar ve Koşullar",
+    "tableList": "Masa Listesi",
+    "addTable": "Masa Ekle",
+    "vatRate": "KDV oranı %",
+    "action": "Eylem",
+    "status": "Durum",
+    "active": "Aktif",
+    "inActive": "Pasif",
+    "subVats": "Alt KDV'ler",
+    "add": "Ekle",
+    "taxRate": "Vergi oranı %",
+    "subTaxes": "Alt Vergiler",
+    "group": "grup",
+    "VAT": "KDV",
+    "subTaxList": "Alt Vergi Listesi",
+    "vatPercent": "KDV Yüzdesi",
+    "statusIsCannotInActive": "KDV satışlarda açıksa durum pasif olamaz.",
+    "vatOnSales": "Satışlarda KDV",
+    "transaction": "İşlem",
+    "version": "Sürüm ${version: String}",
+    "hold": "Beklet",
+    "empty": "Boş",
+    "appName": "Restaurant App",
+    "duePayment": "Vadesi Gelen Ödeme",
+    "orders": "Siparişler",
+    "all": "Tümü",
+    "ingredient": "Malzeme",
+    "menus": "Menüler",
+    "modifierGroups": "Değiştirici Grupları",
+    "itemModifiers": "Ürün Değiştiricileri",
+    "staff": "Personel",
+    "coupon": "Kupon",
+    "pay": "Öde",
+    "pendingOrders": "Bekleyen Siparişler",
+    "order": "Sipariş",
+    "payNow": "Şimdi Öde",
+    "addStaff": "Personel Ekle",
+    "designation": "Görev",
+    "itemAdded": "Ürün Eklendi",
+    "noItemAdded": "Hiç Ürün Eklenmedi",
+    "saveNPrint": "Kaydet ve Yazdır",
+    "allowMultiSelection": "Çoklu seçime izin ver",
+    "required": "Zorunlu",
+    "optional": "İsteğe Bağlı",
+    "allowMultiSelectionForSale": "Satışlar İçin Çoklu Seçime İzin Ver",
+    "isRequired": "Zorunlu Mu?",
+    "modifier": "Değiştirici",
+    "fullPayment": "Tam Ödeme",
+    "payment": "Ödeme",
+    "addTip": "Bahşiş Ekle",
+    "netPayable": "Net Ödenecek",
+    "receiveAmount": "Alınan Miktar",
+    "changeAmount": "Para Üstü",
+    "quotationList": "Teklif Listesi",
+    "addQuotation": "Teklif Ekle",
+    "convert": "Dönüştür",
+    "variations": "Varyasyonlar",
+    "instructions": "Talimatlar",
+    "unavailable": "Mevcut Değil",
+    "tip": "İpucu",
+    "salesQuotationReport": "Satış Teklifi Raporu",
+    "orderType": "Sipariş Türü",
+    "deliveryCharge": "Teslimat Ücreti",
+    "receiptNo": "Fiş No",
+    "paidBy": "Ödeyen",
+    "receivedBy": "Teslim Alan",
+    "paymentAmount": "Ödeme Tutarı",
+    "remainingDue": "Kalan Borç",
+    "roleNPermission": "Rol ve İzin",
+    "sl": "SL",
+    "features": "Özellikler",
+    "create": "Oluştur",
+    "update": "Güncelle",
+    "quotations": "Teklifler",
+    "restaurant": "Restoran",
+    "printerProfile": "Yazıcı Profili",
+    "kitchenOrders": "Mutfak Siparişleri",
+    "kitchen(plural)": {
+      "one": "Mutfak",
+      "other": "Mutfaklar"
+    },
+    "allKOT": "Tüm KOT",
+    "cancelKOT": "KOT İptal Et",
+    "selectCancelReason": "İptal Nedeni Seç",
+    "additionalComment": "Ek Yorum",
+    "enterComment": "Yorum girin",
+    "orderStatus": "Sipariş Durumu",
+    "selectOrderStatus": "Sipariş durumunu seçin",
+    "kotReport": "KOT Raporu",
+    "itemFoodType": "Yemek Türü",
+    "selectItemFoodType": "@:common.itemFoodType seçin",
+    "markAllAsRead": "Tümünü Okundu Olarak İşaretle",
+    "online": "Online",
+    "cancelledReason": "Cancelled Reason",
+    "hrm": "HRM",
+    "notAvailable": "N/A"
+  },
+  "exceptions": {
+    "somethingWentWrong": "Bir şeyler ters gitti, lütfen tekrar deneyin",
+    "noCategoryFound": "Kategori bulunamadı!\n Lütfen bir kategori eklemeyi deneyin.",
+    "doYouWantToDeleteThisCategory": "Bu kategoriyi silmek istiyor musunuz?",
+    "noBrandFound": "Marka bulunamadı!\n Lütfen bir marka eklemeyi deneyin.",
+    "doYouWantToDeleteThisBrand": "Bu markayı silmek istiyor musunuz?",
+    "noItemStockFound": "Ürün stoğu bulunamadı!\n Lütfen bir ürün eklemeyi deneyin.",
+    "noUnitFound": "Birim bulunamadı!\n Lütfen bir birim eklemeyi deneyin.",
+    "doYouDeleteThisUnit": "Bu birimi silmek istiyor musunuz?",
+    "noSaleFoundPleaseSAddProduct": "Satış bulunamadı!\n Lütfen bir satış eklemeyi deneyin.",
+    "doYouWantToDeleteThisSale": "Bu satışı silmek istiyor musunuz?",
+    "pleaseAddItemToTheCartFirst": "Lütfen önce sepete ürün ekleyin",
+    "noItemAdded": "Hiç Ürün Eklenmedi",
+    "cannotEditOthersTable": "Başkasının masasını düzenleyemezsiniz.",
+    "tableIsAlreadyBlocked": "Masa zaten dolu.",
+    "failedToGetCustomerDetails": "Müşteri detayları alınamadı.",
+    "noTableFoundPleaseTryAgain": "Masa bulunamadı!\n Lütfen bir masa eklemeyi deneyin.",
+    "noDueCollectionFound": "Vadesi gelmiş fatura bulunamadı!\n Vadesi gelmiş faturaları olduğunda görebilirsiniz.",
+    "noExpenseFoundPleaseTryAddingExpense": "Gider bulunamadı!\n Lütfen bir gider eklemeyi deneyin.",
+    "doYouWantToDeleteThisExpense": "Bu gideri silmek istiyor musunuz?",
+    "noExpenseCategoryFound": "Gider kategorisi bulunamadı!\n Lütfen bir gider kategorisi eklemeyi deneyin.",
+    "noTransactionFound": "Hiç işlem bulunamadı, lütfen daha sonra tekrar deneyin!",
+    "pleaseSelectACategory": "Lütfen bir kategori seçin",
+    "noIncomeFound": "Gelir bulunamadı!\n Lütfen bir gelir eklemeyi deneyin.",
+    "doYouWantToDeleteThisIncome": "Bu geliri silmek istiyor musunuz?",
+    "noIncomeCategoryFoundAddingAIncome": "Gelir kategorisi bulunamadı!\n Lütfen bir gelir kategorisi eklemeyi deneyin.",
+    "noItemFoundPleaseTryAddingItem": "Ürün bulunamadı!\n Lütfen bir ürün eklemeyi deneyin.",
+    "noPartiesFound": "Hiç taraf bulunamadı",
+    "doYouWantToDeleteThisParty": "Bu tarafı silmek istiyor musunuz?",
+    "noLedgerFound": "Defter kaydı bulunamadı!\n Lütfen bir ${transactionType: String} eklemeyi deneyin.",
+    "areYouSureYouSureWantToDeleteThisTaxType": "Bu ${taxType: String} türünü silmek istediğinize emin misiniz?",
+    "noItemFoundPleaseSTryAddingAnPurchase": "Ürün bulunamadı!\n Lütfen bir satın alma eklemeyi deneyin.",
+    "doYouWantToDeleteThisPurchase": "Bu satın almayı silmek istiyor musunuz?",
+    "noTransactionFoundYouSeeTransactionHereWhenAvailable": "Hiç işlem bulunamadı!\n İşlemler olduğunda burada görebilirsiniz.",
+    "noSaleFoundPleaseTryAddingSale": "Satış bulunamadı!\n Lütfen bir satış eklemeyi deneyin.",
+    "noPurchaseFoundPleaseTryAddingPurchase": "Satın alma bulunamadı!\n Lütfen bir satın alma eklemeyi deneyin.",
+    "noItemIncomeFound": "Ürün geliri bulunamadı!\n Gelir verilerini olduğunda görebilirsiniz.",
+    "noItemExpenseFound": "Ürün gideri bulunamadı!\n Gider verilerini olduğunda görebilirsiniz.",
+    "noItemDueInvoiceFound": "Vadesi gelmiş ürün faturası bulunamadı!\n Vadesi gelmiş faturaları olduğunda görebilirsiniz.",
+    "noItemDueCollectionInvoiceFound": "'Vadesi gelmiş ürün tahsilat faturası bulunamadı!\n Vadesi gelmiş tahsilat faturalarını olduğunda görebilirsiniz.",
+    "doYouWantToDeleteThisTable": "Bu masayı silmek istiyor musunuz?'",
+    "thisVatIsBeingUsedOnSales": "Bu KDV satışlarda kullanılıyor!",
+    "noPaymentMethodFoundPleaseTryAddingAPaymentMethod": "Ödeme yöntemi bulunamadı!\n Lütfen bir ödeme yöntemi eklemeyi deneyin.",
+    "pleaseSelectACustomerFirst": "Lütfen önce bir müşteri seçin.",
+    "pleaseSelectATableToCreateAKot": "KOT oluşturmak için lütfen bir masa seçin.",
+    "noStaffFound": "Personel bulunamadı!\nLütfen personel eklemeyi deneyin.",
+    "noIngredientFound": "Malzeme bulunamadı!\nLütfen bir malzeme eklemeyi deneyin.",
+    "exceedsPaymentAmount": "Alınan miktar, ödenecek miktardan fazla olmamalıdır.",
+    "noItemModifierFound": "Ürün değiştirici bulunamadı!\nLütfen bir ürün değiştirici eklemeyi deneyin.",
+    "noModifierGroupFound": "Değiştirici grubu bulunamadı!\nLütfen bir değiştirici grubu eklemeyi deneyin.",
+    "noOptionsFound": "Seçenek bulunamadı!",
+    "maxImageCountLimit": "En fazla 5 görsel seçebilirsiniz.",
+    "noQuotationFound": "Teklif bulunamadı!\n Lütfen bir teklif eklemeyi deneyin.",
+    "noPermittedUserFound": "İzin verilen kullanıcı bulunamadı!\\nLütfen bir kullanıcı eklemeyi deneyin."
+  },
+  "prompt": {
+    "logout": {
+      "title": "@:common.logout",
+      "message": "Çıkış yapmak istediğinize emin misiniz?"
+    },
+    "unsavedWarning": {
+      "title": "Geri dönmek istiyor musunuz?",
+      "message": "Değiştirilen alanlar kaydedilmeyebilir!"
+    },
+    "verify": {
+      "title": "E-postanızı Doğrulayın",
+      "description(rich)": "Bir doğrulama kodu e-postası gönderdik${emailSpan}\n\nE-posta spam klasörünüze düşmüş olabilir."
+    },
+    "subscriptionExpired": {
+      "title": "Abonelik Süresi Doldu!",
+      "message": "Devam etmek için lütfen abone olun.",
+      "action": "Abone Ol"
+    },
+    "items": {
+      "delete": {
+        "title": "Bu ürünü silmek istiyor musunuz?"
+      },
+      "filter": {
+        "title": "Filtrele",
+        "extra": {
+          "lowToHigh": "Düşükten Yükseğe @:common.price",
+          "highToLow": "Yüksekten Düşüğe @:common.price"
+        }
+      }
+    },
+    "checkInternet": {
+      "title": "İnternet Bağlantısı Yok",
+      "message": "Lütfen Wi-Fi veya mobil ağ bağlantınızı kontrol edip tekrar deneyin"
+    },
+    "back": {
+      "title": "Çıkmak için tekrar geri tuşuna basın."
+    },
+    "stockModelSheet": {
+      "title": "Yeni Stok Ekle"
+    },
+    "paymentMethod": {
+      "title": "Bu ödeme yöntemini silmek istiyor musunuz?"
+    },
+    "extMsg": {
+      "kotSavedSuccessfully": "KOT başarıyla kaydedildi"
+    },
+    "deleteStaff": "Bu personeli silmek istiyor musunuz?",
+    "deleteIngredient": "Bu malzemeyi silmek istiyor musunuz?",
+    "deleteItemModifier": "Bu ürün değiştiriciyi silmek istiyor musunuz?",
+    "deleteModifierGroup": "Bu değiştirici grubunu silmek istiyor musunuz?",
+    "deleteQuotation": "Bu teklifi silmek istiyor musunuz?"
+  },
+  "form": {
+    "fullName": {
+      "label": "@:common.fullName",
+      "hint": "@:common.fullName Girin",
+      "errors": {
+        "required": "Lütfen @:common.fullName girin"
+      }
+    },
+    "email": {
+      "label": "@:common.email",
+      "hint": "@:common.email adresinizi girin",
+      "errors": {
+        "required": "Lütfen @:common.email adresinizi girin",
+        "invalid": "⦸ Geçersiz E-posta, Lütfen Tekrar Deneyin"
+      }
+    },
+    "password": {
+      "label": "@:common.password",
+      "hint": "* * * * * * * *",
+      "errors": {
+        "required": "Lütfen @:common.password girin",
+        "minLength": "Şifre en az ${count} karakter olmalı!"
+      }
+    },
+    "confirmPassword": {
+      "label": "Şifreyi Onayla",
+      "hint": "* * * * * * * *",
+      "errors": {
+        "required": "Lütfen @:common.password girin",
+        "invalid": "'Şifre eşleşmiyor!"
+      }
+    },
+    "otp": {
+      "errors": {
+        "required": "Lütfen OTP'yi girin.",
+        "invalid": "Lütfen geçerli OTP'yi girin."
+      }
+    },
+    "profile": {
+      "businessCategory": {
+        "label": "İşletme Kategorisi",
+        "hint": "İşletme kategorisi seçin",
+        "errors": {
+          "required": "Lütfen işletme kategorisi seçin"
+        }
+      },
+      "shopOrStore": {
+        "label": "Mağaza/Dükkan Adı*",
+        "hint": "Mağaza veya dükkan adı girin",
+        "errors": {
+          "required": "Lütfen mağaza veya dükkan adınızı girin"
+        }
+      },
+      "openingBalance": {
+        "label": "Açılış Bakiyesi",
+        "hint": "Açılış bakiyesi girin"
+      },
+      "vatGstTitle": {
+        "label": "KDV/GST Başlığı",
+        "hint": "KDV/GST girin"
+      },
+      "vatGstNumber": {
+        "label": "KDV/GST Numarası",
+        "hint": "KDV/GST numarası girin"
+      }
+    },
+    "vat": {
+      "name": {
+        "label": "Adı",
+        "hint": "KDV adı girin",
+        "error": {
+          "required": "Lütfen KDV adını girin"
+        }
+      },
+      "subVat": {
+        "label": "Alt KDV",
+        "hint": "Alt KDV seçin",
+        "errors": {
+          "required": "Lütfen alt KDV seçin"
+        }
+      },
+      "rate": {
+        "label": "KDV oranı %",
+        "hint": "KDV oranını girin",
+        "errors": {
+          "required": "Lütfen KDV oranını girin."
+        }
+      }
+    },
+    "category": {
+      "label": "@:common.category",
+      "hint": "Ürün kategorisi seçin",
+      "error": {
+        "required": "Lütfen kategori adını girin"
+      }
+    },
+    "items": {
+      "barcode": {
+        "label": "Barkod",
+        "hint": "@:common.selectOne"
+      },
+      "itemName": {
+        "label": "Ürün Adı",
+        "hint": "Ürün adı girin",
+        "extra": {
+          "required": "Lütfen ürün adını girin"
+        }
+      },
+      "itemCategory": {
+        "label": "Ürün Kategorisi",
+        "hint": "Ürün Kategorisi",
+        "extra": {
+          "label": "Kategori Seçin",
+          "required": "Lütfen bir kategori seçin"
+        }
+      },
+      "brand": {
+        "label": "@:common.brand",
+        "hint": "@:common.selectOne",
+        "extra": {
+          "hint": "Marka adı girin",
+          "required": "Lütfen marka adını girin"
+        }
+      },
+      "unit": {
+        "label": "@:common.unit",
+        "hint": "@:common.selectOne",
+        "error": {
+          "required": "Lütfen birim adını girin"
+        }
+      },
+      "stock": {
+        "label": "Açılış Stoğu",
+        "hint": "@:common.commonHint",
+        "extra": {
+          "required": "Lütfen ürün adedini girin."
+        }
+      },
+      "lowStock": {
+        "label": "@:common.lowStock",
+        "hint": "Örn: 5"
+      },
+      "purchasePrice": {
+        "label": "@:common.purchasePrice",
+        "hint": "Örn: \\$40",
+        "error": {
+          "required": "Lütfen alış fiyatını girin."
+        }
+      },
+      "salePrice": {
+        "label": "Satış Fiyatı",
+        "hint": "Örn: \\$60",
+        "error": {
+          "required": "Lütfen satış fiyatını girin."
+        }
+      },
+      "totalSalePrice": {
+        "label": "Toplam Satış Fiyatı",
+        "hint": "Örn: \\$100"
+      },
+      "wholeSalePrice": {
+        "label": "@:common.wholeSalePrice",
+        "hint": "Toptan satış fiyatı girin"
+      },
+      "dealerPrice": {
+        "label": "@:common.dealerPrice",
+        "hint": "Bayi fiyatı girin"
+      },
+      "discount": {
+        "label": "İndirim (%)",
+        "hint": "@:common.commonHint"
+      },
+      "applicableTax": {
+        "label": "Uygulanabilir Vergi",
+        "hint": "@:common.selectOne"
+      },
+      "vatType": {
+        "label": "@:common.taxType",
+        "errorText": {
+          "required": "Lütfen bir KDV türü seçin"
+        }
+      },
+      "menu": {
+        "label": "Menü Seçin",
+        "errors": {
+          "required": "Lütfen bir menü seçin."
+        },
+        "hint": "Bir menü seçin",
+        "extra": {
+          "selectNavLabel": "Ürün Menüsü Seçin"
+        }
+      },
+      "modifierItems": {
+        "label": "Değiştirici Ürünler",
+        "hint": "Değiştirici ürünleri seçin"
+      },
+      "preparationTime": {
+        "label(rich)": "Hazırlık Süresi ${minutes(Dakika)}",
+        "hint": "Örn: 30"
+      },
+      "variation": {
+        "name": {
+          "label": "Ad",
+          "hint": "Varyasyon girin",
+          "errors": {
+            "required": "Lütfen varyasyon adını girin."
+          }
+        },
+        "price": {
+          "errors": {
+            "required": "Lütfen fiyatı girin."
+          },
+          "label": "Fiyat",
+          "hint": "Örn: \\$30"
+        }
+      }
+    },
+    "itemCart": {
+      "hint": "@:common.commonHint",
+      "error": {
+        "required": "@:common.pleaseEnterQuantity",
+        "noZero": "@:common.quantityMustBeGreaterThanZero"
+      }
+    },
+    "sales": {
+      "autoGenerateInvoice": {
+        "label": "Fatura No",
+        "hint": "P-00001"
+      },
+      "date": {
+        "label": "Tarih"
+      },
+      "customer": {
+        "label": "Müşteri",
+        "hint": "Müşteri Seçin"
+      },
+      "phone": {
+        "label": "Telefon Numarası",
+        "hint": "Telefon numarası girin"
+      },
+      "address": {
+        "label": "Adres",
+        "hint": "Adres girin"
+      },
+      "deliveryCharge": {
+        "label": "@:common.deliveryCharge",
+        "hint": "Örn: \\$20",
+        "hint2": "Ücret Örn: \\$10"
+      },
+      "table": {
+        "hint": "Masa Seçin"
+      },
+      "waiter": {
+        "hint": "Garson Seçin"
+      }
+    },
+    "bill": {
+      "label": "Fatura No",
+      "hint": "P-00001"
+    },
+    "supplier": {
+      "label": "Tedarikçi",
+      "hint": "Tedarikçi Seçin",
+      "extra": {
+        "required": "Lütfen bir tedarikçi seçin"
+      }
+    },
+    "phone": {
+      "label": "Telefon Numarası",
+      "hint": "Telefon numarası girin",
+      "errors": {
+        "required": "Lütfen telefon numarasını girin."
+      }
+    },
+    "address": {
+      "label": "Şirket Adresi",
+      "hint": "Şirket adresi girin"
+    },
+    "payment": {
+      "label": "Adı",
+      "hint": "Ödeme adı girin",
+      "error": {
+        "required": "Lütfen bir ödeme yöntemi adı girin"
+      }
+    },
+    "expense": {
+      "label": "Gider Kategorisi",
+      "hint": "Gider kategorisi seçin",
+      "error": {
+        "required": "Lütfen gider kategorisini girin"
+      }
+    },
+    "income": {
+      "label": "Gelir Kategorisi",
+      "hint": "Kategori adı girin",
+      "error": {
+        "required": "Lütfen kategori adını girin"
+      },
+      "incomeTitle": {
+        "label": "Gelir Başlığı",
+        "hint": "Gelir girin"
+      },
+      "incomeCategory": {
+        "label": "Gelir Kategorisi",
+        "hint": "Kategori seçin"
+      },
+      "payment": {
+        "label": "Ödeme",
+        "hint": "Örn: \\$10"
+      }
+    },
+    "note": {
+      "label": "Not (İsteğe Bağlı)",
+      "hint": "Metin Girin"
+    },
+    "parties": {
+      "partyName": {
+        "label": "Taraf Adı",
+        "hint": "Taraf adı girin",
+        "error": {
+          "required": "Lütfen taraf adını girin"
+        }
+      },
+      "partyPhone": {
+        "label": "Telefon Numarası",
+        "hint": "Telefon numarası girin",
+        "error": {
+          "required": "Lütfen telefon numarasını girin"
+        }
+      }
+    },
+    "table": {
+      "name": {
+        "label": "Masa Adı",
+        "hint": "Masa adı girin",
+        "error": {
+          "required": "Lütfen masa adını girin"
+        }
+      },
+      "capacity": {
+        "label": "Kapasite",
+        "hint": "Kapasite girin",
+        "error": {
+          "required": "Lütfen kapasiteyi girin"
+        }
+      }
+    },
+    "designation": {
+      "label": "@:common.designation",
+      "hint": "Bir görev seçin",
+      "errors": {
+        "required": "Lütfen bir görev seçin."
+      }
+    },
+    "ingredientName": {
+      "label": "Malzeme Adı",
+      "hint": "Malzeme adını girin",
+      "errors": {
+        "required": "Lütfen malzeme adını girin"
+      }
+    },
+    "item": {
+      "label": "Ürün",
+      "hint": "Ürün seçin",
+      "errors": {
+        "required": "Lütfen bir ürün seçin."
+      }
+    },
+    "modifierGroup": {
+      "label": "Değiştirici Grubu",
+      "hint": "Değiştirici grubu seçin",
+      "errors": {
+        "required": "Lütfen bir değiştirici grubu seçin."
+      }
+    },
+    "description": {
+      "label": "Açıklama",
+      "hint": "Açıklama girin"
+    },
+    "staff": {
+      "label": "@:common.staff",
+      "hint": "Bir personel seçin",
+      "errors": {
+        "required": "Lütfen bir personel seçin"
+      }
+    },
+    "loginUserName": {
+      "label": "Giriş Kullanıcı Adı",
+      "hint": "Kullanıcı adını veya e-posta adresini girin",
+      "errors": {
+        "required": "Lütfen kullanıcı adını veya e-posta adresini girin"
+      }
+    }
+  },
+  "action": {
+    "next": "İleri",
+    "getStarted": "Başla",
+    "skip": "Atla",
+    "select": "Seç",
+    "save": "Kaydet",
+    "verify": "Doğrula",
+    "signIn": "@:common.signIn",
+    "signUp": "@:common.signUp",
+    "continue": "Devam Et",
+    "no": "Hayır",
+    "yes": "Evet",
+    "okay": "Tamam",
+    "cancel": "İptal",
+    "confirm": "Onayla",
+    "tryAgain": "Tekrar Dene",
+    "reset": "Sıfırla",
+    "apply": "Uygula",
+    "stockAdjust": "Stok Ayarla",
+    "addMoreItems": "Daha Fazla Ürün Ekle",
+    "hold": "Beklet",
+    "parcel": "@:common.parcel",
+    "buyNow": "Şimdi Al",
+    "viewAll": "Tümünü Gör",
+    "viewLedger": "Defteri Gör",
+    "submit": "Gönder",
+    "selected": "Seçildi",
+    "addToCart": "Sepete Ekle",
+    "selectAll": "Tümünü Seç",
+    "update": "@:common.update",
+    "addRole": "Rol Ekle"
+  },
+  "pages": {
+    "language": {
+      "appbarTitle": "@:action.select @:common.language"
+    },
+    "onboard": {
+      "onboardData": {
+        "data1": {
+          "title": "Kullanımı kolay @:common.appName",
+          "description": "Sorunsuz Siparişler, Zahmetsiz Rezervasyonlar\\n Restoranınıza Kolayca Güç Katın!"
+        },
+        "data2": {
+          "title": "Zahmetsiz Sipariş Yönetimi",
+          "description": "Sezgisel POS sistemimizle restoranınızın sipariş alma sürecini kolaylaştırın."
+        },
+        "data3": {
+          "title": "Mükemmel Analitik ve Raporlama",
+          "description": "Analitik gösterge panelimiz gerçek zamanlı satış ve satın alma raporları sunar."
+        }
+      }
+    },
+    "signIn": {
+      "title": "Tekrar Hoş Geldiniz",
+      "subtitle": "Lütfen bilgilerinizi girin.",
+      "extra": {
+        "rememberMe": "Beni Hatırla",
+        "signUpNavigator(rich)": "Hesabınız yok mu? ${getStarted(@:action.getStarted)}",
+        "forgotPassword": "@:common.forgotPassword?"
+      }
+    },
+    "signUp": {
+      "title": "Bir Hesap Oluşturun",
+      "subtitle": "Lütfen bilgilerinizi girin",
+      "extra": {
+        "signInNavigator(rich)": "Zaten bir hesabınız var mı? ${signIn(@:action.signIn)}"
+      }
+    },
+    "forgotPassword": {
+      "title": "@:common.forgotPassword",
+      "subtitle": "Şifrenizi kurtarmak için e-posta adresinizi girin."
+    },
+    "otpVerification": {
+      "title": "Doğrulama",
+      "subtitle": "E-posta adresinize 6 haneli bir pin gönderildi",
+      "extra": {
+        "codeResend": {
+          "codeSendIn": "Kod şu kadar saniye içinde gönderildi",
+          "resendCode": "Kodu yeniden gönder"
+        }
+      }
+    },
+    "resetPassword": {
+      "title": "Şifreyi Sıfırla",
+      "subtitle": "Kurtarma için şifrenizi sıfırlayın ve hesabınıza giriş yapın",
+      "extra": {
+        "dialog": {
+          "title": "Başarıyla değiştirildi!",
+          "subtitle": "Yeni şifrenizle giriş yapın.\nGiriş sayfasına yönlendiriliyorsunuz..."
+        }
+      }
+    },
+    "items": {
+      "itemList": {
+        "extra": {
+          "emptyItem": "Hiç ürün bulunamadı!\nLütfen bir ürün eklemeyi deneyin."
+        }
+      },
+      "manageItems": {
+        "title": "Yeni Ürün Ekle",
+        "title2": "Ürünü Düzenle",
+        "extra": {
+          "maximum": "Maksimum 5",
+          "wholeSaleAndDealerPrice": "Toptan ve Bayi Fiyatı",
+          "addDiscount": "İndirim Ekle",
+          "addVat": "KDV Ekle"
+        }
+      },
+      "itemDetails": {
+        "title": "Ürün Detayları",
+        "extra": {
+          "noImageAvailable": "Resim mevcut değil!",
+          "preparationTime(rich)": "Hazırlık Süresi: ${min: String} ${mins(mins)}",
+          "pleaseSelectVariation": "Lütfen bir varyasyon seçin",
+          "pleaseSelectOption": "Lütfen bir seçenek seçin.",
+          "enterYourInstruction": "Talimatlarınızı girin"
+        }
+      }
+    },
+    "category": {
+      "addNewCategory": "Yeni Kategori Ekle",
+      "editCategory": "Kategoriyi Düzenle"
+    },
+    "brand": {
+      "addNewBrand": "Yeni Marka Ekle",
+      "editBrand": "Markayı Düzenle"
+    },
+    "unit": {
+      "addNewUnit": "Yeni Birim Ekle",
+      "editUnit": "Birimi Düzenle"
+    },
+    "stock": {
+      "stockList": "Stok Listesi"
+    },
+    "aboutUs": {
+      "title": "Hakkımızda"
+    },
+    "privacyPolicy": {
+      "title": "Gizlilik Politikası"
+    },
+    "termAndCondition": {
+      "title": "@:common.termAndCondition"
+    },
+    "orders": {
+      "manageOrders": {
+        "extra": {
+          "billItems": "Fatura Kalemleri",
+          "manageQuantity": "Miktarı Yönet"
+        },
+        "title": {
+          "editOrder": "Siparişi Düzenle",
+          "editKOT": "KOT Düzenle"
+        }
+      }
+    },
+    "onlinePayment": {
+      "title": "Online Ödeme"
+    },
+    "paymentStatus": {
+      "success": {
+        "title": "Teşekkür Ederiz!",
+        "message": "Ödemeyi inceleyip 24 saat içinde onaylayacağız.",
+        "actionButtonText": "Faturayı Görüntüle"
+      },
+      "fail": {
+        "title": "Oops! Ödeme Başarısız Oldu",
+        "message": "İşleminiz teknik bir hatadan dolayı başarısız oldu.",
+        "actionButtonText": "Tekrar Dene"
+      }
+    },
+    "confirmationDialog": {
+      "title": "Çıkış yap",
+      "message": "Çıkış yapmak istediğinize emin misiniz?",
+      "acceptationText": "Hayır",
+      "rejectionText": "Çıkış Yap"
+    },
+    "payment": {
+      "title": "@:common.paymentMethod",
+      "addPaymentMethod": "Yeni Ödeme Yöntemi Ekle",
+      "editPaymentMethod": "Ödeme Yöntemini Düzenle",
+      "choseOnlinePayment": "Online Ödeme Seçin",
+      "selectPaymentMethod": "Ödeme Yöntemi Seçin",
+      "pleaseSelectAPaymentMethod": "Lütfen bir ödeme yöntemi seçin.",
+      "methodStatus": {
+        "title": "Durum",
+        "message": "Hızlı Görünüm etkinse durum inaktif olamaz!."
+      }
+    },
+    "subscriptionPlan": {
+      "title": "Premium Planı Satın Alın",
+      "extra": {
+        "actionButtonText": "Geri Git",
+        "message": "Abonelik ödemesi başarılı.\n\nArtık abone olunan özelliklere erişebilirsiniz.",
+        "mostPopular": "En Popüler"
+      }
+    },
+    "invoicePreview": {
+      "title": "Fatura Önizleme",
+      "message": "PDF Önizleme Yakında"
+    },
+    "currency": {
+      "title": "@:common.currency"
+    },
+    "dashboard": {
+      "overview": "Genel Bakış",
+      "dashboardPrivacy": "Gösterge Panosu Gizliliği",
+      "moneyInAndMoneyOut": "Giren ve Çıkan Para",
+      "lossAndProfitOverView": "Kâr ve Zarar Genel Bakışı"
+    },
+    "due": {
+      "title": "@:common.dueList",
+      "collectionList": "Tahsilat Listesi",
+      "dueCollection": "Alacak Tahsilatı"
+    },
+    "expense": {
+      "title": "@:common.expense",
+      "editExpense": "Gideri Düzenle",
+      "addNewExpense": "Yeni Gider Ekle",
+      "editExpenseCategory": "Gider Kategorisini Düzenle",
+      "addNewExpenseCategory": "Yeni Gider Kategorisi Ekle",
+      "payment": "Ödeme",
+      "expenseCategory": "Gider Kategorisi",
+      "selectCategory": "Kategori Seç",
+      "allExpense": "Tüm Giderler",
+      "pleaseSelectACategory": "Lütfen bir kategori seçin",
+      "expenseTitle": {
+        "label": "Gider Başlığı",
+        "hint": "Gideri girin"
+      }
+    },
+    "lossProfit": {
+      "title": "Zarar/Kar Listesi",
+      "noLossProfitFound": "Zarar/kar bulunamadı!\nLütfen satış oluşturmayı deneyin."
+    },
+    "income": {
+      "editIncomeCategory": "Gelir Kategorisini Düzenle",
+      "addNewIncomeCategory": "Yeni Gelir Kategorisi Ekle",
+      "incomeCategory": "Gelir Kategorisi",
+      "allIncome": "Tüm Gelirler",
+      "editIncome": "Geliri Düzenle",
+      "addNewIncome": "Geliri Düzenle",
+      "addIncome": "Gelir Ekle"
+    },
+    "moneyIn": {
+      "title": "Gelen Para Listesi",
+      "totalPaymentIn": "Toplam Gelen Para"
+    },
+    "moneyOut": {
+      "title": "Giden Para Listesi",
+      "totalMoneyOut": "Toplam Giden Para"
+    },
+    "profile": {
+      "title": "Profilim",
+      "editProfile": "Profili Düzenle",
+      "businessInformation": "İşletme Bilgileri",
+      "profileInformation": "Profil Bilgileri"
+    },
+    "parties": {
+      "title": "Taraflar Listesi",
+      "allParties": "Tüm Taraflar",
+      "customer": "Müşteri",
+      "supplier": "Tedarikçi",
+      "addParties": "Taraf Ekle",
+      "editParties": "Tarafları Düzenle",
+      "partiesDetails": "Taraf Detayları",
+      "personalInfo": "Kişisel Bilgiler"
+    },
+    "ledger": {
+      "subTitle": "Defter"
+    },
+    "purchase": {
+      "title": "Yeni Satın Alma Ekle",
+      "editPurchase": "Satın Almayı Düzenle"
+    },
+    "reports": {
+      "title": "Raporlar"
+    },
+    "table": {
+      "title": "Yeni Masa Ekle",
+      "editTable": "Masayı Düzenle"
+    },
+    "tax": {
+      "title": "KDV Oranları",
+      "buildHeaderTitle": "KDV oranları - KDV oranlarınızı yönetin",
+      "vatGroup": {
+        "title": "KDV Grubu",
+        "subTitle": "KDV Grubu - KDV grubunuzu yönetin"
+      }
+    },
+    "vat": {
+      "addNewVat": "Yeni KDV Ekle",
+      "editVat": "KDV Düzenle",
+      "addNewVatGroup": "Yeni KDV Grubu Ekle",
+      "editVatGroup": "KDV Grubunu Düzenle"
+    },
+    "orderList": {
+      "title": "Sipariş Listesi",
+      "filters": {
+        "orderType": {
+          "label": "@:common.orderType",
+          "hint": "Sipariş Türü Seçin"
+        },
+        "paymentStatus": {
+          "hint": "Ödeme Durumu Seçin",
+          "label": "Ödeme Durumu"
+        }
+      }
+    },
+    "staffs": {
+      "staffList": {
+        "filters": {
+          "designation": {
+            "label": "Görev",
+            "hint": "Görev Seçin"
+          }
+        },
+        "title": "Tüm Personel"
+      },
+      "manageStaff": {
+        "title1": "Yeni Personel Ekle",
+        "title2": "Personel Güncelle"
+      }
+    },
+    "ingredient": {
+      "ingredientList": {
+        "title1": "Malzeme Listesi",
+        "title2": "Malzeme Seçin"
+      },
+      "manageIngredient": {
+        "title1": "Yeni Malzeme Ekle",
+        "title2": "Malzemeyi Düzenle"
+      }
+    },
+    "itemModifier": {
+      "itemModifierList": {
+        "title": "@:common.itemModifiers"
+      },
+      "manageItemModifier": {
+        "title1": "Ürün Değiştirici Ekle",
+        "title2": "Ürün Değiştiriciyi Düzenle"
+      }
+    },
+    "quotation": {
+      "manageQuotation": {
+        "title": {
+          "add": "Yeni Teklif Ekle",
+          "edit": "Teklifi Düzenle",
+          "convert": "Satışa Dönüştür"
+        }
+      }
+    },
+    "rolePermission": {
+      "rolePermissionList": {
+        "title": "Rol ve İzin Listesi"
+      },
+      "manageRolePermission": {
+        "title1": "Yeni Rol Ekle",
+        "title2": "Rolü Düzenle"
+      }
+    },
+    "printingOption": {
+      "title": "Yazdırma Seçeneği",
+      "form": {
+        "companyAddress": {
+          "label": "Şirket Adresi",
+          "hint": "Şirket adresini girin"
+        },
+        "noteLabel": {
+          "label": "Not Etiketi",
+          "hint": "Not etiketini girin."
+        },
+        "note": {
+          "label": "Not",
+          "hint": "Not girin."
+        },
+        "postSaleMessage": {
+          "label": "Satış Sonrası Mesaj",
+          "hint": "Satış sonrası mesajı girin"
+        },
+        "printingMethod": {
+          "label": "Yazdırma Yöntemi",
+          "hint": "Yazdırma Yöntemini Seçin"
+        },
+        "printerProfile": {
+          "label": "Yazıcı Profili",
+          "hint": "Yazıcı profilini seçin"
+        },
+        "paperSize": {
+          "label": "Termal Yazıcı Kağıt Boyutu",
+          "hint": "Yazıcı kağıt boyutunu seçin"
+        },
+        "printerDpi": {
+          "label": "Yazıcı DPI",
+          "hint": "Ör: 203"
+        },
+        "printingMargin": {
+          "label": "Yazdırma Kenar Boşluğu",
+          "hint": "Ör: 2"
+        }
+      },
+      "tooltip": {
+        "printingMethod": {
+          "title": "Seçeneklerle açılır menü:",
+          "default": "• Varsayılan (AB Standart Karakterlerini yazdırmak için yerel yöntem)",
+          "image": "• Görüntü (Unicode Karakter Yazdırma için Önerilir)"
+        }
+      },
+      "action": {
+        "save": "Kaydet"
+      }
+    },
+    "kitchen": {
+      "list": {
+        "noKitchensFound": "Mutfak bulunamadı.\n Lütfen bir tane ekleyin."
+      },
+      "manage": {
+        "addKitchen": "Mutfak Ekle",
+        "editKitchen": "Mutfak Düzenle",
+        "kitchenName": {
+          "label": "Mutfak Adı",
+          "hint": "Mutfak adı girin",
+          "error": "Lütfen mutfak adı girin."
+        },
+        "description": {
+          "label": "Açıklama",
+          "hint": "Açıklama girin"
+        }
+      },
+      "manageItems": {
+        "title": "Öğeleri Yönet",
+        "addedItems": "Eklenen Öğeler",
+        "selectItemsError": "Lütfen öğeleri seçin.",
+        "noItemsAdded": "Henüz öğe eklenmedi!\nLütfen öğeleri ekleyin."
+      },
+      "card": {
+        "itemName": "Öğe Adı",
+        "manageItems": "+ Öğeleri Yönet",
+        "deleteItemConfirm": "Bu öğeyi silmek istiyor musunuz?",
+        "deleteKitchenConfirm": "Bu mutfağı silmek istiyor musunuz?"
+      }
+    }
+  },
+  "enums": {
+    "dropdownDateFilter": {
+      "daily": "Günlük",
+      "weekly": "Haftalık",
+      "monthly": "Aylık",
+      "yearly": "Yıllık",
+      "custom": "Özel"
+    },
+    "orderTypes": {
+      "dineIn": "Yemek Salonu",
+      "pickUp": "Teslim Al",
+      "delivery": "Teslimat",
+      "reservation": "Rezervasyon",
+      "quotation": "Teklif"
+    },
+    "paymentStatus": {
+      "paid": "Ödendi",
+      "unpaid": "Ödenmedi"
+    },
+    "staffTypes": {
+      "manager": "Yönetici",
+      "waiter": "Garson",
+      "chef": "Şef",
+      "cleaner": "Temizlikçi",
+      "driver": "Şoför",
+      "deliveryBoy": "Kurye"
+    },
+    "itemFoodTypes": {
+      "veg": "Vejetaryen",
+      "nonVeg": "Etli",
+      "egg": "Yumurtalı",
+      "drink": "İçecek",
+      "others": "Diğer"
+    },
+    "itemTypes": {
+      "single": "Tekli",
+      "variation": "Varyasyonlu"
+    },
+    "quotationStatus": {
+      "open": "Açık",
+      "closed": "Kapalı"
+    },
+    "tableStatus": {
+      "running": "Dolu",
+      "available": "Boş"
+    },
+    "thermalPrinterPrintingMethod": {
+      "image": "Görüntü",
+      "default": "Varsayılan"
+    },
+    "kotOrderStatus": {
+      "label": {
+        "pending": "Beklemede",
+        "preparing": "Hazırlanıyor",
+        "ready": "Hazır",
+        "served": "Servis Edildi",
+        "cancelled": "İptal Edildi"
+      },
+      "pending": "Beklemede",
+      "preparing": "Hazırlanıyor",
+      "ready": "Hazır",
+      "served": "Servis Edildi",
+      "cancelled": "İptal Edildi"
+    },
+    "kotItemStatus": {
+      "pending": "Hazırlamaya Başla",
+      "start": "Hazır Olarak İşaretle",
+      "ready": "Hazır"
+    }
+  },
+  "thermalPrint": {
+    "invoice": {
+      "purchaseInvoiceLabel": "Satın Alma Faturası: ${invoiceNumber: String}",
+      "saleInvoiceLabel": "Sipariş No: ${invoiceNumber: String}",
+      "receiptNoLabel": "Fiş No: ${invoiceNumber: String}",
+      "orderNoKotLabel": "Sipariş No: ${invoiceNumber: String}",
+      "nameLabel": "Ad: ${name: String}",
+      "mobileLabel": "Cep: ${phone: String}",
+      "purchasedByLabel": "Satın Alan: ${role: String}",
+      "salesByLabel": "Satan: ${role: String}",
+      "paidByLabel": "${label: String}: ${role: String}",
+      "paidToReceivedFromLabel": "${label: String}: ${name: String}",
+      "orderTypeLabel": "Sipariş Türü: ${orderType: String}",
+      "tableLabel": "Masa: ${tableName: String}",
+      "tableNoLabel": "Masa No: ${tableName: String}",
+      "dateLabel": "Tarih: ${dateTime: String}",
+      "invoiceFlag": "FATURA",
+      "receiptFlag": "FİŞ",
+      "paidBy": "Ödeme Yapan",
+      "receivedBy": "Teslim Alan",
+      "paidTo": "Ödeme Yapılan",
+      "receivedFrom": "Teslim Alınan",
+      "seller": "Satıcı: ${name: String}",
+      "address": "Adres: ${addr: String}",
+      "vatNo": "Vergi No",
+      "tel": "Tel: ${phoneNumber: String}",
+      "timeLabel": "Saat: ${dateTime: String}"
+    },
+    "tableHeaders": {
+      "sl": "Sıra No",
+      "item": "Ürün",
+      "cost": "Maliyet",
+      "qty": "Adet",
+      "uPrice": "Birim Fiyat",
+      "amount": "Tutar",
+      "total": "Toplam",
+      "invoiceTable": "Fatura",
+      "dueTable": "Vade"
+    },
+    "summary": {
+      "subTotal": "Ara Toplam:",
+      "discount": "İndirim: ${percentFmt: String}",
+      "vat": "${vatName: String}: ${rateFmt: String}%",
+      "tip": "Bahşiş:",
+      "deliveryCharge": "Teslimat Ücreti:",
+      "totalPayable": "Ödenecek Toplam:",
+      "paidAmount": "Ödenen Tutar:",
+      "dueAmount": "Vadesi Gelen Tutar:",
+      "paymentType": "Ödeme Şekli: ${method: String}",
+      "remainingDue": "Kalan Vade:",
+      "paymentAmount": "Ödeme Tutarı:",
+      "itemsCount": "Ürünler: ${count: int}",
+      "qtyTotal": "Adet: ${totalQty: int}"
+    },
+    "footer": {
+      "note": "${noteLabel: String}: ${note: String}",
+      "developedBy": "${developByLabel: String} ${developBy: String}"
+    }
+  },
+  "hrm": {
+    "department": "Departman",
+    "designation": "Ünvan",
+    "shift": "Vardiya",
+    "employee": "Çalışan",
+    "leave": "İzin",
+    "leaveType": "İzin Türü",
+    "leaveRequest": "İzin Talebi",
+    "holiday": "Tatil",
+    "attendance": "Katılım",
+    "payroll": "Bordro",
+    "pageTitles": {
+      "department": "Departman",
+      "designation": "Ünvan",
+      "shift": "Vardiya",
+      "employee": "Çalışan",
+      "leave": "İzin",
+      "leaveType": "İzin Türü",
+      "holiday": "Tatil",
+      "attendance": "Katılım",
+      "payroll": "Bordro",
+      "leaveReports": "İzin Raporları",
+      "payrollReports": "Bordro Raporları",
+      "attendanceReports": "Katılım Raporları",
+      "addDepartment": "Departman Ekle",
+      "editDepartment": "Departmanı Düzenle",
+      "addDesignation": "Ünvan Ekle",
+      "editDesignation": "Ünvanı Düzenle",
+      "addShift": "Vardiya Ekle",
+      "editShift": "Vardiyayı Düzenle",
+      "addEmployee": "Çalışan Ekle",
+      "editEmployee": "Çalışanı Düzenle",
+      "addLeave": "İzin Ekle",
+      "editLeave": "İzni Düzenle",
+      "addLeaveType": "İzin Türü Ekle",
+      "editLeaveType": "İzin Türünü Düzenle",
+      "addHoliday": "Tatil Ekle",
+      "editHoliday": "Tatili Düzenle",
+      "addAttendance": "Katılım Ekle",
+      "editAttendance": "Katılımı Düzenle",
+      "addPayroll": "Bordro Ekle",
+      "editPayroll": "Bordroyu Düzenle"
+    },
+    "form": {
+      "labels": {
+        "department": "Departman",
+        "designation": "Ünvan",
+        "shift": "Vardiya",
+        "employee": "Çalışan",
+        "leaveType": "İzin Türü",
+        "leaveDuration": "İzin Süresi",
+        "paymentYear": "Ödeme Yılı",
+        "paymentType": "Ödeme Türü",
+        "breakStatus": "Mola Durumu",
+        "startTime": "Başlangıç Saati",
+        "endTime": "Bitiş Saati",
+        "startBreakTime": "Mola Başlangıcı",
+        "endBreakTime": "Mola Bitişi",
+        "breakTime": "Mola Saati",
+        "breakDuration": "Mola Süresi",
+        "timeIn": "Giriş Saati",
+        "timeOut": "Çıkış Saati",
+        "duration": "Süre",
+        "country": "Ülke",
+        "salary": "Maaş",
+        "gender": "Cinsiyet",
+        "birthDate": "Doğum Tarihi",
+        "joinDate": "Katılım Tarihi",
+        "holidayName": "Tatil Adı",
+        "startDate": "Başlangıç Tarihi",
+        "endDate": "Bitiş Tarihi",
+        "month": "Ay",
+        "year": "Yıl",
+        "status": "Durum",
+        "description": "Açıklama",
+        "amount": "Tutar",
+        "payment": "Ödeme",
+        "departmentName": "Departman Adı",
+        "designationName": "Unvan Adı",
+        "image": "Görsel",
+        "name": "Ad"
+      },
+      "hints": {
+        "selectEmployee": "Çalışan Seçin",
+        "selectDepartment": "Departman Seçin",
+        "selectDesignation": "Ünvan Seçin",
+        "selectShift": "Vardiya Seçin",
+        "selectLeaveType": "İzin Türü Seçin",
+        "selectMonth": "Ay Seçin",
+        "selectYear": "Yıl Seçin",
+        "selectDate": "Tarih Seçin",
+        "selectStartDate": "Başlangıç Tarihi Seçin",
+        "selectEndDate": "Bitiş Tarihi Seçin",
+        "selectTimeIn": "Giriş Saati Seçin",
+        "selectTimeOut": "Çıkış Saati Seçin",
+        "selectStartTime": "Başlangıç Saati Seçin",
+        "selectEndTime": "Bitiş Saati Seçin",
+        "selectStatus": "Durum Seçin",
+        "selectGender": "Cinsiyet Seçin",
+        "selectPaymentType": "Ödeme Türü Seçin",
+        "enterFullName": "Tam Adı Girin",
+        "enterEmail": "E-posta Girin",
+        "enterPhone": "Telefon Numarası Girin",
+        "enterCountry": "Ülke Girin",
+        "enterSalary": "Örn: 500",
+        "enterHolidayName": "Tatil Adını Girin",
+        "enterDescription": "Açıklama Girin...",
+        "autoCalculated": "Otomatik Hesaplandı",
+        "selectDatesFirst": "Önce Tarihleri Seçin",
+        "allEmployee": "Tüm Çalışanlar",
+        "selectEmployeeFirst": "Önce Çalışan Seçin",
+        "enterDepartmentName": "Departman Adını Girin",
+        "enterDesignationName": "Unvan adını girin",
+        "ex": "{value}",
+        "selectBirthDate": "Doğum Tarihini Seçin",
+        "selectJoinDate": "Katılım Tarihini Seçin",
+        "selectBreakStatus": "Mola Durumunu Seçin",
+        "enterLeaveTypeName": "İzin türü adını girin"
+      }
+    },
+    "emptyStates": {
+      "noLeaves": "İzin Bulunamadı",
+      "noPayrollRecords": "Bordro Kaydı Bulunamadı",
+      "noAttendanceRecords": "Katılım Kaydı Bulunamadı",
+      "noLeaveTypes": "İzin türü bulunamadı",
+      "noEmployees": "Çalışan Bulunamadı",
+      "noHolidays": "Tatil Bulunamadı",
+      "noShifts": "Vardiya bulunamadı",
+      "noDesignations": "Ünvan Bulunamadı",
+      "noDepartments": "Departman Bulunamadı"
+    },
+    "confirmations": {
+      "deleteAttendance": "Bu katılım kaydını silmek istediğinizden emin misiniz?",
+      "deletePayroll": "Bu bordroyu silmek istediğinizden emin misiniz?",
+      "deleteLeave": "Bu izni silmek istediğinizden emin misiniz?",
+      "deleteLeaveType": "Bu izin türünü silmek istiyor musunuz?",
+      "deleteEmployee": "Bu çalışanı silmek istediğinizden emin misiniz?",
+      "deleteHoliday": "Bu tatili silmek istediğinizden emin misiniz?",
+      "deleteShift": "Bu vardiyayı silmek istiyor musunuz?",
+      "deleteDesignation": "Bu ünvanı silmek istediğinizden emin misiniz?",
+      "deleteDepartment": "Bu departmanı silmek istediğinizden emin misiniz?"
+    },
+    "validation": {
+      "selectEmployee": "Lütfen çalışan seçin",
+      "selectMonth": "Lütfen ay seçin",
+      "selectEndDate": "Lütfen bitiş tarihi seçin",
+      "endDateAfterStart": "Bitiş tarihi başlangıç tarihinden sonra olmalı",
+      "selectStatus": "Lütfen durumu seçin",
+      "selectLeaveType": "Lütfen izin türü seçin",
+      "selectStartDate": "Lütfen başlangıç tarihi seçin",
+      "selectDate": "Lütfen tarih seçin",
+      "selectTimeIn": "Lütfen giriş saatini seçin",
+      "selectTimeOut": "Lütfen çıkış saatini seçin",
+      "enterDepartmentName": "Lütfen departman adı girin",
+      "enterDesignationName": "Lütfen unvan adını girin",
+      "enterName": "Lütfen isim girin",
+      "selectDesignation": "Lütfen ünvan seçin",
+      "selectDepartment": "Lütfen departman seçin",
+      "enterEmail": "Lütfen e-posta girin",
+      "enterValidEmail": "Lütfen geçerli bir e-posta girin",
+      "enterPhoneNumber": "Lütfen telefon numarası girin",
+      "enterCountry": "Lütfen ülke girin",
+      "enterSalary": "Lütfen maaş girin",
+      "selectGender": "Lütfen cinsiyet seçin",
+      "selectShift": "Lütfen vardiya seçin",
+      "selectBirthDate": "Lütfen doğum tarihi seçin",
+      "selectJoinDate": "Lütfen katılım tarihi seçin",
+      "enterHolidayName": "Lütfen tatil adını girin",
+      "selectBreakStatus": "Lütfen mola durumunu seçin",
+      "selectPaymentYear": "Lütfen ödeme yılını seçin",
+      "selectPaymentType": "Lütfen ödeme türünü seçin",
+      "enterAmount": "Lütfen tutarı girin",
+      "selectStartBreakTime": "Lütfen mola başlangıç saatini seçin",
+      "selectEndBreakTime": "Lütfen mola bitiş saatini seçin",
+      "enterLeaveTypeName": "Lütfen izin türü adını girin",
+      "selectStartTime": "Lütfen başlangıç saatini seçin",
+      "selectEndTime": "Lütfen bitiş saatini seçin"
+    },
+    "dropdowns": {
+      "addNew": "+ Yeni Ekle",
+      "morning": "Sabah",
+      "day": "Gündüz",
+      "evening": "Akşam",
+      "night": "Gece",
+      "yes": "Evet",
+      "no": "Hayır",
+      "approved": "Onaylandı",
+      "rejected": "Reddedildi",
+      "terminated": "İşten Çıkarıldı",
+      "suspended": "Askıya Alındı",
+      "male": "Erkek",
+      "female": "Kadın",
+      "pending": "Beklemede",
+      "active": "Aktif",
+      "inactive": "Pasif",
+      "paid": "Ödendi",
+      "unpaid": "Ödenmedi"
+    },
+    "units": {
+      "days": "gün"
+    },
+    "fallbacks": {
+      "noNoteAvailable": "Not yok",
+      "noDescriptionAvailable": "Açıklama mevcut değil",
+      "selectEmployeeFirst": "Önce çalışan seçin"
+    },
+    "success": {
+      "leaveDelete": "İzin başarıyla silindi",
+      "attendanceDelete": "Katılım başarıyla silindi",
+      "attendanceAdd": "Katılım başarıyla eklendi",
+      "attendanceUpdate": "Katılım başarıyla güncellendi",
+      "leaveAdd": "İzin başarıyla eklendi",
+      "leaveUpdate": "İzin başarıyla güncellendi",
+      "departmentDelete": "Departman başarıyla silindi",
+      "departmentAdd": "Departman başarıyla eklendi",
+      "departmentUpdate": "Departman başarıyla güncellendi",
+      "designationDelete": "Ünvan başarıyla silindi",
+      "designationAdd": "Ünvan başarıyla eklendi",
+      "designationUpdate": "Ünvan başarıyla güncellendi",
+      "employeeDelete": "Çalışan başarıyla silindi",
+      "employeeAdd": "Çalışan başarıyla eklendi",
+      "employeeUpdate": "Çalışan başarıyla güncellendi",
+      "holidayDelete": "Tatil başarıyla silindi",
+      "holidayAdd": "Tatil başarıyla eklendi",
+      "holidayUpdate": "Tatil başarıyla güncellendi",
+      "leaveTypeDelete": "İzin türü başarıyla silindi"
+    }
+  }
+}

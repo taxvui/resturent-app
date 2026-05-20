@@ -1,0 +1,1561 @@
+{
+  "@@meta": {
+    "languageCode": "bg_BG",
+    "languageName": "Bulgarian",
+    "version": "1.0.0"
+  },
+  "common": {
+    "signIn": "Вход",
+    "signUp": "Регистрация",
+    "verifyEmail": "Провери имейл",
+    "customizeProfile": "Персонализиране на профил",
+    "imageOrLogo": "Лого или изображение",
+    "createNewPassword": "Създаване на нова парола",
+    "itemsList": "Списък с артикули",
+    "searchItemsName": "Търсене по име на артикул",
+    "categoryList": "Списък с категории",
+    "brandList": "Списък с марки",
+    "unitList": "Списък с единици",
+    "itemDetails": "Детайли за артикул",
+    "addStock": "Добавяне на склад",
+    "profile": "Профил",
+    "language": "Език",
+    "termsAndConditions": "Правила и условия",
+    "aboutUs": "За нас",
+    "logout": "Изход",
+    "editProfile": "Редактиране на профил",
+    "fullName": "Пълно име",
+    "email": "Имейл",
+    "mobileNumber": "Мобилен номер",
+    "address": "Адрес",
+    "password": "Парола",
+    "forgotPassword": "Забравена парола",
+    "edit": "Редактиране",
+    "delete": "Изтриване",
+    "addItems": "Добавяне на артикули",
+    "stock": "Склад",
+    "currentStock": "Наличен склад",
+    "value": "Стойност",
+    "sales": "Продажби",
+    "purchase": "Покупка",
+    "price": "Цена",
+    "image": "Изображение",
+    "upload": "Качване",
+    "addNew": "Добавяне на нов",
+    "pricing": "Ценообразуване",
+    "name": "Име",
+    "category(plural)": {
+      "one": "Категория",
+      "other": "Категорияs"
+    },
+    "areas": "Areas",
+    "brand": "Марка",
+    "lowStock": "Нисък склад",
+    "unit": "Единица",
+    "vat": "ДДС",
+    "taxType": "Вид данък",
+    "purchasePrice": "Покупна цена",
+    "sellingPrice": "Продажна цена",
+    "wholeSalePrice": "Цена на едро",
+    "dealerPrice": "Дистрибуторска цена",
+    "searchHere": "Търсене тук",
+    "totalItems": "Общо артикули",
+    "stockValue": "Стойност на склад",
+    "congratulation": "Поздравления",
+    "salesList": "Списък с продажби",
+    "searchInvoiceNumber": "Търсене по номер на фактура",
+    "view": "Преглед",
+    "kFor": "За",
+    "total": "Общо",
+    "subTotal": "Междинна сума",
+    "insufficientStockAvailableStock": "Недостатъчно наличност, налична наличност",
+    "discount": "Отстъпка",
+    "selectOne": "Изберете един",
+    "allCategory": "Всички категории",
+    "details": "Детайли",
+    "parcel": "Пратка",
+    "kot": "КОТ",
+    "table": "Маса",
+    "holdTable": "Запази маса",
+    "capacity": "Капацитет",
+    "commonHint": "Напр.: 10",
+    "pleaseEnterQuantity": "Моля, въведете количество",
+    "quantityMustBeGreaterThanZero": "Количеството трябва да е по-голямо от 0",
+    "mobile": "Мобилен",
+    "orderNo": "Номер на поръчка",
+    "dateAndTime": "Дата и час",
+    "items": "Артикули",
+    "totalAmount": "Обща сума",
+    "paidAmount": "Платена сума",
+    "dueAmount": "Дължима сума",
+    "paymentType": "Вид плащане",
+    "thankYou": "Благодарим ви",
+    "developedBy": "Разработено от ${domain: String}",
+    "qty": "Цена",
+    "amount": "Сума",
+    "dashboard": "Табло",
+    "reports": "Доклади",
+    "home": "Начало",
+    "parties": "Страни",
+    "subscriptionPlan": "Абонаментен план",
+    "estimateList": "Списък с оферти",
+    "purchaseList": "Списък с покупки",
+    "dueList": "Списък с дължими",
+    "lossOrProfit": "Загуба/Печалба",
+    "stocks": "Складове",
+    "moneyInList": "Списък с приходи",
+    "moneyOutList": "Списък с разходи",
+    "transactionList": "Списък с транзакции",
+    "income": "Приход",
+    "expense": "Разход",
+    "quickView": "Бърз преглед",
+    "to": "до",
+    "totalSales": "Общо продажби",
+    "totalPurchase": "Общо покупки",
+    "holdNumber": "Задържани поръчки",
+    "totalExpense": "Общо разходи",
+    "loss": "Загуба",
+    "profit": "Печалба",
+    "recentTransaction": "Последни транзакции",
+    "invoice": "Фактура",
+    "moneyIn": "Приход",
+    "moneyOut": "Разход",
+    "paid": "Платено",
+    "due": "Дължимо",
+    "partial": "Частично",
+    "print": "Печат",
+    "addCategory": "Добавяне на категория",
+    "addExpense": "Добавяне на разход",
+    "search": "Търсене...",
+    "viewDetails": "Преглед на детайли",
+    "title": "Заглавие",
+    "date": "Дата",
+    "note": "Бележка",
+    "phoneNumber": "Телефонен номер",
+    "type": "Тип",
+    "selectContactSType": "Изберете тип контакт",
+    "moreInfo": "Повече информация",
+    "paymentReceived": "Получено плащане",
+    "selectSupplier": "Изберете доставчик",
+    "supplier": "Доставчик",
+    "received": "Получено",
+    "balanceDue": "Дължим баланс",
+    "addPurchase": "Добавяне на покупка",
+    "selectedItemWillBeCleared": "Избраните артикули ще бъдат изчистени.",
+    "searchItemName": "Търсене по име на артикул",
+    "billItems": "Артикули във фактура",
+    "addMoreItems": "Добавяне на още артикули",
+    "payAmount": "Плати сума",
+    "salesReport": "Отчет за продажби",
+    "purchaseReport": "Отчет за покупки",
+    "stockReport": "Отчет за склад",
+    "dueReport": "Отчет за дължими",
+    "dueCollectionReport": "Отчет за събиране на дължими",
+    "transactionReport": "Отчет за транзакции",
+    "incomeReport": "Отчет за приходи",
+    "dueCollectionList": "Списък за събиране на дължими",
+    "expenseReport": "Отчети за разходи",
+    "dueCollection": "Събиране на дължими",
+    "myProfile": "Моят профил",
+    "printingOption": "Опции за печат",
+    "currency": "Валута",
+    "paymentMethod": "Метод на плащане",
+    "rateUs": "Оценете ни",
+    "termAndCondition": "Правила и условия",
+    "tableList": "Списък с маси",
+    "addTable": "Добавяне на маса",
+    "vatRate": "ДДС ставка %",
+    "action": "Действие",
+    "status": "Статус",
+    "active": "Активен",
+    "inActive": "Неактивен",
+    "subVats": "Под-ДДС",
+    "add": "Добавяне",
+    "taxRate": "Данъчна ставка %",
+    "subTaxes": "Под-данъци",
+    "group": "група",
+    "VAT": "ДДС",
+    "subTaxList": "Списък с под-данъци",
+    "vatPercent": "Процент ДДС",
+    "statusIsCannotInActive": "Статусът не може да бъде неактивен, ако ДДС е включен в продажбите.",
+    "vatOnSales": "ДДС върху продажби",
+    "transaction": "Транзакция",
+    "version": "Версия ${version: String}",
+    "hold": "Запази",
+    "empty": "Празно",
+    "appName": "Приложение за ресторант",
+    "duePayment": "Дължимо плащане",
+    "orders": "Поръчки",
+    "all": "Всички",
+    "ingredient": "Съставка",
+    "menus": "Менюта",
+    "modifierGroups": "Групи модификатори",
+    "itemModifiers": "Модификатори на артикули",
+    "staff": "Персонал",
+    "coupon": "Купон",
+    "pay": "Плащане",
+    "pendingOrders": "Чакащи поръчки",
+    "order": "Поръчка",
+    "payNow": "Плати сега",
+    "addStaff": "Добави персонал",
+    "designation": "Длъжност",
+    "itemAdded": "Артикулът е добавен",
+    "noItemAdded": "Няма добавен артикул",
+    "saveNPrint": "Запази и отпечатай",
+    "allowMultiSelection": "Разрешаване на множествен избор",
+    "required": "Задължително",
+    "optional": "По избор",
+    "allowMultiSelectionForSale": "Разрешаване на множествен избор за продажби",
+    "isRequired": "Задължително е",
+    "modifier": "Модификатор",
+    "fullPayment": "Пълно плащане",
+    "payment": "Плащане",
+    "addTip": "Добави бакшиш",
+    "netPayable": "Нетна дължима сума",
+    "receiveAmount": "Получена сума",
+    "changeAmount": "Сума за връщане",
+    "quotationList": "Списък оферти",
+    "addQuotation": "Добавяне на оферта",
+    "convert": "Преобразуване",
+    "variations": "Вариации",
+    "instructions": "Инструкции",
+    "unavailable": "Недостъпно",
+    "tip": "Съвет",
+    "salesQuotationReport": "Отчет за оферти за продажба",
+    "orderType": "Тип поръчка",
+    "deliveryCharge": "Такса за доставка",
+    "receiptNo": "Разписка №",
+    "paidBy": "Платено от",
+    "receivedBy": "Получено от",
+    "paymentAmount": "Сума на плащане",
+    "remainingDue": "Оставаща дължима сума",
+    "roleNPermission": "Роля и разрешения",
+    "sl": "СЛ",
+    "features": "Функции",
+    "create": "Създаване",
+    "update": "Обнови",
+    "quotations": "Оферти",
+    "restaurant": "Ресторант",
+    "printerProfile": "Профил на принтера",
+    "kitchenOrders": "Кухненски поръчки",
+    "kitchen(plural)": {
+      "one": "Кухня",
+      "other": "Кухни"
+    },
+    "allKOT": "Всички KOT",
+    "cancelKOT": "Отмени KOT",
+    "selectCancelReason": "Избери причина за отказ",
+    "additionalComment": "Допълнителен коментар",
+    "enterComment": "Въведи коментар",
+    "orderStatus": "Статус на поръчка",
+    "selectOrderStatus": "Избери статус на поръчка",
+    "kotReport": "KOT Доклад",
+    "itemFoodType": "Вид храна",
+    "selectItemFoodType": "Избери @:common.itemFoodType",
+    "markAllAsRead": "Маркирай всички като прочетени",
+    "online": "Онлайн",
+    "cancelledReason": "Причина за анулиране",
+    "hrm": "HRM",
+    "notAvailable": "N/A"
+  },
+  "exceptions": {
+    "somethingWentWrong": "Нещо се обърка, моля, опитайте отново",
+    "noCategoryFound": "Не е намерена категория!\n Моля, опитайте да добавите категория.",
+    "doYouWantToDeleteThisCategory": "Наистина ли искате да изтриете тази категория?",
+    "noBrandFound": "Не е намерена марка!\n Моля, опитайте да добавите марка.",
+    "doYouWantToDeleteThisBrand": "Наистина ли искате да изтриете тази марка?",
+    "noItemStockFound": "Не е намерена наличност на артикул!\n Моля, опитайте да добавите артикул.",
+    "noUnitFound": "Не е намерена единица!\n Моля, опитайте да добавите единица.",
+    "doYouDeleteThisUnit": "Наистина ли искате да изтриете тази единица?",
+    "noSaleFoundPleaseSAddProduct": "Не е намерена продажба!\n Моля, опитайте да добавите продажба.",
+    "doYouWantToDeleteThisSale": "Наистина ли искате да изтриете тази продажба?",
+    "pleaseAddItemToTheCartFirst": "Моля, първо добавете артикули в количката",
+    "noItemAdded": "Няма добавени артикули",
+    "cannotEditOthersTable": "Не може да се редактира чужда маса.",
+    "tableIsAlreadyBlocked": "Масата вече е резервирана.",
+    "failedToGetCustomerDetails": "Неуспешно получаване на детайли за клиента.",
+    "noTableFoundPleaseTryAgain": "Не са намерени маси!\n Моля, опитайте да добавите маса.",
+    "noDueCollectionFound": "Не са намерени дължими фактури!\n Можете да видите дължими фактури, когато има такива.",
+    "noExpenseFoundPleaseTryAddingExpense": "Не е намерен разход!\n Моля, опитайте да добавите разход.",
+    "doYouWantToDeleteThisExpense": "Наистина ли искате да изтриете този разход?",
+    "noExpenseCategoryFound": "Не е намерена категория разход!\n Моля, опитайте да добавите категория разход.",
+    "noTransactionFound": "Не са намерени транзакции, моля, опитайте по-късно!",
+    "pleaseSelectACategory": "Моля, изберете категория",
+    "noIncomeFound": "Не е намерен приход!\n Моля, опитайте да добавите приход",
+    "doYouWantToDeleteThisIncome": "Наистина ли искате да изтриете този приход?",
+    "noIncomeCategoryFoundAddingAIncome": "Не е намерена категория приход!\n Моля, опитайте да добавите категория приход.",
+    "noItemFoundPleaseTryAddingItem": "Не е намерен артикул!\n Моля, опитайте да добавите артикул.",
+    "noPartiesFound": "Не са намерени страни",
+    "doYouWantToDeleteThisParty": "Наистина ли искате да изтриете тази страна?",
+    "noLedgerFound": "Не е намерена счетоводна книга!\n Моля, опитайте да добавите ${transactionType: String}",
+    "areYouSureYouSureWantToDeleteThisTaxType": "Сигурни ли сте, че искате да изтриете този ${taxType: String}?",
+    "noItemFoundPleaseSTryAddingAnPurchase": "Не е намерен артикул!\n Моля, опитайте да добавите покупка.",
+    "doYouWantToDeleteThisPurchase": "Наистина ли искате да изтриете тази покупка?",
+    "noTransactionFoundYouSeeTransactionHereWhenAvailable": "Не са намерени транзакции!\n Ще видите транзакции тук, когато има такива.",
+    "noSaleFoundPleaseTryAddingSale": "Не е намерена продажба!\n Моля, опитайте да добавите продажба.",
+    "noPurchaseFoundPleaseTryAddingPurchase": "Не е намерена покупка!\n Моля, опитайте да добавите покупка.",
+    "noItemIncomeFound": "Не са намерени приходи от артикули!\n Ще видите данни за приходите, когато има такива.",
+    "noItemExpenseFound": "Не са намерени разходи за артикули!\n Ще видите данни за разходите, когато има такива.",
+    "noItemDueInvoiceFound": "Не са намерени дължими фактури за артикули!\n Ще видите дължими фактури, когато има такива.",
+    "noItemDueCollectionInvoiceFound": "'Не са намерени дължими фактури за събиране на артикули!\n Ще видите дължими фактури за събиране, когато има такива.",
+    "doYouWantToDeleteThisTable": "Наистина ли искате да изтриете тази маса?'",
+    "thisVatIsBeingUsedOnSales": "Този ДДС се използва при продажби!",
+    "noPaymentMethodFoundPleaseTryAddingAPaymentMethod": "Не е намерен метод на плащане!\n Моля, опитайте да добавите метод на плащане.",
+    "pleaseSelectACustomerFirst": "Моля, изберете клиент първо.",
+    "pleaseSelectATableToCreateAKot": "Моля, изберете маса, за да създадете KOT.",
+    "noStaffFound": "Не е намерен персонал!\\n Моля, опитайте да добавите персонал",
+    "noIngredientFound": "Не е намерена съставка!\\n Моля, опитайте да добавите съставка.",
+    "exceedsPaymentAmount": "Получената сума не трябва да бъде по-голяма от дължимата сума",
+    "noItemModifierFound": "Не е намерен модификатор на артикул!\\n Моля, опитайте да добавите модификатор на артикул.",
+    "noModifierGroupFound": "Не е намерена група модификатори!\\n Моля, опитайте да добавите група модификатори.",
+    "noOptionsFound": "Няма намерени опции!",
+    "maxImageCountLimit": "Можете да изберете само до 5 изображения.",
+    "noQuotationFound": "Не е намерена оферта!\\n Моля, опитайте да добавите оферта.",
+    "noPermittedUserFound": "Не е намерен разрешен потребител!\\n Моля, опитайте да добавите потребител."
+  },
+  "prompt": {
+    "logout": {
+      "title": "@:common.logout",
+      "message": "Сигурни ли сте, че искате да излезете?"
+    },
+    "unsavedWarning": {
+      "title": "Искате ли да се върнете?",
+      "message": "Променените полета може да не бъдат запазени!"
+    },
+    "verify": {
+      "title": "Потвърдете имейла си",
+      "description(rich)": "Изпратихме имейл с код за потвърждение${emailSpan}\nВъзможно е имейлът да е попаднал във вашата спам папка."
+    },
+    "subscriptionExpired": {
+      "title": "Абонаментът изтече!",
+      "message": "Моля, абонирайте се, за да продължите.",
+      "action": "Абониране"
+    },
+    "items": {
+      "delete": {
+        "title": "Наистина ли искате да изтриете този артикул?"
+      },
+      "filter": {
+        "title": "Филтриране по",
+        "extra": {
+          "lowToHigh": "Ниска към висока @:common.price",
+          "highToLow": "Висока към ниска @:common.price"
+        }
+      }
+    },
+    "checkInternet": {
+      "title": "Няма интернет връзка",
+      "message": "Моля, проверете вашата Wi-Fi или мобилна мрежова връзка и опитайте отново"
+    },
+    "back": {
+      "title": "Натиснете бутона назад отново, за да излезете."
+    },
+    "stockModelSheet": {
+      "title": "Добавяне на нова наличност"
+    },
+    "paymentMethod": {
+      "title": "Наистина ли искате да изтриете този метод на плащане?"
+    },
+    "extMsg": {
+      "kotSavedSuccessfully": "KOT е запазен успешно"
+    },
+    "deleteStaff": "Искате ли да изтриете този служител?",
+    "deleteIngredient": "Искате ли да изтриете тази съставка?",
+    "deleteItemModifier": "Искате ли да изтриете този модификатор на артикул?",
+    "deleteModifierGroup": "Искате ли да изтриете тази група модификатори?",
+    "deleteQuotation": "Искате ли да изтриете тази оферта?"
+  },
+  "form": {
+    "fullName": {
+      "label": "@:common.fullName",
+      "hint": "Въведете @:common.fullName",
+      "errors": {
+        "required": "Моля, въведете вашето @:common.fullName"
+      }
+    },
+    "email": {
+      "label": "@:common.email",
+      "hint": "Въведете вашия @:common.email",
+      "errors": {
+        "required": "Моля, въведете вашия @:common.email адрес",
+        "invalid": "⦸ Невалиден имейл, моля, опитайте отново"
+      }
+    },
+    "password": {
+      "label": "@:common.password",
+      "hint": "* * * * * * * *",
+      "errors": {
+        "required": "Моля, въведете вашата @:common.password",
+        "minLength": "Паролата трябва да е поне ${count} знака!"
+      }
+    },
+    "confirmPassword": {
+      "label": "Потвърди парола",
+      "hint": "* * * * * * * *",
+      "errors": {
+        "required": "Моля, въведете вашата @:common.password",
+        "invalid": "'Потвърдената парола не съвпада!"
+      }
+    },
+    "otp": {
+      "errors": {
+        "required": "Моля, въведете OTP.",
+        "invalid": "Моля, въведете текущия OTP."
+      }
+    },
+    "profile": {
+      "businessCategory": {
+        "label": "Бизнес категория",
+        "hint": "Изберете бизнес категория",
+        "errors": {
+          "required": "Моля, изберете бизнес категория"
+        }
+      },
+      "shopOrStore": {
+        "label": "Име на магазин/склад*",
+        "hint": "Въведете име на магазин или склад",
+        "errors": {
+          "required": "Моля, въведете името на вашия магазин или склад"
+        }
+      },
+      "openingBalance": {
+        "label": "Начален баланс",
+        "hint": "Въведете начален баланс"
+      },
+      "vatGstTitle": {
+        "label": "Заглавие на ДДС/GST",
+        "hint": "Въведете ДДС/GST"
+      },
+      "vatGstNumber": {
+        "label": "Номер на ДДС/GST",
+        "hint": "Въведете номер на ДДС/GST"
+      }
+    },
+    "vat": {
+      "name": {
+        "label": "Име",
+        "hint": "Въведете име на ДДС",
+        "error": {
+          "required": "Моля, въведете име на ДДС"
+        }
+      },
+      "subVat": {
+        "label": "Под-ДДС",
+        "hint": "Изберете под-ДДС",
+        "errors": {
+          "required": "Моля, изберете под-ДДС"
+        }
+      },
+      "rate": {
+        "label": "ДДС ставка %",
+        "hint": "Въведете ставка на ДДС",
+        "errors": {
+          "required": "Моля, въведете ставка на ДДС."
+        }
+      }
+    },
+    "category": {
+      "label": "@:common.category",
+      "hint": "Изберете категория артикул",
+      "error": {
+        "required": "Моля, въведете име на категория"
+      }
+    },
+    "items": {
+      "barcode": {
+        "label": "Баркод",
+        "hint": "@:common.selectOne"
+      },
+      "itemName": {
+        "label": "Име на артикул",
+        "hint": "Въведете име на артикул",
+        "extra": {
+          "required": "Моля, въведете име на артикул"
+        }
+      },
+      "itemCategory": {
+        "label": "Категория артикул",
+        "hint": "Категория артикул",
+        "extra": {
+          "label": "Изберете категория",
+          "required": "Моля, изберете категория"
+        }
+      },
+      "brand": {
+        "label": "@:common.brand",
+        "hint": "@:common.selectOne",
+        "extra": {
+          "hint": "Въведете име на марка",
+          "required": "Моля, въведете име на марка"
+        }
+      },
+      "unit": {
+        "label": "@:common.unit",
+        "hint": "@:common.selectOne",
+        "error": {
+          "required": "Моля, въведете име на единица"
+        }
+      },
+      "stock": {
+        "label": "Начална наличност",
+        "hint": "@:common.commonHint",
+        "extra": {
+          "required": "Моля, въведете количество на артикул."
+        }
+      },
+      "lowStock": {
+        "label": "@:common.lowStock",
+        "hint": "Напр.: 5"
+      },
+      "purchasePrice": {
+        "label": "@:common.purchasePrice",
+        "hint": "Напр.: \\$40",
+        "error": {
+          "required": "Моля, въведете покупна цена."
+        }
+      },
+      "salePrice": {
+        "label": "Продажна цена",
+        "hint": "Напр.: \\$60",
+        "error": {
+          "required": "Моля, въведете продажна цена."
+        }
+      },
+      "totalSalePrice": {
+        "label": "Обща продажна цена",
+        "hint": "Напр.: \\$100"
+      },
+      "wholeSalePrice": {
+        "label": "@:common.wholeSalePrice",
+        "hint": "Въведете цена на едро"
+      },
+      "dealerPrice": {
+        "label": "@:common.dealerPrice",
+        "hint": "Въведете дистрибуторска цена"
+      },
+      "discount": {
+        "label": "Отстъпка (%)",
+        "hint": "@:common.commonHint"
+      },
+      "applicableTax": {
+        "label": "Приложим данък",
+        "hint": "@:common.selectOne"
+      },
+      "vatType": {
+        "label": "@:common.taxType",
+        "errorText": {
+          "required": "Моля, изберете вид ДДС"
+        }
+      },
+      "menu": {
+        "label": "Изберете меню",
+        "errors": {
+          "required": "Моля, изберете меню."
+        },
+        "hint": "Изберете меню",
+        "extra": {
+          "selectNavLabel": "Изберете меню на артикул"
+        }
+      },
+      "modifierItems": {
+        "label": "Модификатори на артикули",
+        "hint": "Изберете модификатори на артикули"
+      },
+      "preparationTime": {
+        "label(rich)": "Време за приготвяне ${minutes(Минути)}",
+        "hint": "Напр.: 30"
+      },
+      "variation": {
+        "name": {
+          "label": "Име",
+          "hint": "Въведете вариация",
+          "errors": {
+            "required": "Моля, въведете име на вариация."
+          }
+        },
+        "price": {
+          "errors": {
+            "required": "Моля, въведете цена."
+          },
+          "label": "Цена",
+          "hint": "Напр.: \\$30"
+        }
+      }
+    },
+    "itemCart": {
+      "hint": "@:common.commonHint",
+      "error": {
+        "required": "@:common.pleaseEnterQuantity",
+        "noZero": "@:common.quantityMustBeGreaterThanZero"
+      }
+    },
+    "sales": {
+      "autoGenerateInvoice": {
+        "label": "Номер на сметка",
+        "hint": "P-00001"
+      },
+      "date": {
+        "label": "Дата"
+      },
+      "customer": {
+        "label": "Клиент",
+        "hint": "Изберете клиент"
+      },
+      "phone": {
+        "label": "Телефонен номер",
+        "hint": "Въведете телефонен номер"
+      },
+      "address": {
+        "label": "Адрес",
+        "hint": "Въведете адрес"
+      },
+      "deliveryCharge": {
+        "label": "@:common.deliveryCharge",
+        "hint": "Напр.: \\$20",
+        "hint2": "Такса напр.: \\$10"
+      },
+      "table": {
+        "hint": "Изберете маса"
+      },
+      "waiter": {
+        "hint": "Изберете сервитьор"
+      }
+    },
+    "bill": {
+      "label": "Номер на сметка",
+      "hint": "P-00001"
+    },
+    "supplier": {
+      "label": "Доставчик",
+      "hint": "Изберете доставчик",
+      "extra": {
+        "required": "Моля, изберете доставчик"
+      }
+    },
+    "phone": {
+      "label": "Телефонен номер",
+      "hint": "Въведете телефонен номер",
+      "errors": {
+        "required": "Моля, въведете телефонен номер."
+      }
+    },
+    "address": {
+      "label": "Адрес",
+      "hint": "Въведете адрес"
+    },
+    "payment": {
+      "label": "Име",
+      "hint": "Въведете име на плащане",
+      "error": {
+        "required": "Моля, въведете име на метод на плащане"
+      }
+    },
+    "expense": {
+      "label": "Категория разход",
+      "hint": "Изберете категория разход",
+      "error": {
+        "required": "Моля, въведете категория разход"
+      }
+    },
+    "income": {
+      "label": "Категория приход",
+      "hint": "Въведете име на категория",
+      "error": {
+        "required": "Моля, въведете име на категория"
+      },
+      "incomeTitle": {
+        "label": "Заглавие на приход",
+        "hint": "Въведете приход"
+      },
+      "incomeCategory": {
+        "label": "Категория приход",
+        "hint": "Изберете категория"
+      },
+      "payment": {
+        "label": "Плащане",
+        "hint": "Напр.: \\$10"
+      }
+    },
+    "note": {
+      "label": "Бележка (по избор)",
+      "hint": "Въведете текст"
+    },
+    "parties": {
+      "partyName": {
+        "label": "Име на страна",
+        "hint": "Въведете име на страна",
+        "error": {
+          "required": "Моля, въведете име на страна"
+        }
+      },
+      "partyPhone": {
+        "label": "Телефонен номер",
+        "hint": "Въведете телефонен номер",
+        "error": {
+          "required": "Моля, въведете телефонен номер"
+        }
+      }
+    },
+    "table": {
+      "name": {
+        "label": "Име на маса",
+        "hint": "Въведете име на маса",
+        "error": {
+          "required": "Моля, въведете име на маса"
+        }
+      },
+      "capacity": {
+        "label": "Капацитет",
+        "hint": "Въведете капацитет",
+        "error": {
+          "required": "Моля, въведете капацитет"
+        }
+      }
+    },
+    "designation": {
+      "label": "@:common.designation",
+      "hint": "Изберете длъжност",
+      "errors": {
+        "required": "Моля, изберете длъжност."
+      }
+    },
+    "ingredientName": {
+      "label": "Име на съставката",
+      "hint": "Въведете име на съставката",
+      "errors": {
+        "required": "Моля, въведете име на съставката"
+      }
+    },
+    "item": {
+      "label": "Артикул",
+      "hint": "Изберете артикул",
+      "errors": {
+        "required": "Моля, изберете артикул."
+      }
+    },
+    "modifierGroup": {
+      "label": "Група модификатори",
+      "hint": "Изберете група модификатори",
+      "errors": {
+        "required": "Моля, изберете група модификатори."
+      }
+    },
+    "description": {
+      "label": "Описание",
+      "hint": "Въведете описание"
+    },
+    "staff": {
+      "label": "@:common.staff",
+      "hint": "Изберете служител",
+      "errors": {
+        "required": "Моля, изберете служител"
+      }
+    },
+    "loginUserName": {
+      "label": "Потребителско име за вход",
+      "hint": "Въведете потребителско име или имейл адрес",
+      "errors": {
+        "required": "Моля, въведете потребителско име или имейл адрес"
+      }
+    }
+  },
+  "action": {
+    "next": "Напред",
+    "getStarted": "Първи стъпки",
+    "skip": "Пропусни",
+    "select": "Избери",
+    "save": "Запази",
+    "verify": "Провери",
+    "signIn": "@:common.signIn",
+    "signUp": "@:common.signUp",
+    "continue": "Продължи",
+    "no": "Не",
+    "yes": "Да",
+    "okay": "Добре",
+    "cancel": "Отмени",
+    "confirm": "Потвърди",
+    "tryAgain": "Опитай отново",
+    "reset": "Нулирай",
+    "apply": "Приложи",
+    "stockAdjust": "Коригирай склад",
+    "addMoreItems": "Добави още артикули",
+    "hold": "Запази",
+    "parcel": "@:common.parcel",
+    "buyNow": "Купи сега",
+    "viewAll": "Виж всички",
+    "viewLedger": "Виж счетоводна книга",
+    "submit": "Изпрати",
+    "selected": "Избрано",
+    "addToCart": "Добави в количката",
+    "selectAll": "Избери всички",
+    "update": "@:common.update",
+    "addRole": "Добавяне на роля"
+  },
+  "pages": {
+    "language": {
+      "appbarTitle": "@:action.select @:common.language"
+    },
+    "onboard": {
+      "onboardData": {
+        "data1": {
+          "title": "Лесен за използване @:common.appName",
+          "description": "Безпроблемни поръчки, лесни резервации\\nЗаредете ресторанта си с лекота!"
+        },
+        "data2": {
+          "title": "Безпроблемно управление на поръчки",
+          "description": "Оптимизирайте процеса на приемане на поръчки във вашия ресторант с нашата интуитивна POS система."
+        },
+        "data3": {
+          "title": "Отлични анализи и отчети",
+          "description": "Нашето табло за анализи предоставя отчети за продажби и покупки в реално време"
+        }
+      }
+    },
+    "signIn": {
+      "title": "Добре дошли отново",
+      "subtitle": "Моля, въведете данните си.",
+      "extra": {
+        "rememberMe": "Запомни ме",
+        "signUpNavigator(rich)": "Нямате профил? ${getStarted(@:action.getStarted)}",
+        "forgotPassword": "@:common.forgotPassword?"
+      }
+    },
+    "signUp": {
+      "title": "Създайте акаунт",
+      "subtitle": "Моля, въведете данните си",
+      "extra": {
+        "signInNavigator(rich)": "Вече имате акаунт? ${signIn(@:action.signIn)}"
+      }
+    },
+    "forgotPassword": {
+      "title": "@:common.forgotPassword",
+      "subtitle": "Въведете своя имейл адрес, за да възстановите паролата си."
+    },
+    "otpVerification": {
+      "title": "Потвърждение",
+      "subtitle": "6-цифрен код е изпратен на вашия имейл адрес",
+      "extra": {
+        "codeResend": {
+          "codeSendIn": "Кодът е изпратен след",
+          "resendCode": "Изпрати код отново"
+        }
+      }
+    },
+    "resetPassword": {
+      "title": "Нулиране на парола",
+      "subtitle": "Нулирайте паролата си за възстановяване и влезте в акаунта си",
+      "extra": {
+        "dialog": {
+          "title": "Променено успешно!",
+          "subtitle": "Влезте с новата си парола.\n Пренасочваме ви към Вход..."
+        }
+      }
+    },
+    "items": {
+      "itemList": {
+        "extra": {
+          "emptyItem": "Няма намерен артикул!\n Моля, опитайте да добавите артикул."
+        }
+      },
+      "manageItems": {
+        "title": "Добавяне на нов артикул",
+        "title2": "Редактиране на артикул",
+        "extra": {
+          "maximum": "Максимум 5",
+          "wholeSaleAndDealerPrice": "Цена на едро и дилърска цена",
+          "addDiscount": "Добави отстъпка",
+          "addVat": "Добави ДДС"
+        }
+      },
+      "itemDetails": {
+        "title": "Подробности за артикула",
+        "extra": {
+          "noImageAvailable": "Няма налично изображение!",
+          "preparationTime(rich)": "Време за приготвяне: ${min: String} ${mins(mins)}",
+          "pleaseSelectVariation": "Моля, изберете вариация",
+          "pleaseSelectOption": "Моля, изберете опция.",
+          "enterYourInstruction": "Въведете вашите инструкции"
+        }
+      }
+    },
+    "category": {
+      "addNewCategory": "Добавяне на нова категория",
+      "editCategory": "Редактиране на категория"
+    },
+    "brand": {
+      "addNewBrand": "Добавяне на нова марка",
+      "editBrand": "Редактиране на марка"
+    },
+    "unit": {
+      "addNewUnit": "Добавяне на нова единица",
+      "editUnit": "Редактиране на единица"
+    },
+    "stock": {
+      "stockList": "Списък на наличностите"
+    },
+    "aboutUs": {
+      "title": "За нас"
+    },
+    "privacyPolicy": {
+      "title": "Политика за поверителност"
+    },
+    "termAndCondition": {
+      "title": "@:common.termAndCondition"
+    },
+    "orders": {
+      "manageOrders": {
+        "extra": {
+          "billItems": "Артикули по сметка",
+          "manageQuantity": "Управление на количеството"
+        },
+        "title": {
+          "editOrder": "Редактиране на поръчка",
+          "editKOT": "Редактиране на KOT"
+        }
+      }
+    },
+    "onlinePayment": {
+      "title": "Онлайн плащане"
+    },
+    "paymentStatus": {
+      "success": {
+        "title": "Благодарим Ви!",
+        "message": "Ще прегледаме плащането и ще го одобрим в рамките на 24 часа.",
+        "actionButtonText": "Преглед на фактурата"
+      },
+      "fail": {
+        "title": "Опа! Плащането е неуспешно",
+        "message": "Вашата транзакция е неуспешна поради техническа грешка.",
+        "actionButtonText": "Опитай отново"
+      }
+    },
+    "confirmationDialog": {
+      "title": "Излизане",
+      "message": "Сигурни ли сте, че искате да излезете?",
+      "acceptationText": "Не",
+      "rejectionText": "Изход"
+    },
+    "payment": {
+      "title": "@:common.paymentMethod",
+      "addPaymentMethod": "Добавяне на нов метод на плащане",
+      "editPaymentMethod": "Редактиране на метод на плащане",
+      "choseOnlinePayment": "Изберете онлайн плащане",
+      "selectPaymentMethod": "Изберете метод на плащане",
+      "pleaseSelectAPaymentMethod": "Моля, изберете метод на плащане.",
+      "methodStatus": {
+        "title": "Статус",
+        "message": "Статусът не може да бъде неактивен, ако е разрешен бърз преглед!."
+      }
+    },
+    "subscriptionPlan": {
+      "title": "Закупуване на премиум план",
+      "extra": {
+        "actionButtonText": "Върни се назад",
+        "message": "Плащането за абонамент е успешно.\n\nВече можете да получите достъп до абонираните функции.",
+        "mostPopular": "Най-популярни"
+      }
+    },
+    "invoicePreview": {
+      "title": "Преглед на фактура",
+      "message": "PDF предварителен преглед очаквайте скоро"
+    },
+    "currency": {
+      "title": "@:common.currency"
+    },
+    "dashboard": {
+      "overview": "Преглед",
+      "dashboardPrivacy": "Поверителност на таблото",
+      "moneyInAndMoneyOut": "Приходи и разходи",
+      "lossAndProfitOverView": "Преглед на печалби и загуби"
+    },
+    "due": {
+      "title": "@:common.dueList",
+      "collectionList": "Списък на събиранията",
+      "dueCollection": "Събиране на дължими суми"
+    },
+    "expense": {
+      "title": "@:common.expense",
+      "editExpense": "Редактиране на разход",
+      "addNewExpense": "Добавяне на нов разход",
+      "editExpenseCategory": "Редактиране на категория разход",
+      "addNewExpenseCategory": "Добавяне на нова категория разход",
+      "payment": "Плащане",
+      "expenseCategory": "Категория разход",
+      "selectCategory": "Изберете категория",
+      "allExpense": "Всички разходи",
+      "pleaseSelectACategory": "Моля, изберете категория",
+      "expenseTitle": {
+        "label": "Заглавие на разхода",
+        "hint": "Въведете разход"
+      }
+    },
+    "lossProfit": {
+      "title": "Списък Загуби/Печалби",
+      "noLossProfitFound": "Не са намерени загуби/печалби!\nМоля, опитайте да създадете продажби."
+    },
+    "income": {
+      "editIncomeCategory": "Редактиране на категория приходи",
+      "addNewIncomeCategory": "Добавяне на нова категория приходи",
+      "incomeCategory": "Категория приходи",
+      "allIncome": "Всички приходи",
+      "editIncome": "Редактиране на приходи",
+      "addNewIncome": "Редактиране на приходи",
+      "addIncome": "Добавяне на приходи"
+    },
+    "moneyIn": {
+      "title": "Списък на приходите",
+      "totalPaymentIn": "Общи приходи"
+    },
+    "moneyOut": {
+      "title": "Списък на разходите",
+      "totalMoneyOut": "Общи разходи"
+    },
+    "profile": {
+      "title": "Моят профил",
+      "editProfile": "Редактиране на профил",
+      "businessInformation": "Бизнес информация",
+      "profileInformation": "Информация за профила"
+    },
+    "parties": {
+      "title": "Списък на страните",
+      "allParties": "Всички страни",
+      "customer": "Клиент",
+      "supplier": "Доставчик",
+      "addParties": "Добавяне на страни",
+      "editParties": "Редактиране на страни",
+      "partiesDetails": "Подробности за страните",
+      "personalInfo": "Лична информация"
+    },
+    "ledger": {
+      "subTitle": "Счетоводна книга"
+    },
+    "purchase": {
+      "title": "Добавяне на нова покупка",
+      "editPurchase": "Редактиране на покупка"
+    },
+    "reports": {
+      "title": "Отчети"
+    },
+    "table": {
+      "title": "Добавяне на нова маса",
+      "editTable": "Редактиране на маса"
+    },
+    "tax": {
+      "title": "Ставки на ДДС",
+      "buildHeaderTitle": "Ставки на ДДС - Управление на вашите ставки на ДДС",
+      "vatGroup": {
+        "title": "Група ДДС",
+        "subTitle": "Група ДДС - Управление на вашата група ДДС"
+      }
+    },
+    "vat": {
+      "addNewVat": "Добавяне на нов ДДС",
+      "editVat": "Редактиране на ДДС",
+      "addNewVatGroup": "Добавяне на нова група ДДС",
+      "editVatGroup": "Редактиране на група ДДС"
+    },
+    "orderList": {
+      "title": "Списък с поръчки",
+      "filters": {
+        "orderType": {
+          "label": "@:common.orderType",
+          "hint": "Изберете тип поръчка"
+        },
+        "paymentStatus": {
+          "hint": "Изберете статус на плащане",
+          "label": "Статус на плащане"
+        }
+      }
+    },
+    "staffs": {
+      "staffList": {
+        "filters": {
+          "designation": {
+            "label": "Длъжност",
+            "hint": "Изберете длъжност"
+          }
+        },
+        "title": "Целия персонал"
+      },
+      "manageStaff": {
+        "title1": "Добавяне на нов персонал",
+        "title2": "Актуализиране на персонала"
+      }
+    },
+    "ingredient": {
+      "ingredientList": {
+        "title1": "Списък на съставките",
+        "title2": "Изберете съставка"
+      },
+      "manageIngredient": {
+        "title1": "Добавяне на нова съставка",
+        "title2": "Редактиране на съставка"
+      }
+    },
+    "itemModifier": {
+      "itemModifierList": {
+        "title": "@:common.itemModifiers"
+      },
+      "manageItemModifier": {
+        "title1": "Добавяне на модификатори на артикули",
+        "title2": "Редактиране на модификатори на артикули"
+      }
+    },
+    "quotation": {
+      "manageQuotation": {
+        "title": {
+          "add": "Добавяне на нова оферта",
+          "edit": "Редактиране на оферта",
+          "convert": "Преобразуване в продажба"
+        }
+      }
+    },
+    "rolePermission": {
+      "rolePermissionList": {
+        "title": "Списък с роли и разрешения"
+      },
+      "manageRolePermission": {
+        "title1": "Добавяне на нова роля",
+        "title2": "Редактиране на роля"
+      }
+    },
+    "printingOption": {
+      "title": "Опция за печат",
+      "form": {
+        "companyAddress": {
+          "label": "Адрес на компанията",
+          "hint": "Въведете адрес на компанията"
+        },
+        "noteLabel": {
+          "label": "Етикет на бележка",
+          "hint": "Въведете етикет на бележка."
+        },
+        "note": {
+          "label": "Бележка",
+          "hint": "Въведете бележка."
+        },
+        "postSaleMessage": {
+          "label": "Съобщение след продажба",
+          "hint": "Въведете съобщение след продажба"
+        },
+        "printingMethod": {
+          "label": "Метод на печат",
+          "hint": "Изберете метод на печат"
+        },
+        "printerProfile": {
+          "label": "Профил на принтер",
+          "hint": "Изберете профил на принтер"
+        },
+        "paperSize": {
+          "label": "Размер на хартията за термичен принтер",
+          "hint": "Изберете размер на хартията за принтер"
+        },
+        "printerDpi": {
+          "label": "DPI на принтер",
+          "hint": "Напр: 203"
+        },
+        "printingMargin": {
+          "label": "Марж на печат",
+          "hint": "Напр: 2"
+        }
+      },
+      "tooltip": {
+        "printingMethod": {
+          "title": "Падащо меню с опции:",
+          "default": "• По подразбиране (Нативен метод за печат на стандартни символи на ЕС)",
+          "image": "• Изображение (Препоръчително за печат на Unicode символи)"
+        }
+      },
+      "action": {
+        "save": "Запази"
+      }
+    },
+    "kitchen": {
+      "list": {
+        "noKitchensFound": "Не са намерени кухни.\n Моля, опитайте да добавите такава."
+      },
+      "manage": {
+        "addKitchen": "Добави кухня",
+        "editKitchen": "Редактирай кухня",
+        "kitchenName": {
+          "label": "Име на кухнята",
+          "hint": "Въведете име на кухнята",
+          "error": "Моля, въведете име на кухнята."
+        },
+        "description": {
+          "label": "Описание",
+          "hint": "Въведете описание"
+        }
+      },
+      "manageItems": {
+        "title": "Управление на артикули",
+        "addedItems": "Добавени артикули",
+        "selectItemsError": "Моля, изберете артикули.",
+        "noItemsAdded": "Все още няма добавени артикули!\nМоля, опитайте да добавите артикули."
+      },
+      "card": {
+        "itemName": "Име на артикула",
+        "manageItems": "+ Управление на артикули",
+        "deleteItemConfirm": "Искате ли да изтриете този артикул?",
+        "deleteKitchenConfirm": "Искате ли да изтриете тази кухня?"
+      }
+    }
+  },
+  "enums": {
+    "dropdownDateFilter": {
+      "daily": "Ежедневно",
+      "weekly": "Седмично",
+      "monthly": "Месечно",
+      "yearly": "Годишно",
+      "custom": "По избор"
+    },
+    "orderTypes": {
+      "dineIn": "На място",
+      "pickUp": "Вземане",
+      "delivery": "Доставка",
+      "reservation": "Резервация",
+      "quotation": "Оферта"
+    },
+    "paymentStatus": {
+      "paid": "Платено",
+      "unpaid": "Неплатено"
+    },
+    "staffTypes": {
+      "manager": "Мениджър",
+      "waiter": "Сервитьор",
+      "chef": "Готвач",
+      "cleaner": "Чистач",
+      "driver": "Шофьор",
+      "deliveryBoy": "Доставчик"
+    },
+    "itemFoodTypes": {
+      "veg": "Вегетариански",
+      "nonVeg": "Невегетариански",
+      "egg": "Яйчен",
+      "drink": "Напитка",
+      "others": "Други"
+    },
+    "itemTypes": {
+      "single": "Единичен",
+      "variation": "Вариация"
+    },
+    "quotationStatus": {
+      "open": "Отворена",
+      "closed": "Затворена"
+    },
+    "tableStatus": {
+      "running": "Заета",
+      "available": "Свободна"
+    },
+    "thermalPrinterPrintingMethod": {
+      "image": "Изображение",
+      "default": "По подразбиране"
+    },
+    "kotOrderStatus": {
+      "label": {
+        "pending": "Изчакваща",
+        "preparing": "Приготвя се",
+        "ready": "Готова храна",
+        "served": "Сервирана",
+        "cancelled": "Анулирана"
+      },
+      "pending": "Изчакваща",
+      "preparing": "Приготвя се",
+      "ready": "Готова храна",
+      "served": "Сервирана",
+      "cancelled": "Анулирана"
+    },
+    "kotItemStatus": {
+      "pending": "Започни готвене",
+      "start": "Маркирай като готова",
+      "ready": "Готов"
+    }
+  },
+  "thermalPrint": {
+    "invoice": {
+      "purchaseInvoiceLabel": "Фактура за покупка: ${invoiceNumber: String}",
+      "saleInvoiceLabel": "Номер на поръчка: ${invoiceNumber: String}",
+      "receiptNoLabel": "Номер на разписка: ${invoiceNumber: String}",
+      "orderNoKotLabel": "Номер на поръчка: ${invoiceNumber: String}",
+      "nameLabel": "Име: ${name: String}",
+      "mobileLabel": "Мобилен: ${phone: String}",
+      "purchasedByLabel": "Закупено от: ${role: String}",
+      "salesByLabel": "Продадено от: ${role: String}",
+      "paidByLabel": "${label: String}: ${role: String}",
+      "paidToReceivedFromLabel": "${label: String}: ${name: String}",
+      "orderTypeLabel": "Тип поръчка: ${orderType: String}",
+      "tableLabel": "Маса: ${tableName: String}",
+      "tableNoLabel": "Номер на маса: ${tableName: String}",
+      "dateLabel": "Дата: ${dateTime: String}",
+      "invoiceFlag": "ФАКТУРА",
+      "receiptFlag": "РАЗПИСКА",
+      "paidBy": "Платено от",
+      "receivedBy": "Получено от",
+      "paidTo": "Платено на",
+      "receivedFrom": "Получено от",
+      "seller": "Продавач: ${name: String}",
+      "address": "Адрес: ${addr: String}",
+      "vatNo": "ДДС номер",
+      "tel": "Тел: ${phoneNumber: String}",
+      "timeLabel": "Време: ${dateTime: String}"
+    },
+    "tableHeaders": {
+      "sl": "№",
+      "item": "Артикул",
+      "cost": "Цена",
+      "qty": "Количество",
+      "uPrice": "Ед. цена",
+      "amount": "Сума",
+      "total": "Общо",
+      "invoiceTable": "Фактура",
+      "dueTable": "Дължимо"
+    },
+    "summary": {
+      "subTotal": "Междинна сума:",
+      "discount": "Отстъпка: ${percentFmt: String}",
+      "vat": "${vatName: String}: ${rateFmt: String}%",
+      "tip": "Бакшиш:",
+      "deliveryCharge": "Такса за доставка:",
+      "totalPayable": "Общо за плащане:",
+      "paidAmount": "Платена сума:",
+      "dueAmount": "Дължима сума:",
+      "paymentType": "Тип плащане: ${method: String}",
+      "remainingDue": "Оставащо дължимо:",
+      "paymentAmount": "Сума за плащане:",
+      "itemsCount": "Артикули: ${count: int}",
+      "qtyTotal": "Количество: ${totalQty: int}"
+    },
+    "footer": {
+      "note": "${noteLabel: String}: ${note: String}",
+      "developedBy": "${developByLabel: String} ${developBy: String}"
+    }
+  },
+  "hrm": {
+    "department": "Отдел",
+    "designation": "Длъжност",
+    "shift": "Смяна",
+    "employee": "Служител",
+    "leave": "Отпуск",
+    "leaveType": "Тип отпуск",
+    "leaveRequest": "Заявка за отпуск",
+    "holiday": "Празник",
+    "attendance": "Присъствие",
+    "payroll": "Ведомост",
+    "pageTitles": {
+      "department": "Отдел",
+      "designation": "Длъжност",
+      "shift": "Смяна",
+      "employee": "Служител",
+      "leave": "Отпуск",
+      "leaveType": "Тип отпуск",
+      "holiday": "Празник",
+      "attendance": "Присъствие",
+      "payroll": "Ведомост",
+      "leaveReports": "Отчети за отпуски",
+      "payrollReports": "Отчети за ведомости",
+      "attendanceReports": "Отчети за присъствие",
+      "addDepartment": "Добави отдел",
+      "editDepartment": "Редактирай отдел",
+      "addDesignation": "Добави длъжност",
+      "editDesignation": "Редактирай длъжност",
+      "addShift": "Добавяне на смяна",
+      "editShift": "Редактиране на смяната",
+      "addEmployee": "Добави служител",
+      "editEmployee": "Редактирай служител",
+      "addLeave": "Добави отпуск",
+      "editLeave": "Редактирай отпуск",
+      "addLeaveType": "Добави тип отпуск",
+      "editLeaveType": "Редактирай тип отпуск",
+      "addHoliday": "Добави празник",
+      "editHoliday": "Редактирай празник",
+      "addAttendance": "Добави присъствие",
+      "editAttendance": "Редактирай присъствие",
+      "addPayroll": "Добави ведомост",
+      "editPayroll": "Редактирай ведомост"
+    },
+    "form": {
+      "labels": {
+        "department": "Отдел",
+        "designation": "Длъжност",
+        "shift": "Смяна",
+        "employee": "Служител",
+        "leaveType": "Тип отпуск",
+        "leaveDuration": "Продължителност",
+        "paymentYear": "Година на плащане",
+        "paymentType": "Тип плащане",
+        "breakStatus": "Статус на почивка",
+        "startTime": "Начален час",
+        "endTime": "Краен час",
+        "startBreakTime": "Начало на почивка",
+        "endBreakTime": "Край на почивка",
+        "breakTime": "Време за почивка",
+        "breakDuration": "Продължителност на почивката",
+        "timeIn": "Време на идване",
+        "timeOut": "Време на тръгване",
+        "duration": "Продължителност",
+        "country": "Държава",
+        "salary": "Заплата",
+        "gender": "Пол",
+        "birthDate": "Дата на раждане",
+        "joinDate": "Дата на постъпване",
+        "holidayName": "Име на празника",
+        "startDate": "Начална дата",
+        "endDate": "Крайна дата",
+        "month": "Месец",
+        "year": "Година",
+        "status": "Статус",
+        "description": "Описание",
+        "amount": "Сума",
+        "payment": "Плащане",
+        "departmentName": "Име на отдела",
+        "designationName": "Име на длъжността",
+        "image": "Изображение",
+        "name": "Име"
+      },
+      "hints": {
+        "selectEmployee": "Избери служител",
+        "selectDepartment": "Избери отдел",
+        "selectDesignation": "Избери длъжност",
+        "selectShift": "Избери смяна",
+        "selectLeaveType": "Избери тип отпуск",
+        "selectMonth": "Избери месец",
+        "selectYear": "Избери година",
+        "selectDate": "Избери дата",
+        "selectStartDate": "Избери начална дата",
+        "selectEndDate": "Избери крайна дата",
+        "selectTimeIn": "Избери време на идване",
+        "selectTimeOut": "Избери време на тръгване",
+        "selectStartTime": "Избери начален час",
+        "selectEndTime": "Избери краен час",
+        "selectStatus": "Избери статус",
+        "selectGender": "Избери пол",
+        "selectPaymentType": "Избери тип плащане",
+        "enterFullName": "Въведи пълно име",
+        "enterEmail": "Въведи имейл",
+        "enterPhone": "Въведи телефон",
+        "enterCountry": "Въведи държава",
+        "enterSalary": "Напр.: 500",
+        "enterHolidayName": "Въведи име на празника",
+        "enterDescription": "Въведи описание...",
+        "autoCalculated": "Автоматично изчислено",
+        "selectDatesFirst": "Първо избери дати",
+        "allEmployee": "Всички служители",
+        "selectEmployeeFirst": "Първо избери служител",
+        "enterDepartmentName": "Въведи име на отдела",
+        "enterDesignationName": "Въведете име на длъжността",
+        "ex": "{value}",
+        "selectBirthDate": "Избери дата на раждане",
+        "selectJoinDate": "Избери дата на постъпване",
+        "selectBreakStatus": "Изберете статус на почивката",
+        "enterLeaveTypeName": "Въведете име на вида отпуск"
+      }
+    },
+    "emptyStates": {
+      "noLeaves": "Няма намерени отпуски",
+      "noPayrollRecords": "Няма намерени ведомости",
+      "noAttendanceRecords": "Няма намерени присъствия",
+      "noLeaveTypes": "Няма намерени видове отпуск",
+      "noEmployees": "Няма намерени служители",
+      "noHolidays": "Няма намерени празници",
+      "noShifts": "Няма намерени смени",
+      "noDesignations": "Няма намерени длъжности",
+      "noDepartments": "Няма намерени отдели"
+    },
+    "confirmations": {
+      "deleteAttendance": "Искате ли да изтриете това присъствие?",
+      "deletePayroll": "Искате ли да изтриете тази ведомост?",
+      "deleteLeave": "Искате ли да изтриете този отпуск?",
+      "deleteLeaveType": "Искате ли да изтриете този вид отпуск?",
+      "deleteEmployee": "Искате ли да изтриете този служител?",
+      "deleteHoliday": "Искате ли да изтриете този празник?",
+      "deleteShift": "Искате ли да изтриете тази смяна?",
+      "deleteDesignation": "Искате ли да изтриете тази длъжност?",
+      "deleteDepartment": "Искате ли да изтриете този отдел?"
+    },
+    "validation": {
+      "selectEmployee": "Моля, изберете служител",
+      "selectMonth": "Моля, изберете месец",
+      "selectEndDate": "Моля, изберете крайна дата",
+      "endDateAfterStart": "Крайната дата трябва да е след началната",
+      "selectStatus": "Моля, изберете статус",
+      "selectLeaveType": "Моля, изберете тип отпуск",
+      "selectStartDate": "Моля, изберете начална дата",
+      "selectDate": "Моля, изберете дата",
+      "selectTimeIn": "Моля, изберете час на влизане",
+      "selectTimeOut": "Моля, изберете час на излизане",
+      "enterDepartmentName": "Моля, въведете име на отдела",
+      "enterDesignationName": "Моля, въведете име на длъжността",
+      "enterName": "Моля, въведете име",
+      "selectDesignation": "Моля, изберете длъжност",
+      "selectDepartment": "Моля, изберете отдел",
+      "enterEmail": "Моля, въведете имейл",
+      "enterValidEmail": "Моля, въведете валиден имейл",
+      "enterPhoneNumber": "Моля, въведете телефонен номер",
+      "enterCountry": "Моля, въведете държава",
+      "enterSalary": "Моля, въведете заплата",
+      "selectGender": "Моля, изберете пол",
+      "selectShift": "Моля, изберете смяна",
+      "selectBirthDate": "Моля, изберете дата на раждане",
+      "selectJoinDate": "Моля, изберете дата на постъпване",
+      "enterHolidayName": "Моля, въведете име на празника",
+      "selectBreakStatus": "Моля, изберете статус на почивката",
+      "selectPaymentYear": "Моля, изберете година на плащане",
+      "selectPaymentType": "Моля, изберете вид плащане",
+      "enterAmount": "Моля, въведете сума",
+      "selectStartBreakTime": "Моля, изберете начален час на почивката",
+      "selectEndBreakTime": "Моля, изберете краен час на почивката",
+      "enterLeaveTypeName": "Моля, въведете име на вида отпуск",
+      "selectStartTime": "Моля, изберете начален час",
+      "selectEndTime": "Моля, изберете краен час"
+    },
+    "dropdowns": {
+      "addNew": "+ Добави нов",
+      "morning": "Сутрин",
+      "day": "Ден",
+      "evening": "Вечер",
+      "night": "Нощ",
+      "yes": "Да",
+      "no": "Не",
+      "approved": "Одобрен",
+      "rejected": "Отхвърлен",
+      "terminated": "Прекратен",
+      "suspended": "Отстранен",
+      "male": "Мъж",
+      "female": "Жена",
+      "pending": "Чакащ",
+      "active": "Активен",
+      "inactive": "Неактивен",
+      "paid": "Платен",
+      "unpaid": "Неплатен"
+    },
+    "units": {
+      "days": "дни"
+    },
+    "fallbacks": {
+      "noNoteAvailable": "Няма бележка",
+      "noDescriptionAvailable": "Няма налично описание",
+      "selectEmployeeFirst": "Първо изберете служител"
+    },
+    "success": {
+      "leaveDelete": "Отпускът е изтрит успешно",
+      "attendanceDelete": "Присъствието е изтрито успешно",
+      "attendanceAdd": "Присъствието е добавено успешно",
+      "attendanceUpdate": "Присъствието е актуализирано успешно",
+      "leaveAdd": "Отпускът е добавен успешно",
+      "leaveUpdate": "Отпускът е актуализиран успешно",
+      "departmentDelete": "Отделът е изтрит успешно",
+      "departmentAdd": "Отделът е добавен успешно",
+      "departmentUpdate": "Отделът е актуализиран успешно",
+      "designationDelete": "Длъжността е изтрита успешно",
+      "designationAdd": "Длъжността е добавена успешно",
+      "designationUpdate": "Длъжността е актуализирана успешно",
+      "employeeDelete": "Служителят е изтрит успешно",
+      "employeeAdd": "Служителят е добавен успешно",
+      "employeeUpdate": "Служителят е актуализиран успешно",
+      "holidayDelete": "Празникът е изтрит успешно",
+      "holidayAdd": "Празникът е добавен успешно",
+      "holidayUpdate": "Празникът е актуализиран успешно",
+      "leaveTypeDelete": "Типът отпуск е изтрит успешно"
+    }
+  }
+}

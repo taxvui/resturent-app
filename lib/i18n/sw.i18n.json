@@ -1,0 +1,1561 @@
+{
+  "@@meta": {
+    "languageCode": "sw_TZ",
+    "languageName": "Swahili",
+    "version": "1.0.0"
+  },
+  "common": {
+    "signIn": "Ingia",
+    "signUp": "Jisajili",
+    "verifyEmail": "Thibitisha Barua Pepe",
+    "customizeProfile": "Badilisha Wasifu",
+    "imageOrLogo": "Nembo au Picha",
+    "createNewPassword": "Unda Nenosiri Jipya",
+    "itemsList": "Orodha ya Bidhaa",
+    "searchItemsName": "Tafuta Jina la Bidhaa",
+    "categoryList": "Orodha ya Kategoria",
+    "brandList": "Orodha ya Alama",
+    "unitList": "Orodha ya Vipimo",
+    "itemDetails": "Maelezo ya Bidhaa",
+    "addStock": "Ongeza Hisa",
+    "profile": "Wasifu",
+    "language": "Lugha",
+    "termsAndConditions": "Sheria na Masharti",
+    "aboutUs": "Kuhusu Sisi",
+    "logout": "Ondoka",
+    "editProfile": "Hariri Wasifu",
+    "fullName": "Jina Kamili",
+    "email": "Barua Pepe",
+    "mobileNumber": "Namba ya Simu",
+    "address": "Anwani",
+    "password": "Nenosiri",
+    "forgotPassword": "Umesahau nenosiri",
+    "edit": "Hariri",
+    "delete": "Futa",
+    "addItems": "Ongeza Bidhaa",
+    "stock": "Hisa",
+    "currentStock": "Hisa Iliyopo",
+    "value": "Thamani",
+    "sales": "Mauzo",
+    "purchase": "Ununuzi",
+    "price": "Bei",
+    "image": "Picha",
+    "upload": "Pakia",
+    "addNew": "Ongeza Mpya",
+    "pricing": "Bei",
+    "name": "Jina",
+    "category(plural)": {
+      "one": "Kategoria",
+      "other": "Kategorias"
+    },
+    "areas": "Areas",
+    "brand": "Alama",
+    "lowStock": "Hisa Ndogo",
+    "unit": "Kitengo",
+    "vat": "VAT",
+    "taxType": "Aina ya Kodi",
+    "purchasePrice": "Bei ya Kununua",
+    "sellingPrice": "Bei ya Uzuwaji",
+    "wholeSalePrice": "Bei ya Kumaliza",
+    "dealerPrice": "Bei ya Muuzaji",
+    "searchHere": "Tafuta hapa",
+    "totalItems": "Jumla ya Bidhaa",
+    "stockValue": "Thamani ya Hisa",
+    "congratulation": "Hongera",
+    "salesList": "Orodha ya Mauzo",
+    "searchInvoiceNumber": "Tafuta Nambari ya Fatura",
+    "view": "Tazama",
+    "kFor": "Kwa",
+    "total": "Jumla",
+    "subTotal": "Jumla ya Chini",
+    "insufficientStockAvailableStock": "Hisa haifishii, Hisa iliyopatikana",
+    "discount": "Punguzo",
+    "selectOne": "Chagua Moja",
+    "allCategory": "Kategoria Zote",
+    "details": "Maelezo",
+    "parcel": "Kifuko",
+    "kot": "KOT",
+    "table": "Meza",
+    "holdTable": "Hifadhi Meza",
+    "capacity": "Uwezo",
+    "commonHint": "mfano: 10",
+    "pleaseEnterQuantity": "Tafadhali ingiza idadi",
+    "quantityMustBeGreaterThanZero": "Idadi lazima iwe kubwa kuliko sifuri",
+    "mobile": "Simu",
+    "orderNo": "Nambari ya Oda",
+    "dateAndTime": "Tarehe na Muda",
+    "items": "Bidhaa",
+    "totalAmount": "Jumla ya Fedha",
+    "paidAmount": "Fedha Ilizolizwa",
+    "dueAmount": "Fedha Baki",
+    "paymentType": "Aina ya Malipo",
+    "thankYou": "Asante",
+    "developedBy": "Imetengenezwa na ${domain: String}",
+    "qty": "Idadi",
+    "amount": "Kiasi",
+    "dashboard": "Dashibodi",
+    "reports": "Ripoti",
+    "home": "Nyumbani",
+    "parties": "Mashirika",
+    "subscriptionPlan": "Mpango wa Usajili",
+    "estimateList": "Orodha ya Tathmini",
+    "purchaseList": "Orodha ya Ununuzi",
+    "dueList": "Orodha ya Malipo Baki",
+    "lossOrProfit": "Hasara/Faida",
+    "stocks": "Hisa",
+    "moneyInList": "Orodha ya Fedha Inayopata",
+    "moneyOutList": "Orodha ya Fedha Inayotolewa",
+    "transactionList": "Orodha ya Muamala",
+    "income": "Mapato",
+    "expense": "Matumizi",
+    "quickView": "Tazama Haraka",
+    "to": "mpaka",
+    "totalSales": "Jumla ya Mauzo",
+    "totalPurchase": "Jumla ya Ununuzi",
+    "holdNumber": "Hifadhi Nambari",
+    "totalExpense": "Jumla ya Matumizi",
+    "loss": "Hasara",
+    "profit": "Faida",
+    "recentTransaction": "Muamala wa Hivi Karibuni",
+    "invoice": "Fatura",
+    "moneyIn": "Fedha Inayopata",
+    "moneyOut": "Fedha Inayotolewa",
+    "paid": "Imelizwa",
+    "due": "Baki",
+    "partial": "Sehemu",
+    "print": "Chapisha",
+    "addCategory": "Ongeza Kategoria",
+    "addExpense": "Ongeza Matumizi",
+    "search": "Tafuta...",
+    "viewDetails": "Tazama Maelezo",
+    "title": "Kichwa cha Habari",
+    "date": "Tarehe",
+    "note": "Kukumbuka",
+    "phoneNumber": "Namba ya Simu",
+    "type": "Aina",
+    "selectContactSType": "Chagua Aina ya Mawasiliano",
+    "moreInfo": "Habari Zaidi",
+    "paymentReceived": "Malipo Yamepokelewa",
+    "selectSupplier": "Chagua Muuzaji",
+    "supplier": "Muuzaji",
+    "received": "Imepokelewa",
+    "balanceDue": "Salio la Malipo Baki",
+    "addPurchase": "Ongeza Ununuzi",
+    "selectedItemWillBeCleared": "Bidhaa zilizochaguliwa zitafutwa",
+    "searchItemName": "Tafuta Jina la Bidhaa",
+    "billItems": "Vitu vya Fatura",
+    "addMoreItems": "Ongeza Bidhaa Zaidi",
+    "payAmount": "Kiasi Cha Kulipa",
+    "salesReport": "Ripoti ya Mauzo",
+    "purchaseReport": "Ripoti ya Ununuzi",
+    "stockReport": "Ripoti ya Hisa",
+    "dueReport": "Ripoti ya Malipo Baki",
+    "dueCollectionReport": "Ripoti ya Kukusanya Malipo Baki",
+    "transactionReport": "Ripoti ya Muamala",
+    "incomeReport": "Ripoti ya Mapato",
+    "dueCollectionList": "Orodha ya Kukusanya Malipo Baki",
+    "expenseReport": "Ripoti ya Matumizi",
+    "dueCollection": "Kukusanya Malipo Baki",
+    "myProfile": "Wasifu Wangu",
+    "printingOption": "Chaguo za Chapisho",
+    "currency": "Sarafu",
+    "paymentMethod": "Njia ya Kulipa",
+    "rateUs": "Tathmini Tunavyo",
+    "termAndCondition": "Sheria na Masharti",
+    "tableList": "Orodha ya Meza",
+    "addTable": "Ongeza Meza",
+    "vatRate": "Kiwango cha VAT%",
+    "action": "Hatua",
+    "status": "Hali",
+    "active": "Imewezeshwa",
+    "inActive": "Haijawezeshwa",
+    "subVats": "VAT Madogo",
+    "add": "Ongeza",
+    "taxRate": "Kiwango cha Kodi%",
+    "subTaxes": "Kodi Ndogo",
+    "group": "kundi",
+    "VAT": "NEEDS_TRANSLATION: VAT (sw)",
+    "subTaxList": "Orodha ya Kodi Ndogo",
+    "vatPercent": "Asilimia ya VAT",
+    "statusIsCannotInActive": "Hali haiwezi kuwa haijawezeshwa ikiwa VAT imependekezwa katika mauzo.",
+    "vatOnSales": "VAT kwenye Mauzo",
+    "transaction": "Muamala",
+    "version": "Toleo ${version: String}",
+    "hold": "Hifadhi",
+    "empty": "Tupu",
+    "appName": "Restaurant App",
+    "duePayment": "Malipo Yanayostahili",
+    "orders": "Maagizo",
+    "all": "Zote",
+    "ingredient": "Kiambato",
+    "menus": "Menyu",
+    "modifierGroups": "Vikundi vya Kirekebishaji",
+    "itemModifiers": "Virekebishaji Vya Bidhaa",
+    "staff": "Wafanyakazi",
+    "coupon": "Kuponi",
+    "pay": "Lipa",
+    "pendingOrders": "Maagizo Yenye Kusubiri",
+    "order": "Agizo",
+    "payNow": "Lipa Sasa",
+    "addStaff": "Ongeza Mfanyakazi",
+    "designation": "Cheo",
+    "itemAdded": "Bidhaa Imeongezwa",
+    "noItemAdded": "Hakuna Bidhaa Iliyoongezwa",
+    "saveNPrint": "Hifadhi & Chapisha",
+    "allowMultiSelection": "Ruhusu chaguo nyingi",
+    "required": "Inahitajika",
+    "optional": "Si lazima",
+    "allowMultiSelectionForSale": "Ruhusu Uchaguzi Mwingi Kwa Mauzo",
+    "isRequired": "Inahitajika",
+    "modifier": "Kirekebishaji",
+    "fullPayment": "Malipo Kamili",
+    "payment": "Malipo",
+    "addTip": "Ongeza Ncha",
+    "netPayable": "Kiasi Kinacholipwa",
+    "receiveAmount": "Kiasi Kilichopokelewa",
+    "changeAmount": "Kiasi Cha Mabadiliko",
+    "quotationList": "Orodha ya Nukuu",
+    "addQuotation": "Ongeza Nukuu",
+    "convert": "Badilisha",
+    "variations": "Aina",
+    "instructions": "Maelekezo",
+    "unavailable": "Haipatikani",
+    "tip": "Kidokezo",
+    "salesQuotationReport": "Ripoti ya Nukuu za Mauzo",
+    "orderType": "Aina ya Agizo",
+    "deliveryCharge": "Ada ya Usafirishaji",
+    "receiptNo": "Namba ya Risiti",
+    "paidBy": "Imelipwa na",
+    "receivedBy": "Imepokelewa na",
+    "paymentAmount": "Kiasi cha Malipo",
+    "remainingDue": "Salio Lililobaki",
+    "roleNPermission": "Jukumu na Ruhusa",
+    "sl": "SL",
+    "features": "Vipengele",
+    "create": "Unda",
+    "update": "Sasisha",
+    "quotations": "Nukuu",
+    "restaurant": "Mgahawa",
+    "printerProfile": "Wasifu wa Printa",
+    "kitchenOrders": "Maagizo ya Jikoni",
+    "kitchen(plural)": {
+      "one": "Jikoni",
+      "other": "Jikoni"
+    },
+    "allKOT": "KOT Zote",
+    "cancelKOT": "Ghairi KOT",
+    "selectCancelReason": "Chagua Sababu ya Kughairi",
+    "additionalComment": "Maoni ya Ziada",
+    "enterComment": "Ingiza maoni",
+    "orderStatus": "Hali ya Agizo",
+    "selectOrderStatus": "Chagua hali ya agizo",
+    "kotReport": "Ripoti ya KOT",
+    "itemFoodType": "Aina ya Chakula",
+    "selectItemFoodType": "Chagua @:common.itemFoodType",
+    "markAllAsRead": "Tia Alama Zote Kama Zimesomwa",
+    "online": "Online",
+    "cancelledReason": "Cancelled Reason",
+    "hrm": "HRM",
+    "notAvailable": "N/A"
+  },
+  "exceptions": {
+    "somethingWentWrong": "Kuna tatizo, tafadhali jaribu tena",
+    "noCategoryFound": "Hakuna kategoria iliyopatikana!\nTafadhali jaribu kuongeza kategoria.",
+    "doYouWantToDeleteThisCategory": "Je, unataka kufuta kategoria hii?",
+    "noBrandFound": "Hakuna alama iliyopatikana!\nTafadhali jaribu kuongeza alama.",
+    "doYouWantToDeleteThisBrand": "Je, unataka kufuta alama hii?",
+    "noItemStockFound": "Hakuna bidhaa hisani!\nTafadhali jaribu kuongeza bidhaa.",
+    "noUnitFound": "Hakuna kitengo kipatikanayo!\nTafadhali jaribu kuongeza kitengo.",
+    "doYouDeleteThisUnit": "Je, unataka kufuta kitengo hiki?",
+    "noSaleFoundPleaseSAddProduct": "Hakuna mauzo yaliyopatikana!\nTafadhali jaribu kuongeza bidhaa.",
+    "doYouWantToDeleteThisSale": "Je, unataka kufuta mauzo haya?",
+    "pleaseAddItemToTheCartFirst": "Tafadhali ongeza bidhaa kwenye deskgela kwanza",
+    "noItemAdded": "Hakuna bidhaa zilizoongezwa",
+    "cannotEditOthersTable": "Huwezi kuhariri meza ya wengine.",
+    "tableIsAlreadyBlocked": "Meza tayari imehifadhiwa.",
+    "failedToGetCustomerDetails": "Imeshindikana kupata maelezo ya mteja.",
+    "noTableFoundPleaseTryAgain": "Hakuna meza zilizopatikana!\nTafadhali jaribu kuongeza meza.",
+    "noDueCollectionFound": "Hakuna fatura ya malipo baki iliyopatikana!\nUtaweza kuona fatura za malipo baki wakati uwapo.",
+    "noExpenseFoundPleaseTryAddingExpense": "Hakuna matumizi yalipatikana!\nTafadhali jaribu kuongeza matumizi.",
+    "doYouWantToDeleteThisExpense": "Je, unataka kufuta matumizi haya?",
+    "noExpenseCategoryFound": "Hakuna kategoria ya matumizi iliyopatikana!\nTafadhali jaribu kuongeza kategoria ya matumizi.",
+    "noTransactionFound": "Hakuna muamala uliopatikana, tafadhali jaribu tena baada!",
+    "pleaseSelectACategory": "Tafadhali chagua kategoria",
+    "noIncomeFound": "Hakuna mapato yaliyopatikana!\nTafadhali jaribu kuongeza mapato",
+    "doYouWantToDeleteThisIncome": "Je, unataka kufuta mapato haya?",
+    "noIncomeCategoryFoundAddingAIncome": "Hakuna kategoria ya mapato iliyopatikana!\nTafadhali jaribu kuongeza kategoria ya mapato.",
+    "noItemFoundPleaseTryAddingItem": "Hakuna bidhaa iliyopatikana!\nTafadhali jaribu kuongeza bidhaa.",
+    "noPartiesFound": "Hakuna mashirika yaliyopatikana",
+    "doYouWantToDeleteThisParty": "Je, unataka kufuta shirika hiki",
+    "noLedgerFound": "Hakuna leja iliyopatikana!\nTafadhali jaribu kuongeza ${transactionType: String}",
+    "areYouSureYouSureWantToDeleteThisTaxType": "Una uhakika unataka kufuta ${taxType: String} hii?",
+    "noItemFoundPleaseSTryAddingAnPurchase": "Hakuna bidhaa iliyopatikana!\nTafadhali jaribu kuongeza ununuzi.",
+    "doYouWantToDeleteThisPurchase": "Je, unataka kufuta ununuzi huu?",
+    "noTransactionFoundYouSeeTransactionHereWhenAvailable": "Hakuna muamala uliopatikana!\nUtawaona muamala hapa itakapopatikana.",
+    "noSaleFoundPleaseTryAddingSale": "Hakuna mauzo yaliyopatikana!\nTafadhali jaribu kuongeza mauzo.",
+    "noPurchaseFoundPleaseTryAddingPurchase": "Hakuna ununuzi uliopatikana!\nTafadhali jaribu kuongeza ununuzi.",
+    "noItemIncomeFound": "Hakuna mapato ya bidhaa iliyopatikana!\nUtaweza kuona data ya mapato wakati uwapo.",
+    "noItemExpenseFound": "Hakuna matumizi ya bidhaa iliyopatikana!\nUtaweza kuona data ya matumizi wakati uwapo.",
+    "noItemDueInvoiceFound": "Hakuna fatura ya malipo baki ya bidhaa iliyopatikana!\nUtaweza kuona fatura ya malipo baki wakati upo.",
+    "noItemDueCollectionInvoiceFound": "Hakuna fatura ya kukusanya malipo baki ya bidhaa iliyopatikana!\nUtaweza kuona fatura za kukusanya malipo baki wakati upo.",
+    "doYouWantToDeleteThisTable": "Je, unataka kufuta meza hii?'",
+    "thisVatIsBeingUsedOnSales": "VAT hii inatumika katika mauzo!",
+    "noPaymentMethodFoundPleaseTryAddingAPaymentMethod": "Njia ya malipo haijapatikana!\nTafadhali jaribu kuongeza njia ya malipo.",
+    "pleaseSelectACustomerFirst": "Tafadhali chagua mteja kwanza.",
+    "pleaseSelectATableToCreateAKot": "Tafadhali chagua meza ili kuunda kot.",
+    "noStaffFound": "Hakuna mfanyakazi aliyepatikana!\\n Tafadhali jaribu kuongeza mfanyakazi",
+    "noIngredientFound": "Hakuna kiambato kilichopatikana!\\n Tafadhali jaribu kuongeza kiambato.",
+    "exceedsPaymentAmount": "Kiasi kilichopokelewa kisizidi kiasi kinacholipwa",
+    "noItemModifierFound": "Hakuna kirekebishaji cha bidhaa kilichopatikana!\\n Tafadhali jaribu kuongeza kirekebishaji cha bidhaa.",
+    "noModifierGroupFound": "Hakuna kikundi cha kirekebishaji kilichopatikana!\\n Tafadhali jaribu kuongeza kikundi cha kirekebishaji.",
+    "noOptionsFound": "Hakuna chaguo zilizopatikana!",
+    "maxImageCountLimit": "Unaweza kuchagua picha hadi 5 tu.",
+    "noQuotationFound": "Hakuna nukuu iliyopatikana!\\n Tafadhali jaribu kuongeza nukuu.",
+    "noPermittedUserFound": "Hakuna mtumiaji aliyeruhusiwa kupatikana!\\n Tafadhali jaribu kuongeza mtumiaji."
+  },
+  "prompt": {
+    "logout": {
+      "title": "@:common.logout",
+      "message": "Una uhakika unataka kutoa?"
+    },
+    "unsavedWarning": {
+      "title": "Unataka kurudi nyuma?",
+      "message": "Sehemu zilizobadilishwa huenda zisiwe zimehifadhiwa!"
+    },
+    "verify": {
+      "title": "Thibitisha Barua Pepe Yako",
+      "description(rich)": "Tumetuma barua pepe ya msimbo wa uthibitisho${emailSpan}\n\nInawezekana barua pepe hiyo iliishia kwenye folda yako ya spam."
+    },
+    "subscriptionExpired": {
+      "title": "Usajili umekamilika!",
+      "message": "Tafadhali fanyia usajili upya ili kuendelea.",
+      "action": "Jisajili"
+    },
+    "items": {
+      "delete": {
+        "title": "Je, unataka kufuta bidhaa hii?"
+      },
+      "filter": {
+        "title": "Panga kwa",
+        "extra": {
+          "lowToHigh": "Chini hadi Juu @:common.price",
+          "highToLow": "Juu hadi Chini @:common.price"
+        }
+      }
+    },
+    "checkInternet": {
+      "title": "Hakuna Uunganisho wa Intaneti",
+      "message": "Tafadhali angalia kiungo cha Wi-Fi au mtandao wa simu na ujaribu tena"
+    },
+    "back": {
+      "title": "Bofya nyuma tena ili tokale."
+    },
+    "stockModelSheet": {
+      "title": "Ongeza Hisa Mpya"
+    },
+    "paymentMethod": {
+      "title": "Je, unataka kufuta njia hii ya malipo?"
+    },
+    "extMsg": {
+      "kotSavedSuccessfully": "KOT imehifadhiwa kwa mafanikio"
+    },
+    "deleteStaff": "Je, unataka kufuta mfanyakazi huyu?",
+    "deleteIngredient": "Je, unataka kufuta kiambato hiki?",
+    "deleteItemModifier": "Je, unataka kufuta kirekebishaji hiki cha bidhaa?",
+    "deleteModifierGroup": "Je, unataka kufuta kikundi hiki cha kirekebishaji?",
+    "deleteQuotation": "Je, unataka kufuta nukuu hii?"
+  },
+  "form": {
+    "fullName": {
+      "label": "@:common.fullName",
+      "hint": "Weka @:common.fullName",
+      "errors": {
+        "required": "Tafadhali weka @:common.fullName yako"
+      }
+    },
+    "email": {
+      "label": "@:common.email",
+      "hint": "Weka @:common.email yako",
+      "errors": {
+        "required": "Tafadhali weka @:common.email yako",
+        "invalid": "⦸ Barua pepe siyo sahihi, tafadhali jaribu tena"
+      }
+    },
+    "password": {
+      "label": "@:common.password",
+      "hint": "* * * * * * * *",
+      "errors": {
+        "required": "Tafadhali weka nenosiri lako",
+        "minLength": "Nenosiri linapaswa kuwa na herufi chache kabisa ${count}!"
+      }
+    },
+    "confirmPassword": {
+      "label": "Thibitisha Nenosiri",
+      "hint": "* * * * * * * *",
+      "errors": {
+        "required": "Tafadhali weka nenosiri lako",
+        "invalid": "Thibitisho la nenosiri halilingani!"
+      }
+    },
+    "otp": {
+      "errors": {
+        "required": "Tafadhali ingiza msimbo wa OTP",
+        "invalid": "Tafadhali ingiza msimbo wa OTP wa sasa"
+      }
+    },
+    "profile": {
+      "businessCategory": {
+        "label": "Kategoria ya Biashara",
+        "hint": "Chagua kategoria ya biashara",
+        "errors": {
+          "required": "Tafadhali chagua kategoria ya biashara"
+        }
+      },
+      "shopOrStore": {
+        "label": "Jina la Duka/Duka*",
+        "hint": "Weka jina la duka au pamoja",
+        "errors": {
+          "required": "Tafadhali weka jina la duka au pamoja lako"
+        }
+      },
+      "openingBalance": {
+        "label": "Salio la Kuanzia",
+        "hint": "Weka salio la kuanzia"
+      },
+      "vatGstTitle": {
+        "label": "Jina la VAT/GST",
+        "hint": "Weka VAT/GST"
+      },
+      "vatGstNumber": {
+        "label": "Namba ya VAT",
+        "hint": "Weka namba ya VAT"
+      }
+    },
+    "vat": {
+      "name": {
+        "label": "Jina",
+        "hint": "Weka jina la VAT",
+        "error": {
+          "required": "Tafadhali weka jina la VAT"
+        }
+      },
+      "subVat": {
+        "label": "VAT Dogo",
+        "hint": "Chagua VAT dogo",
+        "errors": {
+          "required": "Tafadhali chagua VAT dogo"
+        }
+      },
+      "rate": {
+        "label": "Kiwango cha VAT%",
+        "hint": "Ingiza kiwango cha VAT",
+        "errors": {
+          "required": "Tafadhali ingiza kiwango cha VAT."
+        }
+      }
+    },
+    "category": {
+      "label": "@:common.category",
+      "hint": "Chagua kategoria ya bidhaa",
+      "error": {
+        "required": "Tafadhali weka jina la kategoria"
+      }
+    },
+    "items": {
+      "barcode": {
+        "label": "Namba ya Msimbo",
+        "hint": "@:common.selectOne"
+      },
+      "itemName": {
+        "label": "Jina la Bidhaa",
+        "hint": "Weka jina la bidhaa",
+        "extra": {
+          "required": "Tafadhali weka jina la bidhaa"
+        }
+      },
+      "itemCategory": {
+        "label": "Kategoria ya Bidhaa",
+        "hint": "Kategoria ya Bidhaa",
+        "extra": {
+          "label": "Chagua Kategoria",
+          "required": "Tafadhali chagua kategoria"
+        }
+      },
+      "brand": {
+        "label": "@:common.brand",
+        "hint": "@:common.selectOne",
+        "extra": {
+          "hint": "Weka jina la alama",
+          "required": "Tafadhali weka jina la alama"
+        }
+      },
+      "unit": {
+        "label": "@:common.unit",
+        "hint": "@:common.selectOne",
+        "error": {
+          "required": "Tafadhali weka jina la kitengo"
+        }
+      },
+      "stock": {
+        "label": "Hisa ya Anzisho",
+        "hint": "@:common.commonHint",
+        "extra": {
+          "required": "Tafadhali weka idadi ya bidhaa"
+        }
+      },
+      "lowStock": {
+        "label": "@:common.lowStock",
+        "hint": "mfano: 5"
+      },
+      "purchasePrice": {
+        "label": "@:common.purchasePrice",
+        "hint": "mfano: \\$40",
+        "error": {
+          "required": "Tafadhali weka bei ya kununua."
+        }
+      },
+      "salePrice": {
+        "label": "Bei ya Uzuwaji",
+        "hint": "mfano: \\$60",
+        "error": {
+          "required": "Tafadhali weka bei ya uzuwaji."
+        }
+      },
+      "totalSalePrice": {
+        "label": "Bei ya Jumla ya Uzuwaji",
+        "hint": "mfano: \\$100"
+      },
+      "wholeSalePrice": {
+        "label": "@:common.wholeSalePrice",
+        "hint": "Weka bei ya uuzaji wa kidogo"
+      },
+      "dealerPrice": {
+        "label": "@:common.dealerPrice",
+        "hint": "Weka bei ya muhasibu"
+      },
+      "discount": {
+        "label": "Punguzo (%)",
+        "hint": "@:common.commonHint"
+      },
+      "applicableTax": {
+        "label": "Kodi Inayostahiki",
+        "hint": "@:common.selectOne"
+      },
+      "vatType": {
+        "label": "@:common.taxType",
+        "errorText": {
+          "required": "Tafadhali chagua aina ya VAT"
+        }
+      },
+      "menu": {
+        "label": "Chagua Menyu",
+        "errors": {
+          "required": "Tafadhali chagua menyu."
+        },
+        "hint": "Chagua menyu",
+        "extra": {
+          "selectNavLabel": "Chagua Menyu ya Bidhaa"
+        }
+      },
+      "modifierItems": {
+        "label": "Bidhaa za Kirekebishaji",
+        "hint": "Chagua bidhaa za kirekebishaji"
+      },
+      "preparationTime": {
+        "label(rich)": "Muda wa Maandalizi ${minutes(Dakika)}",
+        "hint": "Mfano: 30"
+      },
+      "variation": {
+        "name": {
+          "label": "Jina",
+          "hint": "Weka tofauti",
+          "errors": {
+            "required": "Tafadhali weka jina la tofauti."
+          }
+        },
+        "price": {
+          "errors": {
+            "required": "Tafadhali weka bei."
+          },
+          "label": "Bei",
+          "hint": "Mfano: \\$30"
+        }
+      }
+    },
+    "itemCart": {
+      "hint": "@:common.commonHint",
+      "error": {
+        "required": "@:common.pleaseEnterQuantity",
+        "noZero": "@:common.quantityMustBeGreaterThanZero"
+      }
+    },
+    "sales": {
+      "autoGenerateInvoice": {
+        "label": "Nambari ya Fatura",
+        "hint": "P-00001"
+      },
+      "date": {
+        "label": "Tarehe"
+      },
+      "customer": {
+        "label": "Mteja",
+        "hint": "Chagua Mteja"
+      },
+      "phone": {
+        "label": "Namba ya Simu",
+        "hint": "Weka namba ya simu"
+      },
+      "address": {
+        "label": "Anwani",
+        "hint": "Weka anwani"
+      },
+      "deliveryCharge": {
+        "label": "@:common.deliveryCharge",
+        "hint": "mfano: \\$20",
+        "hint2": "Tozo Mfano: \\$10"
+      },
+      "table": {
+        "hint": "Chagua Meza"
+      },
+      "waiter": {
+        "hint": "Chagua Mhudumu"
+      }
+    },
+    "bill": {
+      "label": "Nambari ya Fatura",
+      "hint": "P-00001"
+    },
+    "supplier": {
+      "label": "Muuzaji",
+      "hint": "Chagua muuzaji",
+      "extra": {
+        "required": "Tafadhali chagua muuzaji"
+      }
+    },
+    "phone": {
+      "label": "Namba ya Simu",
+      "hint": "Weka namba ya simu",
+      "errors": {
+        "required": "Tafadhali weka namba ya simu."
+      }
+    },
+    "address": {
+      "label": "Anwani ya Kampuni",
+      "hint": "Weka anwani ya kampuni"
+    },
+    "payment": {
+      "label": "Jina",
+      "hint": "Weka jina la njia ya malipo",
+      "error": {
+        "required": "Tafadhali weka jina la njia ya malipo"
+      }
+    },
+    "expense": {
+      "label": "Kategoria ya Matumizi",
+      "hint": "Chagua kategoria ya matumizi",
+      "error": {
+        "required": "Tafadhali weka kategoria ya matumizi"
+      }
+    },
+    "income": {
+      "label": "Kategoria ya Mapato",
+      "hint": "Weka jina la kategoria",
+      "error": {
+        "required": "Tafadhali weka jina la kategoria"
+      },
+      "incomeTitle": {
+        "label": "Kichwa cha Mapato",
+        "hint": "Weka mapato"
+      },
+      "incomeCategory": {
+        "label": "Kategoria ya Mapato",
+        "hint": "Chagua kategoria"
+      },
+      "payment": {
+        "label": "Malipo",
+        "hint": "mfano: \\$10"
+      }
+    },
+    "note": {
+      "label": "Kukumbuka (siyo lazima)",
+      "hint": "Weka maandishi"
+    },
+    "parties": {
+      "partyName": {
+        "label": "Jina la Shirika",
+        "hint": "Weka jina la shirika",
+        "error": {
+          "required": "Tafadhali weka jina la shirika"
+        }
+      },
+      "partyPhone": {
+        "label": "Namba ya Simu",
+        "hint": "Weka namba ya simu",
+        "error": {
+          "required": "Tafadhali weka namba ya simu"
+        }
+      }
+    },
+    "table": {
+      "name": {
+        "label": "Jina la Meza",
+        "hint": "Weka jina la meza",
+        "error": {
+          "required": "Tafadhali weka jina la meza"
+        }
+      },
+      "capacity": {
+        "label": "Uwezo",
+        "hint": "Weka uweko",
+        "error": {
+          "required": "Tafadhali weka uweko"
+        }
+      }
+    },
+    "designation": {
+      "label": "@:common.designation",
+      "hint": "Chagua cheo",
+      "errors": {
+        "required": "Tafadhali chagua cheo."
+      }
+    },
+    "ingredientName": {
+      "label": "Jina la Kiambato",
+      "hint": "Weka jina la kiambato",
+      "errors": {
+        "required": "Tafadhali weka jina la kiambato"
+      }
+    },
+    "item": {
+      "label": "Bidhaa",
+      "hint": "Chagua bidhaa",
+      "errors": {
+        "required": "Tafadhali chagua bidhaa."
+      }
+    },
+    "modifierGroup": {
+      "label": "Kikundi cha Kirekebishaji",
+      "hint": "Chagua kikundi cha kirekebishaji",
+      "errors": {
+        "required": "Tafadhali chagua kikundi cha kirekebishaji."
+      }
+    },
+    "description": {
+      "label": "Maelezo",
+      "hint": "Weka maelezo"
+    },
+    "staff": {
+      "label": "@:common.staff",
+      "hint": "Chagua wafanyakazi",
+      "errors": {
+        "required": "Tafadhali chagua wafanyakazi"
+      }
+    },
+    "loginUserName": {
+      "label": "Jina la Mtumiaji wa Kuingia",
+      "hint": "Weka jina la mtumiaji au barua pepe",
+      "errors": {
+        "required": "Tafadhali weka jina la mtumiaji au barua pepe"
+      }
+    }
+  },
+  "action": {
+    "next": "Ifuatayo",
+    "getStarted": "Anza",
+    "skip": "Rusha",
+    "select": "Chagua",
+    "save": "Hifadhi",
+    "verify": "Thibitisha",
+    "signIn": "@:common.signIn",
+    "signUp": "@:common.signUp",
+    "continue": "Endelea",
+    "no": "Hapana",
+    "yes": "Ndiyo",
+    "okay": "Sawa",
+    "cancel": "Ghairi",
+    "confirm": "Thibitisha",
+    "tryAgain": "Jaribu Tenan",
+    "reset": "Weke upya",
+    "apply": "Omba",
+    "stockAdjust": "Rekebisha Hisa",
+    "addMoreItems": "Ongeza Bidhaa Zaidi",
+    "hold": "Hifadhi",
+    "parcel": "@:common.parcel",
+    "buyNow": "Ununue Sasa",
+    "viewAll": "Tazama Zote",
+    "viewLedger": "Tazama Leja",
+    "submit": "Wasilisha",
+    "selected": "Imechaguliwa",
+    "addToCart": "Ongeza kwenye Kikapu",
+    "selectAll": "Chagua Zote",
+    "update": "@:common.update",
+    "addRole": "Ongeza Jukumu"
+  },
+  "pages": {
+    "language": {
+      "appbarTitle": "@:action.select @:common.language"
+    },
+    "onboard": {
+      "onboardData": {
+        "data1": {
+          "title": "Rahisi kutumia @:common.appName",
+          "description": "Oda zisizo na Mshono, Uwekaji Nafasi Rahisi\\n Imarisha Mgahawa Wako kwa Urahisi!"
+        },
+        "data2": {
+          "title": "Usimamizi wa oda bila kuvuruga",
+          "description": "System yetu ya POS itafanya mchakato wa oda wa restoran kwa urahisi"
+        },
+        "data3": {
+          "title": "Takwimu na Ripoti Bora Zaidi",
+          "description": "Dashibodini yetu inatoa takwimu za mauzo na ununuzi kwa wakati wa kweli"
+        }
+      }
+    },
+    "signIn": {
+      "title": "Karibu tena",
+      "subtitle": "Tafadhali weka maelezo yako",
+      "extra": {
+        "rememberMe": "Nikumbuke",
+        "signUpNavigator(rich)": "Huna akaunti? ${getStarted(@:action.getStarted)}",
+        "forgotPassword": "@:common.forgotPassword?"
+      }
+    },
+    "signUp": {
+      "title": "Unda Akaunti Mpya",
+      "subtitle": "Tafadhali weka maelezo yako",
+      "extra": {
+        "signInNavigator(rich)": "Tayari una akaunti? ${signIn(@:action.signIn)}"
+      }
+    },
+    "forgotPassword": {
+      "title": "@:common.forgotPassword",
+      "subtitle": "Weka anwani ya barua pepe yako ili kurudisha nenosiri lako"
+    },
+    "otpVerification": {
+      "title": "Thibitisho",
+      "subtitle": "Msimbo wa nambari 6 umepelekwa kwenye barua pepe yako",
+      "extra": {
+        "codeResend": {
+          "codeSendIn": "Msimbo umepelekwa ndani ya",
+          "resendCode": "Tuma tena msimbo"
+        }
+      }
+    },
+    "resetPassword": {
+      "title": "Weka upya nenosiri",
+      "subtitle": "Weke upya nenosiri lako ili kurudisha na kuingia",
+      "extra": {
+        "dialog": {
+          "title": "Imefanikiwa!",
+          "subtitle": "Ingia na nenosiri jipya.\nTunakukupeleka kwenye ukurasa wa kuingia..."
+        }
+      }
+    },
+    "items": {
+      "itemList": {
+        "extra": {
+          "emptyItem": "Hakuna bidhaa zilizopatikana!\nTafadhali jaribu kuongeza bidhaa."
+        }
+      },
+      "manageItems": {
+        "title": "Ongeza bidhaa mpya",
+        "title2": "Hariri bidhaa",
+        "extra": {
+          "maximum": "Upeo wa 5",
+          "wholeSaleAndDealerPrice": "Bei ya Kumaliza na Bei ya Muuzaji",
+          "addDiscount": "Ongeza punguzo",
+          "addVat": "Ongeza VAT"
+        }
+      },
+      "itemDetails": {
+        "title": "Maelezo ya Bidhaa",
+        "extra": {
+          "noImageAvailable": "Picha haipo!",
+          "preparationTime(rich)": "Muda wa Maandalizi: ${min: String} ${mins(mins)}",
+          "pleaseSelectVariation": "Tafadhali chagua aina",
+          "pleaseSelectOption": "Tafadhali chagua chaguo.",
+          "enterYourInstruction": "Weka maelekezo yako"
+        }
+      }
+    },
+    "category": {
+      "addNewCategory": "Ongeza Kategoria Mpya",
+      "editCategory": "Hariri Kategoria"
+    },
+    "brand": {
+      "addNewBrand": "Ongeza Alama Mpya",
+      "editBrand": "Hariri Alama"
+    },
+    "unit": {
+      "addNewUnit": "Ongeza Kitengo Kipya",
+      "editUnit": "Hariri Kitengo"
+    },
+    "stock": {
+      "stockList": "Orodha ya Hisa"
+    },
+    "aboutUs": {
+      "title": "Kuhusu Sisi"
+    },
+    "privacyPolicy": {
+      "title": "Sera ya Faragha"
+    },
+    "termAndCondition": {
+      "title": "@:common.termAndCondition"
+    },
+    "orders": {
+      "manageOrders": {
+        "extra": {
+          "billItems": "Vitu vya Fatura",
+          "manageQuantity": "Dhibiti Idadi"
+        },
+        "title": {
+          "editOrder": "Hariri Agizo",
+          "editKOT": "Hariri KOT"
+        }
+      }
+    },
+    "onlinePayment": {
+      "title": "Malipo ya Online"
+    },
+    "paymentStatus": {
+      "success": {
+        "title": "Asante",
+        "message": "Tutathibitisha malipo na kuiamua ndani ya saa 24.",
+        "actionButtonText": "Tazama Fatura"
+      },
+      "fail": {
+        "title": "Oops! Malipo hayajafuli",
+        "message": "Muamala umeshindwa kutokana na hitilafu katika mfumo.",
+        "actionButtonText": "Jaribu tena"
+      }
+    },
+    "confirmationDialog": {
+      "title": "Tokale",
+      "message": "Una uhakika unataka tokale?",
+      "acceptationText": "Hapana",
+      "rejectionText": "Tokale"
+    },
+    "payment": {
+      "title": "@:common.paymentMethod",
+      "addPaymentMethod": "Ongeza njia mpya ya malipo",
+      "editPaymentMethod": "Hariri njia ya malipo",
+      "choseOnlinePayment": "Chagua malipo ya online",
+      "selectPaymentMethod": "Chagua njia ya malipo",
+      "pleaseSelectAPaymentMethod": "Tafadhali chagua njia ya malipo.",
+      "methodStatus": {
+        "title": "Hali",
+        "message": "Hali haiwezi kuwa haijawezeshwa ikiwa uonekano haraka umewezeshwa!"
+      }
+    },
+    "subscriptionPlan": {
+      "title": "Nunua mpango wa Premium",
+      "extra": {
+        "actionButtonText": "Rudi",
+        "message": "Amesajiliwa kwa mafanikio.\nSasa unaweza kutumia vipengele vilivyokusanywa.",
+        "mostPopular": "Iliyopendwa zaidi"
+      }
+    },
+    "invoicePreview": {
+      "title": "Tazama kabla ya chapisho",
+      "message": "PDF itakuwa ipatikana karibuni"
+    },
+    "currency": {
+      "title": "@:common.currency"
+    },
+    "dashboard": {
+      "overview": "Muhtasari",
+      "dashboardPrivacy": "Faragha ya dashibodi",
+      "moneyInAndMoneyOut": "Fedha zinazopata na kutoa",
+      "lossAndProfitOverView": "Muhtasari wa faida na hasara"
+    },
+    "due": {
+      "title": "@:common.dueList",
+      "collectionList": "Orodha ya Kukusanya",
+      "dueCollection": "Kukusanya Malipo Baki"
+    },
+    "expense": {
+      "title": "@:common.expense",
+      "editExpense": "Hariri Gharama",
+      "addNewExpense": "Ongeza Gharama Mpya",
+      "editExpenseCategory": "Hariri Kategoria ya Gharama",
+      "addNewExpenseCategory": "Ongeza Kategoria Mpya ya Gharama",
+      "payment": "Malipo",
+      "expenseCategory": "Kategoria ya Gharama",
+      "selectCategory": "Chagua Kategoria",
+      "allExpense": "Gharama Zote",
+      "pleaseSelectACategory": "Tafadhali chagua kategoria",
+      "expenseTitle": {
+        "label": "Kichwa cha Gharama",
+        "hint": "Ingiza gharama"
+      }
+    },
+    "lossProfit": {
+      "title": "Orodha ya Hasara/Faida",
+      "noLossProfitFound": "Hakuna hasara/faida iliyopatikana!\nTafadhali jaribu kuunda mauzo."
+    },
+    "income": {
+      "editIncomeCategory": "Hariri kategoria ya mapato",
+      "addNewIncomeCategory": "Ongeza kategoria ya mapato mpya",
+      "incomeCategory": "Kategoria ya Mapato",
+      "allIncome": "Mapato Yote",
+      "editIncome": "Hariri Mapato",
+      "addNewIncome": "Hariri Mapato",
+      "addIncome": "Ongeza Mapato"
+    },
+    "moneyIn": {
+      "title": "Orodha ya Fedha Inayopata",
+      "totalPaymentIn": "Jumla ya Fedha Inayopata"
+    },
+    "moneyOut": {
+      "title": "Orodha ya Fedha Inayotolewa",
+      "totalMoneyOut": "Jumla ya fedha inayotolewa"
+    },
+    "profile": {
+      "title": "Wasifu Wangu",
+      "editProfile": "Hariri Wasifu",
+      "businessInformation": "Habari za Biashara",
+      "profileInformation": "Habari za Wasifu"
+    },
+    "parties": {
+      "title": "Orodha ya Mashirika",
+      "allParties": "Mashirika Yote",
+      "customer": "Mteja",
+      "supplier": "Muuzaji",
+      "addParties": "Ongeza Mashirika",
+      "editParties": "Hariri Mashirika",
+      "partiesDetails": "Maelezo ya Mashirika",
+      "personalInfo": "Habari za Kibinafsi"
+    },
+    "ledger": {
+      "subTitle": "Leja"
+    },
+    "purchase": {
+      "title": "Ongeza ununuzi mpya",
+      "editPurchase": "Hariri Ununuzi"
+    },
+    "reports": {
+      "title": "Ripoti"
+    },
+    "table": {
+      "title": "Ongeza meza mpya",
+      "editTable": "Hariri Meza"
+    },
+    "tax": {
+      "title": "Viwango vya VAT",
+      "buildHeaderTitle": "Viwango vya VAT - Udhibiti viwango vyako vya VAT",
+      "vatGroup": {
+        "title": "Kundi la VAT",
+        "subTitle": "Kundi la VAT - Udhibiti kundi lako la VAT"
+      }
+    },
+    "vat": {
+      "addNewVat": "Ongeza VAT Mpya",
+      "editVat": "Hariri VAT",
+      "addNewVatGroup": "Ongeza Kundi la VAT Mpya",
+      "editVatGroup": "Hariri Kundi la VAT"
+    },
+    "orderList": {
+      "title": "Orodha ya Agizo",
+      "filters": {
+        "orderType": {
+          "label": "@:common.orderType",
+          "hint": "Chagua Aina ya Agizo"
+        },
+        "paymentStatus": {
+          "hint": "Chagua Hali ya Malipo",
+          "label": "Hali ya Malipo"
+        }
+      }
+    },
+    "staffs": {
+      "staffList": {
+        "filters": {
+          "designation": {
+            "label": "Cheo",
+            "hint": "Chagua Cheo"
+          }
+        },
+        "title": "Wafanyakazi Wote"
+      },
+      "manageStaff": {
+        "title1": "Ongeza Mfanyakazi Mpya",
+        "title2": "Sasisha Mfanyakazi"
+      }
+    },
+    "ingredient": {
+      "ingredientList": {
+        "title1": "Orodha ya Viambato",
+        "title2": "Chagua Kiambato"
+      },
+      "manageIngredient": {
+        "title1": "Ongeza Kiambato Kipya",
+        "title2": "Hariri Kiambato"
+      }
+    },
+    "itemModifier": {
+      "itemModifierList": {
+        "title": "@:common.itemModifiers"
+      },
+      "manageItemModifier": {
+        "title1": "Ongeza Virekebishaji vya Bidhaa",
+        "title2": "Hariri Virekebishaji vya Bidhaa"
+      }
+    },
+    "quotation": {
+      "manageQuotation": {
+        "title": {
+          "add": "Ongeza Nukuu Mpya",
+          "edit": "Hariri Nukuu",
+          "convert": "Badilisha kuwa Mauzo"
+        }
+      }
+    },
+    "rolePermission": {
+      "rolePermissionList": {
+        "title": "Orodha ya Majukumu na Ruhusa"
+      },
+      "manageRolePermission": {
+        "title1": "Ongeza Jukumu Jipya",
+        "title2": "Hariri Jukumu"
+      }
+    },
+    "printingOption": {
+      "title": "Chaguo la Uchapishaji",
+      "form": {
+        "companyAddress": {
+          "label": "Anwani ya Kampuni",
+          "hint": "Ingiza anwani ya kampuni"
+        },
+        "noteLabel": {
+          "label": "Lebo ya Kumbuka",
+          "hint": "Ingiza lebo ya kumbuka."
+        },
+        "note": {
+          "label": "Kumbuka",
+          "hint": "Ingiza kumbuka."
+        },
+        "postSaleMessage": {
+          "label": "Ujumbe baada ya Uuzaji",
+          "hint": "Ingiza ujumbe baada ya uuzaji"
+        },
+        "printingMethod": {
+          "label": "Njia ya Uchapishaji",
+          "hint": "Chagua Njia ya Uchapishaji"
+        },
+        "printerProfile": {
+          "label": "Wasifu wa Printa",
+          "hint": "Chagua wasifu wa printa"
+        },
+        "paperSize": {
+          "label": "Ukubwa wa Karatasi ya Printa ya Joto",
+          "hint": "Chagua ukubwa wa karatasi ya printa"
+        },
+        "printerDpi": {
+          "label": "DPI ya Printa",
+          "hint": "Mfano: 203"
+        },
+        "printingMargin": {
+          "label": "Ukingo wa Uchapishaji",
+          "hint": "Mfano: 2"
+        }
+      },
+      "tooltip": {
+        "printingMethod": {
+          "title": "Orodha kunjuzi na chaguo:",
+          "default": "• Chaguomsingi (Njia ya asili ya kuchapisha herufi za kawaida za EU)",
+          "image": "• Picha (Inapendekezwa kwa kuchapisha herufi za Unicode)"
+        }
+      },
+      "action": {
+        "save": "Hifadhi"
+      }
+    },
+    "kitchen": {
+      "list": {
+        "noKitchensFound": "Hakuna jiko lililopatikana.\n Tafadhali jaribu kuongeza moja."
+      },
+      "manage": {
+        "addKitchen": "Ongeza Jiko",
+        "editKitchen": "Hariri Jiko",
+        "kitchenName": {
+          "label": "Jina la Jiko",
+          "hint": "Ingiza jina la jiko",
+          "error": "Tafadhali ingiza jina la jiko."
+        },
+        "description": {
+          "label": "Maelezo",
+          "hint": "Ingiza maelezo"
+        }
+      },
+      "manageItems": {
+        "title": "Simamia Vitu",
+        "addedItems": "Vitu Vilivyoongezwa",
+        "selectItemsError": "Tafadhali chagua vitu.",
+        "noItemsAdded": "Hakuna vitu vilivyoongezwa bado!\nTafadhali jaribu kuongeza vitu."
+      },
+      "card": {
+        "itemName": "Jina la Kitu",
+        "manageItems": "+ Simamia Vitu",
+        "deleteItemConfirm": "Je, unataka kufuta kitu hiki?",
+        "deleteKitchenConfirm": "Je, unataka kufuta jiko hili?"
+      }
+    }
+  },
+  "enums": {
+    "dropdownDateFilter": {
+      "daily": "Kila siku",
+      "weekly": "Kila wiki",
+      "monthly": "Kila mwezi",
+      "yearly": "Kila mwaka",
+      "custom": "Imechaguliwa na Mtumiaji"
+    },
+    "orderTypes": {
+      "dineIn": "Kula hapa",
+      "pickUp": "Kuchukua",
+      "delivery": "Uwasilishaji",
+      "reservation": "Uhifadhi",
+      "quotation": "Nukuu"
+    },
+    "paymentStatus": {
+      "paid": "Imelipwa",
+      "unpaid": "Haijalipwa"
+    },
+    "staffTypes": {
+      "manager": "Meneja",
+      "waiter": "Mhudumu",
+      "chef": "Mpishi",
+      "cleaner": "Msaidizi",
+      "driver": "Dereva",
+      "deliveryBoy": "Mtoa Huduma"
+    },
+    "itemFoodTypes": {
+      "veg": "Mboga",
+      "nonVeg": "Si Mboga",
+      "egg": "Yai",
+      "drink": "Kinywaji",
+      "others": "Nyingine"
+    },
+    "itemTypes": {
+      "single": "Moja",
+      "variation": "Tofauti"
+    },
+    "quotationStatus": {
+      "open": "Wazi",
+      "closed": "Imefungwa"
+    },
+    "tableStatus": {
+      "running": "Inatumiwa",
+      "available": "Iko Wazi"
+    },
+    "thermalPrinterPrintingMethod": {
+      "image": "Picha",
+      "default": "Kawaida"
+    },
+    "kotOrderStatus": {
+      "label": {
+        "pending": "Inasubiri",
+        "preparing": "Inaandaliwa",
+        "ready": "Chakula Tayari",
+        "served": "Kimeshapakiwa",
+        "cancelled": "Imeghairiwa"
+      },
+      "pending": "Inasubiri",
+      "preparing": "Inaandaliwa",
+      "ready": "Chakula Tayari",
+      "served": "Kimeshapakiwa",
+      "cancelled": "Imeghairiwa"
+    },
+    "kotItemStatus": {
+      "pending": "Anza Kupika",
+      "start": "Weka Tayari",
+      "ready": "Tayari"
+    }
+  },
+  "thermalPrint": {
+    "invoice": {
+      "purchaseInvoiceLabel": "Ankara ya Ununuzi: ${invoiceNumber: String}",
+      "saleInvoiceLabel": "Namba ya Oda: ${invoiceNumber: String}",
+      "receiptNoLabel": "Namba ya Risiti: ${invoiceNumber: String}",
+      "orderNoKotLabel": "Namba ya Oda: ${invoiceNumber: String}",
+      "nameLabel": "Jina: ${name: String}",
+      "mobileLabel": "Simu ya Mkononi: ${phone: String}",
+      "purchasedByLabel": "Imenunuliwa na: ${role: String}",
+      "salesByLabel": "Imeuzwa na: ${role: String}",
+      "paidByLabel": "${label: String}: ${role: String}",
+      "paidToReceivedFromLabel": "${label: String}: ${name: String}",
+      "orderTypeLabel": "Aina ya Oda: ${orderType: String}",
+      "tableLabel": "Meza: ${tableName: String}",
+      "tableNoLabel": "Namba ya Meza: ${tableName: String}",
+      "dateLabel": "Tarehe: ${dateTime: String}",
+      "invoiceFlag": "ANKARA",
+      "receiptFlag": "RISITI",
+      "paidBy": "Imelipwa na",
+      "receivedBy": "Imepokewa na",
+      "paidTo": "Imelipwa kwa",
+      "receivedFrom": "Imepokewa kutoka",
+      "seller": "Muuzaji: ${name: String}",
+      "address": "Anwani: ${addr: String}",
+      "vatNo": "Nambari ya TIN",
+      "tel": "Simu: ${phoneNumber: String}",
+      "timeLabel": "Muda: ${dateTime: String}"
+    },
+    "tableHeaders": {
+      "sl": "Namba",
+      "item": "Kipengee",
+      "cost": "Gharama",
+      "qty": "Kiasi",
+      "uPrice": "Bei/Kitengo",
+      "amount": "Kiasi cha Fedha",
+      "total": "Jumla",
+      "invoiceTable": "Ankara",
+      "dueTable": "Denin"
+    },
+    "summary": {
+      "subTotal": "Jumla Ndogo:",
+      "discount": "Punguzo: ${percentFmt: String}",
+      "vat": "${vatName: String}: ${rateFmt: String}%",
+      "tip": "Kipawa (Tip):",
+      "deliveryCharge": "Ada ya Uwasilishaji:",
+      "totalPayable": "Jumla ya Kulipwa:",
+      "paidAmount": "Kiasi Kilicholipwa:",
+      "dueAmount": "Kiasi cha Deni:",
+      "paymentType": "Aina ya Malipo: ${method: String}",
+      "remainingDue": "Deni Lililobaki:",
+      "paymentAmount": "Kiasi cha Malipo:",
+      "itemsCount": "Vipengee: ${count: int}",
+      "qtyTotal": "Kiasi: ${totalQty: int}"
+    },
+    "footer": {
+      "note": "${noteLabel: String}: ${note: String}",
+      "developedBy": "${developByLabel: String} ${developBy: String}"
+    }
+  },
+  "hrm": {
+    "department": "Idara",
+    "designation": "Cheo",
+    "shift": "Zamu",
+    "employee": "Mfanyakazi",
+    "leave": "Likizo",
+    "leaveType": "Aina ya Likizo",
+    "leaveRequest": "Ombi la Likizo",
+    "holiday": "Sikukuu",
+    "attendance": "Mahudhurio",
+    "payroll": "Malipo",
+    "pageTitles": {
+      "department": "Idara",
+      "designation": "Cheo",
+      "shift": "Zamu",
+      "employee": "Mfanyakazi",
+      "leave": "Likizo",
+      "leaveType": "Aina ya Likizo",
+      "holiday": "Sikukuu",
+      "attendance": "Mahudhurio",
+      "payroll": "Malipo",
+      "leaveReports": "Ripoti za Likizo",
+      "payrollReports": "Ripoti za Malipo",
+      "attendanceReports": "Ripoti za Mahudhurio",
+      "addDepartment": "Ongeza Idara",
+      "editDepartment": "Hariri Idara",
+      "addDesignation": "Ongeza Cheo",
+      "editDesignation": "Hariri Cheo",
+      "addShift": "Ongeza Shifti",
+      "editShift": "Hariri Shifti",
+      "addEmployee": "Ongeza Mfanyakazi",
+      "editEmployee": "Hariri Mfanyakazi",
+      "addLeave": "Ongeza Likizo",
+      "editLeave": "Hariri Likizo",
+      "addLeaveType": "Ongeza Aina ya Likizo",
+      "editLeaveType": "Hariri Aina ya Likizo",
+      "addHoliday": "Ongeza Sikukuu",
+      "editHoliday": "Hariri Sikukuu",
+      "addAttendance": "Ongeza Mahudhurio",
+      "editAttendance": "Hariri Mahudhurio",
+      "addPayroll": "Ongeza Malipo",
+      "editPayroll": "Hariri Malipo"
+    },
+    "form": {
+      "labels": {
+        "department": "Idara",
+        "designation": "Cheo",
+        "shift": "Shifti",
+        "employee": "Mfanyakazi",
+        "leaveType": "Aina ya Likizo",
+        "leaveDuration": "Muda wa Likizo",
+        "paymentYear": "Mwaka wa Malipo",
+        "paymentType": "Aina ya Malipo",
+        "breakStatus": "Hali ya Mapumziko",
+        "startTime": "Muda wa Kuanza",
+        "endTime": "Muda wa Kumaliza",
+        "startBreakTime": "Mwanzo wa Mapumziko",
+        "endBreakTime": "Mwisho wa Mapumziko",
+        "breakTime": "Muda wa Mapumziko",
+        "breakDuration": "Muda wa Mapumziko (Urefu)",
+        "timeIn": "Muda wa Kuingia",
+        "timeOut": "Muda wa Kutoka",
+        "duration": "Muda",
+        "country": "Nchi",
+        "salary": "Mshahara",
+        "gender": "Jinsia",
+        "birthDate": "Tarehe ya Kuzaliwa",
+        "joinDate": "Tarehe ya Kujiunga",
+        "holidayName": "Jina la Sikukuu",
+        "startDate": "Tarehe ya Kuanza",
+        "endDate": "Tarehe ya Kumaliza",
+        "month": "Mwezi",
+        "year": "Mwaka",
+        "status": "Hali",
+        "description": "Maelezo",
+        "amount": "Kiasi",
+        "payment": "Malipo",
+        "departmentName": "Jina la Idara",
+        "designationName": "Jina la Cheo",
+        "image": "Picha",
+        "name": "Jina"
+      },
+      "hints": {
+        "selectEmployee": "Chagua Mfanyakazi",
+        "selectDepartment": "Chagua Idara",
+        "selectDesignation": "Chagua Cheo",
+        "selectShift": "Chagua Zamu",
+        "selectLeaveType": "Chagua Aina ya Likizo",
+        "selectMonth": "Chagua Mwezi",
+        "selectYear": "Chagua Mwaka",
+        "selectDate": "Chagua Tarehe",
+        "selectStartDate": "Chagua Tarehe ya Kuanza",
+        "selectEndDate": "Chagua Tarehe ya Kumaliza",
+        "selectTimeIn": "Chagua Muda wa Kuingia",
+        "selectTimeOut": "Chagua Muda wa Kutoka",
+        "selectStartTime": "Chagua Muda wa Kuanza",
+        "selectEndTime": "Chagua Muda wa Kumaliza",
+        "selectStatus": "Chagua Hali",
+        "selectGender": "Chagua Jinsia",
+        "selectPaymentType": "Chagua Aina ya Malipo",
+        "enterFullName": "Ingiza Jina Kamili",
+        "enterEmail": "Ingiza Barua pepe",
+        "enterPhone": "Ingiza Simu",
+        "enterCountry": "Ingiza Nchi",
+        "enterSalary": "Mfano: 500",
+        "enterHolidayName": "Ingiza Jina la Sikukuu",
+        "enterDescription": "Ingiza Maelezo...",
+        "autoCalculated": "Imehesabiwa Otomatiki",
+        "selectDatesFirst": "Chagua Tarehe Kwanza",
+        "allEmployee": "Wafanyakazi Wote",
+        "selectEmployeeFirst": "Chagua Mfanyakazi Kwanza",
+        "enterDepartmentName": "Ingiza Jina la Idara",
+        "enterDesignationName": "Ingiza jina la cheo",
+        "ex": "{value}",
+        "selectBirthDate": "Chagua Tarehe ya Kuzaliwa",
+        "selectJoinDate": "Chagua Tarehe ya Kujiunga",
+        "selectBreakStatus": "Chagua Hali ya Mapumziko",
+        "enterLeaveTypeName": "Ingiza jina la aina ya likizo"
+      }
+    },
+    "emptyStates": {
+      "noLeaves": "Hakuna Likizo Zilizopatikana",
+      "noPayrollRecords": "Hakuna Rekodi za Malipo Zilizopatikana",
+      "noAttendanceRecords": "Hakuna Rekodi za Mahudhurio Zilizopatikana",
+      "noLeaveTypes": "Hakuna aina za likizo zilizopatikana",
+      "noEmployees": "Hakuna Wafanyakazi Waliopatikana",
+      "noHolidays": "Hakuna Sikukuu Zilizopatikana",
+      "noShifts": "Hakuna shifti zilizopatikana",
+      "noDesignations": "Hakuna Vyeo Vyilivyopatikana",
+      "noDepartments": "Hakuna Idara Zilizopatikana"
+    },
+    "confirmations": {
+      "deleteAttendance": "Je, una uhakika unataka kufuta mahudhurio haya?",
+      "deletePayroll": "Je, una uhakika unataka kufuta malipo haya?",
+      "deleteLeave": "Je, una uhakika unataka kufuta likizo hii?",
+      "deleteLeaveType": "Je, unataka kufuta aina hii ya likizo?",
+      "deleteEmployee": "Je, una uhakika unataka kufuta mfanyakazi huyu?",
+      "deleteHoliday": "Je, una uhakika unataka kufuta sikukuu hii?",
+      "deleteShift": "Je, unataka kufuta shifti hii?",
+      "deleteDesignation": "Je, una uhakika unataka kufuta cheo hiki?",
+      "deleteDepartment": "Je, una uhakika unataka kufuta idara hii?"
+    },
+    "validation": {
+      "selectEmployee": "Tafadhali chagua mfanyakazi",
+      "selectMonth": "Tafadhali chagua mwezi",
+      "selectEndDate": "Tafadhali chagua tarehe ya kumaliza",
+      "endDateAfterStart": "Tarehe ya kumaliza lazima iwe baada ya tarehe ya kuanza",
+      "selectStatus": "Tafadhali chagua hali",
+      "selectLeaveType": "Tafadhali chagua aina ya likizo",
+      "selectStartDate": "Tafadhali chagua tarehe ya kuanza",
+      "selectDate": "Tafadhali chagua tarehe",
+      "selectTimeIn": "Tafadhali chagua muda wa kuingia",
+      "selectTimeOut": "Tafadhali chagua muda wa kutoka",
+      "enterDepartmentName": "Tafadhali ingiza jina la idara",
+      "enterDesignationName": "Tafadhali ingiza jina la cheo",
+      "enterName": "Tafadhali ingiza jina",
+      "selectDesignation": "Tafadhali chagua cheo",
+      "selectDepartment": "Tafadhali chagua idara",
+      "enterEmail": "Tafadhali ingiza barua pepe",
+      "enterValidEmail": "Tafadhali ingiza barua pepe halali",
+      "enterPhoneNumber": "Tafadhali ingiza namba ya simu",
+      "enterCountry": "Tafadhali ingiza nchi",
+      "enterSalary": "Tafadhali ingiza mshahara",
+      "selectGender": "Tafadhali chagua jinsia",
+      "selectShift": "Tafadhali chagua zamu",
+      "selectBirthDate": "Tafadhali chagua tarehe ya kuzaliwa",
+      "selectJoinDate": "Tafadhali chagua tarehe ya kujiunga",
+      "enterHolidayName": "Tafadhali ingiza jina la sikukuu",
+      "selectBreakStatus": "Tafadhali chagua hali ya mapumziko",
+      "selectPaymentYear": "Tafadhali chagua mwaka wa malipo",
+      "selectPaymentType": "Tafadhali chagua aina ya malipo",
+      "enterAmount": "Tafadhali ingiza kiasi",
+      "selectStartBreakTime": "Tafadhali chagua muda wa kuanza mapumziko",
+      "selectEndBreakTime": "Tafadhali chagua muda wa kumaliza mapumziko",
+      "enterLeaveTypeName": "Tafadhali ingiza jina la aina ya likizo",
+      "selectStartTime": "Tafadhali chagua muda wa kuanza",
+      "selectEndTime": "Tafadhali chagua muda wa kumaliza"
+    },
+    "dropdowns": {
+      "addNew": "+ Ongeza Mpya",
+      "morning": "Asubuhi",
+      "day": "Mchana",
+      "evening": "Jioni",
+      "night": "Usiku",
+      "yes": "Ndio",
+      "no": "Hapana",
+      "approved": "Imeidhinishwa",
+      "rejected": "Imekataliwa",
+      "terminated": "Imesitishwa",
+      "suspended": "Imesimamishwa",
+      "male": "Mwanaume",
+      "female": "Mwanamke",
+      "pending": "Inasubiri",
+      "active": "Hai",
+      "inactive": "Si hai",
+      "paid": "Imelipwa",
+      "unpaid": "Haijalipwa"
+    },
+    "units": {
+      "days": "siku"
+    },
+    "fallbacks": {
+      "noNoteAvailable": "Hakuna dokezo",
+      "noDescriptionAvailable": "Maelezo hayapatikani",
+      "selectEmployeeFirst": "Chagua mfanyakazi kwanza"
+    },
+    "success": {
+      "leaveDelete": "Likizo imefutwa kikamilifu",
+      "attendanceDelete": "Mahudhurio yamefutwa kikamilifu",
+      "attendanceAdd": "Mahudhurio yameongezwa kikamilifu",
+      "attendanceUpdate": "Mahudhurio yamesasishwa kikamilifu",
+      "leaveAdd": "Likizo imeongezwa kikamilifu",
+      "leaveUpdate": "Likizo imesasishwa kikamilifu",
+      "departmentDelete": "Idara imefutwa kikamilifu",
+      "departmentAdd": "Idara imeongezwa kikamilifu",
+      "departmentUpdate": "Idara imesasishwa kikamilifu",
+      "designationDelete": "Cheo kimefutwa kikamilifu",
+      "designationAdd": "Cheo kimeongezwa kikamilifu",
+      "designationUpdate": "Cheo kimesasishwa kikamilifu",
+      "employeeDelete": "Mfanyakazi amefutwa kikamilifu",
+      "employeeAdd": "Mfanyakazi ameongezwa kikamilifu",
+      "employeeUpdate": "Mfanyakazi amesasishwa kikamilifu",
+      "holidayDelete": "Sikukuu imefutwa kikamilifu",
+      "holidayAdd": "Sikukuu imeongezwa kikamilifu",
+      "holidayUpdate": "Sikukuu imesasishwa kikamilifu",
+      "leaveTypeDelete": "Aina ya likizo imefutwa kikamilifu"
+    }
+  }
+}

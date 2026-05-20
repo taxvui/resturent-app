@@ -1,0 +1,1561 @@
+{
+  "@@meta": {
+    "languageCode": "sl_SL",
+    "languageName": "Slovenian",
+    "version": "1.0.0"
+  },
+  "common": {
+    "signIn": "Prijava",
+    "signUp": "Registracija",
+    "verifyEmail": "Potrdi e-pošto",
+    "customizeProfile": "Prilagodi profil",
+    "imageOrLogo": "Logotip ali slika",
+    "createNewPassword": "Ustvari novo geslo",
+    "itemsList": "Seznam artiklov",
+    "searchItemsName": "Iskanje po imenu artikla",
+    "categoryList": "Seznam kategorij",
+    "brandList": "Seznam znamk",
+    "unitList": "Seznam enot",
+    "itemDetails": "Podrobnosti artikla",
+    "addStock": "Dodaj zalogo",
+    "profile": "Profil",
+    "language": "Jezik",
+    "termsAndConditions": "Pogoji poslovanja",
+    "aboutUs": "O nas",
+    "logout": "Odjava",
+    "editProfile": "Uredi profil",
+    "fullName": "Polno ime",
+    "email": "E-pošta",
+    "mobileNumber": "Mobilna številka",
+    "address": "Naslov",
+    "password": "Geslo",
+    "forgotPassword": "Ste pozabili geslo?",
+    "edit": "Uredi",
+    "delete": "Izbriši",
+    "addItems": "Dodaj artikle",
+    "stock": "Zaloga",
+    "currentStock": "Trenutna zaloga",
+    "value": "Vrednost",
+    "sales": "Prodaja",
+    "purchase": "Nakup",
+    "price": "Cena",
+    "image": "Slika",
+    "upload": "Naloži",
+    "addNew": "Dodaj novo",
+    "pricing": "Cenik",
+    "name": "Ime",
+    "category(plural)": {
+      "one": "Kategorija",
+      "other": "Kategorijas"
+    },
+    "areas": "Areas",
+    "brand": "Znamka",
+    "lowStock": "Nizka zaloga",
+    "unit": "Enota",
+    "vat": "DDV",
+    "taxType": "Vrsta davka",
+    "purchasePrice": "Nakupna cena",
+    "sellingPrice": "Prodajna cena",
+    "wholeSalePrice": "Veleprodajna cena",
+    "dealerPrice": "Cena za trgovce",
+    "searchHere": "Išči tukaj",
+    "totalItems": "Skupno število artiklov",
+    "stockValue": "Vrednost zaloge",
+    "congratulation": "Čestitke",
+    "salesList": "Seznam prodaj",
+    "searchInvoiceNumber": "Iskanje po številki računa",
+    "view": "Poglej",
+    "kFor": "Za",
+    "total": "Skupaj",
+    "subTotal": "Delna vsota",
+    "insufficientStockAvailableStock": "Nezadostna zaloga, razpoložljiva zaloga",
+    "discount": "Popust",
+    "selectOne": "Izberi eno",
+    "allCategory": "Vse kategorije",
+    "details": "Podrobnosti",
+    "parcel": "Paket",
+    "kot": "KOT",
+    "table": "Miza",
+    "holdTable": "Rezerviraj mizo",
+    "capacity": "Kapaciteta",
+    "commonHint": "Npr.: 10",
+    "pleaseEnterQuantity": "Vnesite količino",
+    "quantityMustBeGreaterThanZero": "Količina mora biti večja od 0",
+    "mobile": "Mobilno",
+    "orderNo": "Številka naročila",
+    "dateAndTime": "Datum in čas",
+    "items": "Artikli",
+    "totalAmount": "Skupni znesek",
+    "paidAmount": "Plačani znesek",
+    "dueAmount": "Neplačani znesek",
+    "paymentType": "Način plačila",
+    "thankYou": "Hvala",
+    "developedBy": "Razvil ${domain: String}",
+    "qty": "Cena",
+    "amount": "Znesek",
+    "dashboard": "Nadzorna plošča",
+    "reports": "Poročila",
+    "home": "Domov",
+    "parties": "Stranke",
+    "subscriptionPlan": "Načrt naročnine",
+    "estimateList": "Seznam predračunov",
+    "purchaseList": "Seznam nakupov",
+    "dueList": "Seznam neplačanih zneskov",
+    "lossOrProfit": "Izguba/Profit",
+    "stocks": "Zaloge",
+    "moneyInList": "Seznam prilivov",
+    "moneyOutList": "Seznam odlivov",
+    "transactionList": "Seznam transakcij",
+    "income": "Prihodek",
+    "expense": "Strošek",
+    "quickView": "Hitri pregled",
+    "to": "do",
+    "totalSales": "Skupna prodaja",
+    "totalPurchase": "Skupni nakup",
+    "holdNumber": "Rezervirana naročila",
+    "totalExpense": "Skupni stroški",
+    "loss": "Izguba",
+    "profit": "Dobiček",
+    "recentTransaction": "Nedavne transakcije",
+    "invoice": "Račun",
+    "moneyIn": "Priliv",
+    "moneyOut": "Odliv",
+    "paid": "Plačano",
+    "due": "Neplačano",
+    "partial": "Delno",
+    "print": "Natisni",
+    "addCategory": "Dodaj kategorijo",
+    "addExpense": "Dodaj strošek",
+    "search": "Išči...",
+    "viewDetails": "Poglej podrobnosti",
+    "title": "Naslov",
+    "date": "Datum",
+    "note": "Opomba",
+    "phoneNumber": "Telefonska številka",
+    "type": "Vrsta",
+    "selectContactSType": "Izberite vrsto kontakta",
+    "moreInfo": "Več informacij",
+    "paymentReceived": "Prejeto plačilo",
+    "selectSupplier": "Izberite dobavitelja",
+    "supplier": "Dobavitelj",
+    "received": "Prejeto",
+    "balanceDue": "Preostali znesek",
+    "addPurchase": "Dodaj nakup",
+    "selectedItemWillBeCleared": "Izbrani artikli bodo izbrisani.",
+    "searchItemName": "Iskanje po imenu artikla",
+    "billItems": "Postavke računa",
+    "addMoreItems": "Dodaj več artiklov",
+    "payAmount": "Znesek plačila",
+    "salesReport": "Poročilo o prodaji",
+    "purchaseReport": "Poročilo o nakupih",
+    "stockReport": "Poročilo o zalogi",
+    "dueReport": "Poročilo o neplačanih zneskih",
+    "dueCollectionReport": "Poročilo o izterjavi neplačanih zneskov",
+    "transactionReport": "Poročilo o transakcijah",
+    "incomeReport": "Poročilo o prihodkih",
+    "dueCollectionList": "Seznam izterjave neplačanih zneskov",
+    "expenseReport": "Poročila o stroških",
+    "dueCollection": "Izterjava neplačanih zneskov",
+    "myProfile": "Moj profil",
+    "printingOption": "Možnosti tiskanja",
+    "currency": "Valuta",
+    "paymentMethod": "Način plačila",
+    "rateUs": "Ocenite nas",
+    "termAndCondition": "Pogoji poslovanja",
+    "tableList": "Seznam miz",
+    "addTable": "Dodaj mizo",
+    "vatRate": "Stopnja DDV %",
+    "action": "Dejanje",
+    "status": "Stanje",
+    "active": "Aktivno",
+    "inActive": "Neaktivno",
+    "subVats": "Pod-DDV-ji",
+    "add": "Dodaj",
+    "taxRate": "Stopnja davka %",
+    "subTaxes": "Pod-davki",
+    "group": "skupina",
+    "VAT": "DDV",
+    "subTaxList": "Seznam pod-davkov",
+    "vatPercent": "Odstotek DDV",
+    "statusIsCannotInActive": "Stanja ni mogoče nastaviti na neaktivno, če je DDV vključen v prodajo.",
+    "vatOnSales": "DDV pri prodaji",
+    "transaction": "Transakcija",
+    "version": "Verzija ${version: String}",
+    "hold": "Rezerviraj",
+    "empty": "Prazno",
+    "appName": "Restaurant App",
+    "duePayment": "Zapadlo plačilo",
+    "orders": "Naročila",
+    "all": "Vse",
+    "ingredient": "Sestavina",
+    "menus": "Meniji",
+    "modifierGroups": "Skupine modifikatorjev",
+    "itemModifiers": "Modifikatorji artiklov",
+    "staff": "Osebje",
+    "coupon": "Kupon",
+    "pay": "Plačaj",
+    "pendingOrders": "Čakajoča naročila",
+    "order": "Naročilo",
+    "payNow": "Plačaj zdaj",
+    "addStaff": "Dodaj osebje",
+    "designation": "Naziv",
+    "itemAdded": "Artikel dodan",
+    "noItemAdded": "Artikel ni dodan",
+    "saveNPrint": "Shrani in natisni",
+    "allowMultiSelection": "Dovoli večkratno izbiro",
+    "required": "Obvezno",
+    "optional": "Izbirno",
+    "allowMultiSelectionForSale": "Dovoli večkratno izbiro za prodajo",
+    "isRequired": "Je obvezno",
+    "modifier": "Modifikator",
+    "fullPayment": "Celotno plačilo",
+    "payment": "Plačilo",
+    "addTip": "Dodaj napitnino",
+    "netPayable": "Neto znesek za plačilo",
+    "receiveAmount": "Prejeti znesek",
+    "changeAmount": "Znesek vračila",
+    "quotationList": "Seznam ponudb",
+    "addQuotation": "Dodaj ponudbo",
+    "convert": "Pretvori",
+    "variations": "Različice",
+    "instructions": "Navodila",
+    "unavailable": "Ni na voljo",
+    "tip": "Namig",
+    "salesQuotationReport": "Poročilo o prodajni ponudbi",
+    "orderType": "Vrsta naročila",
+    "deliveryCharge": "Stroški dostave",
+    "receiptNo": "Št. potrdila",
+    "paidBy": "Plačal/a",
+    "receivedBy": "Prejel/a",
+    "paymentAmount": "Znesek plačila",
+    "remainingDue": "Preostali znesek",
+    "roleNPermission": "Vloge in dovoljenja",
+    "sl": "SL",
+    "features": "Funkcije",
+    "create": "Ustvari",
+    "update": "Posodobi",
+    "quotations": "Ponudbe",
+    "restaurant": "Restavracija",
+    "printerProfile": "Profil tiskalnika",
+    "kitchenOrders": "Kuhinjska naročila",
+    "kitchen(plural)": {
+      "one": "Kuhinja",
+      "other": "Kuhinje"
+    },
+    "allKOT": "Vsi KOT",
+    "cancelKOT": "Prekliči KOT",
+    "selectCancelReason": "Izberite razlog preklica",
+    "additionalComment": "Dodaten komentar",
+    "enterComment": "Vnesite komentar",
+    "orderStatus": "Status naročila",
+    "selectOrderStatus": "Izberite status naročila",
+    "kotReport": "KOT poročilo",
+    "itemFoodType": "Vrsta hrane",
+    "selectItemFoodType": "Izberite @:common.itemFoodType",
+    "markAllAsRead": "Označi vse kot prebrano",
+    "online": "Online",
+    "cancelledReason": "Cancelled Reason",
+    "hrm": "HRM",
+    "notAvailable": "N/A"
+  },
+  "exceptions": {
+    "somethingWentWrong": "Nekaj je šlo narobe, prosimo, poskusite znova",
+    "noCategoryFound": "Ni najdena nobena kategorija!\n Prosimo, poskusite dodati kategorijo.",
+    "doYouWantToDeleteThisCategory": "Ali želite izbrisati to kategorijo?",
+    "noBrandFound": "Ni najdena nobena znamka!\n Prosimo, poskusite dodati znamko.",
+    "doYouWantToDeleteThisBrand": "Ali želite izbrisati to znamko?",
+    "noItemStockFound": "Ni najdena nobena zaloga artiklov!\n Prosimo, poskusite dodati artikel.",
+    "noUnitFound": "Ni najdena nobena enota!\n Prosimo, poskusite dodati enoto.",
+    "doYouDeleteThisUnit": "Ali želite izbrisati to enoto?",
+    "noSaleFoundPleaseSAddProduct": "Ni najdena nobena prodaja!\n Prosimo, poskusite dodati prodajo.",
+    "doYouWantToDeleteThisSale": "Ali želite izbrisati to prodajo?",
+    "pleaseAddItemToTheCartFirst": "Prosimo, najprej dodajte artikle v košarico",
+    "noItemAdded": "Noben artikel ni dodan",
+    "cannotEditOthersTable": "Ne morete urejati tuje mize.",
+    "tableIsAlreadyBlocked": "Miza je že rezervirana.",
+    "failedToGetCustomerDetails": "Pridobivanje podatkov o stranki ni uspelo.",
+    "noTableFoundPleaseTryAgain": "Nobena miza ni najdena!\n Prosimo, poskusite dodati mizo.",
+    "noDueCollectionFound": "Ni najdenih zapadlih računov!\n Zapadle račune si lahko ogledate, ko bodo na voljo.",
+    "noExpenseFoundPleaseTryAddingExpense": "Ni najdenih stroškov!\n Prosimo, poskusite dodati strošek.",
+    "doYouWantToDeleteThisExpense": "Ali želite izbrisati ta strošek?",
+    "noExpenseCategoryFound": "Ni najdena nobena kategorija stroškov!\n Prosimo, poskusite dodati kategorijo stroškov.",
+    "noTransactionFound": "Ni najdenih transakcij, prosimo, poskusite znova kasneje!",
+    "pleaseSelectACategory": "Prosimo, izberite kategorijo",
+    "noIncomeFound": "Ni najdenega nobenega prihodka!\n Prosimo, poskusite dodati prihodek",
+    "doYouWantToDeleteThisIncome": "Ali želite izbrisati ta prihodek?",
+    "noIncomeCategoryFoundAddingAIncome": "Ni najdena nobena kategorija prihodkov!\n Prosimo, poskusite dodati kategorijo prihodkov.",
+    "noItemFoundPleaseTryAddingItem": "Ni najdenega nobenega artikla!\n Prosimo, poskusite dodati artikel.",
+    "noPartiesFound": "Ni najdenih strank",
+    "doYouWantToDeleteThisParty": "Ali želite izbrisati to stranko?",
+    "noLedgerFound": "Ni najdena nobena knjiga!\n Prosimo, poskusite dodati ${transactionType: String}",
+    "areYouSureYouSureWantToDeleteThisTaxType": "Ste prepričani, da želite izbrisati to ${taxType: String}?",
+    "noItemFoundPleaseSTryAddingAnPurchase": "Ni najdenega nobenega artikla!\n Prosimo, poskusite dodati nakup.",
+    "doYouWantToDeleteThisPurchase": "Ali želite izbrisati ta nakup?",
+    "noTransactionFoundYouSeeTransactionHereWhenAvailable": "Ni najdenih transakcij!\n Transakcije bodo prikazane tukaj, ko bodo na voljo.",
+    "noSaleFoundPleaseTryAddingSale": "Ni najdena nobena prodaja!\n Prosimo, poskusite dodati prodajo.",
+    "noPurchaseFoundPleaseTryAddingPurchase": "Ni najden noben nakup!\n Prosimo, poskusite dodati nakup.",
+    "noItemIncomeFound": "Ni najdenih prihodkov artiklov!\n Podatki o prihodkih bodo prikazani, ko bodo na voljo.",
+    "noItemExpenseFound": "Ni najdenih stroškov artiklov!\n Podatki o stroških bodo prikazani, ko bodo na voljo.",
+    "noItemDueInvoiceFound": "Ni najdenih zapadlih računov artiklov!\n Zapadli računi bodo prikazani, ko bodo na voljo.",
+    "noItemDueCollectionInvoiceFound": "'Ni najdenih računov za izterjavo zapadlih zneskov artiklov!\n Računi za izterjavo zapadlih zneskov bodo prikazani, ko bodo na voljo.",
+    "doYouWantToDeleteThisTable": "Ali želite izbrisati to mizo?'",
+    "thisVatIsBeingUsedOnSales": "Ta DDV se uporablja pri prodaji!",
+    "noPaymentMethodFoundPleaseTryAddingAPaymentMethod": "Ni najdenega nobenega načina plačila!\n Prosimo, poskusite dodati način plačila.",
+    "pleaseSelectACustomerFirst": "Prosimo, najprej izberite stranko.",
+    "pleaseSelectATableToCreateAKot": "Prosimo, izberite mizo za ustvarjanje KOT-a.",
+    "noStaffFound": "Osebje ni najdeno!\\n Prosimo, poskusite dodati osebje.",
+    "noIngredientFound": "Sestavina ni najdena!\\n Prosimo, poskusite dodati sestavino.",
+    "exceedsPaymentAmount": "Prejeti znesek ne sme biti večji od zneska za plačilo.",
+    "noItemModifierFound": "Modifikator artikla ni najden!\\n Prosimo, poskusite dodati modifikator artikla.",
+    "noModifierGroupFound": "Skupina modifikatorjev ni najdena!\\n Prosimo, poskusite dodati skupino modifikatorjev.",
+    "noOptionsFound": "Ni najdenih možnosti!",
+    "maxImageCountLimit": "Izberete lahko največ 5 slik.",
+    "noQuotationFound": "Ni najdenih ponudb!\\n Poskusite dodati ponudbo.",
+    "noPermittedUserFound": "Noben dovoljen uporabnik ni najden!\\n Prosimo, poskusite dodati uporabnika."
+  },
+  "prompt": {
+    "logout": {
+      "title": "@:common.logout",
+      "message": "Ste prepričani, da se želite odjaviti?"
+    },
+    "unsavedWarning": {
+      "title": "Se želite vrniti nazaj?",
+      "message": "Spremenjena polja morda ne bodo shranjena!"
+    },
+    "verify": {
+      "title": "Preverite svoj e-poštni naslov",
+      "description(rich)": "Poslali smo e-poštno sporočilo s potrditveno kodo${emailSpan}\n\nMožno je, da je sporočilo končalo v mapi z neželeno pošto."
+    },
+    "subscriptionExpired": {
+      "title": "Naročnina je potekla!",
+      "message": "Za nadaljevanje se prosimo naročite.",
+      "action": "Naroči se"
+    },
+    "items": {
+      "delete": {
+        "title": "Ali želite izbrisati ta artikel?"
+      },
+      "filter": {
+        "title": "Filtriraj po",
+        "extra": {
+          "lowToHigh": "Nizka do visoka @:common.price",
+          "highToLow": "Visoka do nizka @:common.price"
+        }
+      }
+    },
+    "checkInternet": {
+      "title": "Ni internetne povezave",
+      "message": "Prosimo, preverite povezavo Wi-Fi ali mobilnega omrežja in poskusite znova"
+    },
+    "back": {
+      "title": "Pritisnite znova za izhod."
+    },
+    "stockModelSheet": {
+      "title": "Dodaj novo zalogo"
+    },
+    "paymentMethod": {
+      "title": "Ali želite izbrisati ta način plačila?"
+    },
+    "extMsg": {
+      "kotSavedSuccessfully": "KOT uspešno shranjen."
+    },
+    "deleteStaff": "Ali želite izbrisati to osebje?",
+    "deleteIngredient": "Ali želite izbrisati to sestavino?",
+    "deleteItemModifier": "Ali želite izbrisati ta modifikator artikla?",
+    "deleteModifierGroup": "Ali želite izbrisati to skupino modifikatorjev?",
+    "deleteQuotation": "Ali želite izbrisati to ponudbo?"
+  },
+  "form": {
+    "fullName": {
+      "label": "@:common.fullName",
+      "hint": "Vnesite @:common.fullName",
+      "errors": {
+        "required": "Prosimo, vnesite vaše @:common.fullName"
+      }
+    },
+    "email": {
+      "label": "@:common.email",
+      "hint": "Vnesite vaš @:common.email",
+      "errors": {
+        "required": "Prosimo, vnesite vaš e-naslov @:common.email",
+        "invalid": "⦸ Neveljaven e-naslov, poskusite znova"
+      }
+    },
+    "password": {
+      "label": "@:common.password",
+      "hint": "* * * * * * * *",
+      "errors": {
+        "required": "Prosimo, vnesite vaše @:common.password",
+        "minLength": "Geslo mora imeti vsaj ${count} znakov!"
+      }
+    },
+    "confirmPassword": {
+      "label": "Potrdi geslo",
+      "hint": "* * * * * * * *",
+      "errors": {
+        "required": "Prosimo, vnesite vaše @:common.password",
+        "invalid": "Potrditev gesla se ne ujema!"
+      }
+    },
+    "otp": {
+      "errors": {
+        "required": "Prosimo, vnesite OTP.",
+        "invalid": "Prosimo, vnesite trenutni OTP."
+      }
+    },
+    "profile": {
+      "businessCategory": {
+        "label": "Poslovna kategorija",
+        "hint": "Izberite poslovno kategorijo",
+        "errors": {
+          "required": "Prosimo, izberite poslovno kategorijo"
+        }
+      },
+      "shopOrStore": {
+        "label": "Ime trgovine/lokala*",
+        "hint": "Vnesite ime trgovine ali lokala",
+        "errors": {
+          "required": "Prosimo, vnesite ime vaše trgovine ali lokala"
+        }
+      },
+      "openingBalance": {
+        "label": "Začetno stanje",
+        "hint": "Vnesite začetno stanje"
+      },
+      "vatGstTitle": {
+        "label": "Naslov DDV/GST",
+        "hint": "Vnesite DDV/GST"
+      },
+      "vatGstNumber": {
+        "label": "Številka DDV/GST",
+        "hint": "Vnesite številko DDV/GST"
+      }
+    },
+    "vat": {
+      "name": {
+        "label": "Ime",
+        "hint": "Vnesite ime DDV",
+        "error": {
+          "required": "Prosimo, vnesite ime DDV"
+        }
+      },
+      "subVat": {
+        "label": "Pod-DDV",
+        "hint": "Izberite pod-DDV",
+        "errors": {
+          "required": "Izberite pod-DDV"
+        }
+      },
+      "rate": {
+        "label": "Stopnja DDV %",
+        "hint": "Vnesite stopnjo DDV",
+        "errors": {
+          "required": "Vnesite stopnjo DDV."
+        }
+      }
+    },
+    "category": {
+      "label": "@:common.category",
+      "hint": "Izberite kategorijo artikla",
+      "error": {
+        "required": "Prosimo, vnesite ime kategorije"
+      }
+    },
+    "items": {
+      "barcode": {
+        "label": "Črtna koda",
+        "hint": "@:common.selectOne"
+      },
+      "itemName": {
+        "label": "Ime artikla",
+        "hint": "Vnesite ime artikla",
+        "extra": {
+          "required": "Prosimo, vnesite ime artikla"
+        }
+      },
+      "itemCategory": {
+        "label": "Kategorija artikla",
+        "hint": "Kategorija artikla",
+        "extra": {
+          "label": "Izberite kategorijo",
+          "required": "Prosimo, izberite kategorijo"
+        }
+      },
+      "brand": {
+        "label": "@:common.brand",
+        "hint": "@:common.selectOne",
+        "extra": {
+          "hint": "Vnesite ime znamke",
+          "required": "Prosimo, vnesite ime znamke"
+        }
+      },
+      "unit": {
+        "label": "@:common.unit",
+        "hint": "@:common.selectOne",
+        "error": {
+          "required": "Prosimo, vnesite ime enote"
+        }
+      },
+      "stock": {
+        "label": "Začetna zaloga",
+        "hint": "@:common.commonHint",
+        "extra": {
+          "required": "Prosimo, vnesite količino artikla."
+        }
+      },
+      "lowStock": {
+        "label": "@:common.lowStock",
+        "hint": "Npr.: 5"
+      },
+      "purchasePrice": {
+        "label": "@:common.purchasePrice",
+        "hint": "Npr.: \\$40",
+        "error": {
+          "required": "Prosimo, vnesite nakupno ceno."
+        }
+      },
+      "salePrice": {
+        "label": "Prodajna cena",
+        "hint": "Npr.: \\$60",
+        "error": {
+          "required": "Prosimo, vnesite prodajno ceno."
+        }
+      },
+      "totalSalePrice": {
+        "label": "Skupna prodajna cena",
+        "hint": "Npr.: \\$100"
+      },
+      "wholeSalePrice": {
+        "label": "@:common.wholeSalePrice",
+        "hint": "Vnesite veleprodajno ceno"
+      },
+      "dealerPrice": {
+        "label": "@:common.dealerPrice",
+        "hint": "Vnesite ceno za trgovce"
+      },
+      "discount": {
+        "label": "Popust (%)",
+        "hint": "@:common.commonHint"
+      },
+      "applicableTax": {
+        "label": "Veljavni davek",
+        "hint": "@:common.selectOne"
+      },
+      "vatType": {
+        "label": "@:common.taxType",
+        "errorText": {
+          "required": "Prosimo, izberite vrsto DDV"
+        }
+      },
+      "menu": {
+        "label": "Izberite meni",
+        "errors": {
+          "required": "Prosimo, izberite meni."
+        },
+        "hint": "Izberite meni",
+        "extra": {
+          "selectNavLabel": "Izberite meni artikla"
+        }
+      },
+      "modifierItems": {
+        "label": "Modifikatorski artikli",
+        "hint": "Izberite modifikatorske artikle"
+      },
+      "preparationTime": {
+        "label(rich)": "Čas priprave ${minutes(minut)}",
+        "hint": "Npr.: 30"
+      },
+      "variation": {
+        "name": {
+          "label": "Ime",
+          "hint": "Vnesite variacijo",
+          "errors": {
+            "required": "Prosimo, vnesite ime variacije."
+          }
+        },
+        "price": {
+          "errors": {
+            "required": "Prosimo, vnesite ceno."
+          },
+          "label": "Cena",
+          "hint": "Npr.: \\$30"
+        }
+      }
+    },
+    "itemCart": {
+      "hint": "@:common.commonHint",
+      "error": {
+        "required": "@:common.pleaseEnterQuantity",
+        "noZero": "@:common.quantityMustBeGreaterThanZero"
+      }
+    },
+    "sales": {
+      "autoGenerateInvoice": {
+        "label": "Številka računa",
+        "hint": "P-00001"
+      },
+      "date": {
+        "label": "Datum"
+      },
+      "customer": {
+        "label": "Stranka",
+        "hint": "Izberite stranko"
+      },
+      "phone": {
+        "label": "Telefonska številka",
+        "hint": "Vnesite telefonsko številko"
+      },
+      "address": {
+        "label": "Naslov",
+        "hint": "Vnesite naslov"
+      },
+      "deliveryCharge": {
+        "label": "@:common.deliveryCharge",
+        "hint": "Npr.: \\$20",
+        "hint2": "Strošek Npr.: \\$10"
+      },
+      "table": {
+        "hint": "Izberite mizo"
+      },
+      "waiter": {
+        "hint": "Izberite natakarja"
+      }
+    },
+    "bill": {
+      "label": "Številka računa",
+      "hint": "P-00001"
+    },
+    "supplier": {
+      "label": "Dobavitelj",
+      "hint": "Izberite dobavitelja",
+      "extra": {
+        "required": "Prosimo, izberite dobavitelja"
+      }
+    },
+    "phone": {
+      "label": "Telefonska številka",
+      "hint": "Vnesite telefonsko številko",
+      "errors": {
+        "required": "Prosimo, vnesite telefonsko številko."
+      }
+    },
+    "address": {
+      "label": "Naslov podjetja",
+      "hint": "Vnesite naslov podjetja"
+    },
+    "payment": {
+      "label": "Ime",
+      "hint": "Vnesite ime plačila",
+      "error": {
+        "required": "Prosimo, vnesite ime načina plačila"
+      }
+    },
+    "expense": {
+      "label": "Kategorija stroškov",
+      "hint": "Izberite kategorijo stroškov",
+      "error": {
+        "required": "Prosimo, vnesite kategorijo stroškov"
+      }
+    },
+    "income": {
+      "label": "Kategorija prihodkov",
+      "hint": "Vnesite ime kategorije",
+      "error": {
+        "required": "Prosimo, vnesite ime kategorije"
+      },
+      "incomeTitle": {
+        "label": "Naslov prihodka",
+        "hint": "Vnesite prihodek"
+      },
+      "incomeCategory": {
+        "label": "Kategorija prihodkov",
+        "hint": "Izberite kategorijo"
+      },
+      "payment": {
+        "label": "Plačilo",
+        "hint": "Npr.: \\$10"
+      }
+    },
+    "note": {
+      "label": "Opomba (neobvezno)",
+      "hint": "Vnesite besedilo"
+    },
+    "parties": {
+      "partyName": {
+        "label": "Ime stranke",
+        "hint": "Vnesite ime stranke",
+        "error": {
+          "required": "Prosimo, vnesite ime stranke"
+        }
+      },
+      "partyPhone": {
+        "label": "Telefonska številka",
+        "hint": "Vnesite telefonsko številko",
+        "error": {
+          "required": "Prosimo, vnesite telefonsko številko"
+        }
+      }
+    },
+    "table": {
+      "name": {
+        "label": "Ime mize",
+        "hint": "Vnesite ime mize",
+        "error": {
+          "required": "Prosimo, vnesite ime mize"
+        }
+      },
+      "capacity": {
+        "label": "Kapaciteta",
+        "hint": "Vnesite kapaciteto",
+        "error": {
+          "required": "Prosimo, vnesite kapaciteto"
+        }
+      }
+    },
+    "designation": {
+      "label": "@:common.designation",
+      "hint": "Izberite naziv",
+      "errors": {
+        "required": "Prosimo, izberite naziv."
+      }
+    },
+    "ingredientName": {
+      "label": "Ime sestavine",
+      "hint": "Vnesite ime sestavine",
+      "errors": {
+        "required": "Prosimo, vnesite ime sestavine"
+      }
+    },
+    "item": {
+      "label": "Artikel",
+      "hint": "Izberite artikel",
+      "errors": {
+        "required": "Prosimo, izberite artikel."
+      }
+    },
+    "modifierGroup": {
+      "label": "Skupina modifikatorjev",
+      "hint": "Izberite skupino modifikatorjev",
+      "errors": {
+        "required": "Prosimo, izberite skupino modifikatorjev."
+      }
+    },
+    "description": {
+      "label": "Opis",
+      "hint": "Vnesite opis"
+    },
+    "staff": {
+      "label": "@:common.staff",
+      "hint": "Izberite zaposlenega",
+      "errors": {
+        "required": "Prosimo, izberite zaposlenega"
+      }
+    },
+    "loginUserName": {
+      "label": "Uporabniško ime za prijavo",
+      "hint": "Vnesite uporabniško ime ali e-poštni naslov",
+      "errors": {
+        "required": "Prosimo, vnesite uporabniško ime ali e-poštni naslov"
+      }
+    }
+  },
+  "action": {
+    "next": "Naprej",
+    "getStarted": "Začni",
+    "skip": "Preskoči",
+    "select": "Izberi",
+    "save": "Shrani",
+    "verify": "Preveri",
+    "signIn": "@:common.signIn",
+    "signUp": "@:common.signUp",
+    "continue": "Nadaljuj",
+    "no": "Ne",
+    "yes": "Da",
+    "okay": "V redu",
+    "cancel": "Prekliči",
+    "confirm": "Potrdi",
+    "tryAgain": "Poskusi znova",
+    "reset": "Ponastavi",
+    "apply": "Uporabi",
+    "stockAdjust": "Prilagodi zalogo",
+    "addMoreItems": "Dodaj več artiklov",
+    "hold": "Rezerviraj",
+    "parcel": "@:common.parcel",
+    "buyNow": "Kupi zdaj",
+    "viewAll": "Prikaži vse",
+    "viewLedger": "Prikaži knjigo",
+    "submit": "Pošlji",
+    "selected": "Izbrano",
+    "addToCart": "Dodaj v košarico",
+    "selectAll": "Izberi vse",
+    "update": "@:common.update",
+    "addRole": "Dodaj vlogo"
+  },
+  "pages": {
+    "language": {
+      "appbarTitle": "@:action.select @:common.language"
+    },
+    "onboard": {
+      "onboardData": {
+        "data1": {
+          "title": "Enostavno za uporabo @:common.appName",
+          "description": "Brezhibna naročila, enostavne rezervacije\\n Z lahkoto opolnomočite svojo restavracijo!"
+        },
+        "data2": {
+          "title": "Enostavno upravljanje naročil",
+          "description": "Poenostavite postopek sprejemanja naročil vaše restavracije z našim intuitivnim POS sistemom."
+        },
+        "data3": {
+          "title": "Odlična analitika in poročanje",
+          "description": "Naša analitična nadzorna plošča ponuja poročila o prodaji in nakupih v realnem času"
+        }
+      }
+    },
+    "signIn": {
+      "title": "Dobrodošli nazaj",
+      "subtitle": "Prosimo, vnesite svoje podatke.",
+      "extra": {
+        "rememberMe": "Zapomni si me",
+        "signUpNavigator(rich)": "Nimate računa? ${getStarted(@:action.getStarted)}",
+        "forgotPassword": "@:common.forgotPassword?"
+      }
+    },
+    "signUp": {
+      "title": "Ustvari račun",
+      "subtitle": "Prosimo, vnesite svoje podatke",
+      "extra": {
+        "signInNavigator(rich)": "Že imate račun? ${signIn(@:action.signIn)}"
+      }
+    },
+    "forgotPassword": {
+      "title": "@:common.forgotPassword",
+      "subtitle": "Vnesite vaš e-naslov za obnovitev gesla."
+    },
+    "otpVerification": {
+      "title": "Preverjanje",
+      "subtitle": "6-mestna koda je bila poslana na vaš e-naslov",
+      "extra": {
+        "codeResend": {
+          "codeSendIn": "Koda bo poslana čez",
+          "resendCode": "Ponovno pošlji kodo"
+        }
+      }
+    },
+    "resetPassword": {
+      "title": "Ponastavi geslo",
+      "subtitle": "Ponastavite geslo za obnovitev in prijavo v vaš račun",
+      "extra": {
+        "dialog": {
+          "title": "Uspešno spremenjeno!",
+          "subtitle": "Prijavite se z vašim novim geslom.\n Preusmerjanje na prijavo..."
+        }
+      }
+    },
+    "items": {
+      "itemList": {
+        "extra": {
+          "emptyItem": "Ni najden noben artikel!\n Prosimo, poskusite dodati artikel."
+        }
+      },
+      "manageItems": {
+        "title": "Dodaj nov artikel",
+        "title2": "Uredi artikel",
+        "extra": {
+          "maximum": "Največ 5",
+          "wholeSaleAndDealerPrice": "Veleprodajna in trgovska cena",
+          "addDiscount": "Dodaj popust",
+          "addVat": "Dodaj DDV"
+        }
+      },
+      "itemDetails": {
+        "title": "Podrobnosti artikla",
+        "extra": {
+          "noImageAvailable": "Slika ni na voljo!",
+          "preparationTime(rich)": "Čas priprave: ${min: String} ${mins(mins)}",
+          "pleaseSelectVariation": "Prosimo izberite različico",
+          "pleaseSelectOption": "Prosimo izberite možnost.",
+          "enterYourInstruction": "Vnesite vaša navodila"
+        }
+      }
+    },
+    "category": {
+      "addNewCategory": "Dodaj novo kategorijo",
+      "editCategory": "Uredi kategorijo"
+    },
+    "brand": {
+      "addNewBrand": "Dodaj novo znamko",
+      "editBrand": "Uredi znamko"
+    },
+    "unit": {
+      "addNewUnit": "Dodaj novo enoto",
+      "editUnit": "Uredi enoto"
+    },
+    "stock": {
+      "stockList": "Seznam zalog"
+    },
+    "aboutUs": {
+      "title": "O nas"
+    },
+    "privacyPolicy": {
+      "title": "Politika zasebnosti"
+    },
+    "termAndCondition": {
+      "title": "@:common.termAndCondition"
+    },
+    "orders": {
+      "manageOrders": {
+        "extra": {
+          "billItems": "Postavke računa",
+          "manageQuantity": "Upravljanje količine"
+        },
+        "title": {
+          "editOrder": "Uredi naročilo",
+          "editKOT": "Uredi KOT"
+        }
+      }
+    },
+    "onlinePayment": {
+      "title": "Spletno plačilo"
+    },
+    "paymentStatus": {
+      "success": {
+        "title": "Hvala!",
+        "message": "Plačilo bomo pregledali in potrdili v 24 urah.",
+        "actionButtonText": "Prikaži račun"
+      },
+      "fail": {
+        "title": "Ups! Plačilo ni uspelo",
+        "message": "Vaša transakcija ni uspela zaradi tehnične napake.",
+        "actionButtonText": "Poskusite znova"
+      }
+    },
+    "confirmationDialog": {
+      "title": "Odjava",
+      "message": "Ste prepričani, da se želite odjaviti?",
+      "acceptationText": "Ne",
+      "rejectionText": "Odjava"
+    },
+    "payment": {
+      "title": "@:common.paymentMethod",
+      "addPaymentMethod": "Dodaj nov način plačila",
+      "editPaymentMethod": "Uredi način plačila",
+      "choseOnlinePayment": "Izberi spletno plačilo",
+      "selectPaymentMethod": "Izberi način plačila",
+      "pleaseSelectAPaymentMethod": "Prosimo, izberite način plačila.",
+      "methodStatus": {
+        "title": "Stanje",
+        "message": "Stanja ni mogoče nastaviti na neaktivno, če je omogočen hitri pregled!."
+      }
+    },
+    "subscriptionPlan": {
+      "title": "Nakup premium paketa",
+      "extra": {
+        "actionButtonText": "Pojdi nazaj",
+        "message": "Plačilo naročnine je bilo uspešno.\n\nSedaj lahko dostopate do naročenih funkcij.",
+        "mostPopular": "Najbolj priljubljeno"
+      }
+    },
+    "invoicePreview": {
+      "title": "Predogled računa",
+      "message": "Predogled PDF kmalu na voljo"
+    },
+    "currency": {
+      "title": "@:common.currency"
+    },
+    "dashboard": {
+      "overview": "Pregled",
+      "dashboardPrivacy": "Zasebnost nadzorne plošče",
+      "moneyInAndMoneyOut": "Prilivi in odlivi denarja",
+      "lossAndProfitOverView": "Pregled dobička in izgube"
+    },
+    "due": {
+      "title": "@:common.dueList",
+      "collectionList": "Seznam izterjav",
+      "dueCollection": "Izterjava dolgov"
+    },
+    "expense": {
+      "title": "@:common.expense",
+      "editExpense": "Uredi strošek",
+      "addNewExpense": "Dodaj nov strošek",
+      "editExpenseCategory": "Uredi kategorijo stroškov",
+      "addNewExpenseCategory": "Dodaj novo kategorijo stroškov",
+      "payment": "Plačilo",
+      "expenseCategory": "Kategorija stroškov",
+      "selectCategory": "Izberi kategorijo",
+      "allExpense": "Vsi stroški",
+      "pleaseSelectACategory": "Prosimo, izberite kategorijo",
+      "expenseTitle": {
+        "label": "Naslov stroška",
+        "hint": "Vnesi strošek"
+      }
+    },
+    "lossProfit": {
+      "title": "Seznam izgub/dobičkov",
+      "noLossProfitFound": "Izgub/dobičkov ni bilo najdenih!\nProsimo, poskusite ustvariti prodajo."
+    },
+    "income": {
+      "editIncomeCategory": "Uredi kategorijo prihodkov",
+      "addNewIncomeCategory": "Dodaj novo kategorijo prihodkov",
+      "incomeCategory": "Kategorija prihodkov",
+      "allIncome": "Vsi prihodki",
+      "editIncome": "Uredi prihodek",
+      "addNewIncome": "Uredi prihodek",
+      "addIncome": "Dodaj prihodek"
+    },
+    "moneyIn": {
+      "title": "Seznam prilivov",
+      "totalPaymentIn": "Skupni prilivi"
+    },
+    "moneyOut": {
+      "title": "Seznam odlivov",
+      "totalMoneyOut": "Skupni odlivi"
+    },
+    "profile": {
+      "title": "Moj profil",
+      "editProfile": "Uredi profil",
+      "businessInformation": "Podatki o podjetju",
+      "profileInformation": "Podatki o profilu"
+    },
+    "parties": {
+      "title": "Seznam strank",
+      "allParties": "Vse stranke",
+      "customer": "Stranka",
+      "supplier": "Dobavitelj",
+      "addParties": "Dodaj stranke",
+      "editParties": "Uredi stranke",
+      "partiesDetails": "Podrobnosti o stranki",
+      "personalInfo": "Osebni podatki"
+    },
+    "ledger": {
+      "subTitle": "Knjiga"
+    },
+    "purchase": {
+      "title": "Dodaj nov nakup",
+      "editPurchase": "Uredi nakup"
+    },
+    "reports": {
+      "title": "Poročila"
+    },
+    "table": {
+      "title": "Dodaj novo mizo",
+      "editTable": "Uredi mizo"
+    },
+    "tax": {
+      "title": "Stopnje DDV",
+      "buildHeaderTitle": "Stopnje DDV - Upravljajte svoje stopnje DDV",
+      "vatGroup": {
+        "title": "Skupina DDV",
+        "subTitle": "Skupina DDV - Upravljajte svojo skupino DDV"
+      }
+    },
+    "vat": {
+      "addNewVat": "Dodaj nov DDV",
+      "editVat": "Uredi DDV",
+      "addNewVatGroup": "Dodaj novo skupino DDV",
+      "editVatGroup": "Uredi skupino DDV"
+    },
+    "orderList": {
+      "title": "Seznam naročil",
+      "filters": {
+        "orderType": {
+          "label": "@:common.orderType",
+          "hint": "Izberite vrsto naročila"
+        },
+        "paymentStatus": {
+          "hint": "Izberite status plačila",
+          "label": "Status plačila"
+        }
+      }
+    },
+    "staffs": {
+      "staffList": {
+        "filters": {
+          "designation": {
+            "label": "Naziv",
+            "hint": "Izberite naziv"
+          }
+        },
+        "title": "Vse osebje"
+      },
+      "manageStaff": {
+        "title1": "Dodaj novo osebje",
+        "title2": "Posodobi osebje"
+      }
+    },
+    "ingredient": {
+      "ingredientList": {
+        "title1": "Seznam sestavin",
+        "title2": "Izberite sestavino"
+      },
+      "manageIngredient": {
+        "title1": "Dodaj novo sestavino",
+        "title2": "Uredi sestavino"
+      }
+    },
+    "itemModifier": {
+      "itemModifierList": {
+        "title": "@:common.itemModifiers"
+      },
+      "manageItemModifier": {
+        "title1": "Dodaj modifikatorje artiklov",
+        "title2": "Uredi modifikatorje artiklov"
+      }
+    },
+    "quotation": {
+      "manageQuotation": {
+        "title": {
+          "add": "Dodaj novo ponudbo",
+          "edit": "Uredi ponudbo",
+          "convert": "Pretvori v prodajo"
+        }
+      }
+    },
+    "rolePermission": {
+      "rolePermissionList": {
+        "title": "Seznam vlog in dovoljenj"
+      },
+      "manageRolePermission": {
+        "title1": "Dodaj novo vlogo",
+        "title2": "Uredi vlogo"
+      }
+    },
+    "printingOption": {
+      "title": "Možnost tiskanja",
+      "form": {
+        "companyAddress": {
+          "label": "Naslov podjetja",
+          "hint": "Vnesite naslov podjetja"
+        },
+        "noteLabel": {
+          "label": "Oznaka opombe",
+          "hint": "Vnesite oznako opombe."
+        },
+        "note": {
+          "label": "Opomba",
+          "hint": "Vnesite opombo."
+        },
+        "postSaleMessage": {
+          "label": "Sporočilo po prodaji",
+          "hint": "Vnesite sporočilo po prodaji"
+        },
+        "printingMethod": {
+          "label": "Metoda tiskanja",
+          "hint": "Izberite metodo tiskanja"
+        },
+        "printerProfile": {
+          "label": "Profil tiskalnika",
+          "hint": "Izberite profil tiskalnika"
+        },
+        "paperSize": {
+          "label": "Velikost papirja termičnega tiskalnika",
+          "hint": "Izberite velikost papirja tiskalnika"
+        },
+        "printerDpi": {
+          "label": "DPI tiskalnika",
+          "hint": "Primer: 203"
+        },
+        "printingMargin": {
+          "label": "Rob tiskanja",
+          "hint": "Primer: 2"
+        }
+      },
+      "tooltip": {
+        "printingMethod": {
+          "title": "Spustni seznam z možnostmi:",
+          "default": "• Privzeto (Domača metoda za tiskanje standardnih znakov EU)",
+          "image": "• Slika (Priporočeno za tiskanje znakov Unicode)"
+        }
+      },
+      "action": {
+        "save": "Shrani"
+      }
+    },
+    "kitchen": {
+      "list": {
+        "noKitchensFound": "Ni najdenih kuhinj.\n Prosimo, poskusite dodati eno."
+      },
+      "manage": {
+        "addKitchen": "Dodaj kuhinjo",
+        "editKitchen": "Uredi kuhinjo",
+        "kitchenName": {
+          "label": "Ime kuhinje",
+          "hint": "Vnesite ime kuhinje",
+          "error": "Prosimo, vnesite ime kuhinje."
+        },
+        "description": {
+          "label": "Opis",
+          "hint": "Vnesite opis"
+        }
+      },
+      "manageItems": {
+        "title": "Upravljanje artiklov",
+        "addedItems": "Dodani artikli",
+        "selectItemsError": "Prosimo, izberite artikle.",
+        "noItemsAdded": "Ni še dodanih artiklov!\nProsimo, poskusite dodati artikle."
+      },
+      "card": {
+        "itemName": "Ime artikla",
+        "manageItems": "+ Upravljanje artiklov",
+        "deleteItemConfirm": "Ali želite izbrisati ta artikel?",
+        "deleteKitchenConfirm": "Ali želite izbrisati to kuhinjo?"
+      }
+    }
+  },
+  "enums": {
+    "dropdownDateFilter": {
+      "daily": "Dnevno",
+      "weekly": "Tedensko",
+      "monthly": "Mesečno",
+      "yearly": "Letno",
+      "custom": "Po meri"
+    },
+    "orderTypes": {
+      "dineIn": "Jejte v restavraciji",
+      "pickUp": "Prevzem",
+      "delivery": "Dostava",
+      "reservation": "Rezervacija",
+      "quotation": "Ponudba"
+    },
+    "paymentStatus": {
+      "paid": "Plačano",
+      "unpaid": "Neplačano"
+    },
+    "staffTypes": {
+      "manager": "Vodja",
+      "waiter": "Natakar",
+      "chef": "Kuhar",
+      "cleaner": "Čistilec",
+      "driver": "Voznik",
+      "deliveryBoy": "Dostavljalec"
+    },
+    "itemFoodTypes": {
+      "veg": "Vegetarijansko",
+      "nonVeg": "Nevegetarijansko",
+      "egg": "Z jajci",
+      "drink": "Pijača",
+      "others": "Drugo"
+    },
+    "itemTypes": {
+      "single": "Posamezno",
+      "variation": "Variacija"
+    },
+    "quotationStatus": {
+      "open": "Odprto",
+      "closed": "Zaprto"
+    },
+    "tableStatus": {
+      "running": "Zasedeno",
+      "available": "Prosto"
+    },
+    "thermalPrinterPrintingMethod": {
+      "image": "Slika",
+      "default": "Privzeto"
+    },
+    "kotOrderStatus": {
+      "label": {
+        "pending": "V čakalni vrsti",
+        "preparing": "V pripravi",
+        "ready": "Pripravljeno",
+        "served": "Postreženo",
+        "cancelled": "Preklicano"
+      },
+      "pending": "V čakalni vrsti",
+      "preparing": "V pripravi",
+      "ready": "Pripravljeno",
+      "served": "Postreženo",
+      "cancelled": "Preklicano"
+    },
+    "kotItemStatus": {
+      "pending": "Začni pripravo",
+      "start": "Označi kot pripravljeno",
+      "ready": "Pripravljeno"
+    }
+  },
+  "thermalPrint": {
+    "invoice": {
+      "purchaseInvoiceLabel": "Račun za nakup: ${invoiceNumber: String}",
+      "saleInvoiceLabel": "Št. naročila: ${invoiceNumber: String}",
+      "receiptNoLabel": "Št. potrdila: ${invoiceNumber: String}",
+      "orderNoKotLabel": "Št. naročila: ${invoiceNumber: String}",
+      "nameLabel": "Ime: ${name: String}",
+      "mobileLabel": "Mobilni: ${phone: String}",
+      "purchasedByLabel": "Nakupoval: ${role: String}",
+      "salesByLabel": "Prodajal: ${role: String}",
+      "paidByLabel": "${label: String}: ${role: String}",
+      "paidToReceivedFromLabel": "${label: String}: ${name: String}",
+      "orderTypeLabel": "Vrsta naročila: ${orderType: String}",
+      "tableLabel": "Miza: ${tableName: String}",
+      "tableNoLabel": "Št. mize: ${tableName: String}",
+      "dateLabel": "Datum: ${dateTime: String}",
+      "invoiceFlag": "RAČUN",
+      "receiptFlag": "POTRDILO",
+      "paidBy": "Plačnik",
+      "receivedBy": "Prejemnik",
+      "paidTo": "Plačano komu",
+      "receivedFrom": "Prejeto od",
+      "seller": "Prodajalec: ${name: String}",
+      "address": "Naslov: ${addr: String}",
+      "vatNo": "ID za DDV",
+      "tel": "Tel: ${phoneNumber: String}",
+      "timeLabel": "Čas: ${dateTime: String}"
+    },
+    "tableHeaders": {
+      "sl": "Zap. št.",
+      "item": "Postavka",
+      "cost": "Strošek",
+      "qty": "Kol.",
+      "uPrice": "Cena/kos",
+      "amount": "Znesek",
+      "total": "Skupaj",
+      "invoiceTable": "Račun",
+      "dueTable": "Dolgovano"
+    },
+    "summary": {
+      "subTotal": "Delna vsota:",
+      "discount": "Popust: ${percentFmt: String}",
+      "vat": "${vatName: String}: ${rateFmt: String}%",
+      "tip": "Napitnina:",
+      "deliveryCharge": "Strošek dostave:",
+      "totalPayable": "Skupaj za plačilo:",
+      "paidAmount": "Plačani znesek:",
+      "dueAmount": "Dolgovani znesek:",
+      "paymentType": "Vrsta plačila: ${method: String}",
+      "remainingDue": "Preostali dolg:",
+      "paymentAmount": "Znesek plačila:",
+      "itemsCount": "Postavke: ${count: int}",
+      "qtyTotal": "Kol.: ${totalQty: int}"
+    },
+    "footer": {
+      "note": "${noteLabel: String}: ${note: String}",
+      "developedBy": "${developByLabel: String} ${developBy: String}"
+    }
+  },
+  "hrm": {
+    "department": "Oddelek",
+    "designation": "Naziv",
+    "shift": "Izmena",
+    "employee": "Zaposleni",
+    "leave": "Odsotnost",
+    "leaveType": "Vrsta odsotnosti",
+    "leaveRequest": "Zahtevek za odsotnost",
+    "holiday": "Praznik",
+    "attendance": "Prisotnost",
+    "payroll": "Plača",
+    "pageTitles": {
+      "department": "Oddelek",
+      "designation": "Naziv",
+      "shift": "Izmena",
+      "employee": "Zaposleni",
+      "leave": "Odsotnost",
+      "leaveType": "Vrsta odsotnosti",
+      "holiday": "Praznik",
+      "attendance": "Prisotnost",
+      "payroll": "Plača",
+      "leaveReports": "Poročila o odsotnostih",
+      "payrollReports": "Poročila o plačah",
+      "attendanceReports": "Poročila o prisotnosti",
+      "addDepartment": "Dodaj oddelek",
+      "editDepartment": "Uredi oddelek",
+      "addDesignation": "Dodaj naziv",
+      "editDesignation": "Uredi naziv",
+      "addShift": "Dodaj izmeno",
+      "editShift": "Uredi izmeno",
+      "addEmployee": "Dodaj zaposlenega",
+      "editEmployee": "Uredi zaposlenega",
+      "addLeave": "Dodaj odsotnost",
+      "editLeave": "Uredi odsotnost",
+      "addLeaveType": "Dodaj vrsto odsotnosti",
+      "editLeaveType": "Uredi vrsto odsotnosti",
+      "addHoliday": "Dodaj praznik",
+      "editHoliday": "Uredi praznik",
+      "addAttendance": "Dodaj prisotnost",
+      "editAttendance": "Uredi prisotnost",
+      "addPayroll": "Dodaj plačo",
+      "editPayroll": "Uredi plačo"
+    },
+    "form": {
+      "labels": {
+        "department": "Oddelek",
+        "designation": "Naziv",
+        "shift": "Izmena",
+        "employee": "Zaposleni",
+        "leaveType": "Vrsta odsotnosti",
+        "leaveDuration": "Trajanje odsotnosti",
+        "paymentYear": "Leto plačila",
+        "paymentType": "Vrsta plačila",
+        "breakStatus": "Status odmora",
+        "startTime": "Čas začetka",
+        "endTime": "Čas konca",
+        "startBreakTime": "Začetek odmora",
+        "endBreakTime": "Konec odmora",
+        "breakTime": "Čas odmora",
+        "breakDuration": "Trajanje odmora",
+        "timeIn": "Čas prihoda",
+        "timeOut": "Čas odhoda",
+        "duration": "Trajanje",
+        "country": "Država",
+        "salary": "Plača",
+        "gender": "Spol",
+        "birthDate": "Datum rojstva",
+        "joinDate": "Datum zaposlitve",
+        "holidayName": "Ime praznika",
+        "startDate": "Datum začetka",
+        "endDate": "Datum konca",
+        "month": "Mesec",
+        "year": "Leto",
+        "status": "Status",
+        "description": "Opis",
+        "amount": "Znesek",
+        "payment": "Plačilo",
+        "departmentName": "Ime oddelka",
+        "designationName": "Ime delovnega mesta",
+        "image": "Slika",
+        "name": "Ime"
+      },
+      "hints": {
+        "selectEmployee": "Izberite zaposlenega",
+        "selectDepartment": "Izberite oddelek",
+        "selectDesignation": "Izberite naziv",
+        "selectShift": "Izberite izmeno",
+        "selectLeaveType": "Izberite vrsto odsotnosti",
+        "selectMonth": "Izberite mesec",
+        "selectYear": "Izberite leto",
+        "selectDate": "Izberite datum",
+        "selectStartDate": "Izberite datum začetka",
+        "selectEndDate": "Izberite datum konca",
+        "selectTimeIn": "Izberite čas prihoda",
+        "selectTimeOut": "Izberite čas odhoda",
+        "selectStartTime": "Izberite čas začetka",
+        "selectEndTime": "Izberite čas konca",
+        "selectStatus": "Izberite status",
+        "selectGender": "Izberite spol",
+        "selectPaymentType": "Izberite vrsto plačila",
+        "enterFullName": "Vnesite polno ime",
+        "enterEmail": "Vnesite e-pošto",
+        "enterPhone": "Vnesite telefon",
+        "enterCountry": "Vnesite državo",
+        "enterSalary": "Npr.: 500",
+        "enterHolidayName": "Vnesite ime praznika",
+        "enterDescription": "Vnesite opis...",
+        "autoCalculated": "Samodejno izračunano",
+        "selectDatesFirst": "Najprej izberite datume",
+        "allEmployee": "Vsi zaposleni",
+        "selectEmployeeFirst": "Najprej izberite zaposlenega",
+        "enterDepartmentName": "Vnesite ime oddelka",
+        "enterDesignationName": "Vnesite ime delovnega mesta",
+        "ex": "{value}",
+        "selectBirthDate": "Izberite datum rojstva",
+        "selectJoinDate": "Izberite datum zaposlitve",
+        "selectBreakStatus": "Izberi status odmora",
+        "enterLeaveTypeName": "Vnesite ime vrste odsotnosti"
+      }
+    },
+    "emptyStates": {
+      "noLeaves": "Ni najdenih odsotnosti",
+      "noPayrollRecords": "Ni najdenih zapisov o plačah",
+      "noAttendanceRecords": "Ni najdenih zapisov o prisotnosti",
+      "noLeaveTypes": "Vrst odsotnosti ni mogoče najti",
+      "noEmployees": "Ni najdenih zaposlenih",
+      "noHolidays": "Ni najdenih praznikov",
+      "noShifts": "Izmen ni mogoče najti",
+      "noDesignations": "Ni najdenih nazivov",
+      "noDepartments": "Ni najdenih oddelkov"
+    },
+    "confirmations": {
+      "deleteAttendance": "Ali ste prepričani, da želite izbrisati to prisotnost?",
+      "deletePayroll": "Ali ste prepričani, da želite izbrisati to plačo?",
+      "deleteLeave": "Ali ste prepričani, da želite izbrisati to odsotnost?",
+      "deleteLeaveType": "Želite izbrisati to vrsto odsutnosti?",
+      "deleteEmployee": "Ali ste prepričani, da želite izbrisati tega zaposlenega?",
+      "deleteHoliday": "Ali ste prepričani, da želite izbrisati ta praznik?",
+      "deleteShift": "Želite izbrisati to izmeno?",
+      "deleteDesignation": "Ali ste prepričani, da želite izbrisati ta naziv?",
+      "deleteDepartment": "Ali ste prepričani, da želite izbrisati ta oddelek?"
+    },
+    "validation": {
+      "selectEmployee": "Prosimo, izberite zaposlenega",
+      "selectMonth": "Prosimo, izberite mesec",
+      "selectEndDate": "Prosimo, izberite datum konca",
+      "endDateAfterStart": "Datum konca mora biti po datumu začetka",
+      "selectStatus": "Izberite status",
+      "selectLeaveType": "Prosimo, izberite vrsto odsotnosti",
+      "selectStartDate": "Prosimo, izberite datum začetka",
+      "selectDate": "Prosimo, izberite datum",
+      "selectTimeIn": "Izberite čas prihoda",
+      "selectTimeOut": "Izberite čas odhoda",
+      "enterDepartmentName": "Prosimo, vnesite ime oddelka",
+      "enterDesignationName": "Vnesite ime delovnega mesta",
+      "enterName": "Prosimo, vnesite ime",
+      "selectDesignation": "Prosimo, izberite naziv",
+      "selectDepartment": "Prosimo, izberite oddelek",
+      "enterEmail": "Prosimo, vnesite e-pošto",
+      "enterValidEmail": "Prosimo, vnesite veljavno e-pošto",
+      "enterPhoneNumber": "Prosimo, vnesite telefonsko številko",
+      "enterCountry": "Prosimo, vnesite državo",
+      "enterSalary": "Prosimo, vnesite plačo",
+      "selectGender": "Prosimo, izberite spol",
+      "selectShift": "Prosimo, izberite izmeno",
+      "selectBirthDate": "Prosimo, izberite datum rojstva",
+      "selectJoinDate": "Prosimo, izberite datum zaposlitve",
+      "enterHolidayName": "Prosimo, vnesite ime praznika",
+      "selectBreakStatus": "Izberite status odmora",
+      "selectPaymentYear": "Izberite leto plačila",
+      "selectPaymentType": "Izberite vrsto plačila",
+      "enterAmount": "Vnesite znesek",
+      "selectStartBreakTime": "Izberite čas začetka odmora",
+      "selectEndBreakTime": "Izberite čas konca odmora",
+      "enterLeaveTypeName": "Vnesite ime vrste odsotnosti",
+      "selectStartTime": "Izberite čas začetka",
+      "selectEndTime": "Izberite čas konca"
+    },
+    "dropdowns": {
+      "addNew": "+ Dodaj novo",
+      "morning": "Jutro",
+      "day": "Dan",
+      "evening": "Večer",
+      "night": "Noč",
+      "yes": "Da",
+      "no": "Ne",
+      "approved": "Odobreno",
+      "rejected": "Zavrnjeno",
+      "terminated": "Prekinjeno",
+      "suspended": "Suspendirano",
+      "male": "Moški",
+      "female": "Ženska",
+      "pending": "V teku",
+      "active": "Aktivno",
+      "inactive": "Neaktivno",
+      "paid": "Plačano",
+      "unpaid": "Neplačano"
+    },
+    "units": {
+      "days": "dni"
+    },
+    "fallbacks": {
+      "noNoteAvailable": "Ni opombe",
+      "noDescriptionAvailable": "Opis ni na voljo",
+      "selectEmployeeFirst": "Najprej izberite zaposlenega"
+    },
+    "success": {
+      "leaveDelete": "Odsotnost uspešno izbrisana",
+      "attendanceDelete": "Prisotnost uspešno izbrisana",
+      "attendanceAdd": "Prisotnost uspešno dodana",
+      "attendanceUpdate": "Prisotnost uspešno posodobljena",
+      "leaveAdd": "Odsotnost uspešno dodana",
+      "leaveUpdate": "Odsotnost uspešno posodobljena",
+      "departmentDelete": "Oddelek uspešno izbrisan",
+      "departmentAdd": "Oddelek uspešno dodan",
+      "departmentUpdate": "Oddelek uspešno posodobljen",
+      "designationDelete": "Naziv uspešno izbrisan",
+      "designationAdd": "Naziv uspešno dodan",
+      "designationUpdate": "Naziv uspešno posodobljen",
+      "employeeDelete": "Zaposleni uspešno izbrisan",
+      "employeeAdd": "Zaposleni uspešno dodan",
+      "employeeUpdate": "Zaposleni uspešno posodobljen",
+      "holidayDelete": "Praznik uspešno izbrisan",
+      "holidayAdd": "Praznik uspešno dodan",
+      "holidayUpdate": "Praznik uspešno posodobljen",
+      "leaveTypeDelete": "Vrsta odsotnosti uspešno izbrisana"
+    }
+  }
+}

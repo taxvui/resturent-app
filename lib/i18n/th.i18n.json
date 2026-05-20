@@ -1,0 +1,1561 @@
+{
+  "@@meta": {
+    "languageCode": "th_TH",
+    "languageName": "Thai",
+    "version": "1.0.0"
+  },
+  "common": {
+    "signIn": "ลงชื่อเข้าใช้",
+    "signUp": "สมัครสมาชิก",
+    "verifyEmail": "ยืนยันอีเมล",
+    "customizeProfile": "ปรับแต่งโปรไฟล์",
+    "imageOrLogo": "โลโก้หรือรูปภาพ",
+    "createNewPassword": "สร้างรหัสผ่านใหม่",
+    "itemsList": "รายการสินค้า",
+    "searchItemsName": "ค้นหาชื่อสินค้า",
+    "categoryList": "รายการหมวดหมู่",
+    "brandList": "รายการแบรนด์",
+    "unitList": "รายการหน่วยนับ",
+    "itemDetails": "รายละเอียดสินค้า",
+    "addStock": "เพิ่มสต็อก",
+    "profile": "โปรไฟล์",
+    "language": "ภาษา",
+    "termsAndConditions": "ข้อกำหนดและเงื่อนไข",
+    "aboutUs": "เกี่ยวกับเรา",
+    "logout": "ออกจากระบบ",
+    "editProfile": "แก้ไขโปรไฟล์",
+    "fullName": "ชื่อ-นามสกุล",
+    "email": "อีเมล",
+    "mobileNumber": "หมายเลขโทรศัพท์มือถือ",
+    "address": "ที่อยู่",
+    "password": "รหัสผ่าน",
+    "forgotPassword": "ลืมรหัสผ่าน",
+    "edit": "แก้ไข",
+    "delete": "ลบ",
+    "addItems": "เพิ่มสินค้า",
+    "stock": "สต็อก",
+    "currentStock": "สต็อกปัจจุบัน",
+    "value": "ค่า",
+    "sales": "การขาย",
+    "purchase": "การซื้อ",
+    "price": "ราคา",
+    "image": "รูปภาพ",
+    "upload": "อัปโหลด",
+    "addNew": "เพิ่มใหม่",
+    "pricing": "การตั้งราคา",
+    "name": "ชื่อ",
+    "category(plural)": {
+      "one": "หมวดหมู่",
+      "other": "หมวดหมู่s"
+    },
+    "areas": "Areas",
+    "brand": "แบรนด์",
+    "lowStock": "สต็อกต่ำ",
+    "unit": "หน่วยนับ",
+    "vat": "ภาษีมูลค่าเพิ่ม",
+    "taxType": "ประเภทภาษี",
+    "purchasePrice": "ราคาทุน",
+    "sellingPrice": "ราคาขาย",
+    "wholeSalePrice": "ราคาส่ง",
+    "dealerPrice": "ราคาตัวแทน",
+    "searchHere": "ค้นหาที่นี่",
+    "totalItems": "จำนวนสินค้าทั้งหมด",
+    "stockValue": "มูลค่าสต็อก",
+    "congratulation": "ยินดีด้วย",
+    "salesList": "รายการขาย",
+    "searchInvoiceNumber": "ค้นหารหัสใบกำกับ",
+    "view": "ดู",
+    "kFor": "สำหรับ",
+    "total": "รวม",
+    "subTotal": "รวมย่อย",
+    "insufficientStockAvailableStock": "สต็อกไม่เพียงพอ สต็อกที่มีอยู่",
+    "discount": "ส่วนลด",
+    "selectOne": "เลือกหนึ่ง",
+    "allCategory": "ทุกหมวดหมู่",
+    "details": "รายละเอียด",
+    "parcel": "พัสดุ",
+    "kot": "ค็อต",
+    "table": "โต๊ะ",
+    "holdTable": "จองโต๊ะ",
+    "capacity": "ความจุ",
+    "commonHint": "ตัวอย่าง: 10",
+    "pleaseEnterQuantity": "กรุณาใส่จำนวน",
+    "quantityMustBeGreaterThanZero": "จำนวนต้องมากกว่าศูนย์",
+    "mobile": "มือถือ",
+    "orderNo": "เลขคำสั่งซื้อ",
+    "dateAndTime": "วันที่และเวลา",
+    "items": "รายการ",
+    "totalAmount": "จำนวนเงินทั้งหมด",
+    "paidAmount": "จำนวนเงินที่ชำระแล้ว",
+    "dueAmount": "จำนวนเงินคงเหลือ",
+    "paymentType": "ประเภทการชำระเงิน",
+    "thankYou": "ขอบคุณ",
+    "developedBy": "พัฒนาโดย ${domain: String}",
+    "qty": "จำนวน",
+    "amount": "จำนวนเงิน",
+    "dashboard": "แผงควบคุม",
+    "reports": "รายงาน",
+    "home": "หน้าแรก",
+    "parties": "ฝ่ายคู่ค้า",
+    "subscriptionPlan": "แผนสมัครสมาชิก",
+    "estimateList": "รายการประมาณการ",
+    "purchaseList": "รายการซื้อ",
+    "dueList": "รายการค้างชำระ",
+    "lossOrProfit": "ขาดทุน/กำไร",
+    "stocks": "สต็อก",
+    "moneyInList": "รายการเงินเข้า",
+    "moneyOutList": "รายการเงินออก",
+    "transactionList": "รายการธุรกรรม",
+    "income": "รายได้",
+    "expense": "ค่าใช้จ่าย",
+    "quickView": "ดูเร็ว",
+    "to": "ถึง",
+    "totalSales": "ยอดขายทั้งหมด",
+    "totalPurchase": "ยอดซื้อทั้งหมด",
+    "holdNumber": "คำสั่งซื้อที่จองไว้",
+    "totalExpense": "ค่าใช้จ่ายทั้งหมด",
+    "loss": "ขาดทุน",
+    "profit": "กำไร",
+    "recentTransaction": "ธุรกรรมล่าสุด",
+    "invoice": "ใบกำกับ",
+    "moneyIn": "เงินเข้า",
+    "moneyOut": "เงินออก",
+    "paid": "ชำระแล้ว",
+    "due": "ค้างชำระ",
+    "partial": "บางส่วน",
+    "print": "พิมพ์",
+    "addCategory": "เพิ่มหมวดหมู่",
+    "addExpense": "เพิ่มค่าใช้จ่าย",
+    "search": "ค้นหา...",
+    "viewDetails": "ดูรายละเอียด",
+    "title": "หัวข้อ",
+    "date": "วันที่",
+    "note": "หมายเหตุ",
+    "phoneNumber": "หมายเลขโทรศัพท์",
+    "type": "ประเภท",
+    "selectContactSType": "เลือกประเภทติดต่อ",
+    "moreInfo": "ข้อมูลเพิ่มเติม",
+    "paymentReceived": "ได้รับการชำระเงิน",
+    "selectSupplier": "เลือกผู้ขาย",
+    "supplier": "ผู้ขาย",
+    "received": "ได้รับ",
+    "balanceDue": "ยอดคงเหลือค้างชำระ",
+    "addPurchase": "เพิ่มการซื้อ",
+    "selectedItemWillBeCleared": "รายการที่เลือกจะถูกล้างค่า",
+    "searchItemName": "ค้นหาชื่อสินค้า",
+    "billItems": "รายการบิล",
+    "addMoreItems": "เพิ่มรายการอื่นๆ",
+    "payAmount": "จำนวนเงินที่ต้องชำระ",
+    "salesReport": "รายงานการขาย",
+    "purchaseReport": "รายงานการซื้อ",
+    "stockReport": "รายงานสต็อก",
+    "dueReport": "รายงานค้างชำระ",
+    "dueCollectionReport": "รายงานการเก็บเงินค้างชำระ",
+    "transactionReport": "รายงานธุรกรรม",
+    "incomeReport": "รายงานรายได้",
+    "dueCollectionList": "รายการเก็บเงินค้างชำระ",
+    "expenseReport": "รายงานค่าใช้จ่าย",
+    "dueCollection": "การเก็บเงินค้างชำระ",
+    "myProfile": "โปรไฟล์ของฉัน",
+    "printingOption": "ตัวเลือกการพิมพ์",
+    "currency": "สกุลเงิน",
+    "paymentMethod": "วิธีการชำระเงิน",
+    "rateUs": "ให้คะแนนเรา",
+    "termAndCondition": "ข้อกำหนดและเงื่อนไข",
+    "tableList": "รายการโต๊ะ",
+    "addTable": "เพิ่มโต๊ะ",
+    "vatRate": "อัตราภาษีมูลค่าเพิ่ม%",
+    "action": "การกระทำ",
+    "status": "สถานะ",
+    "active": "ใช้งาน",
+    "inActive": "ไม่ใช้งาน",
+    "subVats": "ภาษีย่อย",
+    "add": "เพิ่ม",
+    "taxRate": "อัตราภาษี%",
+    "subTaxes": "ภาษีย่อย",
+    "group": "กลุ่ม",
+    "VAT": "ภาษีมูลค่าเพิ่ม",
+    "subTaxList": "รายการภาษีย่อย",
+    "vatPercent": "เปอร์เซ็นต์ภาษีมูลค่าเพิ่ม",
+    "statusIsCannotInActive": "สถานะไม่สามารถปิดใช้งานได้หากภาษีมูลค่าเพิ่มถูกเปิดใช้งานในการขาย",
+    "vatOnSales": "ภาษีมูลค่าเพิ่มในการขาย",
+    "transaction": "ธุรกรรม",
+    "version": "เวอร์ชัน ${version: String}",
+    "hold": "จอง",
+    "empty": "ว่าง",
+    "appName": "Restaurant App",
+    "duePayment": "ยอดชำระ",
+    "orders": "รายการสั่งซื้อ",
+    "all": "ทั้งหมด",
+    "ingredient": "ส่วนผสม",
+    "menus": "เมนู",
+    "modifierGroups": "กลุ่มตัวเลือกเพิ่มเติม",
+    "itemModifiers": "ตัวเลือกเพิ่มเติมของสินค้า",
+    "staff": "พนักงาน",
+    "coupon": "คูปอง",
+    "pay": "ชำระเงิน",
+    "pendingOrders": "รายการสั่งซื้อที่รอดำเนินการ",
+    "order": "คำสั่งซื้อ",
+    "payNow": "ชำระเงินตอนนี้",
+    "addStaff": "เพิ่มพนักงาน",
+    "designation": "ตำแหน่ง",
+    "itemAdded": "เพิ่มสินค้าแล้ว",
+    "noItemAdded": "ยังไม่มีสินค้าเพิ่ม",
+    "saveNPrint": "บันทึกและพิมพ์",
+    "allowMultiSelection": "อนุญาตให้เลือกได้หลายรายการ",
+    "required": "จำเป็น",
+    "optional": "ไม่บังคับ",
+    "allowMultiSelectionForSale": "อนุญาตให้เลือกได้หลายรายการสำหรับการขาย",
+    "isRequired": "จำเป็นต้องระบุ",
+    "modifier": "ตัวเลือกเพิ่มเติม",
+    "fullPayment": "ชำระเต็มจำนวน",
+    "payment": "การชำระเงิน",
+    "addTip": "เพิ่มทิป",
+    "netPayable": "ยอดสุทธิที่ต้องชำระ",
+    "receiveAmount": "ยอดเงินที่ได้รับ",
+    "changeAmount": "ยอดเงินทอน",
+    "quotationList": "รายการใบเสนอราคา",
+    "addQuotation": "เพิ่มใบเสนอราคา",
+    "convert": "แปลง",
+    "variations": "ตัวเลือกสินค้า",
+    "instructions": "คำแนะนำ",
+    "unavailable": "ไม่พร้อมใช้งาน",
+    "tip": "เคล็ดลับ",
+    "salesQuotationReport": "รายงานใบเสนอราคา",
+    "orderType": "ประเภทคำสั่งซื้อ",
+    "deliveryCharge": "ค่าจัดส่ง",
+    "receiptNo": "เลขที่ใบเสร็จ",
+    "paidBy": "ผู้ชำระเงิน",
+    "receivedBy": "ผู้รับเงิน",
+    "paymentAmount": "จำนวนเงินที่ชำระ",
+    "remainingDue": "ยอดค้างชำระ",
+    "roleNPermission": "บทบาทและสิทธิ์",
+    "sl": "ลำดับที่",
+    "features": "คุณสมบัติ",
+    "create": "สร้าง",
+    "update": "อัปเดต",
+    "quotations": "ใบเสนอราคา",
+    "restaurant": "ร้านอาหาร",
+    "printerProfile": "โปรไฟล์เครื่องพิมพ์",
+    "kitchenOrders": "คำสั่งซื้อในครัว",
+    "kitchen(plural)": {
+      "one": "ครัว",
+      "other": "ครัว"
+    },
+    "allKOT": "KOT ทั้งหมด",
+    "cancelKOT": "ยกเลิก KOT",
+    "selectCancelReason": "เลือกเหตุผลในการยกเลิก",
+    "additionalComment": "ความคิดเห็นเพิ่มเติม",
+    "enterComment": "ใส่ความคิดเห็น",
+    "orderStatus": "สถานะคำสั่งซื้อ",
+    "selectOrderStatus": "เลือกสถานะคำสั่งซื้อ",
+    "kotReport": "รายงาน KOT",
+    "itemFoodType": "ประเภทอาหาร",
+    "selectItemFoodType": "เลือก @:common.itemFoodType",
+    "markAllAsRead": "ทำเครื่องหมายว่าอ่านแล้วทั้งหมด",
+    "online": "Online",
+    "cancelledReason": "Cancelled Reason",
+    "hrm": "HRM",
+    "notAvailable": "N/A"
+  },
+  "exceptions": {
+    "somethingWentWrong": "เกิดข้อผิดพลาด กรุณาลองใหม่อีกครั้ง",
+    "noCategoryFound": "ไม่พบหมวดหมู่!\nกรุณาลองเพิ่มหมวดหมู่",
+    "doYouWantToDeleteThisCategory": "คุณต้องการลบหมวดหมู่นี้หรือไม่?",
+    "noBrandFound": "ไม่พบแบรนด์!\nกรุณาลองเพิ่มแบรนด์",
+    "doYouWantToDeleteThisBrand": "คุณต้องการลบแบรนด์นี้หรือไม่?",
+    "noItemStockFound": "ไม่พบสต็อกสินค้า!\nกรุณาลองเพิ่มสินค้า",
+    "noUnitFound": "ไม่พบหน่วยนับ!\nกรุณาลองเพิ่มหน่วยนับ",
+    "doYouDeleteThisUnit": "คุณต้องการลบหน่วยนับนี้หรือไม่?",
+    "noSaleFoundPleaseSAddProduct": "ไม่พบการขาย!\nกรุณาลองเพิ่มการขาย",
+    "doYouWantToDeleteThisSale": "คุณต้องการลบการขายครั้งนี้หรือไม่?",
+    "pleaseAddItemToTheCartFirst": "กรุณาเพิ่มสินค้าในตะกร้าก่อน",
+    "noItemAdded": "ไม่มีสินค้าเพิ่ม",
+    "cannotEditOthersTable": "ไม่สามารถแก้ไขโต๊ะของผู้อื่นได้",
+    "tableIsAlreadyBlocked": "โต๊ะนี้ถูกจองแล้ว",
+    "failedToGetCustomerDetails": "ไม่สามารถดึงข้อมูลลูกค้าได้",
+    "noTableFoundPleaseTryAgain": "ไม่พบโต๊ะ!\nกรุณาลองเพิ่มโต๊ะ",
+    "noDueCollectionFound": "ไม่พบใบกำกับค้างชำระ!\nคุณสามารถดูใบกำกับค้างชำระได้เมื่อมี",
+    "noExpenseFoundPleaseTryAddingExpense": "ไม่พบค่าใช้จ่าย!\nกรุณาลองเพิ่มค่าใช้จ่าย",
+    "doYouWantToDeleteThisExpense": "คุณต้องการลบค่าใช้จ่ายนี้หรือไม่?",
+    "noExpenseCategoryFound": "ไม่พบหมวดหมู่ค่าใช้จ่าย!\nกรุณาลองเพิ่มหมวดหมู่ค่าใช้จ่าย",
+    "noTransactionFound": "ไม่พบธุรกรรม กรุณาลองใหม่ภายหลัง!",
+    "pleaseSelectACategory": "กรุณาเลือกหมวดหมู่",
+    "noIncomeFound": "ไม่พบรายได้!\nกรุณาลองเพิ่มรายได้",
+    "doYouWantToDeleteThisIncome": "คุณต้องการลบรายได้นี้หรือไม่?",
+    "noIncomeCategoryFoundAddingAIncome": "ไม่พบหมวดหมู่รายได้!\nกรุณาลองเพิ่มหมวดหมู่รายได้",
+    "noItemFoundPleaseTryAddingItem": "ไม่พบสินค้า!\nกรุณาลองเพิ่มสินค้า",
+    "noPartiesFound": "ไม่พบฝ่ายคู่ค้า",
+    "doYouWantToDeleteThisParty": "คุณต้องการลบฝ่ายคู่ค้านี้หรือไม่",
+    "noLedgerFound": "ไม่พบสมุดบัญชี!\nกรุณาลองเพิ่ม ${transactionType: String}",
+    "areYouSureYouSureWantToDeleteThisTaxType": "คุณแน่ใจหรือว่าต้องการลบ ${taxType: String} นี้?",
+    "noItemFoundPleaseSTryAddingAnPurchase": "ไม่พบสินค้า!\nกรุณาลองเพิ่มการซื้อ",
+    "doYouWantToDeleteThisPurchase": "คุณต้องการลบการซื้อนี้หรือไม่?",
+    "noTransactionFoundYouSeeTransactionHereWhenAvailable": "ไม่พบธุรกรรม!\nคุณสามารถดูธุรกรรมได้เมื่อมี",
+    "noSaleFoundPleaseTryAddingSale": "ไม่พบการขาย!\nกรุณาลองเพิ่มการขาย",
+    "noPurchaseFoundPleaseTryAddingPurchase": "ไม่พบการซื้อ!\nกรุณาลองเพิ่มการซื้อ",
+    "noItemIncomeFound": "ไม่พบรายได้จากสินค้า!\nคุณสามารถดูข้อมูลรายได้ได้เมื่อมี",
+    "noItemExpenseFound": "ไม่พบค่าใช้จ่ายจากสินค้า!\nคุณสามารถดูข้อมูลค่าใช้จ่ายได้เมื่อมี",
+    "noItemDueInvoiceFound": "ไม่พบใบกำกับค้างชำระจากสินค้า!\nคุณสามารถดูใบกำกับค้างชำระได้เมื่อมี",
+    "noItemDueCollectionInvoiceFound": "ไม่พบใบกำกับการเก็บเงินค้างชำระจากสินค้า!\nคุณสามารถดูใบกำกับการเก็บเงินค้างชำระได้เมื่อมี",
+    "doYouWantToDeleteThisTable": "คุณต้องการลบโต๊ะนี้หรือไม่?",
+    "thisVatIsBeingUsedOnSales": "ภาษีมูลค่าเพิ่มนี้กำลังถูกใช้ในการขาย!",
+    "noPaymentMethodFoundPleaseTryAddingAPaymentMethod": "ไม่พบวิธีการชำระเงิน!\nกรุณาลองเพิ่มวิธีการชำระเงิน",
+    "pleaseSelectACustomerFirst": "กรุณาเลือกลูกค้าก่อน",
+    "pleaseSelectATableToCreateAKot": "กรุณาเลือกโต๊ะเพื่อสร้าง KOT",
+    "noStaffFound": "ไม่พบพนักงาน!\nกรุณาลองเพิ่มพนักงาน",
+    "noIngredientFound": "ไม่พบส่วนผสม!\nกรุณาลองเพิ่มส่วนผสม",
+    "exceedsPaymentAmount": "จำนวนเงินที่ได้รับต้องไม่มากกว่าจำนวนที่ต้องชำระ",
+    "noItemModifierFound": "ไม่พบตัวเลือกเพิ่มเติมของสินค้า!\nกรุณาลองเพิ่มตัวเลือกเพิ่มเติมของสินค้า",
+    "noModifierGroupFound": "ไม่พบกลุ่มตัวเลือกเพิ่มเติม!\nกรุณาลองเพิ่มกลุ่มตัวเลือกเพิ่มเติม",
+    "noOptionsFound": "ไม่พบตัวเลือก!",
+    "maxImageCountLimit": "คุณสามารถเลือกรูปภาพได้สูงสุด 5 รูปเท่านั้น",
+    "noQuotationFound": "ไม่พบใบเสนอราคา!\nโปรดลองเพิ่มใบเสนอราคา",
+    "noPermittedUserFound": "ไม่พบผู้ใช้ที่ได้รับอนุญาต!\\nโปรดลองเพิ่มผู้ใช้"
+  },
+  "prompt": {
+    "logout": {
+      "title": "@:common.logout",
+      "message": "คุณแน่ใจหรือว่าต้องการออกจากระบบ?"
+    },
+    "unsavedWarning": {
+      "title": "คุณต้องการย้อนกลับหรือไม่?",
+      "message": "ข้อมูลที่เปลี่ยนแปลงอาจไม่ถูกบันทึก!"
+    },
+    "verify": {
+      "title": "ยืนยันอีเมลของคุณ",
+      "description(rich)": "เราได้ส่งอีเมลรหัสยืนยัน${emailSpan}\nอีเมลอาจไปอยู่ในโฟลเดอร์สแปมของคุณ"
+    },
+    "subscriptionExpired": {
+      "title": "การสมัครสมาชิกหมดอายุ!",
+      "message": "กรุณาสมัครสมาชิกเพื่อใช้งานต่อ",
+      "action": "สมัครสมาชิก"
+    },
+    "items": {
+      "delete": {
+        "title": "คุณต้องการลบสินค้านี้หรือไม่?"
+      },
+      "filter": {
+        "title": "กรองตาม",
+        "extra": {
+          "lowToHigh": "ต่ำไปสูง @:common.price",
+          "highToLow": "สูงไปต่ำ @:common.price"
+        }
+      }
+    },
+    "checkInternet": {
+      "title": "ไม่มีการเชื่อมต่ออินเทอร์เน็ต",
+      "message": "กรุณาตรวจสอบการเชื่อมต่อ Wi-Fi หรือเครือข่ายมือถือและลองใหม่อีกครั้ง"
+    },
+    "back": {
+      "title": "กดปุ่มย้อนกลับอีกครั้งเพื่อออกจากแอป"
+    },
+    "stockModelSheet": {
+      "title": "เพิ่มสต็อกใหม่"
+    },
+    "paymentMethod": {
+      "title": "คุณต้องการลบวิธีการชำระเงินนี้หรือไม่?"
+    },
+    "extMsg": {
+      "kotSavedSuccessfully": "บันทึก KOT สำเร็จแล้ว"
+    },
+    "deleteStaff": "คุณต้องการลบพนักงานนี้หรือไม่?",
+    "deleteIngredient": "คุณต้องการลบส่วนผสมนี้หรือไม่?",
+    "deleteItemModifier": "คุณต้องการลบตัวเลือกเพิ่มเติมของสินค้านี้หรือไม่?",
+    "deleteModifierGroup": "คุณต้องการลบกลุ่มตัวเลือกเพิ่มเติมนี้หรือไม่?",
+    "deleteQuotation": "คุณต้องการลบใบเสนอราคานี้หรือไม่?"
+  },
+  "form": {
+    "fullName": {
+      "label": "@:common.fullName",
+      "hint": "กรอก @:common.fullName",
+      "errors": {
+        "required": "กรุณากรอก @:common.fullName ของคุณ"
+      }
+    },
+    "email": {
+      "label": "@:common.email",
+      "hint": "กรอก @:common.email ของคุณ",
+      "errors": {
+        "required": "กรุณากรอก @:common.email ของคุณ",
+        "invalid": "⦸ อีเมลไม่ถูกต้อง กรุณาลองใหม่อีกครั้ง"
+      }
+    },
+    "password": {
+      "label": "@:common.password",
+      "hint": "* * * * * * * *",
+      "errors": {
+        "required": "กรุณากรอก @:common.password ของคุณ",
+        "minLength": "รหัสผ่านต้องยาวอย่างน้อย ${count} ตัวอักษร!"
+      }
+    },
+    "confirmPassword": {
+      "label": "ยืนยันรหัสผ่าน",
+      "hint": "* * * * * * * *",
+      "errors": {
+        "required": "กรุณากรอก @:common.password ของคุณ",
+        "invalid": "ยืนยันรหัสผ่านไม่ตรงกัน!"
+      }
+    },
+    "otp": {
+      "errors": {
+        "required": "กรุณากรอกรหัส OTP",
+        "invalid": "กรุณากรอกรหัส OTP ปัจจุบัน"
+      }
+    },
+    "profile": {
+      "businessCategory": {
+        "label": "หมวดหมู่ธุรกิจ",
+        "hint": "เลือกหมวดหมู่ธุรกิจ",
+        "errors": {
+          "required": "กรุณาเลือกหมวดหมู่ธุรกิจ"
+        }
+      },
+      "shopOrStore": {
+        "label": "ชื่อร้านค้า/ร้าน*",
+        "hint": "กรอกชื่อร้านค้าหรือร้าน",
+        "errors": {
+          "required": "กรุณากรอกชื่อร้านค้าหรือร้านของคุณ"
+        }
+      },
+      "openingBalance": {
+        "label": "ยอดคงเหลือเริ่มต้น",
+        "hint": "กรอกยอดคงเหลือเริ่มต้น"
+      },
+      "vatGstTitle": {
+        "label": "ชื่อภาษีมูลค่าเพิ่ม/ภาษีมูลค่าเพิ่ม",
+        "hint": "กรอกชื่อภาษีมูลค่าเพิ่ม/ภาษีมูลค่าเพิ่ม"
+      },
+      "vatGstNumber": {
+        "label": "เลขประจำตัวผู้เสียภาษี",
+        "hint": "กรอกเลขประจำตัวผู้เสียภาษี"
+      }
+    },
+    "vat": {
+      "name": {
+        "label": "ชื่อ",
+        "hint": "กรอกชื่อภาษีมูลค่าเพิ่ม",
+        "error": {
+          "required": "กรุณากรอกชื่อภาษีมูลค่าเพิ่ม"
+        }
+      },
+      "subVat": {
+        "label": "ภาษีย่อย",
+        "hint": "เลือกภาษีย่อย",
+        "errors": {
+          "required": "กรุณาเลือกภาษีย่อย"
+        }
+      },
+      "rate": {
+        "label": "อัตราภาษีมูลค่าเพิ่ม%",
+        "hint": "กรอกอัตราภาษีมูลค่าเพิ่ม",
+        "errors": {
+          "required": "โปรดกรอกอัตราภาษีมูลค่าเพิ่ม"
+        }
+      }
+    },
+    "category": {
+      "label": "@:common.category",
+      "hint": "เลือกหมวดหมู่สินค้า",
+      "error": {
+        "required": "กรุณากรอกชื่อหมวดหมู่"
+      }
+    },
+    "items": {
+      "barcode": {
+        "label": "บาร์โค้ด",
+        "hint": "@:common.selectOne"
+      },
+      "itemName": {
+        "label": "ชื่อสินค้า",
+        "hint": "กรอกชื่อสินค้า",
+        "extra": {
+          "required": "กรุณากรอกชื่อสินค้า"
+        }
+      },
+      "itemCategory": {
+        "label": "หมวดหมู่สินค้า",
+        "hint": "หมวดหมู่สินค้า",
+        "extra": {
+          "label": "เลือกหมวดหมู่",
+          "required": "กรุณาเลือกหมวดหมู่"
+        }
+      },
+      "brand": {
+        "label": "@:common.brand",
+        "hint": "@:common.selectOne",
+        "extra": {
+          "hint": "กรอกชื่อแบรนด์",
+          "required": "กรุณากรอกชื่อแบรนด์"
+        }
+      },
+      "unit": {
+        "label": "@:common.unit",
+        "hint": "@:common.selectOne",
+        "error": {
+          "required": "กรุณากรอกชื่อหน่วยนับ"
+        }
+      },
+      "stock": {
+        "label": "สต็อกเริ่มต้น",
+        "hint": "@:common.commonHint",
+        "extra": {
+          "required": "กรุณากรอกจำนวนสินค้า"
+        }
+      },
+      "lowStock": {
+        "label": "@:common.lowStock",
+        "hint": "ตัวอย่าง: 5"
+      },
+      "purchasePrice": {
+        "label": "@:common.purchasePrice",
+        "hint": "ตัวอย่าง: \\$40",
+        "error": {
+          "required": "กรุณากรอกราคาทุน"
+        }
+      },
+      "salePrice": {
+        "label": "ราคาขาย",
+        "hint": "ตัวอย่าง: \\$60",
+        "error": {
+          "required": "กรุณากรอกราคาขาย"
+        }
+      },
+      "totalSalePrice": {
+        "label": "ราคารวม",
+        "hint": "ตัวอย่าง: \\$100"
+      },
+      "wholeSalePrice": {
+        "label": "@:common.wholeSalePrice",
+        "hint": "กรอกราคาส่ง"
+      },
+      "dealerPrice": {
+        "label": "@:common.dealerPrice",
+        "hint": "กรอกราคาตัวแทน"
+      },
+      "discount": {
+        "label": "ส่วนลด (%)",
+        "hint": "@:common.commonHint"
+      },
+      "applicableTax": {
+        "label": "ภาษีที่เกี่ยวข้อง",
+        "hint": "@:common.selectOne"
+      },
+      "vatType": {
+        "label": "@:common.taxType",
+        "errorText": {
+          "required": "กรุณาเลือกประเภทภาษี"
+        }
+      },
+      "menu": {
+        "label": "เลือกเมนู",
+        "errors": {
+          "required": "กรุณาเลือกเมนู"
+        },
+        "hint": "เลือกเมนู",
+        "extra": {
+          "selectNavLabel": "เลือกเมนูสินค้า"
+        }
+      },
+      "modifierItems": {
+        "label": "รายการตัวเลือกเพิ่มเติม",
+        "hint": "เลือกรายการตัวเลือกเพิ่มเติม"
+      },
+      "preparationTime": {
+        "label(rich)": "เวลาเตรียม ${minutes(นาที)}",
+        "hint": "ตัวอย่าง: 30"
+      },
+      "variation": {
+        "name": {
+          "label": "ชื่อ",
+          "hint": "ป้อนรูปแบบ",
+          "errors": {
+            "required": "กรุณาป้อนชื่อรูปแบบ"
+          }
+        },
+        "price": {
+          "errors": {
+            "required": "กรุณาป้อนราคา"
+          },
+          "label": "ราคา",
+          "hint": "ตัวอย่าง: ฿30"
+        }
+      }
+    },
+    "itemCart": {
+      "hint": "@:common.commonHint",
+      "error": {
+        "required": "@:common.pleaseEnterQuantity",
+        "noZero": "@:common.quantityMustBeGreaterThanZero"
+      }
+    },
+    "sales": {
+      "autoGenerateInvoice": {
+        "label": "เลขที่บิล",
+        "hint": "P-00001"
+      },
+      "date": {
+        "label": "วันที่"
+      },
+      "customer": {
+        "label": "ลูกค้า",
+        "hint": "เลือกลูกค้า"
+      },
+      "phone": {
+        "label": "หมายเลขโทรศัพท์",
+        "hint": "กรอกหมายเลขโทรศัพท์"
+      },
+      "address": {
+        "label": "ที่อยู่",
+        "hint": "กรอกที่อยู่"
+      },
+      "deliveryCharge": {
+        "label": "@:common.deliveryCharge",
+        "hint": "ตัวอย่าง: \\$20",
+        "hint2": "ค่าธรรมเนียม ตัวอย่าง: ฿10"
+      },
+      "table": {
+        "hint": "เลือกโต๊ะ"
+      },
+      "waiter": {
+        "hint": "เลือกพนักงานเสิร์ฟ"
+      }
+    },
+    "bill": {
+      "label": "เลขที่บิล",
+      "hint": "P-00001"
+    },
+    "supplier": {
+      "label": "ผู้ขาย",
+      "hint": "เลือกผู้ขาย",
+      "extra": {
+        "required": "กรุณาเลือกผู้ขาย"
+      }
+    },
+    "phone": {
+      "label": "หมายเลขโทรศัพท์",
+      "hint": "กรอกหมายเลขโทรศัพท์",
+      "errors": {
+        "required": "กรุณากรอกหมายเลขโทรศัพท์"
+      }
+    },
+    "address": {
+      "label": "ที่อยู่บริษัท",
+      "hint": "กรอกที่อยู่บริษัท"
+    },
+    "payment": {
+      "label": "ชื่อ",
+      "hint": "กรอกชื่อวิธีการชำระเงิน",
+      "error": {
+        "required": "กรุณากรอกชื่อวิธีการชำระเงิน"
+      }
+    },
+    "expense": {
+      "label": "หมวดหมู่ค่าใช้จ่าย",
+      "hint": "เลือกหมวดหมู่ค่าใช้จ่าย",
+      "error": {
+        "required": "กรุณากรอกหมวดหมู่ค่าใช้จ่าย"
+      }
+    },
+    "income": {
+      "label": "หมวดหมู่รายได้",
+      "hint": "กรอกชื่อหมวดหมู่",
+      "error": {
+        "required": "กรุณากรอกชื่อหมวดหมู่"
+      },
+      "incomeTitle": {
+        "label": "หัวข้อรายได้",
+        "hint": "กรอกรายได้"
+      },
+      "incomeCategory": {
+        "label": "หมวดหมู่รายได้",
+        "hint": "เลือกหมวดหมู่"
+      },
+      "payment": {
+        "label": "การชำระเงิน",
+        "hint": "ตัวอย่าง: \\$10"
+      }
+    },
+    "note": {
+      "label": "หมายเหตุ (ไม่บังคับ)",
+      "hint": "กรอกข้อความ"
+    },
+    "parties": {
+      "partyName": {
+        "label": "ชื่อฝ่ายคู่ค้า",
+        "hint": "กรอกชื่อฝ่ายคู่ค้า",
+        "error": {
+          "required": "กรุณากรอกชื่อฝ่ายคู่ค้า"
+        }
+      },
+      "partyPhone": {
+        "label": "หมายเลขโทรศัพท์",
+        "hint": "กรอกหมายเลขโทรศัพท์",
+        "error": {
+          "required": "กรุณากรอกหมายเลขโทรศัพท์"
+        }
+      }
+    },
+    "table": {
+      "name": {
+        "label": "ชื่อโต๊ะ",
+        "hint": "กรอกชื่อโต๊ะ",
+        "error": {
+          "required": "กรุณากรอกชื่อโต๊ะ"
+        }
+      },
+      "capacity": {
+        "label": "ความจุ",
+        "hint": "กรอกความจุ",
+        "error": {
+          "required": "กรุณากรอกความจุ"
+        }
+      }
+    },
+    "designation": {
+      "label": "@:common.designation",
+      "hint": "เลือกตำแหน่ง",
+      "errors": {
+        "required": "กรุณาเลือกตำแหน่ง"
+      }
+    },
+    "ingredientName": {
+      "label": "ชื่อส่วนผสม",
+      "hint": "ป้อนชื่อส่วนผสม",
+      "errors": {
+        "required": "กรุณาป้อนชื่อส่วนผสม"
+      }
+    },
+    "item": {
+      "label": "สินค้า",
+      "hint": "เลือกสินค้า",
+      "errors": {
+        "required": "กรุณาเลือกสินค้า"
+      }
+    },
+    "modifierGroup": {
+      "label": "กลุ่มตัวเลือกเพิ่มเติม",
+      "hint": "เลือกกลุ่มตัวเลือกเพิ่มเติม",
+      "errors": {
+        "required": "กรุณาเลือกกลุ่มตัวเลือกเพิ่มเติม"
+      }
+    },
+    "description": {
+      "label": "คำอธิบาย",
+      "hint": "ป้อนคำอธิบาย"
+    },
+    "staff": {
+      "label": "@:common.staff",
+      "hint": "เลือกพนักงาน",
+      "errors": {
+        "required": "กรุณาเลือกพนักงาน"
+      }
+    },
+    "loginUserName": {
+      "label": "ชื่อผู้ใช้สำหรับเข้าสู่ระบบ",
+      "hint": "ป้อนชื่อผู้ใช้หรือที่อยู่อีเมล",
+      "errors": {
+        "required": "กรุณาป้อนชื่อผู้ใช้หรือที่อยู่อีเมล"
+      }
+    }
+  },
+  "action": {
+    "next": "ถัดไป",
+    "getStarted": "เริ่มต้น",
+    "skip": "ข้าม",
+    "select": "เลือก",
+    "save": "บันทึก",
+    "verify": "ยืนยัน",
+    "signIn": "@:common.signIn",
+    "signUp": "@:common.signUp",
+    "continue": "ดำเนินการต่อ",
+    "no": "ไม่",
+    "yes": "ใช่",
+    "okay": "ตกลง",
+    "cancel": "ยกเลิก",
+    "confirm": "ยืนยัน",
+    "tryAgain": "ลองใหม่อีกครั้ง",
+    "reset": "รีเซ็ต",
+    "apply": "ใช้งาน",
+    "stockAdjust": "ปรับสต็อก",
+    "addMoreItems": "เพิ่มรายการอื่นๆ",
+    "hold": "จอง",
+    "parcel": "@:common.parcel",
+    "buyNow": "ซื้อเลย",
+    "viewAll": "ดูทั้งหมด",
+    "viewLedger": "ดูสมุดบัญชี",
+    "submit": "ส่ง",
+    "selected": "เลือกแล้ว",
+    "addToCart": "เพิ่มลงในรถเข็น",
+    "selectAll": "เลือกทั้งหมด",
+    "update": "@:common.update",
+    "addRole": "เพิ่มบทบาท"
+  },
+  "pages": {
+    "language": {
+      "appbarTitle": "@:action.select @:common.language"
+    },
+    "onboard": {
+      "onboardData": {
+        "data1": {
+          "title": "ใช้งานง่าย @:common.appName",
+          "description": "สั่งอาหารได้ราบรื่น จองง่ายดาย\\n เสริมพลังให้ร้านอาหารของคุณอย่างง่ายดาย!"
+        },
+        "data2": {
+          "title": "จัดการออเดอร์ได้อย่างไร้รอยต่อ",
+          "description": "ระบบ POS ของเราช่วยให้กระบวนการรับออเดอร์ของร้านอาหารของคุณสะดวกยิ่งขึ้น"
+        },
+        "data3": {
+          "title": "การวิเคราะห์และการรายงานที่ยอดเยี่ยม",
+          "description": "แดชบอร์ดการวิเคราะห์ของเราให้รายงานยอดขายและยอดซื้อแบบเรียลไทม์"
+        }
+      }
+    },
+    "signIn": {
+      "title": "ยินดีต้อนรับกลับ",
+      "subtitle": "กรุณากรอกรายละเอียดของคุณ",
+      "extra": {
+        "rememberMe": "จำฉันไว้ในระบบ",
+        "signUpNavigator(rich)": "ยังไม่มีบัญชี? ${getStarted(@:action.getStarted)}",
+        "forgotPassword": "@:common.forgotPassword?"
+      }
+    },
+    "signUp": {
+      "title": "สร้างบัญชีใหม่",
+      "subtitle": "กรุณากรอกรายละเอียดของคุณ",
+      "extra": {
+        "signInNavigator(rich)": "มีบัญชีอยู่แล้ว? ${signIn(@:action.signIn)}"
+      }
+    },
+    "forgotPassword": {
+      "title": "@:common.forgotPassword",
+      "subtitle": "กรอกที่อยู่อีเมลของคุณเพื่อกู้คืนรหัสผ่านของคุณ"
+    },
+    "otpVerification": {
+      "title": "การยืนยัน",
+      "subtitle": "รหัสยืนยัน 6 หลักถูกส่งไปยังอีเมลของคุณ",
+      "extra": {
+        "codeResend": {
+          "codeSendIn": "ส่งรหัสภายใน",
+          "resendCode": "ส่งรหัสอีกครั้ง"
+        }
+      }
+    },
+    "resetPassword": {
+      "title": "รีเซ็ตรหัสผ่าน",
+      "subtitle": "รีเซ็ตรหัสผ่านของคุณเพื่อกู้คืนและเข้าสู่ระบบบัญชีของคุณ",
+      "extra": {
+        "dialog": {
+          "title": "เปลี่ยนสำเร็จ!",
+          "subtitle": "ลงชื่อเข้าใช้ด้วยรหัสผ่านใหม่ของคุณ\nกำลังพาคุณไปยังหน้าลงชื่อเข้าใช้..."
+        }
+      }
+    },
+    "items": {
+      "itemList": {
+        "extra": {
+          "emptyItem": "ไม่พบสินค้า!\nกรุณาลองเพิ่มสินค้า"
+        }
+      },
+      "manageItems": {
+        "title": "เพิ่มสินค้าใหม่",
+        "title2": "แก้ไขสินค้า",
+        "extra": {
+          "maximum": "สูงสุด 5 รายการ",
+          "wholeSaleAndDealerPrice": "ราคาส่งและราคาตัวแทน",
+          "addDiscount": "เพิ่มส่วนลด",
+          "addVat": "เพิ่มภาษีมูลค่าเพิ่ม"
+        }
+      },
+      "itemDetails": {
+        "title": "รายละเอียดสินค้า",
+        "extra": {
+          "noImageAvailable": "ไม่มีรูปภาพ!",
+          "preparationTime(rich)": "เวลาในการเตรียมการ: ${min: String} ${mins(นาที)}",
+          "pleaseSelectVariation": "กรุณาเลือกตัวเลือกสินค้า",
+          "pleaseSelectOption": "กรุณาเลือกตัวเลือก",
+          "enterYourInstruction": "ระบุคำแนะนำของคุณ"
+        }
+      }
+    },
+    "category": {
+      "addNewCategory": "เพิ่มหมวดหมู่ใหม่",
+      "editCategory": "แก้ไขหมวดหมู่"
+    },
+    "brand": {
+      "addNewBrand": "เพิ่มแบรนด์ใหม่",
+      "editBrand": "แก้ไขแบรนด์"
+    },
+    "unit": {
+      "addNewUnit": "เพิ่มหน่วยนับใหม่",
+      "editUnit": "แก้ไขหน่วยนับ"
+    },
+    "stock": {
+      "stockList": "รายการสต็อก"
+    },
+    "aboutUs": {
+      "title": "เกี่ยวกับเรา"
+    },
+    "privacyPolicy": {
+      "title": "นโยบายความเป็นส่วนตัว"
+    },
+    "termAndCondition": {
+      "title": "@:common.termAndCondition"
+    },
+    "orders": {
+      "manageOrders": {
+        "extra": {
+          "billItems": "รายการบิล",
+          "manageQuantity": "จัดการจำนวน"
+        },
+        "title": {
+          "editOrder": "แก้ไขคำสั่งซื้อ",
+          "editKOT": "แก้ไข KOT"
+        }
+      }
+    },
+    "onlinePayment": {
+      "title": "การชำระเงินออนไลน์"
+    },
+    "paymentStatus": {
+      "success": {
+        "title": "ขอบคุณ!",
+        "message": "เราจะตรวจสอบการชำระเงินและอนุมัติภายใน 24 ชั่วโมง",
+        "actionButtonText": "ดูใบกำกับ"
+      },
+      "fail": {
+        "title": "ขออภัย! การชำระเงินล้มเหลว",
+        "message": "ธุรกรรมของคุณล้มเหลวเนื่องจากข้อผิดพลาดทางเทคนิค",
+        "actionButtonText": "ลองใหม่อีกครั้ง"
+      }
+    },
+    "confirmationDialog": {
+      "title": "ออกจากระบบ",
+      "message": "คุณแน่ใจหรือว่าต้องการออกจากระบบ?",
+      "acceptationText": "ไม่",
+      "rejectionText": "ออกจากระบบ"
+    },
+    "payment": {
+      "title": "@:common.paymentMethod",
+      "addPaymentMethod": "เพิ่มวิธีการชำระเงินใหม่",
+      "editPaymentMethod": "แก้ไขวิธีการชำระเงิน",
+      "choseOnlinePayment": "เลือกการชำระเงินออนไลน์",
+      "selectPaymentMethod": "เลือกวิธีการชำระเงิน",
+      "pleaseSelectAPaymentMethod": "กรุณาเลือกวิธีการชำระเงิน",
+      "methodStatus": {
+        "title": "สถานะ",
+        "message": "สถานะไม่สามารถปิดใช้งานได้หากเปิดใช้งานฟังก์ชันดูเร็ว!"
+      }
+    },
+    "subscriptionPlan": {
+      "title": "ซื้อแผนพรีเมียม",
+      "extra": {
+        "actionButtonText": "ย้อนกลับ",
+        "message": "ชำระเงินสำหรับแผนสมัครสมาชิกสำเร็จ\nคุณสามารถใช้งานฟีเจอร์ที่สมัครสมาชิกได้แล้ว",
+        "mostPopular": "ได้รับความนิยมมากที่สุด"
+      }
+    },
+    "invoicePreview": {
+      "title": "ตัวอย่างใบกำกับ",
+      "message": "ตัวอย่าง PDF จะมาเร็ว ๆ นี้"
+    },
+    "currency": {
+      "title": "@:common.currency"
+    },
+    "dashboard": {
+      "overview": "ภาพรวม",
+      "dashboardPrivacy": "ความเป็นส่วนตัวของแผงควบคุม",
+      "moneyInAndMoneyOut": "เงินเข้าและเงินออก",
+      "lossAndProfitOverView": "ภาพรวมกำไรและขาดทุน"
+    },
+    "due": {
+      "title": "@:common.dueList",
+      "collectionList": "รายการเก็บเงิน",
+      "dueCollection": "การเก็บเงินค้างชำระ"
+    },
+    "expense": {
+      "title": "@:common.expense",
+      "editExpense": "แก้ไขค่าใช้จ่าย",
+      "addNewExpense": "เพิ่มค่าใช้จ่ายใหม่",
+      "editExpenseCategory": "แก้ไขหมวดหมู่ค่าใช้จ่าย",
+      "addNewExpenseCategory": "เพิ่มหมวดหมู่ค่าใช้จ่ายใหม่",
+      "payment": "การชำระเงิน",
+      "expenseCategory": "หมวดหมู่ค่าใช้จ่าย",
+      "selectCategory": "เลือกหมวดหมู่",
+      "allExpense": "ค่าใช้จ่ายทั้งหมด",
+      "pleaseSelectACategory": "โปรดเลือกหมวดหมู่",
+      "expenseTitle": {
+        "label": "ชื่อค่าใช้จ่าย",
+        "hint": "ป้อนค่าใช้จ่าย"
+      }
+    },
+    "lossProfit": {
+      "title": "รายการขาดทุน/กำไร",
+      "noLossProfitFound": "ไม่พบการขาดทุน/กำไร!\nโปรดลองสร้างการขาย"
+    },
+    "income": {
+      "editIncomeCategory": "แก้ไขหมวดหมู่รายได้",
+      "addNewIncomeCategory": "เพิ่มหมวดหมู่รายได้ใหม่",
+      "incomeCategory": "หมวดหมู่รายได้",
+      "allIncome": "รายได้ทั้งหมด",
+      "editIncome": "แก้ไขรายได้",
+      "addNewIncome": "แก้ไขรายได้",
+      "addIncome": "เพิ่มรายได้"
+    },
+    "moneyIn": {
+      "title": "รายการเงินเข้า",
+      "totalPaymentIn": "เงินเข้าทั้งหมด"
+    },
+    "moneyOut": {
+      "title": "รายการเงินออก",
+      "totalMoneyOut": "เงินออกทั้งหมด"
+    },
+    "profile": {
+      "title": "โปรไฟล์ของฉัน",
+      "editProfile": "แก้ไขโปรไฟล์",
+      "businessInformation": "ข้อมูลธุรกิจ",
+      "profileInformation": "ข้อมูลโปรไฟล์"
+    },
+    "parties": {
+      "title": "รายการฝ่ายคู่ค้า",
+      "allParties": "ฝ่ายคู่ค้าทั้งหมด",
+      "customer": "ลูกค้า",
+      "supplier": "ผู้ขาย",
+      "addParties": "เพิ่มฝ่ายคู่ค้า",
+      "editParties": "แก้ไขฝ่ายคู่ค้า",
+      "partiesDetails": "รายละเอียดฝ่ายคู่ค้า",
+      "personalInfo": "ข้อมูลส่วนบุคคล"
+    },
+    "ledger": {
+      "subTitle": "สมุดบัญชี"
+    },
+    "purchase": {
+      "title": "เพิ่มการซื้อใหม่",
+      "editPurchase": "แก้ไขการซื้อ"
+    },
+    "reports": {
+      "title": "รายงาน"
+    },
+    "table": {
+      "title": "เพิ่มโต๊ะใหม่",
+      "editTable": "แก้ไขโต๊ะ"
+    },
+    "tax": {
+      "title": "อัตราภาษีมูลค่าเพิ่ม",
+      "buildHeaderTitle": "อัตราภาษีมูลค่าเพิ่ม - จัดการอัตราภาษีมูลค่าเพิ่มของคุณ",
+      "vatGroup": {
+        "title": "กลุ่มภาษีมูลค่าเพิ่ม",
+        "subTitle": "กลุ่มภาษีมูลค่าเพิ่ม - จัดการกลุ่มภาษีมูลค่าเพิ่มของคุณ"
+      }
+    },
+    "vat": {
+      "addNewVat": "เพิ่มภาษีมูลค่าเพิ่มใหม่",
+      "editVat": "แก้ไขภาษีมูลค่าเพิ่ม",
+      "addNewVatGroup": "เพิ่มกลุ่มภาษีมูลค่าเพิ่มใหม่",
+      "editVatGroup": "แก้ไขกลุ่มภาษีมูลค่าเพิ่ม"
+    },
+    "orderList": {
+      "title": "รายการคำสั่งซื้อ",
+      "filters": {
+        "orderType": {
+          "label": "@:common.orderType",
+          "hint": "เลือกประเภทคำสั่งซื้อ"
+        },
+        "paymentStatus": {
+          "hint": "เลือกสถานะการชำระเงิน",
+          "label": "สถานะการชำระเงิน"
+        }
+      }
+    },
+    "staffs": {
+      "staffList": {
+        "filters": {
+          "designation": {
+            "label": "ตำแหน่ง",
+            "hint": "เลือกตำแหน่ง"
+          }
+        },
+        "title": "พนักงานทั้งหมด"
+      },
+      "manageStaff": {
+        "title1": "เพิ่มพนักงานใหม่",
+        "title2": "อัปเดตพนักงาน"
+      }
+    },
+    "ingredient": {
+      "ingredientList": {
+        "title1": "รายการส่วนผสม",
+        "title2": "เลือกส่วนผสม"
+      },
+      "manageIngredient": {
+        "title1": "เพิ่มส่วนผสมใหม่",
+        "title2": "แก้ไขส่วนผสม"
+      }
+    },
+    "itemModifier": {
+      "itemModifierList": {
+        "title": "@:common.itemModifiers"
+      },
+      "manageItemModifier": {
+        "title1": "เพิ่มตัวเลือกเพิ่มเติมของสินค้า",
+        "title2": "แก้ไขตัวเลือกเพิ่มเติมของสินค้า"
+      }
+    },
+    "quotation": {
+      "manageQuotation": {
+        "title": {
+          "add": "เพิ่มใบเสนอราคาใหม่",
+          "edit": "แก้ไขใบเสนอราคา",
+          "convert": "แปลงเป็นใบขาย"
+        }
+      }
+    },
+    "rolePermission": {
+      "rolePermissionList": {
+        "title": "รายการบทบาทและสิทธิ์"
+      },
+      "manageRolePermission": {
+        "title1": "เพิ่มบทบาทใหม่",
+        "title2": "แก้ไขบทบาท"
+      }
+    },
+    "printingOption": {
+      "title": "ตัวเลือกการพิมพ์",
+      "form": {
+        "companyAddress": {
+          "label": "ที่อยู่บริษัท",
+          "hint": "ป้อนที่อยู่บริษัท"
+        },
+        "noteLabel": {
+          "label": "ป้ายชื่อบันทึก",
+          "hint": "ป้อนป้ายชื่อบันทึก."
+        },
+        "note": {
+          "label": "บันทึก",
+          "hint": "ป้อนบันทึก."
+        },
+        "postSaleMessage": {
+          "label": "ข้อความหลังการขาย",
+          "hint": "ป้อนข้อความหลังการขาย"
+        },
+        "printingMethod": {
+          "label": "วิธีการพิมพ์",
+          "hint": "เลือกวิธีการพิมพ์"
+        },
+        "printerProfile": {
+          "label": "โปรไฟล์เครื่องพิมพ์",
+          "hint": "เลือกโปรไฟล์เครื่องพิมพ์"
+        },
+        "paperSize": {
+          "label": "ขนาดกระดาษเครื่องพิมพ์ความร้อน",
+          "hint": "เลือกขนาดกระดาษเครื่องพิมพ์"
+        },
+        "printerDpi": {
+          "label": "DPI เครื่องพิมพ์",
+          "hint": "เช่น: 203"
+        },
+        "printingMargin": {
+          "label": "ขอบการพิมพ์",
+          "hint": "เช่น: 2"
+        }
+      },
+      "tooltip": {
+        "printingMethod": {
+          "title": "เมนูดรอปดาวน์ที่มีตัวเลือก:",
+          "default": "• ค่าเริ่มต้น (วิธีการดั้งเดิมในการพิมพ์อักขระมาตรฐาน EU)",
+          "image": "• รูปภาพ (แนะนำสำหรับการพิมพ์อักขระ Unicode)"
+        }
+      },
+      "action": {
+        "save": "บันทึก"
+      }
+    },
+    "kitchen": {
+      "list": {
+        "noKitchensFound": "ไม่พบครัว\n โปรดลองเพิ่มครัว"
+      },
+      "manage": {
+        "addKitchen": "เพิ่มครัว",
+        "editKitchen": "แก้ไขครัว",
+        "kitchenName": {
+          "label": "ชื่อครัว",
+          "hint": "ป้อนชื่อครัว",
+          "error": "โปรดป้อนชื่อครัว"
+        },
+        "description": {
+          "label": "คำอธิบาย",
+          "hint": "ป้อนคำอธิบาย"
+        }
+      },
+      "manageItems": {
+        "title": "จัดการรายการ",
+        "addedItems": "รายการที่เพิ่ม",
+        "selectItemsError": "โปรดเลือกรายการ",
+        "noItemsAdded": "ยังไม่มีรายการที่เพิ่ม!\nโปรดลองเพิ่มรายการ"
+      },
+      "card": {
+        "itemName": "ชื่อรายการ",
+        "manageItems": "+ จัดการรายการ",
+        "deleteItemConfirm": "คุณต้องการลบรายการนี้หรือไม่?",
+        "deleteKitchenConfirm": "คุณต้องการลบครัวนี้หรือไม่?"
+      }
+    }
+  },
+  "enums": {
+    "dropdownDateFilter": {
+      "daily": "รายวัน",
+      "weekly": "รายสัปดาห์",
+      "monthly": "รายเดือน",
+      "yearly": "รายปี",
+      "custom": "กำหนดเอง"
+    },
+    "orderTypes": {
+      "dineIn": "รับประทานที่ร้าน",
+      "pickUp": "รับกลับบ้าน",
+      "delivery": "จัดส่ง",
+      "reservation": "จอง",
+      "quotation": "ใบเสนอราคา"
+    },
+    "paymentStatus": {
+      "paid": "ชำระเงินแล้ว",
+      "unpaid": "ยังไม่ชำระ"
+    },
+    "staffTypes": {
+      "manager": "ผู้จัดการ",
+      "waiter": "พนักงานเสิร์ฟ",
+      "chef": "เชฟ",
+      "cleaner": "พนักงานทำความสะอาด",
+      "driver": "พนักงานขับรถ",
+      "deliveryBoy": "พนักงานส่งของ"
+    },
+    "itemFoodTypes": {
+      "veg": "มังสวิรัติ",
+      "nonVeg": "ไม่ใช่มังสวิรัติ",
+      "egg": "ไข่",
+      "drink": "เครื่องดื่ม",
+      "others": "อื่นๆ"
+    },
+    "itemTypes": {
+      "single": "เดี่ยว",
+      "variation": "รูปแบบ"
+    },
+    "quotationStatus": {
+      "open": "เปิด",
+      "closed": "ปิด"
+    },
+    "tableStatus": {
+      "running": "ไม่ว่าง",
+      "available": "ว่าง"
+    },
+    "thermalPrinterPrintingMethod": {
+      "image": "รูปภาพ",
+      "default": "ค่าเริ่มต้น"
+    },
+    "kotOrderStatus": {
+      "label": {
+        "pending": "รอดำเนินการ",
+        "preparing": "กำลังเตรียม",
+        "ready": "อาหารเสร็จแล้ว",
+        "served": "เสิร์ฟแล้ว",
+        "cancelled": "ยกเลิก"
+      },
+      "pending": "รอดำเนินการ",
+      "preparing": "กำลังเตรียม",
+      "ready": "อาหารเสร็จแล้ว",
+      "served": "เสิร์ฟแล้ว",
+      "cancelled": "ยกเลิก"
+    },
+    "kotItemStatus": {
+      "pending": "เริ่มปรุงอาหาร",
+      "start": "บันทึกว่าเสร็จแล้ว",
+      "ready": "เสร็จ"
+    }
+  },
+  "thermalPrint": {
+    "invoice": {
+      "purchaseInvoiceLabel": "ใบกำกับภาษีซื้อ: ${invoiceNumber: String}",
+      "saleInvoiceLabel": "เลขที่ใบสั่งซื้อ: ${invoiceNumber: String}",
+      "receiptNoLabel": "เลขที่ใบเสร็จ: ${invoiceNumber: String}",
+      "orderNoKotLabel": "เลขที่ใบสั่งซื้อ: ${invoiceNumber: String}",
+      "nameLabel": "ชื่อ: ${name: String}",
+      "mobileLabel": "มือถือ: ${phone: String}",
+      "purchasedByLabel": "ซื้อโดย: ${role: String}",
+      "salesByLabel": "ขายโดย: ${role: String}",
+      "paidByLabel": "${label: String}: ${role: String}",
+      "paidToReceivedFromLabel": "${label: String}: ${name: String}",
+      "orderTypeLabel": "ประเภทการสั่งซื้อ: ${orderType: String}",
+      "tableLabel": "โต๊ะ: ${tableName: String}",
+      "tableNoLabel": "เลขที่โต๊ะ: ${tableName: String}",
+      "dateLabel": "วันที่: ${dateTime: String}",
+      "invoiceFlag": "ใบกำกับภาษี",
+      "receiptFlag": "ใบเสร็จ",
+      "paidBy": "ชำระโดย",
+      "receivedBy": "ผู้รับ",
+      "paidTo": "ชำระให้",
+      "receivedFrom": "รับจาก",
+      "seller": "ผู้ขาย: ${name: String}",
+      "address": "ที่อยู่: ${addr: String}",
+      "vatNo": "เลข ป.ต.พ.",
+      "tel": "โทร: ${phoneNumber: String}",
+      "timeLabel": "เวลา: ${dateTime: String}"
+    },
+    "tableHeaders": {
+      "sl": "ลำดับ",
+      "item": "รายการ",
+      "cost": "ต้นทุน",
+      "qty": "จำนวน",
+      "uPrice": "ราคา/หน่วย",
+      "amount": "ยอดเงิน",
+      "total": "รวม",
+      "invoiceTable": "ใบกำกับภาษี",
+      "dueTable": "ค้างชำระ"
+    },
+    "summary": {
+      "subTotal": "ยอดรวมย่อย:",
+      "discount": "ส่วนลด: ${percentFmt: String}",
+      "vat": "${vatName: String}: ${rateFmt: String}%",
+      "tip": "ค่าบริการ:",
+      "deliveryCharge": "ค่าจัดส่ง:",
+      "totalPayable": "ยอดชำระทั้งหมด:",
+      "paidAmount": "จำนวนเงินที่ชำระ:",
+      "dueAmount": "ยอดค้างชำระ:",
+      "paymentType": "ประเภทการชำระเงิน: ${method: String}",
+      "remainingDue": "ยอดค้างชำระคงเหลือ:",
+      "paymentAmount": "จำนวนเงินที่ชำระ:",
+      "itemsCount": "รายการ: ${count: int}",
+      "qtyTotal": "จำนวน: ${totalQty: int}"
+    },
+    "footer": {
+      "note": "${noteLabel: String}: ${note: String}",
+      "developedBy": "${developByLabel: String} ${developBy: String}"
+    }
+  },
+  "hrm": {
+    "department": "แผนก",
+    "designation": "ตำแหน่ง",
+    "shift": "กะ",
+    "employee": "พนักงาน",
+    "leave": "การลา",
+    "leaveType": "ประเภทการลา",
+    "leaveRequest": "คำขอลา",
+    "holiday": "วันหยุด",
+    "attendance": "การเข้างาน",
+    "payroll": "บัญชีเงินเดือน",
+    "pageTitles": {
+      "department": "แผนก",
+      "designation": "ตำแหน่ง",
+      "shift": "กะ",
+      "employee": "พนักงาน",
+      "leave": "การลา",
+      "leaveType": "ประเภทการลา",
+      "holiday": "วันหยุด",
+      "attendance": "การเข้างาน",
+      "payroll": "บัญชีเงินเดือน",
+      "leaveReports": "รายงานการลา",
+      "payrollReports": "รายงานเงินเดือน",
+      "attendanceReports": "รายงานการเข้างาน",
+      "addDepartment": "เพิ่มแผนก",
+      "editDepartment": "แก้ไขแผนก",
+      "addDesignation": "เพิ่มตำแหน่ง",
+      "editDesignation": "แก้ไขตำแหน่ง",
+      "addShift": "เพิ่มกะงาน",
+      "editShift": "แก้ไขกะงาน",
+      "addEmployee": "เพิ่มพนักงาน",
+      "editEmployee": "แก้ไขพนักงาน",
+      "addLeave": "เพิ่มการลา",
+      "editLeave": "แก้ไขการลา",
+      "addLeaveType": "เพิ่มประเภทการลา",
+      "editLeaveType": "แก้ไขประเภทการลา",
+      "addHoliday": "เพิ่มวันหยุด",
+      "editHoliday": "แก้ไขวันหยุด",
+      "addAttendance": "เพิ่มการเข้างาน",
+      "editAttendance": "แก้ไขการเข้างาน",
+      "addPayroll": "เพิ่มบัญชีเงินเดือน",
+      "editPayroll": "แก้ไขบัญชีเงินเดือน"
+    },
+    "form": {
+      "labels": {
+        "department": "แผนก",
+        "designation": "ตำแหน่ง",
+        "shift": "กะงาน",
+        "employee": "พนักงาน",
+        "leaveType": "ประเภทการลา",
+        "leaveDuration": "ระยะเวลาการลา",
+        "paymentYear": "ปีที่จ่ายเงิน",
+        "paymentType": "ประเภทการจ่ายเงิน",
+        "breakStatus": "สถานะการพัก",
+        "startTime": "เวลาเริ่ม",
+        "endTime": "เวลาสิ้นสุด",
+        "startBreakTime": "เวลาเริ่มพัก",
+        "endBreakTime": "เวลาสิ้นสุดพัก",
+        "breakTime": "เวลาพัก",
+        "breakDuration": "ระยะเวลาการพัก",
+        "timeIn": "เวลาเข้า",
+        "timeOut": "เวลาออก",
+        "duration": "ระยะเวลา",
+        "country": "ประเทศ",
+        "salary": "เงินเดือน",
+        "gender": "เพศ",
+        "birthDate": "วันเกิด",
+        "joinDate": "วันที่เริ่มงาน",
+        "holidayName": "ชื่อวันหยุด",
+        "startDate": "วันที่เริ่ม",
+        "endDate": "วันที่สิ้นสุด",
+        "month": "เดือน",
+        "year": "ปี",
+        "status": "สถานะ",
+        "description": "คำอธิบาย",
+        "amount": "จำนวนเงิน",
+        "payment": "การจ่ายเงิน",
+        "departmentName": "ชื่อแผนก",
+        "designationName": "ชื่อตำแหน่ง",
+        "image": "รูปภาพ",
+        "name": "ชื่อ"
+      },
+      "hints": {
+        "selectEmployee": "เลือกพนักงาน",
+        "selectDepartment": "เลือกแผนก",
+        "selectDesignation": "เลือกตำแหน่ง",
+        "selectShift": "เลือกกะ",
+        "selectLeaveType": "เลือกประเภทการลา",
+        "selectMonth": "เลือกเดือน",
+        "selectYear": "เลือกปี",
+        "selectDate": "เลือกวันที่",
+        "selectStartDate": "เลือกวันที่เริ่ม",
+        "selectEndDate": "เลือกวันที่สิ้นสุด",
+        "selectTimeIn": "เลือกเวลาเข้า",
+        "selectTimeOut": "เลือกเวลาออก",
+        "selectStartTime": "เลือกเวลาเริ่ม",
+        "selectEndTime": "เลือกเวลาสิ้นสุด",
+        "selectStatus": "เลือกสถานะ",
+        "selectGender": "เลือกเพศ",
+        "selectPaymentType": "เลือกประเภทการจ่ายเงิน",
+        "enterFullName": "กรอกชื่อเต็ม",
+        "enterEmail": "กรอกอีเมล",
+        "enterPhone": "กรอกเบอร์โทรศัพท์",
+        "enterCountry": "กรอกประเทศ",
+        "enterSalary": "เช่น: 500",
+        "enterHolidayName": "กรอกชื่อวันหยุด",
+        "enterDescription": "กรอกคำอธิบาย...",
+        "autoCalculated": "คำนวณอัตโนมัติ",
+        "selectDatesFirst": "เลือกวันที่ก่อน",
+        "allEmployee": "พนักงานทั้งหมด",
+        "selectEmployeeFirst": "เลือกพนักงานก่อน",
+        "enterDepartmentName": "กรอกชื่อแผนก",
+        "enterDesignationName": "กรอกชื่อตำแหน่ง",
+        "ex": "{value}",
+        "selectBirthDate": "เลือกวันเกิด",
+        "selectJoinDate": "เลือกวันที่เริ่มงาน",
+        "selectBreakStatus": "เลือกสถานะการพัก",
+        "enterLeaveTypeName": "กรอกชื่อประเภทการลา"
+      }
+    },
+    "emptyStates": {
+      "noLeaves": "ไม่พบการลา",
+      "noPayrollRecords": "ไม่พบรายการเงินเดือน",
+      "noAttendanceRecords": "ไม่พบรายการเข้างาน",
+      "noLeaveTypes": "ไม่พบประเภทการลา",
+      "noEmployees": "ไม่พบพนักงาน",
+      "noHolidays": "ไม่พบวันหยุด",
+      "noShifts": "ไม่พบกะงาน",
+      "noDesignations": "ไม่พบตำแหน่ง",
+      "noDepartments": "ไม่พบแผนก"
+    },
+    "confirmations": {
+      "deleteAttendance": "คุณแน่ใจหรือไม่ที่จะลบการเข้างานนี้?",
+      "deletePayroll": "คุณแน่ใจหรือไม่ที่จะลบรายการเงินเดือนนี้?",
+      "deleteLeave": "คุณแน่ใจหรือไม่ที่จะลบการลานี้?",
+      "deleteLeaveType": "คุณต้องการลบประเภทการลานี้หรือไม่?",
+      "deleteEmployee": "คุณแน่ใจหรือไม่ที่จะลบพนักงานนี้?",
+      "deleteHoliday": "คุณแน่ใจหรือไม่ที่จะลบวันหยุดนี้?",
+      "deleteShift": "คุณต้องการลบกะงานนี้หรือไม่?",
+      "deleteDesignation": "คุณแน่ใจหรือไม่ที่จะลบตำแหน่งนี้?",
+      "deleteDepartment": "คุณแน่ใจหรือไม่ที่จะลบแผนกนี้?"
+    },
+    "validation": {
+      "selectEmployee": "กรุณาเลือกพนักงาน",
+      "selectMonth": "กรุณาเลือกเดือน",
+      "selectEndDate": "กรุณาเลือกวันที่สิ้นสุด",
+      "endDateAfterStart": "วันที่สิ้นสุดต้องหลังจากวันที่เริ่ม",
+      "selectStatus": "โปรดเลือกสถานะ",
+      "selectLeaveType": "กรุณาเลือกประเภทการลา",
+      "selectStartDate": "กรุณาเลือกวันที่เริ่ม",
+      "selectDate": "กรุณาเลือกวันที่",
+      "selectTimeIn": "โปรดเลือกเวลาเข้างาน",
+      "selectTimeOut": "โปรดเลือกเวลาออกงาน",
+      "enterDepartmentName": "กรุณากรอกชื่อแผนก",
+      "enterDesignationName": "โปรดกรอกชื่อตำแหน่ง",
+      "enterName": "กรุณากรอกชื่อ",
+      "selectDesignation": "กรุณาเลือกตำแหน่ง",
+      "selectDepartment": "กรุณาเลือกแผนก",
+      "enterEmail": "กรุณากรอกอีเมล",
+      "enterValidEmail": "กรุณากรอกอีเมลที่ถูกต้อง",
+      "enterPhoneNumber": "กรุณากรอกเบอร์โทรศัพท์",
+      "enterCountry": "กรุณากรอกประเทศ",
+      "enterSalary": "กรุณากรอกเงินเดือน",
+      "selectGender": "กรุณาเลือกเพศ",
+      "selectShift": "กรุณาเลือกกะ",
+      "selectBirthDate": "กรุณาเลือกวันเกิด",
+      "selectJoinDate": "กรุณาเลือกวันที่เริ่มงาน",
+      "enterHolidayName": "กรุณากรอกชื่อวันหยุด",
+      "selectBreakStatus": "โปรดเลือกสถานะการพัก",
+      "selectPaymentYear": "โปรดเลือกปีที่ชำระ",
+      "selectPaymentType": "โปรดเลือกประเภทการชำระ",
+      "enterAmount": "โปรดกรอกจำนวนเงิน",
+      "selectStartBreakTime": "โปรดเลือกเวลาเริ่มพัก",
+      "selectEndBreakTime": "โปรดเลือกเวลาสิ้นสุดการพัก",
+      "enterLeaveTypeName": "โปรดกรอกชื่อประเภทการลา",
+      "selectStartTime": "โปรดเลือกเวลาเริ่ม",
+      "selectEndTime": "โปรดเลือกเวลาสิ้นสุด"
+    },
+    "dropdowns": {
+      "addNew": "+ เพิ่มใหม่",
+      "morning": "เช้า",
+      "day": "กลางวัน",
+      "evening": "เย็น",
+      "night": "กลางคืน",
+      "yes": "ใช่",
+      "no": "ไม่",
+      "approved": "อนุมัติ",
+      "rejected": "ปฏิเสธ",
+      "terminated": "เลิกจ้าง",
+      "suspended": "ระงับ",
+      "male": "ชาย",
+      "female": "หญิง",
+      "pending": "รอดำเนินการ",
+      "active": "ใช้งานอยู่",
+      "inactive": "ระงับการใช้งาน",
+      "paid": "จ่ายแล้ว",
+      "unpaid": "ยังไม่จ่าย"
+    },
+    "units": {
+      "days": "วัน"
+    },
+    "fallbacks": {
+      "noNoteAvailable": "ไม่มีบันทึก",
+      "noDescriptionAvailable": "ไม่มีคำอธิบาย",
+      "selectEmployeeFirst": "เลือกพนักงานก่อน"
+    },
+    "success": {
+      "leaveDelete": "ลบการลาสำเร็จ",
+      "attendanceDelete": "ลบการเข้างานสำเร็จ",
+      "attendanceAdd": "เพิ่มการเข้างานสำเร็จ",
+      "attendanceUpdate": "อัปเดตการเข้างานสำเร็จ",
+      "leaveAdd": "เพิ่มการลาสำเร็จ",
+      "leaveUpdate": "อัปเดตการลาสำเร็จ",
+      "departmentDelete": "ลบแผนกสำเร็จ",
+      "departmentAdd": "เพิ่มแผนกสำเร็จ",
+      "departmentUpdate": "อัปเดตแผนกสำเร็จ",
+      "designationDelete": "ลบตำแหน่งสำเร็จ",
+      "designationAdd": "เพิ่มตำแหน่งสำเร็จ",
+      "designationUpdate": "อัปเดตตำแหน่งสำเร็จ",
+      "employeeDelete": "ลบพนักงานสำเร็จ",
+      "employeeAdd": "เพิ่มพนักงานสำเร็จ",
+      "employeeUpdate": "อัปเดตพนักงานสำเร็จ",
+      "holidayDelete": "ลบวันหยุดสำเร็จ",
+      "holidayAdd": "เพิ่มวันหยุดสำเร็จ",
+      "holidayUpdate": "อัปเดตวันหยุดสำเร็จ",
+      "leaveTypeDelete": "ลบประเภทการลาสำเร็จ"
+    }
+  }
+}

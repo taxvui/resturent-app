@@ -1,0 +1,1561 @@
+{
+  "@@meta": {
+    "languageCode": "ja_JP",
+    "languageName": "Japanese",
+    "version": "1.0.0"
+  },
+  "common": {
+    "signIn": "サインイン",
+    "signUp": "サインアップ",
+    "verifyEmail": "メール認証",
+    "customizeProfile": "プロファイルをカスタマイズ",
+    "imageOrLogo": "画像またはロゴ",
+    "createNewPassword": "新しいパスワードを作成",
+    "itemsList": "商品リスト",
+    "searchItemsName": "商品名を検索",
+    "categoryList": "カテゴリリスト",
+    "brandList": "ブランドリスト",
+    "unitList": "単位リスト",
+    "itemDetails": "商品詳細",
+    "addStock": "在庫を追加",
+    "profile": "プロフィール",
+    "language": "言語",
+    "termsAndConditions": "利用規約",
+    "aboutUs": "私たちについて",
+    "logout": "ログアウト",
+    "editProfile": "プロファイルを編集",
+    "fullName": "氏名",
+    "email": "メール",
+    "mobileNumber": "電話番号",
+    "address": "住所",
+    "password": "パスワード",
+    "forgotPassword": "パスワードを忘れましたか",
+    "edit": "編集",
+    "delete": "削除",
+    "addItems": "商品を追加",
+    "stock": "在庫",
+    "currentStock": "現在の在庫",
+    "value": "価値",
+    "sales": "売上",
+    "purchase": "仕入れ",
+    "price": "価格",
+    "image": "画像",
+    "upload": "アップロード",
+    "addNew": "新規追加",
+    "pricing": "価格設定",
+    "name": "名前",
+    "category(plural)": {
+      "one": "カテゴリ",
+      "other": "カテゴリs"
+    },
+    "areas": "Areas",
+    "brand": "ブランド",
+    "lowStock": "在庫僅少",
+    "unit": "単位",
+    "vat": "付加価値税",
+    "taxType": "税の種類",
+    "purchasePrice": "仕入価格",
+    "sellingPrice": "販売価格",
+    "wholeSalePrice": "卸売価格",
+    "dealerPrice": "業者価格",
+    "searchHere": "ここで検索",
+    "totalItems": "合計商品数",
+    "stockValue": "在庫価値",
+    "congratulation": "おめでとうございます",
+    "salesList": "売上一覧",
+    "searchInvoiceNumber": "請求書番号を検索",
+    "view": "表示",
+    "kFor": "対象",
+    "total": "合計",
+    "subTotal": "小計",
+    "insufficientStockAvailableStock": "在庫不足、利用可能在庫",
+    "discount": "割引",
+    "selectOne": "一つ選択",
+    "allCategory": "すべてのカテゴリ",
+    "details": "詳細",
+    "parcel": "小包",
+    "kot": "厨房指示票",
+    "table": "テーブル",
+    "holdTable": "テーブル保留",
+    "capacity": "収容人数",
+    "commonHint": "例: 10",
+    "pleaseEnterQuantity": "数量を入力してください",
+    "quantityMustBeGreaterThanZero": "数量は0より大きくなければなりません",
+    "mobile": "モバイル",
+    "orderNo": "注文番号",
+    "dateAndTime": "日時",
+    "items": "商品",
+    "totalAmount": "合計金額",
+    "paidAmount": "支払金額",
+    "dueAmount": "未払金額",
+    "paymentType": "支払方法",
+    "thankYou": "ありがとうございます",
+    "developedBy": "${domain: String}が開発",
+    "qty": "価格",
+    "amount": "金額",
+    "dashboard": "ダッシュボード",
+    "reports": "レポート",
+    "home": "ホーム",
+    "parties": "取引先",
+    "subscriptionPlan": "サブスクリプションプラン",
+    "estimateList": "見積書一覧",
+    "purchaseList": "仕入リスト",
+    "dueList": "未払リスト",
+    "lossOrProfit": "損益",
+    "stocks": "在庫",
+    "moneyInList": "入金リスト",
+    "moneyOutList": "出金リスト",
+    "transactionList": "取引リスト",
+    "income": "収入",
+    "expense": "支出",
+    "quickView": "クイックビュー",
+    "to": "〜",
+    "totalSales": "総売上",
+    "totalPurchase": "総仕入",
+    "holdNumber": "保留中の注文",
+    "totalExpense": "総支出",
+    "loss": "損失",
+    "profit": "利益",
+    "recentTransaction": "最近の取引",
+    "invoice": "請求書",
+    "moneyIn": "入金",
+    "moneyOut": "出金",
+    "paid": "支払い済み",
+    "due": "未払い",
+    "partial": "一部支払い",
+    "print": "印刷",
+    "addCategory": "カテゴリを追加",
+    "addExpense": "支出を追加",
+    "search": "検索...",
+    "viewDetails": "詳細を見る",
+    "title": "タイトル",
+    "date": "日付",
+    "note": "メモ",
+    "phoneNumber": "電話番号",
+    "type": "種類",
+    "selectContactSType": "連絡先の種類を選択",
+    "moreInfo": "詳細情報",
+    "paymentReceived": "入金済み",
+    "selectSupplier": "サプライヤーを選択",
+    "supplier": "サプライヤー",
+    "received": "受領",
+    "balanceDue": "残高",
+    "addPurchase": "仕入れを追加",
+    "selectedItemWillBeCleared": "選択された商品はクリアされます。",
+    "searchItemName": "商品名を検索",
+    "billItems": "請求書項目",
+    "addMoreItems": "さらに商品を追加",
+    "payAmount": "支払金額",
+    "salesReport": "売上レポート",
+    "purchaseReport": "仕入レポート",
+    "stockReport": "在庫レポート",
+    "dueReport": "未払レポート",
+    "dueCollectionReport": "未払回収レポート",
+    "transactionReport": "取引レポート",
+    "incomeReport": "収入レポート",
+    "dueCollectionList": "未払回収リスト",
+    "expenseReport": "支出レポート",
+    "dueCollection": "未払回収",
+    "myProfile": "マイプロフィール",
+    "printingOption": "印刷オプション",
+    "currency": "通貨",
+    "paymentMethod": "支払方法",
+    "rateUs": "評価してください",
+    "termAndCondition": "利用規約",
+    "tableList": "テーブルリスト",
+    "addTable": "テーブルを追加",
+    "vatRate": "付加価値税率 %",
+    "action": "アクション",
+    "status": "ステータス",
+    "active": "アクティブ",
+    "inActive": "非アクティブ",
+    "subVats": "内訳付加価値税",
+    "add": "追加",
+    "taxRate": "税率 %",
+    "subTaxes": "内訳税",
+    "group": "グループ",
+    "VAT": "付加価値税",
+    "subTaxList": "内訳税リスト",
+    "vatPercent": "付加価値税率",
+    "statusIsCannotInActive": "売上に付加価値税が適用されている場合、ステータスを非アクティブにすることはできません。",
+    "vatOnSales": "売上に対する付加価値税",
+    "transaction": "取引",
+    "version": "バージョン ${version: String}",
+    "hold": "保留",
+    "empty": "空",
+    "appName": "レストランアプリ",
+    "duePayment": "未払い金",
+    "orders": "注文",
+    "all": "すべて",
+    "ingredient": "食材",
+    "menus": "メニュー",
+    "modifierGroups": "モディファイアグループ",
+    "itemModifiers": "商品モディファイア",
+    "staff": "スタッフ",
+    "coupon": "クーポン",
+    "pay": "支払い",
+    "pendingOrders": "保留中の注文",
+    "order": "注文",
+    "payNow": "今すぐ支払う",
+    "addStaff": "スタッフを追加",
+    "designation": "役職",
+    "itemAdded": "商品が追加されました",
+    "noItemAdded": "商品が追加されていません",
+    "saveNPrint": "保存して印刷",
+    "allowMultiSelection": "複数選択を許可",
+    "required": "必須",
+    "optional": "任意",
+    "allowMultiSelectionForSale": "販売時に複数選択を許可",
+    "isRequired": "必須です",
+    "modifier": "モディファイア",
+    "fullPayment": "全額支払い",
+    "payment": "支払い",
+    "addTip": "チップを追加",
+    "netPayable": "純支払額",
+    "receiveAmount": "受取金額",
+    "changeAmount": "お釣り",
+    "quotationList": "見積一覧",
+    "addQuotation": "見積追加",
+    "convert": "変換",
+    "variations": "バリエーション",
+    "instructions": "備考",
+    "unavailable": "利用不可",
+    "tip": "ヒント",
+    "salesQuotationReport": "販売見積レポート",
+    "orderType": "注文タイプ",
+    "deliveryCharge": "配送料",
+    "receiptNo": "領収書番号",
+    "paidBy": "支払者",
+    "receivedBy": "受領者",
+    "paymentAmount": "支払金額",
+    "remainingDue": "未払残高",
+    "roleNPermission": "役割と権限",
+    "sl": "SL",
+    "features": "機能",
+    "create": "作成",
+    "update": "更新",
+    "quotations": "見積",
+    "restaurant": "レストラン",
+    "printerProfile": "プリンタープロファイル",
+    "kitchenOrders": "キッチン注文",
+    "kitchen(plural)": {
+      "one": "キッチン",
+      "other": "キッチン"
+    },
+    "allKOT": "すべてのKOT",
+    "cancelKOT": "KOTをキャンセル",
+    "selectCancelReason": "キャンセル理由を選択",
+    "additionalComment": "追加コメント",
+    "enterComment": "コメントを入力",
+    "orderStatus": "注文ステータス",
+    "selectOrderStatus": "注文ステータスを選択",
+    "kotReport": "KOTレポート",
+    "itemFoodType": "食品タイプ",
+    "selectItemFoodType": "@:common.itemFoodType を選択",
+    "markAllAsRead": "すべて既読にする",
+    "online": "オンライン",
+    "cancelledReason": "キャンセル理由",
+    "hrm": "HRM",
+    "notAvailable": "N/A"
+  },
+  "exceptions": {
+    "somethingWentWrong": "問題が発生しました。もう一度お試しください。",
+    "noCategoryFound": "カテゴリが見つかりません！\nカテゴリを追加してください。",
+    "doYouWantToDeleteThisCategory": "このカテゴリを削除しますか？",
+    "noBrandFound": "ブランドが見つかりません！\nブランドを追加してください。",
+    "doYouWantToDeleteThisBrand": "このブランドを削除しますか？",
+    "noItemStockFound": "商品の在庫が見つかりません！\n商品を追加してください。",
+    "noUnitFound": "単位が見つかりません！\n単位を追加してください。",
+    "doYouDeleteThisUnit": "この単位を削除しますか？",
+    "noSaleFoundPleaseSAddProduct": "売上が見つかりません！\n売上を追加してください。",
+    "doYouWantToDeleteThisSale": "この売上を削除しますか？",
+    "pleaseAddItemToTheCartFirst": "最初に商品をカートに追加してください",
+    "noItemAdded": "商品が追加されていません",
+    "cannotEditOthersTable": "他のテーブルは編集できません。",
+    "tableIsAlreadyBlocked": "テーブルはすでに予約済みです。",
+    "failedToGetCustomerDetails": "顧客情報の取得に失敗しました。",
+    "noTableFoundPleaseTryAgain": "テーブルが見つかりません！\nテーブルを追加してください。",
+    "noDueCollectionFound": "未払いの請求書が見つかりません！\n利用可能になると未払いの請求書が表示されます。",
+    "noExpenseFoundPleaseTryAddingExpense": "支出が見つかりません！\n支出を追加してください。",
+    "doYouWantToDeleteThisExpense": "この支出を削除しますか？",
+    "noExpenseCategoryFound": "支出カテゴリが見つかりません！\n支出カテゴリを追加してください。",
+    "noTransactionFound": "取引が見つかりません。後ほどもう一度お試しください！",
+    "pleaseSelectACategory": "カテゴリを選択してください",
+    "noIncomeFound": "収入が見つかりません！\n収入を追加してください",
+    "doYouWantToDeleteThisIncome": "この収入を削除しますか？",
+    "noIncomeCategoryFoundAddingAIncome": "収入カテゴリが見つかりません！\n収入カテゴリを追加してください。",
+    "noItemFoundPleaseTryAddingItem": "商品が見つかりません！\n商品を追加してください。",
+    "noPartiesFound": "取引先が見つかりません",
+    "doYouWantToDeleteThisParty": "この取引先を削除しますか？",
+    "noLedgerFound": "元帳が見つかりません！\n${transactionType: String}を追加してください",
+    "areYouSureYouSureWantToDeleteThisTaxType": "この${taxType: String}を削除してもよろしいですか？",
+    "noItemFoundPleaseSTryAddingAnPurchase": "商品が見つかりません！\n仕入れを追加してください。",
+    "doYouWantToDeleteThisPurchase": "この仕入れを削除しますか？",
+    "noTransactionFoundYouSeeTransactionHereWhenAvailable": "取引が見つかりません！\n利用可能になるとここに取引が表示されます。",
+    "noSaleFoundPleaseTryAddingSale": "売上が見つかりません！\n売上を追加してください。",
+    "noPurchaseFoundPleaseTryAddingPurchase": "仕入れが見つかりません！\n仕入れを追加してください。",
+    "noItemIncomeFound": "収入データが見つかりません！\n利用可能になると収入データが表示されます。",
+    "noItemExpenseFound": "支出データが見つかりません！\n利用可能になると支出データが表示されます。",
+    "noItemDueInvoiceFound": "未払いの請求書データが見つかりません！\n利用可能になると未払いの請求書が表示されます。",
+    "noItemDueCollectionInvoiceFound": "'未回収の請求書データが見つかりません！\n利用可能になると未回収の請求書が表示されます。",
+    "doYouWantToDeleteThisTable": "このテーブルを削除しますか？'",
+    "thisVatIsBeingUsedOnSales": "この付加価値税は売上で使用されています！",
+    "noPaymentMethodFoundPleaseTryAddingAPaymentMethod": "支払方法が見つかりません！\n支払方法を追加してください。",
+    "pleaseSelectACustomerFirst": "まず顧客を選択してください。",
+    "pleaseSelectATableToCreateAKot": "KOTを作成するにはテーブルを選択してください。",
+    "noStaffFound": "スタッフが見つかりません！\nスタッフを追加してみてください。",
+    "noIngredientFound": "食材が見つかりません！\n食材を追加してみてください。",
+    "exceedsPaymentAmount": "受取金額は支払額を超えることはできません",
+    "noItemModifierFound": "商品モディファイアが見つかりません！\n商品モディファイアを追加してみてください。",
+    "noModifierGroupFound": "モディファイアグループが見つかりません！\nモディファイアグループを追加してみてください。",
+    "noOptionsFound": "オプションが見つかりません！",
+    "maxImageCountLimit": "選択できる画像は最大5枚です。",
+    "noQuotationFound": "見積もりが見つかりませんでした。\n見積もりを追加してみてください。",
+    "noPermittedUserFound": "許可されたユーザーが見つかりません！\\n ユーザーを追加してみてください。"
+  },
+  "prompt": {
+    "logout": {
+      "title": "@:common.logout",
+      "message": "本当にログアウトしますか？"
+    },
+    "unsavedWarning": {
+      "title": "戻りますか？",
+      "message": "変更されたフィールドは保存されない可能性があります！"
+    },
+    "verify": {
+      "title": "メールアドレスを確認してください",
+      "description(rich)": "確認コードのメールを送信しました${emailSpan}\nメールが迷惑メールフォルダに届いている可能性があります。"
+    },
+    "subscriptionExpired": {
+      "title": "サブスクリプションの有効期限が切れました！",
+      "message": "続行するにはサブスクライブしてください。",
+      "action": "サブスクライブ"
+    },
+    "items": {
+      "delete": {
+        "title": "この商品を削除しますか？"
+      },
+      "filter": {
+        "title": "フィルター",
+        "extra": {
+          "lowToHigh": "低価格順 @:common.price",
+          "highToLow": "高価格順 @:common.price"
+        }
+      }
+    },
+    "checkInternet": {
+      "title": "インターネット接続がありません",
+      "message": "Wi-Fiまたはモバイルネットワーク接続を確認して、もう一度お試しください"
+    },
+    "back": {
+      "title": "もう一度戻るボタンを押すと終了します。"
+    },
+    "stockModelSheet": {
+      "title": "新しい在庫を追加"
+    },
+    "paymentMethod": {
+      "title": "この支払方法を削除しますか？"
+    },
+    "extMsg": {
+      "kotSavedSuccessfully": "KOTが正常に保存されました"
+    },
+    "deleteStaff": "このスタッフを削除しますか？",
+    "deleteIngredient": "この食材を削除しますか？",
+    "deleteItemModifier": "この商品モディファイアを削除しますか？",
+    "deleteModifierGroup": "このモディファイアグループを削除しますか？",
+    "deleteQuotation": "この見積もりを削除しますか？"
+  },
+  "form": {
+    "fullName": {
+      "label": "@:common.fullName",
+      "hint": "@:common.fullName を入力",
+      "errors": {
+        "required": "@:common.fullName を入力してください"
+      }
+    },
+    "email": {
+      "label": "@:common.email",
+      "hint": "@:common.email を入力",
+      "errors": {
+        "required": "@:common.email アドレスを入力してください",
+        "invalid": "⦸ 無効なメールアドレスです。もう一度お試しください"
+      }
+    },
+    "password": {
+      "label": "@:common.password",
+      "hint": "* * * * * * * *",
+      "errors": {
+        "required": "@:common.password を入力してください",
+        "minLength": "パスワードは ${count} 文字以上である必要があります！"
+      }
+    },
+    "confirmPassword": {
+      "label": "パスワードを認証",
+      "hint": "* * * * * * * *",
+      "errors": {
+        "required": "@:common.password を入力してください",
+        "invalid": "'パスワードが一致しません！'"
+      }
+    },
+    "otp": {
+      "errors": {
+        "required": "OTPを入力してください。",
+        "invalid": "現在のOTPを入力してください。"
+      }
+    },
+    "profile": {
+      "businessCategory": {
+        "label": "業種",
+        "hint": "業種を選択",
+        "errors": {
+          "required": "業種を選択してください"
+        }
+      },
+      "shopOrStore": {
+        "label": "店舗名*",
+        "hint": "店舗名を入力",
+        "errors": {
+          "required": "店舗名を入力してください"
+        }
+      },
+      "openingBalance": {
+        "label": "開始残高",
+        "hint": "開始残高を入力"
+      },
+      "vatGstTitle": {
+        "label": "VAT/GST タイトル",
+        "hint": "VAT/GST を入力"
+      },
+      "vatGstNumber": {
+        "label": "VAT/GST 番号",
+        "hint": "VAT/GST 番号を入力"
+      }
+    },
+    "vat": {
+      "name": {
+        "label": "名前",
+        "hint": "VAT名を入力",
+        "error": {
+          "required": "VAT名を入力してください"
+        }
+      },
+      "subVat": {
+        "label": "内訳VAT",
+        "hint": "内訳VATを選択",
+        "errors": {
+          "required": "内訳付加価値税を選択してください"
+        }
+      },
+      "rate": {
+        "label": "付加価値税率 %",
+        "hint": "VAT税率を入力してください",
+        "errors": {
+          "required": "VAT税率を入力してください。"
+        }
+      }
+    },
+    "category": {
+      "label": "@:common.category",
+      "hint": "商品カテゴリを選択",
+      "error": {
+        "required": "カテゴリ名を入力してください"
+      }
+    },
+    "items": {
+      "barcode": {
+        "label": "バーコード",
+        "hint": "@:common.selectOne"
+      },
+      "itemName": {
+        "label": "商品名",
+        "hint": "商品名を入力",
+        "extra": {
+          "required": "商品名を入力してください"
+        }
+      },
+      "itemCategory": {
+        "label": "商品カテゴリ",
+        "hint": "商品カテゴリ",
+        "extra": {
+          "label": "カテゴリを選択",
+          "required": "カテゴリを選択してください"
+        }
+      },
+      "brand": {
+        "label": "@:common.brand",
+        "hint": "@:common.selectOne",
+        "extra": {
+          "hint": "ブランド名を入力",
+          "required": "ブランド名を入力してください"
+        }
+      },
+      "unit": {
+        "label": "@:common.unit",
+        "hint": "@:common.selectOne",
+        "error": {
+          "required": "単位名を入力してください"
+        }
+      },
+      "stock": {
+        "label": "開始在庫",
+        "hint": "@:common.commonHint",
+        "extra": {
+          "required": "商品の数量を入力してください。"
+        }
+      },
+      "lowStock": {
+        "label": "@:common.lowStock",
+        "hint": "例: 5"
+      },
+      "purchasePrice": {
+        "label": "@:common.purchasePrice",
+        "hint": "例: \\$40",
+        "error": {
+          "required": "仕入価格を入力してください。"
+        }
+      },
+      "salePrice": {
+        "label": "販売価格",
+        "hint": "例: \\$60",
+        "error": {
+          "required": "販売価格を入力してください。"
+        }
+      },
+      "totalSalePrice": {
+        "label": "合計販売価格",
+        "hint": "例: \\$100"
+      },
+      "wholeSalePrice": {
+        "label": "@:common.wholeSalePrice",
+        "hint": "卸売価格を入力"
+      },
+      "dealerPrice": {
+        "label": "@:common.dealerPrice",
+        "hint": "業者価格を入力"
+      },
+      "discount": {
+        "label": "割引 (%)",
+        "hint": "@:common.commonHint"
+      },
+      "applicableTax": {
+        "label": "適用税",
+        "hint": "@:common.selectOne"
+      },
+      "vatType": {
+        "label": "@:common.taxType",
+        "errorText": {
+          "required": "VATの種類を選択してください"
+        }
+      },
+      "menu": {
+        "label": "メニューを選択",
+        "errors": {
+          "required": "メニューを選択してください。"
+        },
+        "hint": "メニューを選択",
+        "extra": {
+          "selectNavLabel": "商品メニューを選択"
+        }
+      },
+      "modifierItems": {
+        "label": "モディファイア商品",
+        "hint": "モディファイア商品を選択"
+      },
+      "preparationTime": {
+        "label(rich)": "準備時間 ${minutes(分)}",
+        "hint": "例：30"
+      },
+      "variation": {
+        "name": {
+          "label": "名前",
+          "hint": "バリエーションを入力",
+          "errors": {
+            "required": "バリエーション名を入力してください。"
+          }
+        },
+        "price": {
+          "errors": {
+            "required": "価格を入力してください。"
+          },
+          "label": "価格",
+          "hint": "例：\\$30"
+        }
+      }
+    },
+    "itemCart": {
+      "hint": "@:common.commonHint",
+      "error": {
+        "required": "@:common.pleaseEnterQuantity",
+        "noZero": "@:common.quantityMustBeGreaterThanZero"
+      }
+    },
+    "sales": {
+      "autoGenerateInvoice": {
+        "label": "請求書番号",
+        "hint": "P-00001"
+      },
+      "date": {
+        "label": "日付"
+      },
+      "customer": {
+        "label": "顧客",
+        "hint": "顧客を選択"
+      },
+      "phone": {
+        "label": "電話番号",
+        "hint": "電話番号を入力"
+      },
+      "address": {
+        "label": "住所",
+        "hint": "住所を入力"
+      },
+      "deliveryCharge": {
+        "label": "@:common.deliveryCharge",
+        "hint": "例: \\$20",
+        "hint2": "料金 例：\\$10"
+      },
+      "table": {
+        "hint": "テーブルを選択"
+      },
+      "waiter": {
+        "hint": "ウェイターを選択"
+      }
+    },
+    "bill": {
+      "label": "請求書番号",
+      "hint": "P-00001"
+    },
+    "supplier": {
+      "label": "サプライヤー",
+      "hint": "サプライヤーを選択",
+      "extra": {
+        "required": "サプライヤーを選択してください"
+      }
+    },
+    "phone": {
+      "label": "電話番号",
+      "hint": "電話番号を入力",
+      "errors": {
+        "required": "電話番号を入力してください。"
+      }
+    },
+    "address": {
+      "label": "会社住所",
+      "hint": "会社住所を入力"
+    },
+    "payment": {
+      "label": "名前",
+      "hint": "支払名を入力",
+      "error": {
+        "required": "支払方法名を入力してください"
+      }
+    },
+    "expense": {
+      "label": "支出カテゴリ",
+      "hint": "支出カテゴリを選択",
+      "error": {
+        "required": "支出カテゴリを入力してください"
+      }
+    },
+    "income": {
+      "label": "収入カテゴリ",
+      "hint": "カテゴリ名を入力",
+      "error": {
+        "required": "カテゴリ名を入力してください"
+      },
+      "incomeTitle": {
+        "label": "収入タイトル",
+        "hint": "収入を入力"
+      },
+      "incomeCategory": {
+        "label": "収入カテゴリ",
+        "hint": "カテゴリを選択"
+      },
+      "payment": {
+        "label": "支払い",
+        "hint": "例: \\$10"
+      }
+    },
+    "note": {
+      "label": "メモ (任意)",
+      "hint": "テキストを入力"
+    },
+    "parties": {
+      "partyName": {
+        "label": "取引先名",
+        "hint": "取引先名を入力",
+        "error": {
+          "required": "取引先名を入力してください"
+        }
+      },
+      "partyPhone": {
+        "label": "電話番号",
+        "hint": "電話番号を入力",
+        "error": {
+          "required": "電話番号を入力してください"
+        }
+      }
+    },
+    "table": {
+      "name": {
+        "label": "テーブル名",
+        "hint": "テーブル名を入力",
+        "error": {
+          "required": "テーブル名を入力してください"
+        }
+      },
+      "capacity": {
+        "label": "収容人数",
+        "hint": "収容人数を入力",
+        "error": {
+          "required": "収容人数を入力してください"
+        }
+      }
+    },
+    "designation": {
+      "label": "@:common.designation",
+      "hint": "役職を選択",
+      "errors": {
+        "required": "役職を選択してください。"
+      }
+    },
+    "ingredientName": {
+      "label": "食材名",
+      "hint": "食材名を入力",
+      "errors": {
+        "required": "食材名を入力してください"
+      }
+    },
+    "item": {
+      "label": "商品",
+      "hint": "商品を選択",
+      "errors": {
+        "required": "商品を選択してください。"
+      }
+    },
+    "modifierGroup": {
+      "label": "モディファイアグループ",
+      "hint": "モディファイアグループを選択",
+      "errors": {
+        "required": "モディファイアグループを選択してください。"
+      }
+    },
+    "description": {
+      "label": "説明",
+      "hint": "説明を入力"
+    },
+    "staff": {
+      "label": "@:common.staff",
+      "hint": "スタッフを選択してください",
+      "errors": {
+        "required": "スタッフを選択してください"
+      }
+    },
+    "loginUserName": {
+      "label": "ログインユーザー名",
+      "hint": "ユーザー名またはメールアドレスを入力してください",
+      "errors": {
+        "required": "ユーザー名またはメールアドレスを入力してください"
+      }
+    }
+  },
+  "action": {
+    "next": "次へ",
+    "getStarted": "始める",
+    "skip": "スキップ",
+    "select": "選択",
+    "save": "保存",
+    "verify": "認証",
+    "signIn": "@:common.signIn",
+    "signUp": "@:common.signUp",
+    "continue": "続ける",
+    "no": "いいえ",
+    "yes": "はい",
+    "okay": "OK",
+    "cancel": "キャンセル",
+    "confirm": "確認",
+    "tryAgain": "再試行",
+    "reset": "リセット",
+    "apply": "適用",
+    "stockAdjust": "在庫調整",
+    "addMoreItems": "さらに商品を追加",
+    "hold": "保留",
+    "parcel": "@:common.parcel",
+    "buyNow": "今すぐ購入",
+    "viewAll": "すべて表示",
+    "viewLedger": "元帳を見る",
+    "submit": "送信",
+    "selected": "選択済み",
+    "addToCart": "カートに追加",
+    "selectAll": "すべて選択",
+    "update": "@:common.update",
+    "addRole": "役割を追加"
+  },
+  "pages": {
+    "language": {
+      "appbarTitle": "@:action.select @:common.language"
+    },
+    "onboard": {
+      "onboardData": {
+        "data1": {
+          "title": "使いやすい @:common.appName",
+          "description": "スムーズな注文、手間のかからない予約\\n簡単にレストランをパワーアップ！"
+        },
+        "data2": {
+          "title": "簡単な注文管理",
+          "description": "直感的なPOSシステムで、レストランの注文受付プロセスを合理化します。"
+        },
+        "data3": {
+          "title": "優れた分析とレポート",
+          "description": "当社の分析ダッシュボードは、リアルタイムの売上と仕入れレポートを提供します"
+        }
+      }
+    },
+    "signIn": {
+      "title": "おかえりなさい",
+      "subtitle": "詳細を入力してください。",
+      "extra": {
+        "rememberMe": "記憶する",
+        "signUpNavigator(rich)": "アカウントをお持ちではありませんか？ ${getStarted(@:action.getStarted)}",
+        "forgotPassword": "@:common.forgotPassword?"
+      }
+    },
+    "signUp": {
+      "title": "アカウントを作成",
+      "subtitle": "詳細を入力してください",
+      "extra": {
+        "signInNavigator(rich)": "すでにアカウントをお持ちですか？ ${signIn(@:action.signIn)}"
+      }
+    },
+    "forgotPassword": {
+      "title": "@:common.forgotPassword",
+      "subtitle": "パスワードを回復するには、メールアドレスを入力してください。"
+    },
+    "otpVerification": {
+      "title": "認証",
+      "subtitle": "6桁のPINがあなたのメールアドレスに送信されました",
+      "extra": {
+        "codeResend": {
+          "codeSendIn": "コード送信",
+          "resendCode": "コードを再送信"
+        }
+      }
+    },
+    "resetPassword": {
+      "title": "パスワードをリセット",
+      "subtitle": "パスワードをリセットして回復し、アカウントにログインします",
+      "extra": {
+        "dialog": {
+          "title": "変更に成功しました！",
+          "subtitle": "新しいパスワードでサインインしてください。\nサインインにリダイレクトしています..."
+        }
+      }
+    },
+    "items": {
+      "itemList": {
+        "extra": {
+          "emptyItem": "商品が見つかりません！\n商品を追加してみてください。"
+        }
+      },
+      "manageItems": {
+        "title": "新しい商品を追加",
+        "title2": "商品を編集",
+        "extra": {
+          "maximum": "最大5",
+          "wholeSaleAndDealerPrice": "卸売価格と業者価格",
+          "addDiscount": "割引を追加",
+          "addVat": "VATを追加"
+        }
+      },
+      "itemDetails": {
+        "title": "商品詳細",
+        "extra": {
+          "noImageAvailable": "画像はありません！",
+          "preparationTime(rich)": "準備時間: ${min: String} ${mins(mins)}",
+          "pleaseSelectVariation": "バリエーションを選択してください",
+          "pleaseSelectOption": "オプションを選択してください。",
+          "enterYourInstruction": "備考を入力してください"
+        }
+      }
+    },
+    "category": {
+      "addNewCategory": "新しいカテゴリを追加",
+      "editCategory": "カテゴリを編集"
+    },
+    "brand": {
+      "addNewBrand": "新しいブランドを追加",
+      "editBrand": "ブランドを編集"
+    },
+    "unit": {
+      "addNewUnit": "新しい単位を追加",
+      "editUnit": "単位を編集"
+    },
+    "stock": {
+      "stockList": "在庫リスト"
+    },
+    "aboutUs": {
+      "title": "私たちについて"
+    },
+    "privacyPolicy": {
+      "title": "プライバシーポリシー"
+    },
+    "termAndCondition": {
+      "title": "@:common.termAndCondition"
+    },
+    "orders": {
+      "manageOrders": {
+        "extra": {
+          "billItems": "請求書項目",
+          "manageQuantity": "数量を管理"
+        },
+        "title": {
+          "editOrder": "注文を編集",
+          "editKOT": "KOTを編集"
+        }
+      }
+    },
+    "onlinePayment": {
+      "title": "オンライン決済"
+    },
+    "paymentStatus": {
+      "success": {
+        "title": "ありがとうございます！",
+        "message": "お支払いを審査し、24時間以内に承認いたします。",
+        "actionButtonText": "請求書を表示"
+      },
+      "fail": {
+        "title": "おっと！支払いが失敗しました",
+        "message": "技術的なエラーにより、トランザクションが失敗しました。",
+        "actionButtonText": "再試行"
+      }
+    },
+    "confirmationDialog": {
+      "title": "ログアウト",
+      "message": "本当にログアウトしますか？",
+      "acceptationText": "いいえ",
+      "rejectionText": "ログアウト"
+    },
+    "payment": {
+      "title": "@:common.paymentMethod",
+      "addPaymentMethod": "新しい支払い方法を追加",
+      "editPaymentMethod": "支払い方法を編集",
+      "choseOnlinePayment": "オンライン決済を選択",
+      "selectPaymentMethod": "支払い方法を選択",
+      "pleaseSelectAPaymentMethod": "支払い方法を選択してください。",
+      "methodStatus": {
+        "title": "ステータス",
+        "message": "クイックビューが有効になっている場合、ステータスを非アクティブにすることはできません！"
+      }
+    },
+    "subscriptionPlan": {
+      "title": "プレミアムプランを購入",
+      "extra": {
+        "actionButtonText": "戻る",
+        "message": "サブスクリプションの支払いが成功しました。\n\nこれで、サブスクライブされた機能にアクセスできます。",
+        "mostPopular": "最も人気"
+      }
+    },
+    "invoicePreview": {
+      "title": "請求書プレビュー",
+      "message": "PDFプレビューは近日公開"
+    },
+    "currency": {
+      "title": "@:common.currency"
+    },
+    "dashboard": {
+      "overview": "概要",
+      "dashboardPrivacy": "ダッシュボードのプライバシー",
+      "moneyInAndMoneyOut": "入金と出金",
+      "lossAndProfitOverView": "損益概要"
+    },
+    "due": {
+      "title": "@:common.dueList",
+      "collectionList": "回収リスト",
+      "dueCollection": "未収金回収"
+    },
+    "expense": {
+      "title": "@:common.expense",
+      "editExpense": "費用の編集",
+      "addNewExpense": "新しい費用を追加",
+      "editExpenseCategory": "費用カテゴリの編集",
+      "addNewExpenseCategory": "新しい費用カテゴリを追加",
+      "payment": "支払い",
+      "expenseCategory": "費用カテゴリ",
+      "selectCategory": "カテゴリを選択",
+      "allExpense": "すべての費用",
+      "pleaseSelectACategory": "カテゴリを選択してください",
+      "expenseTitle": {
+        "label": "費用のタイトル",
+        "hint": "費用を入力"
+      }
+    },
+    "lossProfit": {
+      "title": "損失/利益リスト",
+      "noLossProfitFound": "損失/利益が見つかりませんでした！\n販売を作成してみてください。"
+    },
+    "income": {
+      "editIncomeCategory": "収入カテゴリを編集",
+      "addNewIncomeCategory": "新しい収入カテゴリを追加",
+      "incomeCategory": "収入カテゴリ",
+      "allIncome": "すべての収入",
+      "editIncome": "収入を編集",
+      "addNewIncome": "収入を編集",
+      "addIncome": "収入を追加"
+    },
+    "moneyIn": {
+      "title": "入金リスト",
+      "totalPaymentIn": "総入金額"
+    },
+    "moneyOut": {
+      "title": "出金リスト",
+      "totalMoneyOut": "総出金額"
+    },
+    "profile": {
+      "title": "マイプロフィール",
+      "editProfile": "プロファイルを編集",
+      "businessInformation": "会社情報",
+      "profileInformation": "プロフィール情報"
+    },
+    "parties": {
+      "title": "取引先リスト",
+      "allParties": "すべての取引先",
+      "customer": "顧客",
+      "supplier": "サプライヤー",
+      "addParties": "取引先を追加",
+      "editParties": "取引先を編集",
+      "partiesDetails": "取引先の詳細",
+      "personalInfo": "個人情報"
+    },
+    "ledger": {
+      "subTitle": "台帳"
+    },
+    "purchase": {
+      "title": "新しい仕入れを追加",
+      "editPurchase": "仕入れを編集"
+    },
+    "reports": {
+      "title": "レポート"
+    },
+    "table": {
+      "title": "新しいテーブルを追加",
+      "editTable": "テーブルを編集"
+    },
+    "tax": {
+      "title": "VAT率",
+      "buildHeaderTitle": "VAT率 - VAT率を管理",
+      "vatGroup": {
+        "title": "VATグループ",
+        "subTitle": "VATグループ - VATグループを管理"
+      }
+    },
+    "vat": {
+      "addNewVat": "新しいVATを追加",
+      "editVat": "VATを編集",
+      "addNewVatGroup": "新しいVATグループを追加",
+      "editVatGroup": "VATグループを編集"
+    },
+    "orderList": {
+      "title": "注文リスト",
+      "filters": {
+        "orderType": {
+          "label": "@:common.orderType",
+          "hint": "注文タイプを選択"
+        },
+        "paymentStatus": {
+          "hint": "支払いステータスを選択",
+          "label": "支払いステータス"
+        }
+      }
+    },
+    "staffs": {
+      "staffList": {
+        "filters": {
+          "designation": {
+            "label": "役職",
+            "hint": "役職を選択"
+          }
+        },
+        "title": "全スタッフ"
+      },
+      "manageStaff": {
+        "title1": "新規スタッフの追加",
+        "title2": "スタッフの更新"
+      }
+    },
+    "ingredient": {
+      "ingredientList": {
+        "title1": "食材リスト",
+        "title2": "食材を選択"
+      },
+      "manageIngredient": {
+        "title1": "新規食材の追加",
+        "title2": "食材の編集"
+      }
+    },
+    "itemModifier": {
+      "itemModifierList": {
+        "title": "@:common.itemModifiers"
+      },
+      "manageItemModifier": {
+        "title1": "商品モディファイアの追加",
+        "title2": "商品モディファイアの編集"
+      }
+    },
+    "quotation": {
+      "manageQuotation": {
+        "title": {
+          "add": "新規見積作成",
+          "edit": "見積編集",
+          "convert": "売上に変換"
+        }
+      }
+    },
+    "rolePermission": {
+      "rolePermissionList": {
+        "title": "役割と権限リスト"
+      },
+      "manageRolePermission": {
+        "title1": "新しい役割を追加",
+        "title2": "役割を編集"
+      }
+    },
+    "printingOption": {
+      "title": "印刷オプション",
+      "form": {
+        "companyAddress": {
+          "label": "会社住所",
+          "hint": "会社住所を入力"
+        },
+        "noteLabel": {
+          "label": "ノートラベル",
+          "hint": "ノートラベルを入力."
+        },
+        "note": {
+          "label": "ノート",
+          "hint": "ノートを入力."
+        },
+        "postSaleMessage": {
+          "label": "販売後メッセージ",
+          "hint": "販売後メッセージを入力"
+        },
+        "printingMethod": {
+          "label": "印刷方法",
+          "hint": "印刷方法を選択"
+        },
+        "printerProfile": {
+          "label": "プリンタープロファイル",
+          "hint": "プリンタープロファイルを選択"
+        },
+        "paperSize": {
+          "label": "熱転写プリンター用紙サイズ",
+          "hint": "プリンター用紙サイズを選択"
+        },
+        "printerDpi": {
+          "label": "プリンターDPI",
+          "hint": "例: 203"
+        },
+        "printingMargin": {
+          "label": "印刷マージン",
+          "hint": "例: 2"
+        }
+      },
+      "tooltip": {
+        "printingMethod": {
+          "title": "オプション付きドロップダウン:",
+          "default": "• デフォルト (EU標準文字を印刷するネイティブ方法)",
+          "image": "• 画像 (Unicode文字印刷におすすめ)"
+        }
+      },
+      "action": {
+        "save": "保存"
+      }
+    },
+    "kitchen": {
+      "list": {
+        "noKitchensFound": "キッチンが見つかりません。\n 追加してください。"
+      },
+      "manage": {
+        "addKitchen": "キッチンを追加",
+        "editKitchen": "キッチンを編集",
+        "kitchenName": {
+          "label": "キッチン名",
+          "hint": "キッチン名を入力",
+          "error": "キッチン名を入力してください。"
+        },
+        "description": {
+          "label": "説明",
+          "hint": "説明を入力"
+        }
+      },
+      "manageItems": {
+        "title": "アイテム管理",
+        "addedItems": "追加済みアイテム",
+        "selectItemsError": "アイテムを選択してください。",
+        "noItemsAdded": "アイテムが追加されていません！\nアイテムを追加してください。"
+      },
+      "card": {
+        "itemName": "アイテム名",
+        "manageItems": "+ アイテム管理",
+        "deleteItemConfirm": "このアイテムを削除しますか？",
+        "deleteKitchenConfirm": "このキッチンを削除しますか？"
+      }
+    }
+  },
+  "enums": {
+    "dropdownDateFilter": {
+      "daily": "日次",
+      "weekly": "週次",
+      "monthly": "月次",
+      "yearly": "年次",
+      "custom": "カスタム"
+    },
+    "orderTypes": {
+      "dineIn": "店内飲食",
+      "pickUp": "テイクアウト",
+      "delivery": "配達",
+      "reservation": "予約",
+      "quotation": "見積もり"
+    },
+    "paymentStatus": {
+      "paid": "支払い済み",
+      "unpaid": "未払い"
+    },
+    "staffTypes": {
+      "manager": "マネージャー",
+      "waiter": "ウェイター",
+      "chef": "シェフ",
+      "cleaner": "清掃員",
+      "driver": "ドライバー",
+      "deliveryBoy": "配達員"
+    },
+    "itemFoodTypes": {
+      "veg": "野菜",
+      "nonVeg": "非野菜",
+      "egg": "卵",
+      "drink": "飲み物",
+      "others": "その他"
+    },
+    "itemTypes": {
+      "single": "単品",
+      "variation": "バリエーション"
+    },
+    "quotationStatus": {
+      "open": "オープン",
+      "closed": "クローズ"
+    },
+    "tableStatus": {
+      "running": "利用中",
+      "available": "空席"
+    },
+    "thermalPrinterPrintingMethod": {
+      "image": "画像",
+      "default": "デフォルト"
+    },
+    "kotOrderStatus": {
+      "label": {
+        "pending": "未着手",
+        "preparing": "調理中",
+        "ready": "料理完成",
+        "served": "配膳済",
+        "cancelled": "キャンセル済"
+      },
+      "pending": "未着手",
+      "preparing": "調理中",
+      "ready": "料理完成",
+      "served": "配膳済",
+      "cancelled": "キャンセル済"
+    },
+    "kotItemStatus": {
+      "pending": "調理開始",
+      "start": "完了にする",
+      "ready": "完了"
+    }
+  },
+  "thermalPrint": {
+    "invoice": {
+      "purchaseInvoiceLabel": "仕入れ伝票: ${invoiceNumber: String}",
+      "saleInvoiceLabel": "注文番号: ${invoiceNumber: String}",
+      "receiptNoLabel": "レシートNo: ${invoiceNumber: String}",
+      "orderNoKotLabel": "注文番号: ${invoiceNumber: String}",
+      "nameLabel": "氏名: ${name: String}",
+      "mobileLabel": "携帯: ${phone: String}",
+      "purchasedByLabel": "購入者: ${role: String}",
+      "salesByLabel": "販売者: ${role: String}",
+      "paidByLabel": "${label: String}: ${role: String}",
+      "paidToReceivedFromLabel": "${label: String}: ${name: String}",
+      "orderTypeLabel": "注文タイプ: ${orderType: String}",
+      "tableLabel": "テーブル: ${tableName: String}",
+      "tableNoLabel": "テーブルNo: ${tableName: String}",
+      "dateLabel": "日付: ${dateTime: String}",
+      "invoiceFlag": "伝票",
+      "receiptFlag": "レシート",
+      "paidBy": "支払者",
+      "receivedBy": "受取人",
+      "paidTo": "支払先",
+      "receivedFrom": "受取元",
+      "seller": "販売者: ${name: String}",
+      "address": "住所: ${addr: String}",
+      "vatNo": "登録番号",
+      "tel": "電話: ${phoneNumber: String}",
+      "timeLabel": "時刻: ${dateTime: String}"
+    },
+    "tableHeaders": {
+      "sl": "No.",
+      "item": "品名",
+      "cost": "原価",
+      "qty": "数量",
+      "uPrice": "単価",
+      "amount": "金額",
+      "total": "合計",
+      "invoiceTable": "伝票",
+      "dueTable": "未払い"
+    },
+    "summary": {
+      "subTotal": "小計:",
+      "discount": "割引: ${percentFmt: String}",
+      "vat": "${vatName: String}: ${rateFmt: String}%",
+      "tip": "チップ:",
+      "deliveryCharge": "配送料:",
+      "totalPayable": "合計支払額:",
+      "paidAmount": "支払済金額:",
+      "dueAmount": "未払金額:",
+      "paymentType": "支払方法: ${method: String}",
+      "remainingDue": "残りの未払額:",
+      "paymentAmount": "支払金額:",
+      "itemsCount": "品目: ${count: int}",
+      "qtyTotal": "数量: ${totalQty: int}"
+    },
+    "footer": {
+      "note": "${noteLabel: String}: ${note: String}",
+      "developedBy": "${developByLabel: String} ${developBy: String}"
+    }
+  },
+  "hrm": {
+    "department": "部署",
+    "designation": "役職",
+    "shift": "シフト",
+    "employee": "従業員",
+    "leave": "休暇",
+    "leaveType": "休暇タイプ",
+    "leaveRequest": "休暇申請",
+    "holiday": "休日",
+    "attendance": "出勤",
+    "payroll": "給与",
+    "pageTitles": {
+      "department": "部署",
+      "designation": "役職",
+      "shift": "シフト",
+      "employee": "従業員",
+      "leave": "休暇",
+      "leaveType": "休暇タイプ",
+      "holiday": "休日",
+      "attendance": "出勤",
+      "payroll": "給与",
+      "leaveReports": "休暇レポート",
+      "payrollReports": "給与レポート",
+      "attendanceReports": "出勤レポート",
+      "addDepartment": "部署を追加",
+      "editDepartment": "部署を編集",
+      "addDesignation": "役職を追加",
+      "editDesignation": "役職を編集",
+      "addShift": "シフトを追加",
+      "editShift": "シフトを編集",
+      "addEmployee": "従業員を追加",
+      "editEmployee": "従業員を編集",
+      "addLeave": "休暇を追加",
+      "editLeave": "休暇を編集",
+      "addLeaveType": "休暇タイプを追加",
+      "editLeaveType": "休暇タイプを編集",
+      "addHoliday": "休日を追加",
+      "editHoliday": "休日を編集",
+      "addAttendance": "出勤を追加",
+      "editAttendance": "出勤を編集",
+      "addPayroll": "給与を追加",
+      "editPayroll": "給与を編集"
+    },
+    "form": {
+      "labels": {
+        "department": "部署",
+        "designation": "役職",
+        "shift": "シフト",
+        "employee": "従業員",
+        "leaveType": "休暇タイプ",
+        "leaveDuration": "休暇期間",
+        "paymentYear": "支払年",
+        "paymentType": "支払タイプ",
+        "breakStatus": "休憩ステータス",
+        "startTime": "開始時間",
+        "endTime": "終了時間",
+        "startBreakTime": "休憩開始",
+        "endBreakTime": "休憩終了",
+        "breakTime": "休憩時間",
+        "breakDuration": "休憩時間（長さ）",
+        "timeIn": "出勤時間",
+        "timeOut": "退勤時間",
+        "duration": "期間",
+        "country": "国",
+        "salary": "給与",
+        "gender": "性別",
+        "birthDate": "生年月日",
+        "joinDate": "入社日",
+        "holidayName": "休日名",
+        "startDate": "開始日",
+        "endDate": "終了日",
+        "month": "月",
+        "year": "年",
+        "status": "ステータス",
+        "description": "説明",
+        "amount": "金額",
+        "payment": "支払い",
+        "departmentName": "部署名",
+        "designationName": "役職名",
+        "image": "画像",
+        "name": "名前"
+      },
+      "hints": {
+        "selectEmployee": "従業員を選択",
+        "selectDepartment": "部署を選択",
+        "selectDesignation": "役職を選択",
+        "selectShift": "シフトを選択",
+        "selectLeaveType": "休暇タイプを選択",
+        "selectMonth": "月を選択",
+        "selectYear": "年を選択",
+        "selectDate": "日付を選択",
+        "selectStartDate": "開始日を選択",
+        "selectEndDate": "終了日を選択",
+        "selectTimeIn": "出勤時間を選択",
+        "selectTimeOut": "退勤時間を選択",
+        "selectStartTime": "開始時間を選択",
+        "selectEndTime": "終了時間を選択",
+        "selectStatus": "ステータスを選択",
+        "selectGender": "性別を選択",
+        "selectPaymentType": "支払タイプを選択",
+        "enterFullName": "氏名を入力",
+        "enterEmail": "メールアドレスを入力",
+        "enterPhone": "電話番号を入力",
+        "enterCountry": "国を入力",
+        "enterSalary": "例: 500",
+        "enterHolidayName": "休日名を入力",
+        "enterDescription": "説明を入力...",
+        "autoCalculated": "自動計算",
+        "selectDatesFirst": "先に日付を選択してください",
+        "allEmployee": "全従業員",
+        "selectEmployeeFirst": "先に従業員を選択してください",
+        "enterDepartmentName": "部署名を入力",
+        "enterDesignationName": "役職名を入力",
+        "ex": "{value}",
+        "selectBirthDate": "生年月日を選択",
+        "selectJoinDate": "入社日を選択",
+        "selectBreakStatus": "休憩ステータスを選択",
+        "enterLeaveTypeName": "休暇タイプの名前を入力"
+      }
+    },
+    "emptyStates": {
+      "noLeaves": "休暇が見つかりません",
+      "noPayrollRecords": "給与記録が見つかりません",
+      "noAttendanceRecords": "出勤記録が見つかりません",
+      "noLeaveTypes": "休暇タイプが見つかりません",
+      "noEmployees": "従業員が見つかりません",
+      "noHolidays": "休日が見つかりません",
+      "noShifts": "シフトが見つかりません",
+      "noDesignations": "役職が見つかりません",
+      "noDepartments": "部署が見つかりません"
+    },
+    "confirmations": {
+      "deleteAttendance": "この出勤を削除してもよろしいですか？",
+      "deletePayroll": "この給与を削除してもよろしいですか？",
+      "deleteLeave": "この休暇を削除してもよろしいですか？",
+      "deleteLeaveType": "この休暇タイプを削除しますか？",
+      "deleteEmployee": "この従業員を削除してもよろしいですか？",
+      "deleteHoliday": "この休日を削除してもよろしいですか？",
+      "deleteShift": "このシフトを削除しますか？",
+      "deleteDesignation": "この役職を削除してもよろしいですか？",
+      "deleteDepartment": "この部署を削除してもよろしいですか？"
+    },
+    "validation": {
+      "selectEmployee": "従業員を選択してください",
+      "selectMonth": "月を選択してください",
+      "selectEndDate": "終了日を選択してください",
+      "endDateAfterStart": "終了日は開始日より後である必要があります",
+      "selectStatus": "ステータスを選択してください",
+      "selectLeaveType": "休暇タイプを選択してください",
+      "selectStartDate": "開始日を選択してください",
+      "selectDate": "日付を選択してください",
+      "selectTimeIn": "出勤時間を選択してください",
+      "selectTimeOut": "退勤時間を選択してください",
+      "enterDepartmentName": "部署名を入力してください",
+      "enterDesignationName": "役職名を入力してください",
+      "enterName": "名前を入力してください",
+      "selectDesignation": "役職を選択してください",
+      "selectDepartment": "部署を選択してください",
+      "enterEmail": "メールアドレスを入力してください",
+      "enterValidEmail": "有効なメールアドレスを入力してください",
+      "enterPhoneNumber": "電話番号を入力してください",
+      "enterCountry": "国を入力してください",
+      "enterSalary": "給与を入力してください",
+      "selectGender": "性別を選択してください",
+      "selectShift": "シフトを選択してください",
+      "selectBirthDate": "生年月日を選択してください",
+      "selectJoinDate": "入社日を選択してください",
+      "enterHolidayName": "休日名を入力してください",
+      "selectBreakStatus": "休憩ステータスを選択してください",
+      "selectPaymentYear": "支払い年を選択してください",
+      "selectPaymentType": "支払いタイプを選択してください",
+      "enterAmount": "金額を入力してください",
+      "selectStartBreakTime": "休憩開始時間を選択してください",
+      "selectEndBreakTime": "休憩終了時間を選択してください",
+      "enterLeaveTypeName": "休暇タイプの名前を入力してください",
+      "selectStartTime": "開始時間を選択してください",
+      "selectEndTime": "終了時間を選択してください"
+    },
+    "dropdowns": {
+      "addNew": "+ 新規追加",
+      "morning": "朝",
+      "day": "昼",
+      "evening": "夕方",
+      "night": "夜",
+      "yes": "はい",
+      "no": "いいえ",
+      "approved": "承認済み",
+      "rejected": "却下",
+      "terminated": "解雇",
+      "suspended": "停職",
+      "male": "男性",
+      "female": "女性",
+      "pending": "保留中",
+      "active": "アクティブ",
+      "inactive": "非アクティブ",
+      "paid": "支払済み",
+      "unpaid": "未払い"
+    },
+    "units": {
+      "days": "日"
+    },
+    "fallbacks": {
+      "noNoteAvailable": "メモはありません",
+      "noDescriptionAvailable": "説明はありません",
+      "selectEmployeeFirst": "先に従業員を選択してください"
+    },
+    "success": {
+      "leaveDelete": "休暇を正常に削除しました",
+      "attendanceDelete": "出勤を正常に削除しました",
+      "attendanceAdd": "出勤を正常に追加しました",
+      "attendanceUpdate": "出勤を正常に更新しました",
+      "leaveAdd": "休暇を正常に追加しました",
+      "leaveUpdate": "休暇を正常に更新しました",
+      "departmentDelete": "部署を正常に削除しました",
+      "departmentAdd": "部署を正常に追加しました",
+      "departmentUpdate": "部署を正常に更新しました",
+      "designationDelete": "役職を正常に削除しました",
+      "designationAdd": "役職を正常に追加しました",
+      "designationUpdate": "役職を正常に更新しました",
+      "employeeDelete": "従業員を正常に削除しました",
+      "employeeAdd": "従業員を正常に追加しました",
+      "employeeUpdate": "従業員を正常に更新しました",
+      "holidayDelete": "休日を正常に削除しました",
+      "holidayAdd": "休日を正常に追加しました",
+      "holidayUpdate": "休日を正常に更新しました",
+      "leaveTypeDelete": "休暇タイプを正常に削除しました"
+    }
+  }
+}

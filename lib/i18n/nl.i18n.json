@@ -1,0 +1,1561 @@
+{
+  "@@meta": {
+    "languageCode": "nl_BE",
+    "languageName": "Dutch Flemish",
+    "version": "1.0.0"
+  },
+  "common": {
+    "signIn": "Inloggen",
+    "signUp": "Aanmelden",
+    "verifyEmail": "E-mail verifiëren",
+    "customizeProfile": "Profiel aanpassen",
+    "imageOrLogo": "Logo of afbeelding",
+    "createNewPassword": "Nieuw wachtwoord aanmaken",
+    "itemsList": "Artikellijst",
+    "searchItemsName": "Zoek op artikelnaam",
+    "categoryList": "Categorielijst",
+    "brandList": "Merkenlijst",
+    "unitList": "Eenhedenlijst",
+    "itemDetails": "Artikeldetails",
+    "addStock": "Voorraad toevoegen",
+    "profile": "Profiel",
+    "language": "Taal",
+    "termsAndConditions": "Algemene voorwaarden",
+    "aboutUs": "Over ons",
+    "logout": "Uitloggen",
+    "editProfile": "Profiel bewerken",
+    "fullName": "Volledige naam",
+    "email": "E-mail",
+    "mobileNumber": "Mobiel nummer",
+    "address": "Adres",
+    "password": "Wachtwoord",
+    "forgotPassword": "Wachtwoord vergeten",
+    "edit": "Bewerken",
+    "delete": "Verwijderen",
+    "addItems": "Artikelen toevoegen",
+    "stock": "Voorraad",
+    "currentStock": "Huidige voorraad",
+    "value": "Waarde",
+    "sales": "Verkoop",
+    "purchase": "Aankoop",
+    "price": "Prijs",
+    "image": "Afbeelding",
+    "upload": "Uploaden",
+    "addNew": "Nieuwe toevoegen",
+    "pricing": "Prijzen",
+    "name": "Naam",
+    "category(plural)": {
+      "one": "Categorie",
+      "other": "Categories"
+    },
+    "areas": "Areas",
+    "brand": "Merk",
+    "lowStock": "Lage voorraad",
+    "unit": "Eenheid",
+    "vat": "Btw",
+    "taxType": "Belastingtype",
+    "purchasePrice": "Aankoopprijs",
+    "sellingPrice": "Verkoopprijs",
+    "wholeSalePrice": "Groothandelsprijs",
+    "dealerPrice": "Dealerprijs",
+    "searchHere": "Hier zoeken",
+    "totalItems": "Totaal aantal artikelen",
+    "stockValue": "Voorraadwaarde",
+    "congratulation": "Gefeliciteerd",
+    "salesList": "Verkooplijst",
+    "searchInvoiceNumber": "Zoek op factuurnummer",
+    "view": "Bekijken",
+    "kFor": "Voor",
+    "total": "Totaal",
+    "subTotal": "Subtotaal",
+    "insufficientStockAvailableStock": "Onvoldoende voorraad, beschikbare voorraad",
+    "discount": "Korting",
+    "selectOne": "Selecteer één",
+    "allCategory": "Alle categorieën",
+    "details": "Details",
+    "parcel": "Pakket",
+    "kot": "Kot",
+    "table": "Tafel",
+    "holdTable": "Tafel vasthouden",
+    "capacity": "Capaciteit",
+    "commonHint": "Bijv.: 10",
+    "pleaseEnterQuantity": "Voer de hoeveelheid in",
+    "quantityMustBeGreaterThanZero": "De hoeveelheid moet groter zijn dan 0",
+    "mobile": "Mobiel",
+    "orderNo": "Bestelnummer",
+    "dateAndTime": "Datum en tijd",
+    "items": "Artikelen",
+    "totalAmount": "Totaalbedrag",
+    "paidAmount": "Betaald bedrag",
+    "dueAmount": "Openstaand bedrag",
+    "paymentType": "Betaalmethode",
+    "thankYou": "Bedankt",
+    "developedBy": "Ontwikkeld door ${domain: String}",
+    "qty": "Prijs",
+    "amount": "Bedrag",
+    "dashboard": "Dashboard",
+    "reports": "Rapporten",
+    "home": "Startpagina",
+    "parties": "Partijen",
+    "subscriptionPlan": "Abonnementsplan",
+    "estimateList": "Offertelijst",
+    "purchaseList": "Aankooplijst",
+    "dueList": "Openstaande lijst",
+    "lossOrProfit": "Verlies/Winst",
+    "stocks": "Voorraden",
+    "moneyInList": "Lijst geld ontvangen",
+    "moneyOutList": "Lijst geld uitgegeven",
+    "transactionList": "Transactielijst",
+    "income": "Inkomen",
+    "expense": "Uitgave",
+    "quickView": "Snel overzicht",
+    "to": "tot",
+    "totalSales": "Totale verkoop",
+    "totalPurchase": "Totale aankoop",
+    "holdNumber": "Aantal gereserveerde bestellingen",
+    "totalExpense": "Totale uitgaven",
+    "loss": "Verlies",
+    "profit": "Winst",
+    "recentTransaction": "Recente transacties",
+    "invoice": "Factuur",
+    "moneyIn": "Geld ontvangen",
+    "moneyOut": "Geld uitgegeven",
+    "paid": "Betaald",
+    "due": "Openstaand",
+    "partial": "Gedeeltelijk",
+    "print": "Afdrukken",
+    "addCategory": "Categorie toevoegen",
+    "addExpense": "Uitgave toevoegen",
+    "search": "Zoeken...",
+    "viewDetails": "Details bekijken",
+    "title": "Titel",
+    "date": "Datum",
+    "note": "Notitie",
+    "phoneNumber": "Telefoonnummer",
+    "type": "Type",
+    "selectContactSType": "Selecteer het contacttype",
+    "moreInfo": "Meer info",
+    "paymentReceived": "Betaling ontvangen",
+    "selectSupplier": "Selecteer leverancier",
+    "supplier": "Leverancier",
+    "received": "Ontvangen",
+    "balanceDue": "Openstaand saldo",
+    "addPurchase": "Aankoop toevoegen",
+    "selectedItemWillBeCleared": "Geselecteerde items worden verwijderd.",
+    "searchItemName": "Zoek op artikelnaam",
+    "billItems": "Factuuritems",
+    "addMoreItems": "Meer artikelen toevoegen",
+    "payAmount": "Betaalbedrag",
+    "salesReport": "Verkooprapport",
+    "purchaseReport": "Aankooprapport",
+    "stockReport": "Voorraadrapport",
+    "dueReport": "Openstaand rapport",
+    "dueCollectionReport": "Rapport openstaande vorderingen",
+    "transactionReport": "Transactierapport",
+    "incomeReport": "Inkomstenrapport",
+    "dueCollectionList": "Lijst openstaande vorderingen",
+    "expenseReport": "Uitgavenrapporten",
+    "dueCollection": "Openstaande vorderingen",
+    "myProfile": "Mijn profiel",
+    "printingOption": "Afdrukoptie",
+    "currency": "Valuta",
+    "paymentMethod": "Betaalmethode",
+    "rateUs": "Beoordeel ons",
+    "termAndCondition": "Algemene voorwaarden",
+    "tableList": "Tafellijst",
+    "addTable": "Tafel toevoegen",
+    "vatRate": "Btw-tarief %",
+    "action": "Actie",
+    "status": "Status",
+    "active": "Actief",
+    "inActive": "Inactief",
+    "subVats": "Sub-btw's",
+    "add": "Toevoegen",
+    "taxRate": "Belastingtarief %",
+    "subTaxes": "Subbelastingen",
+    "group": "groep",
+    "VAT": "BTW",
+    "subTaxList": "Subbelastinglijst",
+    "vatPercent": "Btw-percentage",
+    "statusIsCannotInActive": "Status kan niet inactief zijn als btw op verkoop staat.",
+    "vatOnSales": "Btw op verkoop",
+    "transaction": "Transactie",
+    "version": "Versie ${version: String}",
+    "hold": "Vasthouden",
+    "empty": "Leeg",
+    "appName": "Restaurant App",
+    "duePayment": "Verschuldigde betaling",
+    "orders": "Bestellingen",
+    "all": "Alle",
+    "ingredient": "Ingrediënt",
+    "menus": "Menu's",
+    "modifierGroups": "Optiegroepen",
+    "itemModifiers": "Artikelopties",
+    "staff": "Personeel",
+    "coupon": "Kortingsbon",
+    "pay": "Betalen",
+    "pendingOrders": "Wachtende bestellingen",
+    "order": "Bestelling",
+    "payNow": "Nu betalen",
+    "addStaff": "Personeel toevoegen",
+    "designation": "Functie",
+    "itemAdded": "Artikel toegevoegd",
+    "noItemAdded": "Geen artikel toegevoegd",
+    "saveNPrint": "Opslaan & Afdrukken",
+    "allowMultiSelection": "Meerdere selecties toestaan",
+    "required": "Verplicht",
+    "optional": "Optioneel",
+    "allowMultiSelectionForSale": "Meervoudige selectie toestaan voor verkoop",
+    "isRequired": "Is verplicht",
+    "modifier": "Optie",
+    "fullPayment": "Volledige betaling",
+    "payment": "Betaling",
+    "addTip": "Fooi toevoegen",
+    "netPayable": "Totaal te betalen",
+    "receiveAmount": "Ontvangen bedrag",
+    "changeAmount": "Wisselgeld",
+    "quotationList": "Offertelijst",
+    "addQuotation": "Offerte toevoegen",
+    "convert": "Omzetten",
+    "variations": "Variaties",
+    "instructions": "Instructies",
+    "unavailable": "Niet beschikbaar",
+    "tip": "Tip",
+    "salesQuotationReport": "Verkoopoffrertes Rapport",
+    "orderType": "Besteltype",
+    "deliveryCharge": "Verzendkosten",
+    "receiptNo": "Bonnummer",
+    "paidBy": "Betaald door",
+    "receivedBy": "Ontvangen door",
+    "paymentAmount": "Betaalbedrag",
+    "remainingDue": "Nog te betalen",
+    "roleNPermission": "Rol & Permissie",
+    "sl": "SL",
+    "features": "Functies",
+    "create": "Aanmaken",
+    "update": "Bijwerken",
+    "quotations": "Offertes",
+    "restaurant": "Restaurant",
+    "printerProfile": "Printerprofiel",
+    "kitchenOrders": "Keukenbestellingen",
+    "kitchen(plural)": {
+      "one": "Keuken",
+      "other": "Keukens"
+    },
+    "allKOT": "Alle KOT",
+    "cancelKOT": "Annuleer KOT",
+    "selectCancelReason": "Selecteer reden voor annulering",
+    "additionalComment": "Extra opmerking",
+    "enterComment": "Voer opmerking in",
+    "orderStatus": "Bestelstatus",
+    "selectOrderStatus": "Selecteer bestelstatus",
+    "kotReport": "KOT-rapport",
+    "itemFoodType": "Type voedsel",
+    "selectItemFoodType": "Selecteer @:common.itemFoodType",
+    "markAllAsRead": "Markeer alles als gelezen",
+    "online": "Online",
+    "cancelledReason": "Cancelled Reason",
+    "hrm": "HRM",
+    "notAvailable": "N/A"
+  },
+  "exceptions": {
+    "somethingWentWrong": "Er is iets misgegaan, probeer het opnieuw",
+    "noCategoryFound": "Geen categorie gevonden!\nVoeg een categorie toe.",
+    "doYouWantToDeleteThisCategory": "Wilt u deze categorie verwijderen?",
+    "noBrandFound": "Geen merk gevonden!\nVoeg een merk toe.",
+    "doYouWantToDeleteThisBrand": "Wilt u dit merk verwijderen?",
+    "noItemStockFound": "Geen artikelvoorraad gevonden!\nVoeg een artikel toe.",
+    "noUnitFound": "Geen eenheid gevonden!\nVoeg een eenheid toe.",
+    "doYouDeleteThisUnit": "Wilt u deze eenheid verwijderen?",
+    "noSaleFoundPleaseSAddProduct": "Geen verkoop gevonden!\nVoeg een verkoop toe.",
+    "doYouWantToDeleteThisSale": "Wilt u deze verkoop verwijderen?",
+    "pleaseAddItemToTheCartFirst": "Voeg eerst artikelen toe aan de winkelwagen",
+    "noItemAdded": "Geen artikelen toegevoegd",
+    "cannotEditOthersTable": "Kan andere tafel niet bewerken.",
+    "tableIsAlreadyBlocked": "Tafel is al gereserveerd.",
+    "failedToGetCustomerDetails": "Kon klantgegevens niet ophalen.",
+    "noTableFoundPleaseTryAgain": "Geen tafels gevonden!\nVoeg een tafel toe.",
+    "noDueCollectionFound": "Geen openstaande facturen gevonden!\nU kunt openstaande facturen zien wanneer deze beschikbaar zijn.",
+    "noExpenseFoundPleaseTryAddingExpense": "Geen uitgave gevonden!\nVoeg een uitgave toe.",
+    "doYouWantToDeleteThisExpense": "Wilt u deze uitgave verwijderen?",
+    "noExpenseCategoryFound": "Geen uitgavecategorie gevonden!\nVoeg een uitgavecategorie toe.",
+    "noTransactionFound": "Geen transacties gevonden, probeer het later opnieuw!",
+    "pleaseSelectACategory": "Selecteer een categorie",
+    "noIncomeFound": "Geen inkomsten gevonden!\nVoeg inkomsten toe",
+    "doYouWantToDeleteThisIncome": "Wilt u deze inkomsten verwijderen?",
+    "noIncomeCategoryFoundAddingAIncome": "Geen inkomstencategorie gevonden!\nVoeg een inkomstencategorie toe.",
+    "noItemFoundPleaseTryAddingItem": "Geen artikel gevonden!\nVoeg een artikel toe.",
+    "noPartiesFound": "Geen partijen gevonden",
+    "doYouWantToDeleteThisParty": "Wilt u deze partij verwijderen?",
+    "noLedgerFound": "Geen grootboek gevonden!\nVoeg een ${transactionType: String} toe.",
+    "areYouSureYouSureWantToDeleteThisTaxType": "Weet u zeker dat u dit ${taxType: String} wilt verwijderen?",
+    "noItemFoundPleaseSTryAddingAnPurchase": "Geen artikel gevonden!\nVoeg een aankoop toe.",
+    "doYouWantToDeleteThisPurchase": "Wilt u deze aankoop verwijderen?",
+    "noTransactionFoundYouSeeTransactionHereWhenAvailable": "Geen transactie gevonden!\nU ziet hier transacties wanneer deze beschikbaar zijn.",
+    "noSaleFoundPleaseTryAddingSale": "Geen verkoop gevonden!\nVoeg een verkoop toe.",
+    "noPurchaseFoundPleaseTryAddingPurchase": "Geen aankoop gevonden!\nVoeg een aankoop toe.",
+    "noItemIncomeFound": "Geen artikelinkomsten gevonden!\nU kunt inkomstengegevens zien wanneer deze beschikbaar zijn.",
+    "noItemExpenseFound": "Geen artikeluitgaven gevonden!\nU kunt uitgavengegevens zien wanneer deze beschikbaar zijn.",
+    "noItemDueInvoiceFound": "Geen openstaande artikelfacturen gevonden!\nU kunt openstaande facturen zien wanneer deze beschikbaar zijn.",
+    "noItemDueCollectionInvoiceFound": "'Geen openstaande artikelvorderingsfacturen gevonden!\nU kunt openstaande vorderingsfacturen zien wanneer deze beschikbaar zijn.",
+    "doYouWantToDeleteThisTable": "Wilt u deze tafel verwijderen?'",
+    "thisVatIsBeingUsedOnSales": "Deze btw wordt gebruikt bij verkoop!",
+    "noPaymentMethodFoundPleaseTryAddingAPaymentMethod": "Geen betaalmethode gevonden!\nVoeg een betaalmethode toe.",
+    "pleaseSelectACustomerFirst": "Gelieve eerst een klant te selecteren.",
+    "pleaseSelectATableToCreateAKot": "Gelieve een tafel te selecteren om een KOT aan te maken.",
+    "noStaffFound": "Geen personeel gevonden!\\n Gelieve personeel toe te voegen.",
+    "noIngredientFound": "Geen ingrediënt gevonden!\\n Gelieve een ingrediënt toe te voegen.",
+    "exceedsPaymentAmount": "Het ontvangen bedrag mag niet groter zijn dan het te betalen bedrag.",
+    "noItemModifierFound": "Geen artikeloptie gevonden!\\n Gelieve een artikeloptie toe te voegen.",
+    "noModifierGroupFound": "Geen optiegroep gevonden!\\n Gelieve een optiegroep toe te voegen.",
+    "noOptionsFound": "Geen opties gevonden!",
+    "maxImageCountLimit": "U kunt slechts tot 5 afbeeldingen selecteren.",
+    "noQuotationFound": "Geen offerte gevonden!\n Probeer een offerte toe te voegen.",
+    "noPermittedUserFound": "Geen toegelaten gebruiker gevonden!\\n Probeer een gebruiker toe te voegen."
+  },
+  "prompt": {
+    "logout": {
+      "title": "@:common.logout",
+      "message": "Weet u zeker dat u wilt uitloggen?"
+    },
+    "unsavedWarning": {
+      "title": "Wil je teruggaan?",
+      "message": "Gewijzigde velden worden mogelijk niet opgeslagen!"
+    },
+    "verify": {
+      "title": "Verifieer je e-mailadres",
+      "description(rich)": "We hebben een e-mail met een verificatiecode gestuurd${emailSpan}\n\nHet kan zijn dat de mail in je spamfolder terecht is gekomen."
+    },
+    "subscriptionExpired": {
+      "title": "Abonnement verlopen!",
+      "message": "Neem een abonnement om door te gaan.",
+      "action": "Abonneren"
+    },
+    "items": {
+      "delete": {
+        "title": "Wilt u dit artikel verwijderen?"
+      },
+      "filter": {
+        "title": "Filteren op",
+        "extra": {
+          "lowToHigh": "Laag naar hoog @:common.price",
+          "highToLow": "Hoog naar laag @:common.price"
+        }
+      }
+    },
+    "checkInternet": {
+      "title": "Geen internetverbinding",
+      "message": "Controleer uw Wi-Fi- of mobiele netwerkverbinding en probeer het opnieuw"
+    },
+    "back": {
+      "title": "Druk nogmaals op de terugknop om af te sluiten."
+    },
+    "stockModelSheet": {
+      "title": "Nieuwe voorraad toevoegen"
+    },
+    "paymentMethod": {
+      "title": "Wilt u deze betaalmethode verwijderen?"
+    },
+    "extMsg": {
+      "kotSavedSuccessfully": "KOT succesvol opgeslagen"
+    },
+    "deleteStaff": "Wilt u dit personeelslid verwijderen?",
+    "deleteIngredient": "Wilt u dit ingrediënt verwijderen?",
+    "deleteItemModifier": "Wilt u deze artikeloptie verwijderen?",
+    "deleteModifierGroup": "Wilt u deze optiegroep verwijderen?",
+    "deleteQuotation": "Wilt u deze offerte verwijderen?"
+  },
+  "form": {
+    "fullName": {
+      "label": "@:common.fullName",
+      "hint": "Voer @:common.fullName in",
+      "errors": {
+        "required": "Voer uw @:common.fullName in"
+      }
+    },
+    "email": {
+      "label": "@:common.email",
+      "hint": "Voer uw @:common.email in",
+      "errors": {
+        "required": "Voer uw @:common.email adres in",
+        "invalid": "⦸ Ongeldige e-mail, probeer het opnieuw"
+      }
+    },
+    "password": {
+      "label": "@:common.password",
+      "hint": "* * * * * * * *",
+      "errors": {
+        "required": "Voer uw @:common.password in",
+        "minLength": "Wachtwoord moet minstens ${count} tekens lang zijn!"
+      }
+    },
+    "confirmPassword": {
+      "label": "Wachtwoord bevestigen",
+      "hint": "* * * * * * * *",
+      "errors": {
+        "required": "Voer uw @:common.password in",
+        "invalid": "'Wachtwoord komt niet overeen!'"
+      }
+    },
+    "otp": {
+      "errors": {
+        "required": "Voer de OTP in.",
+        "invalid": "Voer de huidige OTP in."
+      }
+    },
+    "profile": {
+      "businessCategory": {
+        "label": "Bedrijfscategorie",
+        "hint": "Selecteer bedrijfscategorie",
+        "errors": {
+          "required": "Selecteer een bedrijfscategorie"
+        }
+      },
+      "shopOrStore": {
+        "label": "Winkel-/zaaknaam*",
+        "hint": "Voer de winkel- of zaaknaam in",
+        "errors": {
+          "required": "Voer uw winkel- of zaaknaam in"
+        }
+      },
+      "openingBalance": {
+        "label": "Beginsaldo",
+        "hint": "Voer het beginsaldo in"
+      },
+      "vatGstTitle": {
+        "label": "BTW/GST Titel",
+        "hint": "Voer btw/gst in"
+      },
+      "vatGstNumber": {
+        "label": "BTW/GST Nummer",
+        "hint": "Voer btw/gst nummer in"
+      }
+    },
+    "vat": {
+      "name": {
+        "label": "Naam",
+        "hint": "Voer de btw-naam in",
+        "error": {
+          "required": "Voer de btw-naam in"
+        }
+      },
+      "subVat": {
+        "label": "Sub-btw",
+        "hint": "Selecteer sub-btw",
+        "errors": {
+          "required": "Selecteer een sub-btw"
+        }
+      },
+      "rate": {
+        "label": "Btw-tarief %",
+        "hint": "Voer btw-tarief in",
+        "errors": {
+          "required": "Gelieve btw-tarief in te voeren."
+        }
+      }
+    },
+    "category": {
+      "label": "@:common.category",
+      "hint": "Selecteer artikelcategorie",
+      "error": {
+        "required": "Voer de categorienaam in"
+      }
+    },
+    "items": {
+      "barcode": {
+        "label": "Barcode",
+        "hint": "@:common.selectOne"
+      },
+      "itemName": {
+        "label": "Artikelnaam",
+        "hint": "Voer de artikelnaam in",
+        "extra": {
+          "required": "Voer de artikelnaam in"
+        }
+      },
+      "itemCategory": {
+        "label": "Artikelcategorie",
+        "hint": "Artikelcategorie",
+        "extra": {
+          "label": "Selecteer categorie",
+          "required": "Selecteer een categorie"
+        }
+      },
+      "brand": {
+        "label": "@:common.brand",
+        "hint": "@:common.selectOne",
+        "extra": {
+          "hint": "Voer de merknaam in",
+          "required": "Voer de merknaam in"
+        }
+      },
+      "unit": {
+        "label": "@:common.unit",
+        "hint": "@:common.selectOne",
+        "error": {
+          "required": "Voer de eenheidsnaam in"
+        }
+      },
+      "stock": {
+        "label": "Beginvoorraad",
+        "hint": "@:common.commonHint",
+        "extra": {
+          "required": "Voer de artikelkwaliteit in."
+        }
+      },
+      "lowStock": {
+        "label": "@:common.lowStock",
+        "hint": "Bijv.: 5"
+      },
+      "purchasePrice": {
+        "label": "@:common.purchasePrice",
+        "hint": "Bijv.: \\$40",
+        "error": {
+          "required": "Voer de aankoopprijs in."
+        }
+      },
+      "salePrice": {
+        "label": "Verkoopprijs",
+        "hint": "Bijv.: \\$60",
+        "error": {
+          "required": "Voer de verkoopprijs in."
+        }
+      },
+      "totalSalePrice": {
+        "label": "Totale verkoopprijs",
+        "hint": "Bijv.: \\$100"
+      },
+      "wholeSalePrice": {
+        "label": "@:common.wholeSalePrice",
+        "hint": "Voer de groothandelsprijs in"
+      },
+      "dealerPrice": {
+        "label": "@:common.dealerPrice",
+        "hint": "Voer de dealerprijs in"
+      },
+      "discount": {
+        "label": "Korting (%)",
+        "hint": "@:common.commonHint"
+      },
+      "applicableTax": {
+        "label": "Toepasselijke belasting",
+        "hint": "@:common.selectOne"
+      },
+      "vatType": {
+        "label": "@:common.taxType",
+        "errorText": {
+          "required": "Selecteer een btw-type"
+        }
+      },
+      "menu": {
+        "label": "Kies menu",
+        "errors": {
+          "required": "Gelieve een menu te selecteren."
+        },
+        "hint": "Selecteer een menu",
+        "extra": {
+          "selectNavLabel": "Selecteer artikelmenu"
+        }
+      },
+      "modifierItems": {
+        "label": "Optieartikelen",
+        "hint": "Selecteer optieartikelen"
+      },
+      "preparationTime": {
+        "label(rich)": "Bereidingstijd ${minutes(Minuten)}",
+        "hint": "Bijv: 30"
+      },
+      "variation": {
+        "name": {
+          "label": "Naam",
+          "hint": "Voer variatie in",
+          "errors": {
+            "required": "Gelieve een variatienaam in te voeren."
+          }
+        },
+        "price": {
+          "errors": {
+            "required": "Gelieve een prijs in te voeren."
+          },
+          "label": "Prijs",
+          "hint": "Bijv: €30"
+        }
+      }
+    },
+    "itemCart": {
+      "hint": "@:common.commonHint",
+      "error": {
+        "required": "@:common.pleaseEnterQuantity",
+        "noZero": "@:common.quantityMustBeGreaterThanZero"
+      }
+    },
+    "sales": {
+      "autoGenerateInvoice": {
+        "label": "Factuurnr.",
+        "hint": "P-00001"
+      },
+      "date": {
+        "label": "Datum"
+      },
+      "customer": {
+        "label": "Klant",
+        "hint": "Selecteer klant"
+      },
+      "phone": {
+        "label": "Telefoonnummer",
+        "hint": "Voer telefoonnummer in"
+      },
+      "address": {
+        "label": "Adres",
+        "hint": "Voer adres in"
+      },
+      "deliveryCharge": {
+        "label": "@:common.deliveryCharge",
+        "hint": "Bijv.: \\$20",
+        "hint2": "Kosten bijv: €10"
+      },
+      "table": {
+        "hint": "Selecteer tafel"
+      },
+      "waiter": {
+        "hint": "Selecteer ober"
+      }
+    },
+    "bill": {
+      "label": "Factuurnr.",
+      "hint": "P-00001"
+    },
+    "supplier": {
+      "label": "Leverancier",
+      "hint": "Selecteer leverancier",
+      "extra": {
+        "required": "Selecteer een leverancier"
+      }
+    },
+    "phone": {
+      "label": "Telefoonnummer",
+      "hint": "Voer telefoonnummer in",
+      "errors": {
+        "required": "Voer een telefoonnummer in."
+      }
+    },
+    "address": {
+      "label": "Bedrijfsadres",
+      "hint": "Voer het bedrijfsadres in"
+    },
+    "payment": {
+      "label": "Naam",
+      "hint": "Voer de betalingsnaam in",
+      "error": {
+        "required": "Voer de naam van een betaalmethode in"
+      }
+    },
+    "expense": {
+      "label": "Uitgavecategorie",
+      "hint": "Selecteer uitgavecategorie",
+      "error": {
+        "required": "Voer een uitgavecategorie in"
+      }
+    },
+    "income": {
+      "label": "Inkomstencategorie",
+      "hint": "Voer de categorienaam in",
+      "error": {
+        "required": "Voer de categorienaam in"
+      },
+      "incomeTitle": {
+        "label": "Inkomenstitel",
+        "hint": "Voer inkomen in"
+      },
+      "incomeCategory": {
+        "label": "Inkomstencategorie",
+        "hint": "Selecteer categorie"
+      },
+      "payment": {
+        "label": "Betaling",
+        "hint": "Bijv.: \\$10"
+      }
+    },
+    "note": {
+      "label": "Notitie (optioneel)",
+      "hint": "Voer tekst in"
+    },
+    "parties": {
+      "partyName": {
+        "label": "Naam partij",
+        "hint": "Voer de naam van de partij in",
+        "error": {
+          "required": "Voer de naam van de partij in"
+        }
+      },
+      "partyPhone": {
+        "label": "Telefoonnummer",
+        "hint": "Voer telefoonnummer in",
+        "error": {
+          "required": "Voer een telefoonnummer in"
+        }
+      }
+    },
+    "table": {
+      "name": {
+        "label": "Tafelnaam",
+        "hint": "Voer de tafelnaam in",
+        "error": {
+          "required": "Voer de tafelnaam in"
+        }
+      },
+      "capacity": {
+        "label": "Capaciteit",
+        "hint": "Voer de capaciteit in",
+        "error": {
+          "required": "Voer de capaciteit in"
+        }
+      }
+    },
+    "designation": {
+      "label": "@:common.designation",
+      "hint": "Selecteer een functie",
+      "errors": {
+        "required": "Gelieve een functie te selecteren."
+      }
+    },
+    "ingredientName": {
+      "label": "Naam ingrediënt",
+      "hint": "Voer naam ingrediënt in",
+      "errors": {
+        "required": "Gelieve naam ingrediënt in te voeren"
+      }
+    },
+    "item": {
+      "label": "Artikel",
+      "hint": "Selecteer artikel",
+      "errors": {
+        "required": "Gelieve een artikel te selecteren."
+      }
+    },
+    "modifierGroup": {
+      "label": "Optiegroep",
+      "hint": "Selecteer optiegroep",
+      "errors": {
+        "required": "Gelieve een optiegroep te selecteren."
+      }
+    },
+    "description": {
+      "label": "Beschrijving",
+      "hint": "Voer beschrijving in"
+    },
+    "staff": {
+      "label": "@:common.staff",
+      "hint": "Selecteer een medewerker",
+      "errors": {
+        "required": "Gelieve een medewerker te selecteren"
+      }
+    },
+    "loginUserName": {
+      "label": "Gebruikersnaam aanmelden",
+      "hint": "Voer gebruikersnaam of e-mailadres in",
+      "errors": {
+        "required": "Gelieve een gebruikersnaam of e-mailadres in te voeren"
+      }
+    }
+  },
+  "action": {
+    "next": "Volgende",
+    "getStarted": "Aan de slag",
+    "skip": "Overslaan",
+    "select": "Selecteren",
+    "save": "Opslaan",
+    "verify": "Verifiëren",
+    "signIn": "@:common.signIn",
+    "signUp": "@:common.signUp",
+    "continue": "Doorgaan",
+    "no": "Nee",
+    "yes": "Ja",
+    "okay": "Oké",
+    "cancel": "Annuleren",
+    "confirm": "Bevestigen",
+    "tryAgain": "Probeer opnieuw",
+    "reset": "Resetten",
+    "apply": "Toepassen",
+    "stockAdjust": "Voorraad aanpassen",
+    "addMoreItems": "Meer artikelen toevoegen",
+    "hold": "Vasthouden",
+    "parcel": "@:common.parcel",
+    "buyNow": "Nu kopen",
+    "viewAll": "Alles bekijken",
+    "viewLedger": "Grootboek bekijken",
+    "submit": "Verzenden",
+    "selected": "Geselecteerd",
+    "addToCart": "Toevoegen aan winkelwagen",
+    "selectAll": "Alles selecteren",
+    "update": "@:common.update",
+    "addRole": "Rol toevoegen"
+  },
+  "pages": {
+    "language": {
+      "appbarTitle": "@:action.select @:common.language"
+    },
+    "onboard": {
+      "onboardData": {
+        "data1": {
+          "title": "Eenvoudig te gebruiken @:common.appName",
+          "description": "Naadloze bestellingen, moeiteloze reserveringen\\nGeef uw restaurant eenvoudig meer kracht!"
+        },
+        "data2": {
+          "title": "Moeiteloos orderbeheer",
+          "description": "Stroomlijn het orderopnameproces van uw restaurant met ons intuïtieve POS-systeem."
+        },
+        "data3": {
+          "title": "Uitstekende analyse en rapportage",
+          "description": "Ons analyse-dashboard biedt realtime verkoop- en aankooprapporten"
+        }
+      }
+    },
+    "signIn": {
+      "title": "Welkom terug",
+      "subtitle": "Voer uw gegevens in.",
+      "extra": {
+        "rememberMe": "Onthoud mij",
+        "signUpNavigator(rich)": "Heb je geen account? ${getStarted(@:action.getStarted)}",
+        "forgotPassword": "@:common.forgotPassword?"
+      }
+    },
+    "signUp": {
+      "title": "Maak een account aan",
+      "subtitle": "Voer uw gegevens in",
+      "extra": {
+        "signInNavigator(rich)": "Heb je al een account? ${signIn(@:action.signIn)}"
+      }
+    },
+    "forgotPassword": {
+      "title": "@:common.forgotPassword",
+      "subtitle": "Voer uw e-mailadres in om uw wachtwoord te herstellen."
+    },
+    "otpVerification": {
+      "title": "Verificatie",
+      "subtitle": "Er is een 6-cijferige pincode naar uw e-mailadres verzonden",
+      "extra": {
+        "codeResend": {
+          "codeSendIn": "Code verzonden binnen",
+          "resendCode": "Code opnieuw verzenden"
+        }
+      }
+    },
+    "resetPassword": {
+      "title": "Wachtwoord opnieuw instellen",
+      "subtitle": "Stel uw wachtwoord opnieuw in om te herstellen en in te loggen op uw account",
+      "extra": {
+        "dialog": {
+          "title": "Succesvol gewijzigd!",
+          "subtitle": "Log in met uw nieuwe wachtwoord.\nU wordt doorgestuurd naar Inloggen..."
+        }
+      }
+    },
+    "items": {
+      "itemList": {
+        "extra": {
+          "emptyItem": "Geen artikel gevonden!\nVoeg een artikel toe."
+        }
+      },
+      "manageItems": {
+        "title": "Nieuw artikel toevoegen",
+        "title2": "Artikel bewerken",
+        "extra": {
+          "maximum": "Maximaal 5",
+          "wholeSaleAndDealerPrice": "Groothandel- & dealerprijs",
+          "addDiscount": "Korting toevoegen",
+          "addVat": "Btw toevoegen"
+        }
+      },
+      "itemDetails": {
+        "title": "Artikeldetails",
+        "extra": {
+          "noImageAvailable": "Geen afbeelding beschikbaar!",
+          "preparationTime(rich)": "Bereidingstijd: ${min: String} ${mins(mins)}",
+          "pleaseSelectVariation": "Gelieve een variatie te selecteren",
+          "pleaseSelectOption": "Gelieve een optie te selecteren.",
+          "enterYourInstruction": "Voer uw instructies in"
+        }
+      }
+    },
+    "category": {
+      "addNewCategory": "Nieuwe categorie toevoegen",
+      "editCategory": "Categorie bewerken"
+    },
+    "brand": {
+      "addNewBrand": "Nieuw merk toevoegen",
+      "editBrand": "Merk bewerken"
+    },
+    "unit": {
+      "addNewUnit": "Nieuwe eenheid toevoegen",
+      "editUnit": "Eenheid bewerken"
+    },
+    "stock": {
+      "stockList": "Voorraadlijst"
+    },
+    "aboutUs": {
+      "title": "Over ons"
+    },
+    "privacyPolicy": {
+      "title": "Privacybeleid"
+    },
+    "termAndCondition": {
+      "title": "@:common.termAndCondition"
+    },
+    "orders": {
+      "manageOrders": {
+        "extra": {
+          "billItems": "Factuuritems",
+          "manageQuantity": "Hoeveelheid beheren"
+        },
+        "title": {
+          "editOrder": "Bestelling bewerken",
+          "editKOT": "KOT Bewerken"
+        }
+      }
+    },
+    "onlinePayment": {
+      "title": "Online betaling"
+    },
+    "paymentStatus": {
+      "success": {
+        "title": "Dank u!",
+        "message": "We zullen de betaling beoordelen en binnen 24 uur goedkeuren.",
+        "actionButtonText": "Factuur bekijken"
+      },
+      "fail": {
+        "title": "Oeps! Betaling mislukt",
+        "message": "Uw transactie is mislukt vanwege een technische fout.",
+        "actionButtonText": "Probeer opnieuw"
+      }
+    },
+    "confirmationDialog": {
+      "title": "Uitloggen",
+      "message": "Weet u zeker dat u wilt uitloggen?",
+      "acceptationText": "Nee",
+      "rejectionText": "Uitloggen"
+    },
+    "payment": {
+      "title": "@:common.paymentMethod",
+      "addPaymentMethod": "Nieuwe betaalmethode toevoegen",
+      "editPaymentMethod": "Betaalmethode bewerken",
+      "choseOnlinePayment": "Kies online betaling",
+      "selectPaymentMethod": "Selecteer betaalmethode",
+      "pleaseSelectAPaymentMethod": "Selecteer een betaalmethode.",
+      "methodStatus": {
+        "title": "Status",
+        "message": "Status kan niet inactief zijn als Snelweergave is ingeschakeld!."
+      }
+    },
+    "subscriptionPlan": {
+      "title": "Premium abonnement aanschaffen",
+      "extra": {
+        "actionButtonText": "Ga terug",
+        "message": "Abonnementsbetaling succesvol.\n\nU hebt nu toegang tot de geabonneerde functies.",
+        "mostPopular": "Meest populair"
+      }
+    },
+    "invoicePreview": {
+      "title": "Factuurvoorbeeld",
+      "message": "PDF-voorbeeld binnenkort beschikbaar"
+    },
+    "currency": {
+      "title": "@:common.currency"
+    },
+    "dashboard": {
+      "overview": "Overzicht",
+      "dashboardPrivacy": "Dashboardprivacy",
+      "moneyInAndMoneyOut": "Geld in & geld uit",
+      "lossAndProfitOverView": "Winst- en verliesoverzicht"
+    },
+    "due": {
+      "title": "@:common.dueList",
+      "collectionList": "Incassolijst",
+      "dueCollection": "Openstaande incasso"
+    },
+    "expense": {
+      "title": "@:common.expense",
+      "editExpense": "Uitgave bewerken",
+      "addNewExpense": "Nieuwe uitgave toevoegen",
+      "editExpenseCategory": "Uitgavencategorie bewerken",
+      "addNewExpenseCategory": "Nieuwe uitgavencategorie toevoegen",
+      "payment": "Betaling",
+      "expenseCategory": "Uitgavencategorie",
+      "selectCategory": "Categorie selecteren",
+      "allExpense": "Alle uitgaven",
+      "pleaseSelectACategory": "Selecteer een categorie",
+      "expenseTitle": {
+        "label": "Titel uitgave",
+        "hint": "Voer uitgave in"
+      }
+    },
+    "lossProfit": {
+      "title": "Verlies/Winstlijst",
+      "noLossProfitFound": "Geen verlies/winst gevonden!\nProbeer alstublieft verkopen te creëren."
+    },
+    "income": {
+      "editIncomeCategory": "Inkomstencategorie bewerken",
+      "addNewIncomeCategory": "Nieuwe inkomstencategorie toevoegen",
+      "incomeCategory": "Inkomstencategorie",
+      "allIncome": "Alle inkomsten",
+      "editIncome": "Inkomen bewerken",
+      "addNewIncome": "Inkomen bewerken",
+      "addIncome": "Inkomen toevoegen"
+    },
+    "moneyIn": {
+      "title": "Lijst geld ontvangen",
+      "totalPaymentIn": "Totaal ontvangen geld"
+    },
+    "moneyOut": {
+      "title": "Lijst geld uitgegeven",
+      "totalMoneyOut": "Totaal uitgegeven geld"
+    },
+    "profile": {
+      "title": "Mijn profiel",
+      "editProfile": "Profiel bewerken",
+      "businessInformation": "Bedrijfsinformatie",
+      "profileInformation": "Profielinformatie"
+    },
+    "parties": {
+      "title": "Partijenlijst",
+      "allParties": "Alle partijen",
+      "customer": "Klant",
+      "supplier": "Leverancier",
+      "addParties": "Partijen toevoegen",
+      "editParties": "Partijen bewerken",
+      "partiesDetails": "Partijdetails",
+      "personalInfo": "Persoonlijke info"
+    },
+    "ledger": {
+      "subTitle": "Grootboek"
+    },
+    "purchase": {
+      "title": "Nieuwe aankoop toevoegen",
+      "editPurchase": "Aankoop bewerken"
+    },
+    "reports": {
+      "title": "Rapporten"
+    },
+    "table": {
+      "title": "Nieuwe tafel toevoegen",
+      "editTable": "Tafel bewerken"
+    },
+    "tax": {
+      "title": "Btw-tarieven",
+      "buildHeaderTitle": "Btw-tarieven - Beheer uw btw-tarieven",
+      "vatGroup": {
+        "title": "Btw-groep",
+        "subTitle": "Btw-groep - Beheer uw btw-groep"
+      }
+    },
+    "vat": {
+      "addNewVat": "Nieuwe btw toevoegen",
+      "editVat": "Btw bewerken",
+      "addNewVatGroup": "Nieuwe btw-groep toevoegen",
+      "editVatGroup": "Btw-groep bewerken"
+    },
+    "orderList": {
+      "title": "Bestellijst",
+      "filters": {
+        "orderType": {
+          "label": "@:common.orderType",
+          "hint": "Selecteer besteltype"
+        },
+        "paymentStatus": {
+          "hint": "Selecteer betaalstatus",
+          "label": "Betaalstatus"
+        }
+      }
+    },
+    "staffs": {
+      "staffList": {
+        "filters": {
+          "designation": {
+            "label": "Functie",
+            "hint": "Selecteer functie"
+          }
+        },
+        "title": "Alle personeelsleden"
+      },
+      "manageStaff": {
+        "title1": "Nieuw personeelslid toevoegen",
+        "title2": "Personeelslid bewerken"
+      }
+    },
+    "ingredient": {
+      "ingredientList": {
+        "title1": "Ingrediëntenlijst",
+        "title2": "Selecteer ingrediënt"
+      },
+      "manageIngredient": {
+        "title1": "Nieuw ingrediënt toevoegen",
+        "title2": "Ingrediënt bewerken"
+      }
+    },
+    "itemModifier": {
+      "itemModifierList": {
+        "title": "@:common.itemModifiers"
+      },
+      "manageItemModifier": {
+        "title1": "Artikelopties toevoegen",
+        "title2": "Artikelopties bewerken"
+      }
+    },
+    "quotation": {
+      "manageQuotation": {
+        "title": {
+          "add": "Nieuwe offerte toevoegen",
+          "edit": "Offerte bewerken",
+          "convert": "Omzetten naar verkoop"
+        }
+      }
+    },
+    "rolePermission": {
+      "rolePermissionList": {
+        "title": "Rol & Permissies Lijst"
+      },
+      "manageRolePermission": {
+        "title1": "Nieuwe rol toevoegen",
+        "title2": "Rol bewerken"
+      }
+    },
+    "printingOption": {
+      "title": "Afdrukoptie",
+      "form": {
+        "companyAddress": {
+          "label": "Bedrijfsadres",
+          "hint": "Voer bedrijfsadres in"
+        },
+        "noteLabel": {
+          "label": "Notitielabel",
+          "hint": "Voer notitielabel in."
+        },
+        "note": {
+          "label": "Notitie",
+          "hint": "Voer notitie in."
+        },
+        "postSaleMessage": {
+          "label": "Bericht na verkoop",
+          "hint": "Voer bericht na verkoop in"
+        },
+        "printingMethod": {
+          "label": "Afdrukmethode",
+          "hint": "Selecteer afdrukmethode"
+        },
+        "printerProfile": {
+          "label": "Printerprofiel",
+          "hint": "Selecteer printerprofiel"
+        },
+        "paperSize": {
+          "label": "Papierformaat thermische printer",
+          "hint": "Selecteer papierformaat printer"
+        },
+        "printerDpi": {
+          "label": "Printer DPI",
+          "hint": "Bv: 203"
+        },
+        "printingMargin": {
+          "label": "Afdrukmarge",
+          "hint": "Bv: 2"
+        }
+      },
+      "tooltip": {
+        "printingMethod": {
+          "title": "Dropdown met opties:",
+          "default": "• Standaard (Native methode om EU-standaardtekens af te drukken)",
+          "image": "• Afbeelding (Aanbevolen voor Unicode-tekens afdrukken)"
+        }
+      },
+      "action": {
+        "save": "Opslaan"
+      }
+    },
+    "kitchen": {
+      "list": {
+        "noKitchensFound": "Geen keukens gevonden.\n Probeer er een toe te voegen."
+      },
+      "manage": {
+        "addKitchen": "Keuken Toevoegen",
+        "editKitchen": "Keuken Bewerken",
+        "kitchenName": {
+          "label": "Keukennaam",
+          "hint": "Voer keukennaam in",
+          "error": "Voer keukennaam in."
+        },
+        "description": {
+          "label": "Beschrijving",
+          "hint": "Voer beschrijving in"
+        }
+      },
+      "manageItems": {
+        "title": "Items Beheren",
+        "addedItems": "Toegevoegde Items",
+        "selectItemsError": "Selecteer items.",
+        "noItemsAdded": "Nog geen items toegevoegd!\nProbeer items toe te voegen."
+      },
+      "card": {
+        "itemName": "Itemnaam",
+        "manageItems": "+ Items Beheren",
+        "deleteItemConfirm": "Wilt u dit item verwijderen?",
+        "deleteKitchenConfirm": "Wilt u deze keuken verwijderen?"
+      }
+    }
+  },
+  "enums": {
+    "dropdownDateFilter": {
+      "daily": "Dagelijks",
+      "weekly": "Wekelijks",
+      "monthly": "Maandelijks",
+      "yearly": "Jaarlijks",
+      "custom": "Aangepast"
+    },
+    "orderTypes": {
+      "dineIn": "Dine-in",
+      "pickUp": "Ophalen",
+      "delivery": "Bezorgen",
+      "reservation": "Reservering",
+      "quotation": "Offerte"
+    },
+    "paymentStatus": {
+      "paid": "Betaald",
+      "unpaid": "Onbetaald"
+    },
+    "staffTypes": {
+      "manager": "Manager",
+      "waiter": "Ober",
+      "chef": "Chef-kok",
+      "cleaner": "Schoonmaker",
+      "driver": "Chauffeur",
+      "deliveryBoy": "Bezorgmedewerker"
+    },
+    "itemFoodTypes": {
+      "veg": "Vegetarisch",
+      "nonVeg": "Niet-vegetarisch",
+      "egg": "Ei",
+      "drink": "Drank",
+      "others": "Overige"
+    },
+    "itemTypes": {
+      "single": "Enkel",
+      "variation": "Variatie"
+    },
+    "quotationStatus": {
+      "open": "Open",
+      "closed": "Gesloten"
+    },
+    "tableStatus": {
+      "running": "Bezet",
+      "available": "Vrij"
+    },
+    "thermalPrinterPrintingMethod": {
+      "image": "Afbeelding",
+      "default": "Standaard"
+    },
+    "kotOrderStatus": {
+      "label": {
+        "pending": "In wacht",
+        "preparing": "In bereiding",
+        "ready": "Gerecht klaar",
+        "served": "Geserveerd",
+        "cancelled": "Geannuleerd"
+      },
+      "pending": "In wacht",
+      "preparing": "In bereiding",
+      "ready": "Gerecht klaar",
+      "served": "Geserveerd",
+      "cancelled": "Geannuleerd"
+    },
+    "kotItemStatus": {
+      "pending": "Start bereiding",
+      "start": "Markeer als klaar",
+      "ready": "Klaar"
+    }
+  },
+  "thermalPrint": {
+    "invoice": {
+      "purchaseInvoiceLabel": "Aankoopfactuur: ${invoiceNumber: String}",
+      "saleInvoiceLabel": "Bestelnr.: ${invoiceNumber: String}",
+      "receiptNoLabel": "Ontvangstbewijsnr.: ${invoiceNumber: String}",
+      "orderNoKotLabel": "Bestelnr.: ${invoiceNumber: String}",
+      "nameLabel": "Naam: ${name: String}",
+      "mobileLabel": "Mobiel: ${phone: String}",
+      "purchasedByLabel": "Gekocht door: ${role: String}",
+      "salesByLabel": "Verkocht door: ${role: String}",
+      "paidByLabel": "${label: String}: ${role: String}",
+      "paidToReceivedFromLabel": "${label: String}: ${name: String}",
+      "orderTypeLabel": "Besteltype: ${orderType: String}",
+      "tableLabel": "Tafel: ${tableName: String}",
+      "tableNoLabel": "Tafelnr.: ${tableName: String}",
+      "dateLabel": "Datum: ${dateTime: String}",
+      "invoiceFlag": "FACTUUR",
+      "receiptFlag": "ONTVANGSTBEWIJS",
+      "paidBy": "Betaald door",
+      "receivedBy": "Ontvangen door",
+      "paidTo": "Betaald aan",
+      "receivedFrom": "Ontvangen van",
+      "seller": "Verkoper: ${name: String}",
+      "address": "Adres: ${addr: String}",
+      "vatNo": "BTW-nr",
+      "tel": "Tel: ${phoneNumber: String}",
+      "timeLabel": "Tijd: ${dateTime: String}"
+    },
+    "tableHeaders": {
+      "sl": "Volgnr.",
+      "item": "Artikel",
+      "cost": "Kosten",
+      "qty": "Aant.",
+      "uPrice": "Pr. p/st",
+      "amount": "Bedrag",
+      "total": "Totaal",
+      "invoiceTable": "Factuur",
+      "dueTable": "Verschuldigd"
+    },
+    "summary": {
+      "subTotal": "Subtotaal:",
+      "discount": "Korting: ${percentFmt: String}",
+      "vat": "${vatName: String}: ${rateFmt: String}%",
+      "tip": "Fooi:",
+      "deliveryCharge": "Leveringskosten:",
+      "totalPayable": "Totaal te betalen:",
+      "paidAmount": "Betaald bedrag:",
+      "dueAmount": "Verschuldigd bedrag:",
+      "paymentType": "Betaalwijze: ${method: String}",
+      "remainingDue": "Resterend verschuldigd:",
+      "paymentAmount": "Betaalbedrag:",
+      "itemsCount": "Artikelen: ${count: int}",
+      "qtyTotal": "Aant.: ${totalQty: int}"
+    },
+    "footer": {
+      "note": "${noteLabel: String}: ${note: String}",
+      "developedBy": "${developByLabel: String} ${developBy: String}"
+    }
+  },
+  "hrm": {
+    "department": "Afdeling",
+    "designation": "Functie",
+    "shift": "Dienst",
+    "employee": "Medewerker",
+    "leave": "Verlof",
+    "leaveType": "Verloftype",
+    "leaveRequest": "Verlofaanvraag",
+    "holiday": "Feestdag",
+    "attendance": "Aanwezigheid",
+    "payroll": "Salarisadministratie",
+    "pageTitles": {
+      "department": "Afdeling",
+      "designation": "Functie",
+      "shift": "Dienst",
+      "employee": "Medewerker",
+      "leave": "Verlof",
+      "leaveType": "Verloftype",
+      "holiday": "Feestdag",
+      "attendance": "Aanwezigheid",
+      "payroll": "Salarisadministratie",
+      "leaveReports": "Verlofrapporten",
+      "payrollReports": "Salarisrapporten",
+      "attendanceReports": "Aanwezigheidsrapporten",
+      "addDepartment": "Afdeling toevoegen",
+      "editDepartment": "Afdeling bewerken",
+      "addDesignation": "Functie toevoegen",
+      "editDesignation": "Functie bewerken",
+      "addShift": "Shift toevoegen",
+      "editShift": "Shift bewerken",
+      "addEmployee": "Medewerker toevoegen",
+      "editEmployee": "Medewerker bewerken",
+      "addLeave": "Verlof toevoegen",
+      "editLeave": "Verlof bewerken",
+      "addLeaveType": "Verloftype toevoegen",
+      "editLeaveType": "Verloftype bewerken",
+      "addHoliday": "Feestdag toevoegen",
+      "editHoliday": "Feestdag bewerken",
+      "addAttendance": "Aanwezigheid toevoegen",
+      "editAttendance": "Aanwezigheid bewerken",
+      "addPayroll": "Salaris toevoegen",
+      "editPayroll": "Salaris bewerken"
+    },
+    "form": {
+      "labels": {
+        "department": "Afdeling",
+        "designation": "Functie",
+        "shift": "Shift",
+        "employee": "Medewerker",
+        "leaveType": "Verloftype",
+        "leaveDuration": "Verlofduur",
+        "paymentYear": "Betalingsjaar",
+        "paymentType": "Betalingstype",
+        "breakStatus": "Pauzestatus",
+        "startTime": "Starttijd",
+        "endTime": "Eindtijd",
+        "startBreakTime": "Start pauze",
+        "endBreakTime": "Einde pauze",
+        "breakTime": "Pauzetijd",
+        "breakDuration": "Pauzeduur",
+        "timeIn": "Inkloktijd",
+        "timeOut": "Uitkloktijd",
+        "duration": "Duur",
+        "country": "Land",
+        "salary": "Salaris",
+        "gender": "Geslacht",
+        "birthDate": "Geboortedatum",
+        "joinDate": "Indiensttredingsdatum",
+        "holidayName": "Naam feestdag",
+        "startDate": "Startdatum",
+        "endDate": "Einddatum",
+        "month": "Maand",
+        "year": "Jaar",
+        "status": "Status",
+        "description": "Beschrijving",
+        "amount": "Bedrag",
+        "payment": "Betaling",
+        "departmentName": "Naam afdeling",
+        "designationName": "Functienaam",
+        "image": "Afbeelding",
+        "name": "Naam"
+      },
+      "hints": {
+        "selectEmployee": "Selecteer medewerker",
+        "selectDepartment": "Selecteer afdeling",
+        "selectDesignation": "Selecteer functie",
+        "selectShift": "Selecteer dienst",
+        "selectLeaveType": "Selecteer verloftype",
+        "selectMonth": "Selecteer maand",
+        "selectYear": "Selecteer jaar",
+        "selectDate": "Selecteer datum",
+        "selectStartDate": "Selecteer startdatum",
+        "selectEndDate": "Selecteer einddatum",
+        "selectTimeIn": "Selecteer inkloktijd",
+        "selectTimeOut": "Selecteer uitkloktijd",
+        "selectStartTime": "Selecteer starttijd",
+        "selectEndTime": "Selecteer eindtijd",
+        "selectStatus": "Selecteer status",
+        "selectGender": "Selecteer geslacht",
+        "selectPaymentType": "Selecteer betalingstype",
+        "enterFullName": "Voer volledige naam in",
+        "enterEmail": "Voer e-mail in",
+        "enterPhone": "Voer telefoonnummer in",
+        "enterCountry": "Voer land in",
+        "enterSalary": "Bijv: 500",
+        "enterHolidayName": "Voer naam feestdag in",
+        "enterDescription": "Voer beschrijving in...",
+        "autoCalculated": "Automatisch berekend",
+        "selectDatesFirst": "Selecteer eerst data",
+        "allEmployee": "Alle medewerkers",
+        "selectEmployeeFirst": "Selecteer eerst medewerker",
+        "enterDepartmentName": "Voer naam afdeling in",
+        "enterDesignationName": "Voer functienaam in",
+        "ex": "{value}",
+        "selectBirthDate": "Selecteer geboortedatum",
+        "selectJoinDate": "Selecteer indiensttredingsdatum",
+        "selectBreakStatus": "Selecteer pauzestatus",
+        "enterLeaveTypeName": "Voer naam verloftype in"
+      }
+    },
+    "emptyStates": {
+      "noLeaves": "Geen verlof gevonden",
+      "noPayrollRecords": "Geen salarisrecords gevonden",
+      "noAttendanceRecords": "Geen aanwezigheidsrecords gevonden",
+      "noLeaveTypes": "Geen verloftypes gevonden",
+      "noEmployees": "Geen medewerkers gevonden",
+      "noHolidays": "Geen feestdagen gevonden",
+      "noShifts": "Geen shifts gevonden",
+      "noDesignations": "Geen functies gevonden",
+      "noDepartments": "Geen afdelingen gevonden"
+    },
+    "confirmations": {
+      "deleteAttendance": "Weet u zeker dat u deze aanwezigheid wilt verwijderen?",
+      "deletePayroll": "Weet u zeker dat u dit salaris wilt verwijderen?",
+      "deleteLeave": "Weet u zeker dat u dit verlof wilt verwijderen?",
+      "deleteLeaveType": "Wilt u dit verloftype verwijderen?",
+      "deleteEmployee": "Weet u zeker dat u deze medewerker wilt verwijderen?",
+      "deleteHoliday": "Weet u zeker dat u deze feestdag wilt verwijderen?",
+      "deleteShift": "Wilt u deze shift verwijderen?",
+      "deleteDesignation": "Weet u zeker dat u deze functie wilt verwijderen?",
+      "deleteDepartment": "Weet u zeker dat u deze afdeling wilt verwijderen?"
+    },
+    "validation": {
+      "selectEmployee": "Selecteer een medewerker",
+      "selectMonth": "Selecteer een maand",
+      "selectEndDate": "Selecteer een einddatum",
+      "endDateAfterStart": "Einddatum moet na startdatum liggen",
+      "selectStatus": "Selecteer status",
+      "selectLeaveType": "Selecteer een verloftype",
+      "selectStartDate": "Selecteer een startdatum",
+      "selectDate": "Selecteer een datum",
+      "selectTimeIn": "Selecteer inkloktijd",
+      "selectTimeOut": "Selecteer uitkloktijd",
+      "enterDepartmentName": "Voer een afdelingsnaam in",
+      "enterDesignationName": "Voer functienaam in",
+      "enterName": "Voer een naam in",
+      "selectDesignation": "Selecteer een functie",
+      "selectDepartment": "Selecteer een afdeling",
+      "enterEmail": "Voer een e-mailadres in",
+      "enterValidEmail": "Voer een geldig e-mailadres in",
+      "enterPhoneNumber": "Voer een telefoonnummer in",
+      "enterCountry": "Voer een land in",
+      "enterSalary": "Voer een salaris in",
+      "selectGender": "Selecteer een geslacht",
+      "selectShift": "Selecteer een dienst",
+      "selectBirthDate": "Selecteer een geboortedatum",
+      "selectJoinDate": "Selecteer een indiensttredingsdatum",
+      "enterHolidayName": "Voer een naam voor de feestdag in",
+      "selectBreakStatus": "Selecteer pauzestatus",
+      "selectPaymentYear": "Selecteer betalingsjaar",
+      "selectPaymentType": "Selecteer betalingswijze",
+      "enterAmount": "Voer bedrag in",
+      "selectStartBreakTime": "Selecteer begintijd pauze",
+      "selectEndBreakTime": "Selecteer eindtijd pauze",
+      "enterLeaveTypeName": "Voer naam verloftype in",
+      "selectStartTime": "Selecteer begintijd",
+      "selectEndTime": "Selecteer eindtijd"
+    },
+    "dropdowns": {
+      "addNew": "+ Nieuwe toevoegen",
+      "morning": "Ochtend",
+      "day": "Overdag",
+      "evening": "Avond",
+      "night": "Nacht",
+      "yes": "Ja",
+      "no": "Nee",
+      "approved": "Goedgekeurd",
+      "rejected": "Afgewezen",
+      "terminated": "Beëindigd",
+      "suspended": "Geschorst",
+      "male": "Man",
+      "female": "Vrouw",
+      "pending": "In afwachting",
+      "active": "Actief",
+      "inactive": "Inactief",
+      "paid": "Betaald",
+      "unpaid": "Onbetaald"
+    },
+    "units": {
+      "days": "dagen"
+    },
+    "fallbacks": {
+      "noNoteAvailable": "Geen notitie beschikbaar",
+      "noDescriptionAvailable": "Geen beschrijving beschikbaar",
+      "selectEmployeeFirst": "Selecteer eerst een medewerker"
+    },
+    "success": {
+      "leaveDelete": "Verlof succesvol verwijderd",
+      "attendanceDelete": "Aanwezigheid succesvol verwijderd",
+      "attendanceAdd": "Aanwezigheid succesvol toegevoegd",
+      "attendanceUpdate": "Aanwezigheid succesvol bijgewerkt",
+      "leaveAdd": "Verlof succesvol toegevoegd",
+      "leaveUpdate": "Verlof succesvol bijgewerkt",
+      "departmentDelete": "Afdeling succesvol verwijderd",
+      "departmentAdd": "Afdeling succesvol toegevoegd",
+      "departmentUpdate": "Afdeling succesvol bijgewerkt",
+      "designationDelete": "Functie succesvol verwijderd",
+      "designationAdd": "Functie succesvol toegevoegd",
+      "designationUpdate": "Functie succesvol bijgewerkt",
+      "employeeDelete": "Medewerker succesvol verwijderd",
+      "employeeAdd": "Medewerker succesvol toegevoegd",
+      "employeeUpdate": "Medewerker succesvol bijgewerkt",
+      "holidayDelete": "Feestdag succesvol verwijderd",
+      "holidayAdd": "Feestdag succesvol toegevoegd",
+      "holidayUpdate": "Feestdag succesvol bijgewerkt",
+      "leaveTypeDelete": "Verloftype succesvol verwijderd"
+    }
+  }
+}

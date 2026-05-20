@@ -1,0 +1,1561 @@
+{
+  "@@meta": {
+    "languageCode": "ar_AR",
+    "languageName": "Arabic",
+    "version": "1.0.0"
+  },
+  "common": {
+    "signIn": "تسجيل الدخول",
+    "signUp": "إنشاء حساب",
+    "verifyEmail": "التحقق من البريد الإلكتروني",
+    "customizeProfile": "تخصيص الملف الشخصي",
+    "imageOrLogo": "الشعار أو الصورة",
+    "createNewPassword": "إنشاء كلمة مرور جديدة",
+    "itemsList": "قائمة العناصر",
+    "searchItemsName": "البحث عن اسم العناصر",
+    "categoryList": "قائمة الفئات",
+    "brandList": "قائمة العلامات التجارية",
+    "unitList": "قائمة الوحدات",
+    "itemDetails": "تفاصيل العنصر",
+    "addStock": "إضافة مخزون",
+    "profile": "الملف الشخصي",
+    "language": "اللغة",
+    "termsAndConditions": "الشروط والأحكام",
+    "aboutUs": "من نحن",
+    "logout": "تسجيل الخروج",
+    "editProfile": "تعديل الملف الشخصي",
+    "fullName": "الاسم الكامل",
+    "email": "البريد الإلكتروني",
+    "mobileNumber": "رقم الجوال",
+    "address": "العنوان",
+    "password": "كلمة المرور",
+    "forgotPassword": "نسيت كلمة المرور",
+    "edit": "تعديل",
+    "delete": "حذف",
+    "addItems": "إضافة عناصر",
+    "stock": "المخزون",
+    "currentStock": "المخزون الحالي",
+    "value": "القيمة",
+    "sales": "المبيعات",
+    "purchase": "الشراء",
+    "price": "السعر",
+    "image": "الصورة",
+    "upload": "رفع",
+    "addNew": "إضافة جديد",
+    "pricing": "التسعير",
+    "name": "الاسم",
+    "category(plural)": {
+      "one": "الفئة",
+      "other": "الفئةs"
+    },
+    "areas": "Areas",
+    "brand": "العلامة التجارية",
+    "lowStock": "المخزون المنخفض",
+    "unit": "الوحدة",
+    "vat": "ضريبة القيمة المضافة",
+    "taxType": "نوع الضريبة",
+    "purchasePrice": "سعر الشراء",
+    "sellingPrice": "سعر البيع",
+    "wholeSalePrice": "سعر الجملة",
+    "dealerPrice": "سعر الموزع",
+    "searchHere": "ابحث هنا",
+    "totalItems": "إجمالي العناصر",
+    "stockValue": "قيمة المخزون",
+    "congratulation": "تهانينا",
+    "salesList": "قائمة المبيعات",
+    "searchInvoiceNumber": "البحث عن رقم الفاتورة",
+    "view": "عرض",
+    "kFor": "لـ",
+    "total": "الإجمالي",
+    "subTotal": "المجموع الفرعي",
+    "insufficientStockAvailableStock": "المخزون غير كافٍ، المخزون المتاح",
+    "discount": "الخصم",
+    "selectOne": "اختر واحدًا",
+    "allCategory": "جميع الفئات",
+    "details": "التفاصيل",
+    "parcel": "طرد",
+    "kot": "طلب المطبخ",
+    "table": "طاولة",
+    "holdTable": "حجز طاولة",
+    "capacity": "السعة",
+    "commonHint": "مثال: ١٠",
+    "pleaseEnterQuantity": "الرجاء إدخال الكمية",
+    "quantityMustBeGreaterThanZero": "يجب أن تكون الكمية أكبر من 0",
+    "mobile": "جوال",
+    "orderNo": "رقم الطلب",
+    "dateAndTime": "التاريخ والوقت",
+    "items": "العناصر",
+    "totalAmount": "المبلغ الإجمالي",
+    "paidAmount": "المبلغ المدفوع",
+    "dueAmount": "المبلغ المستحق",
+    "paymentType": "نوع الدفع",
+    "thankYou": "شكرًا لك",
+    "developedBy": "تم التطوير بواسطة ${domain: String}",
+    "qty": "الكمية",
+    "amount": "المبلغ",
+    "dashboard": "لوحة التحكم",
+    "reports": "التقارير",
+    "home": "الرئيسية",
+    "parties": "الأطراف",
+    "subscriptionPlan": "خطة الاشتراك",
+    "estimateList": "قائمة التقديرات",
+    "purchaseList": "قائمة المشتريات",
+    "dueList": "قائمة المستحقات",
+    "lossOrProfit": "الخسارة/الربح",
+    "stocks": "المخزونات",
+    "moneyInList": "قائمة الأموال الواردة",
+    "moneyOutList": "قائمة الأموال الصادرة",
+    "transactionList": "قائمة المعاملات",
+    "income": "الدخل",
+    "expense": "المصروفات",
+    "quickView": "نظرة سريعة",
+    "to": "إلى",
+    "totalSales": "إجمالي المبيعات",
+    "totalPurchase": "إجمالي المشتريات",
+    "holdNumber": "الطلبات المحجوزة",
+    "totalExpense": "إجمالي المصروفات",
+    "loss": "الخسارة",
+    "profit": "الربح",
+    "recentTransaction": "المعاملات الأخيرة",
+    "invoice": "الفاتورة",
+    "moneyIn": "الأموال الواردة",
+    "moneyOut": "الأموال الصادرة",
+    "paid": "مدفوع",
+    "due": "مستحق",
+    "partial": "جزئي",
+    "print": "طباعة",
+    "addCategory": "إضافة فئة",
+    "addExpense": "إضافة مصروف",
+    "search": "بحث...",
+    "viewDetails": "عرض التفاصيل",
+    "title": "العنوان",
+    "date": "التاريخ",
+    "note": "ملاحظة",
+    "phoneNumber": "رقم الهاتف",
+    "type": "النوع",
+    "selectContactSType": "اختر نوع جهة الاتصال",
+    "moreInfo": "مزيد من المعلومات",
+    "paymentReceived": "تم استلام الدفعة",
+    "selectSupplier": "اختر المورد",
+    "supplier": "المورد",
+    "received": "تم الاستلام",
+    "balanceDue": "الرصيد المستحق",
+    "addPurchase": "إضافة شراء",
+    "selectedItemWillBeCleared": "سيتم مسح العناصر المحددة.",
+    "searchItemName": "البحث عن اسم العنصر",
+    "billItems": "عناصر الفاتورة",
+    "addMoreItems": "إضافة المزيد من العناصر",
+    "payAmount": "دفع المبلغ",
+    "salesReport": "تقرير المبيعات",
+    "purchaseReport": "تقرير المشتريات",
+    "stockReport": "تقرير المخزون",
+    "dueReport": "تقرير المستحقات",
+    "dueCollectionReport": "تقرير تحصيل المستحقات",
+    "transactionReport": "تقرير المعاملات",
+    "incomeReport": "تقرير الدخل",
+    "dueCollectionList": "قائمة تحصيل المستحقات",
+    "expenseReport": "تقارير المصروفات",
+    "dueCollection": "تحصيل المستحقات",
+    "myProfile": "ملفي الشخصي",
+    "printingOption": "خيار الطباعة",
+    "currency": "العملة",
+    "paymentMethod": "طريقة الدفع",
+    "rateUs": "قيمنا",
+    "termAndCondition": "الشروط والأحكام",
+    "tableList": "قائمة الطاولات",
+    "addTable": "إضافة طاولة",
+    "vatRate": "معدل ضريبة القيمة المضافة %",
+    "action": "الإجراء",
+    "status": "الحالة",
+    "active": "نشط",
+    "inActive": "غير نشط",
+    "subVats": "ضرائب القيمة المضافة الفرعية",
+    "add": "إضافة",
+    "taxRate": "معدل الضريبة %",
+    "subTaxes": "الضرائب الفرعية",
+    "group": "مجموعة",
+    "VAT": "ضريبة القيمة المضافة",
+    "subTaxList": "قائمة الضرائب الفرعية",
+    "vatPercent": "نسبة ضريبة القيمة المضافة",
+    "statusIsCannotInActive": "لا يمكن أن تكون الحالة غير نشطة إذا كانت ضريبة القيمة المضافة على المبيعات.",
+    "vatOnSales": "ضريبة القيمة المضافة على المبيعات",
+    "transaction": "المعاملة",
+    "version": "إصدار ${version: String}",
+    "hold": "إِحْفَظْ",
+    "empty": "فَارِغ",
+    "appName": "تطبيق المطعم",
+    "duePayment": "دفع المستحقات",
+    "orders": "الطلبات",
+    "all": "الكل",
+    "ingredient": "المكونات",
+    "menus": "القوائم",
+    "modifierGroups": "مجموعات التعديل",
+    "itemModifiers": "معدّلات العناصر",
+    "staff": "الموظفين",
+    "coupon": "القسيمة",
+    "pay": "دفع",
+    "pendingOrders": "الطلبات المعلقة",
+    "order": "الطلب",
+    "payNow": "ادفع الآن",
+    "addStaff": "إضافة موظف",
+    "designation": "اللقب",
+    "itemAdded": "تمت إضافة العنصر",
+    "noItemAdded": "لم تتم إضافة أي عنصر",
+    "saveNPrint": "حفظ وطباعة",
+    "allowMultiSelection": "السماح بتحديد أقسام متعددة",
+    "required": "مطلوب",
+    "optional": "اختياري",
+    "allowMultiSelectionForSale": "السماح بتحديد متعدد للمبيعات",
+    "isRequired": "مطلوب",
+    "modifier": "معدّل",
+    "fullPayment": "الدفع الكامل",
+    "payment": "الدفع",
+    "addTip": "إضافة إكرامية",
+    "netPayable": "صافي المستحق",
+    "receiveAmount": "المبلغ المستلم",
+    "changeAmount": "مبلغ التغيير",
+    "quotationList": "قائمة عروض الأسعار",
+    "addQuotation": "إضافة عرض سعر",
+    "convert": "تحويل",
+    "variations": "أنواع",
+    "instructions": "تعليمات",
+    "unavailable": "غير متاح",
+    "tip": "نصيحة",
+    "salesQuotationReport": "تقرير عرض أسعار المبيعات",
+    "orderType": "نوع الطلب",
+    "deliveryCharge": "رسوم التوصيل",
+    "receiptNo": "رقم الإيصال",
+    "paidBy": "المدفوع بواسطة",
+    "receivedBy": "المستلم بواسطة",
+    "paymentAmount": "مبلغ الدفع",
+    "remainingDue": "المبلغ المتبقي",
+    "roleNPermission": "الدور والصلاحيات",
+    "sl": "م.ت.",
+    "features": "الميزات",
+    "create": "إنشاء",
+    "update": "تحديث",
+    "quotations": "عروض الأسعار",
+    "restaurant": "مطعم",
+    "printerProfile": "ملف الطابعة",
+    "kitchenOrders": "طلبات المطبخ",
+    "kitchen(plural)": {
+      "one": "مطبخ",
+      "other": "مطابخ"
+    },
+    "allKOT": "جميع طلبات المطبخ",
+    "cancelKOT": "إلغاء طلب المطبخ",
+    "selectCancelReason": "اختر سبب الإلغاء",
+    "additionalComment": "تعليق إضافي",
+    "enterComment": "أدخل تعليق",
+    "orderStatus": "حالة الطلب",
+    "selectOrderStatus": "اختر حالة الطلب",
+    "kotReport": "تقرير طلبات المطبخ",
+    "itemFoodType": "نوع الطعام",
+    "selectItemFoodType": "اختر @:common.itemFoodType",
+    "markAllAsRead": "تحديد الكل كمقروء",
+    "online": "أونلاين",
+    "cancelledReason": "سبب الإلغاء",
+    "hrm": "HRM",
+    "notAvailable": "N/A"
+  },
+  "exceptions": {
+    "somethingWentWrong": "حدث خطأ ما، يرجى المحاولة مرة أخرى",
+    "noCategoryFound": "لم يتم العثور على فئة!\n الرجاء محاولة إضافة فئة.",
+    "doYouWantToDeleteThisCategory": "هل تريد حذف هذه الفئة؟",
+    "noBrandFound": "لم يتم العثور على علامة تجارية!\n الرجاء محاولة إضافة علامة تجارية.",
+    "doYouWantToDeleteThisBrand": "هل تريد حذف هذه العلامة التجارية؟",
+    "noItemStockFound": "لم يتم العثور على مخزون للعنصر!\n الرجاء محاولة إضافة عنصر.",
+    "noUnitFound": "لم يتم العثور على وحدة!\n الرجاء محاولة إضافة وحدة.",
+    "doYouDeleteThisUnit": "هل تريد حذف هذه الوحدة؟",
+    "noSaleFoundPleaseSAddProduct": "لم يتم العثور على مبيعات!\n الرجاء محاولة إضافة مبيعات.",
+    "doYouWantToDeleteThisSale": "هل تريد حذف هذا البيع؟",
+    "pleaseAddItemToTheCartFirst": "الرجاء إضافة العناصر إلى السلة أولاً",
+    "noItemAdded": "لم تتم إضافة عناصر",
+    "cannotEditOthersTable": "لا يمكن تعديل طاولة أخرى.",
+    "tableIsAlreadyBlocked": "الطاولة محجوزة بالفعل.",
+    "failedToGetCustomerDetails": "فشل في الحصول على تفاصيل العميل.",
+    "noTableFoundPleaseTryAgain": "لم يتم العثور على طاولات!\n الرجاء محاولة إضافة طاولة.",
+    "noDueCollectionFound": "لم يتم العثور على فاتورة مستحقة!\n يمكنك رؤية الفواتير المستحقة عند توفرها.",
+    "noExpenseFoundPleaseTryAddingExpense": "لم يتم العثور على مصروفات!\n الرجاء محاولة إضافة مصروف.",
+    "doYouWantToDeleteThisExpense": "هل تريد حذف هذا المصروف؟",
+    "noExpenseCategoryFound": "لم يتم العثور على فئة مصروفات!\n الرجاء محاولة إضافة فئة مصروفات.",
+    "noTransactionFound": "لم يتم العثور على معاملات",
+    "pleaseSelectACategory": "الرجاء اختيار فئة",
+    "noIncomeFound": "لم يتم العثور على دخل!\n الرجاء محاولة إضافة دخل",
+    "doYouWantToDeleteThisIncome": "هل تريد حذف هذا الدخل؟",
+    "noIncomeCategoryFoundAddingAIncome": "لم يتم العثور على فئة دخل!\n الرجاء محاولة إضافة فئة دخل.",
+    "noItemFoundPleaseTryAddingItem": "لم يتم العثور على عنصر!\n الرجاء محاولة إضافة عنصر.",
+    "noPartiesFound": "لم يتم العثور على أطراف",
+    "doYouWantToDeleteThisParty": "هل تريد حذف هذا الطرف",
+    "noLedgerFound": "لم يتم العثور على دفتر الحسابات!\n الرجاء محاولة إضافة ${transactionType: String}",
+    "areYouSureYouSureWantToDeleteThisTaxType": "هل أنت متأكد أنك تريد حذف هذا ${taxType: String}؟",
+    "noItemFoundPleaseSTryAddingAnPurchase": "لم يتم العثور على عنصر!\n الرجاء محاولة إضافة عملية شراء.",
+    "doYouWantToDeleteThisPurchase": "هل تريد حذف عملية الشراء هذه؟",
+    "noTransactionFoundYouSeeTransactionHereWhenAvailable": "لم يتم العثور على معاملات!\n يمكنك رؤية المعاملات هنا عند توفرها.",
+    "noSaleFoundPleaseTryAddingSale": "لم يتم العثور على مبيعات!\n الرجاء محاولة إضافة عملية بيع.",
+    "noPurchaseFoundPleaseTryAddingPurchase": "لم يتم العثور على مشتريات!\n الرجاء محاولة إضافة عملية شراء.",
+    "noItemIncomeFound": "لم يتم العثور على دخل للعنصر!\n يمكنك رؤية بيانات الدخل عند توفرها.",
+    "noItemExpenseFound": "لم يتم العثور على مصروفات للعنصر!\n يمكنك رؤية بيانات المصروفات عند توفرها.",
+    "noItemDueInvoiceFound": "لم يتم العثور على فواتير مستحقة للعنصر!\n يمكنك رؤية الفواتير المستحقة عند توفرها.",
+    "noItemDueCollectionInvoiceFound": "لم يتم العثور على فواتير تحصيل مستحقة للعنصر!\n يمكنك رؤية فواتير تحصيل المستحقات عند توفرها.",
+    "doYouWantToDeleteThisTable": "هل تريد حذف هذه الطاولة؟",
+    "thisVatIsBeingUsedOnSales": "ضريبة القيمة المضافة هذه قيد الاستخدام في المبيعات!",
+    "noPaymentMethodFoundPleaseTryAddingAPaymentMethod": "لم يتم العثور على طريقة دفع!\nيُرجى محاولة إضافة طريقة دفع.",
+    "pleaseSelectACustomerFirst": "الرجاء تحديد عميل أولاً.",
+    "pleaseSelectATableToCreateAKot": "الرجاء تحديد طاولة لإنشاء طلب مطبخ.",
+    "noStaffFound": "لم يتم العثور على موظفين!\\n الرجاء محاولة إضافة موظف",
+    "noIngredientFound": "لم يتم العثور على مكونات!\\n الرجاء محاولة إضافة مكون.",
+    "exceedsPaymentAmount": "المبلغ المستلم يجب ألا يكون أكبر من المبلغ المستحق",
+    "noItemModifierFound": "لم يتم العثور على معدّل عنصر!\\n الرجاء محاولة إضافة معدّل عنصر.",
+    "noModifierGroupFound": "لم يتم العثور على مجموعة معدّلات!\\n الرجاء محاولة إضافة مجموعة معدّلات.",
+    "noOptionsFound": "لم يتم العثور على خيارات!",
+    "maxImageCountLimit": "يمكنك تحديد ما يصل إلى 5 صور فقط.",
+    "noQuotationFound": "لم يتم العثور على عروض أسعار!\\n الرجاء محاولة إضافة عرض سعر.",
+    "noPermittedUserFound": "لم يتم العثور على مستخدم مسموح به!\\nالرجاء محاولة إضافة مستخدم."
+  },
+  "prompt": {
+    "logout": {
+      "title": "@:common.logout",
+      "message": "هل أنت متأكد من تسجيل الخروج؟"
+    },
+    "unsavedWarning": {
+      "title": "هل تريد العودة؟",
+      "message": "قد لا يتم حفظ الحقول التي تم تغييرها!"
+    },
+    "verify": {
+      "title": "التحقق من بريدك الإلكتروني",
+      "description(rich)": "لقد أرسلنا رمز التحقق عبر البريد الإلكتروني${emailSpan}\n\nقد يكون البريد قد انتهى به المطاف في مجلد الرسائل غير المرغوب فيها."
+    },
+    "subscriptionExpired": {
+      "title": "انتهت صلاحية الاشتراك!",
+      "message": "يرجى الاشتراك للمتابعة.",
+      "action": "اشتراك"
+    },
+    "items": {
+      "delete": {
+        "title": "هل تريد حذف هذا العنصر؟"
+      },
+      "filter": {
+        "title": "تصفية حسب",
+        "extra": {
+          "lowToHigh": "من الأقل إلى الأعلى @:common.price",
+          "highToLow": "من الأعلى إلى الأقل @:common.price"
+        }
+      }
+    },
+    "checkInternet": {
+      "title": "لا يوجد اتصال بالإنترنت",
+      "message": "يرجى التحقق من اتصال شبكة الواي فاي أو الجوال والمحاولة مرة أخرى"
+    },
+    "back": {
+      "title": "اضغط مرة أخرى للخروج."
+    },
+    "stockModelSheet": {
+      "title": "إضافة مخزون جديد"
+    },
+    "paymentMethod": {
+      "title": "هل تريد حذف طريقة الدفع هذه؟"
+    },
+    "extMsg": {
+      "kotSavedSuccessfully": "تم حفظ طلب المطبخ بنجاح"
+    },
+    "deleteStaff": "هل تريد حذف هذا الموظف؟",
+    "deleteIngredient": "هل تريد حذف هذا المكون؟",
+    "deleteItemModifier": "هل تريد حذف معدّل العنصر هذا؟",
+    "deleteModifierGroup": "هل تريد حذف مجموعة المعدّلات هذه؟",
+    "deleteQuotation": "هل تريد حذف عرض السعر هذا؟"
+  },
+  "form": {
+    "fullName": {
+      "label": "@:common.fullName",
+      "hint": "أدخل @:common.fullName",
+      "errors": {
+        "required": "الرجاء إدخال @:common.fullName الخاص بك"
+      }
+    },
+    "email": {
+      "label": "@:common.email",
+      "hint": "أدخل @:common.email الخاص بك",
+      "errors": {
+        "required": "الرجاء إدخال عنوان @:common.email الخاص بك",
+        "invalid": "⦸ بريد إلكتروني غير صالح، يرجى المحاولة مرة أخرى"
+      }
+    },
+    "password": {
+      "label": "@:common.password",
+      "hint": "* * * * * * * *",
+      "errors": {
+        "required": "الرجاء إدخال @:common.password الخاصة بك",
+        "minLength": "يجب أن تكون كلمة المرور ${count} أحرف على الأقل!"
+      }
+    },
+    "confirmPassword": {
+      "label": "تأكيد كلمة المرور",
+      "hint": "* * * * * * * *",
+      "errors": {
+        "required": "الرجاء إدخال @:common.password الخاصة بك",
+        "invalid": "تأكيد كلمة المرور غير متطابق!"
+      }
+    },
+    "otp": {
+      "errors": {
+        "required": "الرجاء إدخال رمز التحقق.",
+        "invalid": "الرجاء إدخال رمز التحقق الحالي."
+      }
+    },
+    "profile": {
+      "businessCategory": {
+        "label": "فئة الأعمال",
+        "hint": "اختر فئة الأعمال",
+        "errors": {
+          "required": "الرجاء اختيار فئة الأعمال"
+        }
+      },
+      "shopOrStore": {
+        "label": "اسم المتجر/المحل*",
+        "hint": "أدخل اسم المتجر أو المحل",
+        "errors": {
+          "required": "الرجاء إدخال اسم المتجر أو المحل الخاص بك"
+        }
+      },
+      "openingBalance": {
+        "label": "الرصيد الافتتاحي",
+        "hint": "أدخل الرصيد الافتتاحي"
+      },
+      "vatGstTitle": {
+        "label": "عنوان ضريبة القيمة المضافة/ضريبة السلع والخدمات",
+        "hint": "أدخل ضريبة القيمة المضافة/ضريبة السلع والخدمات"
+      },
+      "vatGstNumber": {
+        "label": "رقم ضريبة القيمة المضافة/ضريبة السلع والخدمات",
+        "hint": "أدخل رقم ضريبة القيمة المضافة/ضريبة السلع والخدمات"
+      }
+    },
+    "vat": {
+      "name": {
+        "label": "الاسم",
+        "hint": "أدخل اسم ضريبة القيمة المضافة",
+        "error": {
+          "required": "الرجاء إدخال اسم ضريبة القيمة المضافة"
+        }
+      },
+      "subVat": {
+        "label": "ضريبة القيمة المضافة الفرعية",
+        "hint": "اختر ضريبة القيمة المضافة الفرعية",
+        "errors": {
+          "required": "الرجاء اختيار ضريبة قيمة مضافة فرعية"
+        }
+      },
+      "rate": {
+        "label": "معدل ضريبة القيمة المضافة %",
+        "hint": "أدخل نسبة ضريبة القيمة المضافة",
+        "errors": {
+          "required": "الرجاء إدخال نسبة ضريبة القيمة المضافة."
+        }
+      }
+    },
+    "category": {
+      "label": "@:common.category",
+      "hint": "اختر فئة العنصر",
+      "error": {
+        "required": "الرجاء إدخال اسم الفئة"
+      }
+    },
+    "items": {
+      "barcode": {
+        "label": "الباركود",
+        "hint": "@:common.selectOne"
+      },
+      "itemName": {
+        "label": "اسم العنصر",
+        "hint": "أدخل اسم العنصر",
+        "extra": {
+          "required": "الرجاء إدخال اسم العنصر"
+        }
+      },
+      "itemCategory": {
+        "label": "فئة العنصر",
+        "hint": "فئة العنصر",
+        "extra": {
+          "label": "اختر الفئة",
+          "required": "الرجاء اختيار فئة"
+        }
+      },
+      "brand": {
+        "label": "@:common.brand",
+        "hint": "@:common.selectOne",
+        "extra": {
+          "hint": "أدخل اسم العلامة التجارية",
+          "required": "الرجاء إدخال اسم العلامة التجارية"
+        }
+      },
+      "unit": {
+        "label": "@:common.unit",
+        "hint": "@:common.selectOne",
+        "error": {
+          "required": "الرجاء إدخال اسم الوحدة"
+        }
+      },
+      "stock": {
+        "label": "المخزون الافتتاحي",
+        "hint": "@:common.commonHint",
+        "extra": {
+          "required": "الرجاء إدخال جودة العنصر."
+        }
+      },
+      "lowStock": {
+        "label": "@:common.lowStock",
+        "hint": "مثال: ٥"
+      },
+      "purchasePrice": {
+        "label": "@:common.purchasePrice",
+        "hint": "مثال: \\$٤٠",
+        "error": {
+          "required": "الرجاء إدخال سعر الشراء."
+        }
+      },
+      "salePrice": {
+        "label": "سعر البيع",
+        "hint": "مثال: \\$٦٠",
+        "error": {
+          "required": "الرجاء إدخال سعر البيع."
+        }
+      },
+      "totalSalePrice": {
+        "label": "إجمالي سعر البيع",
+        "hint": "مثال: \\$١٠٠"
+      },
+      "wholeSalePrice": {
+        "label": "@:common.wholeSalePrice",
+        "hint": "أدخل سعر الجملة"
+      },
+      "dealerPrice": {
+        "label": "@:common.dealerPrice",
+        "hint": "أدخل سعر الموزع"
+      },
+      "discount": {
+        "label": "الخصم (%)",
+        "hint": "@:common.commonHint"
+      },
+      "applicableTax": {
+        "label": "الضريبة المطبقة",
+        "hint": "@:common.selectOne"
+      },
+      "vatType": {
+        "label": "@:common.taxType",
+        "errorText": {
+          "required": "الرجاء اختيار نوع ضريبة القيمة المضافة"
+        }
+      },
+      "menu": {
+        "label": "اختر قائمة",
+        "errors": {
+          "required": "الرجاء تحديد قائمة."
+        },
+        "hint": "حدد قائمة",
+        "extra": {
+          "selectNavLabel": "حدد قائمة العناصر"
+        }
+      },
+      "modifierItems": {
+        "label": "عناصر التعديل",
+        "hint": "حدد عناصر التعديل"
+      },
+      "preparationTime": {
+        "label(rich)": "وقت التحضير ${minutes(دقيقة)}",
+        "hint": "مثال: ٣٠"
+      },
+      "variation": {
+        "name": {
+          "label": "الاسم",
+          "hint": "أدخل التنوع",
+          "errors": {
+            "required": "الرجاء إدخال اسم التنوع."
+          }
+        },
+        "price": {
+          "errors": {
+            "required": "الرجاء إدخال السعر."
+          },
+          "label": "السعر",
+          "hint": "مثال: \\$٣٠"
+        }
+      }
+    },
+    "itemCart": {
+      "hint": "@:common.commonHint",
+      "error": {
+        "required": "@:common.pleaseEnterQuantity",
+        "noZero": "@:common.quantityMustBeGreaterThanZero"
+      }
+    },
+    "sales": {
+      "autoGenerateInvoice": {
+        "label": "رقم الفاتورة",
+        "hint": "P-٠٠٠٠١"
+      },
+      "date": {
+        "label": "التاريخ"
+      },
+      "customer": {
+        "label": "العميل",
+        "hint": "حدد العميل"
+      },
+      "phone": {
+        "label": "رقم الهاتف",
+        "hint": "أدخل رقم الهاتف"
+      },
+      "address": {
+        "label": "العنوان",
+        "hint": "أدخل العنوان"
+      },
+      "deliveryCharge": {
+        "label": "@:common.deliveryCharge",
+        "hint": "مثال: \\$٢٠",
+        "hint2": "رسوم مثال: \\$١٠"
+      },
+      "table": {
+        "hint": "حدد طاولة"
+      },
+      "waiter": {
+        "hint": "حدد النادل"
+      }
+    },
+    "bill": {
+      "label": "رقم الفاتورة",
+      "hint": "P-٠٠٠٠١"
+    },
+    "supplier": {
+      "label": "المورد",
+      "hint": "اختر المورد",
+      "extra": {
+        "required": "الرجاء اختيار مورد"
+      }
+    },
+    "phone": {
+      "label": "رقم الهاتف",
+      "hint": "أدخل رقم الهاتف",
+      "errors": {
+        "required": "الرجاء إدخال رقم الهاتف."
+      }
+    },
+    "address": {
+      "label": "عنوان",
+      "hint": "أدخل العنوان"
+    },
+    "payment": {
+      "label": "الاسم",
+      "hint": "أدخل اسم الدفع",
+      "error": {
+        "required": "الرجاء إدخال اسم طريقة الدفع"
+      }
+    },
+    "expense": {
+      "label": "فئة المصروفات",
+      "hint": "اختر فئة المصروفات",
+      "error": {
+        "required": "الرجاء إدخال فئة المصروفات"
+      }
+    },
+    "income": {
+      "label": "فئة الدخل",
+      "hint": "أدخل اسم الفئة",
+      "error": {
+        "required": "الرجاء إدخال اسم الفئة"
+      },
+      "incomeTitle": {
+        "label": "عنوان الدخل",
+        "hint": "أدخل الدخل"
+      },
+      "incomeCategory": {
+        "label": "فئة الدخل",
+        "hint": "اختر الفئة"
+      },
+      "payment": {
+        "label": "الدفع",
+        "hint": "مثال: \\$١٠"
+      }
+    },
+    "note": {
+      "label": "ملاحظة (اختياري)",
+      "hint": "أدخل النص"
+    },
+    "parties": {
+      "partyName": {
+        "label": "اسم الطرف",
+        "hint": "أدخل اسم الطرف",
+        "error": {
+          "required": "الرجاء إدخال اسم الطرف"
+        }
+      },
+      "partyPhone": {
+        "label": "رقم الهاتف",
+        "hint": "أدخل رقم الهاتف",
+        "error": {
+          "required": "الرجاء إدخال رقم الهاتف"
+        }
+      }
+    },
+    "table": {
+      "name": {
+        "label": "اسم الطاولة",
+        "hint": "أدخل اسم الطاولة",
+        "error": {
+          "required": "الرجاء إدخال اسم الطاولة"
+        }
+      },
+      "capacity": {
+        "label": "السعة",
+        "hint": "أدخل السعة",
+        "error": {
+          "required": "الرجاء إدخال السعة"
+        }
+      }
+    },
+    "designation": {
+      "label": "@:common.designation",
+      "hint": "حدد لقب",
+      "errors": {
+        "required": "الرجاء تحديد لقب."
+      }
+    },
+    "ingredientName": {
+      "label": "اسم المكون",
+      "hint": "أدخل اسم المكون",
+      "errors": {
+        "required": "الرجاء إدخال اسم المكون"
+      }
+    },
+    "item": {
+      "label": "العنصر",
+      "hint": "حدد العنصر",
+      "errors": {
+        "required": "الرجاء تحديد عنصر."
+      }
+    },
+    "modifierGroup": {
+      "label": "مجموعة المعدّلات",
+      "hint": "حدد مجموعة معدّلات",
+      "errors": {
+        "required": "الرجاء تحديد مجموعة معدّلات."
+      }
+    },
+    "description": {
+      "label": "الوصف",
+      "hint": "أدخل الوصف"
+    },
+    "staff": {
+      "label": "@:common.staff",
+      "hint": "اختر موظفاً",
+      "errors": {
+        "required": "الرجاء اختيار موظف"
+      }
+    },
+    "loginUserName": {
+      "label": "اسم مستخدم تسجيل الدخول",
+      "hint": "أدخل اسم المستخدم أو عنوان البريد الإلكتروني",
+      "errors": {
+        "required": "الرجاء إدخال اسم المستخدم أو عنوان البريد الإلكتروني"
+      }
+    }
+  },
+  "action": {
+    "next": "التالي",
+    "getStarted": "ابدأ الآن",
+    "skip": "تخطي",
+    "select": "اختيار",
+    "save": "حفظ",
+    "verify": "تحقق",
+    "signIn": "@:common.signIn",
+    "signUp": "@:common.signUp",
+    "continue": "استمرار",
+    "no": "لا",
+    "yes": "نعم",
+    "okay": "حسنًا",
+    "cancel": "إلغاء",
+    "confirm": "تأكيد",
+    "tryAgain": "حاول مرة أخرى",
+    "reset": "إعادة تعيين",
+    "apply": "تطبيق",
+    "stockAdjust": "تعديل المخزون",
+    "addMoreItems": "إضافة المزيد من العناصر",
+    "hold": "تعليق",
+    "parcel": "@:common.parcel",
+    "buyNow": "اشترِ الآن",
+    "viewAll": "عرض الكل",
+    "viewLedger": "عرض دفتر الحسابات",
+    "submit": "إرسال",
+    "selected": "محدد",
+    "addToCart": "أضف إلى السلة",
+    "selectAll": "تحديد الكل",
+    "update": "@:common.update",
+    "addRole": "إضافة دور"
+  },
+  "pages": {
+    "language": {
+      "appbarTitle": "@:action.select @:common.language"
+    },
+    "onboard": {
+      "onboardData": {
+        "data1": {
+          "title": "سهل الاستخدام @:common.appName",
+          "description": "طلبات سلسة، حجوزات بلا جهد\\nعزّز مطعمك بسهولة!"
+        },
+        "data2": {
+          "title": "إدارة طلبات بدون جهد",
+          "description": "تبسيط عملية استلام الطلبات في مطعمك مع نظام نقاط البيع البديهي لدينا."
+        },
+        "data3": {
+          "title": "تحليلات وتقارير ممتازة",
+          "description": "توفر لوحة التحليلات لدينا تقارير مبيعات ومشتريات في الوقت الفعلي"
+        }
+      }
+    },
+    "signIn": {
+      "title": "مرحبًا بعودتك",
+      "subtitle": "الرجاء إدخال بياناتك.",
+      "extra": {
+        "rememberMe": "تذكرني",
+        "signUpNavigator(rich)": "ليس لديك حساب؟ ${getStarted(@:action.getStarted)}",
+        "forgotPassword": "@:common.forgotPassword؟"
+      }
+    },
+    "signUp": {
+      "title": "إنشاء حساب",
+      "subtitle": "الرجاء إدخال بياناتك",
+      "extra": {
+        "signInNavigator(rich)": "لديك حساب بالفعل؟ ${signIn(@:action.signIn)}"
+      }
+    },
+    "forgotPassword": {
+      "title": "@:common.forgotPassword",
+      "subtitle": "أدخل عنوان بريدك الإلكتروني لاستعادة كلمة المرور الخاصة بك."
+    },
+    "otpVerification": {
+      "title": "التحقق",
+      "subtitle": "تم إرسال رمز مكون من 6 أرقام إلى عنوان بريدك الإلكتروني",
+      "extra": {
+        "codeResend": {
+          "codeSendIn": "تم إرسال الرمز في",
+          "resendCode": "إعادة إرسال الرمز"
+        }
+      }
+    },
+    "resetPassword": {
+      "title": "إعادة تعيين كلمة المرور",
+      "subtitle": "أعد تعيين كلمة المرور الخاصة بك للاستعادة وتسجيل الدخول إلى حسابك",
+      "extra": {
+        "dialog": {
+          "title": "تم التغيير بنجاح!",
+          "subtitle": "قم بتسجيل الدخول باستخدام كلمة المرور الجديدة.\n جاري إعادة توجيهك إلى تسجيل الدخول..."
+        }
+      }
+    },
+    "items": {
+      "itemList": {
+        "extra": {
+          "emptyItem": "لم يتم العثور على عنصر!\n الرجاء محاولة إضافة عنصر."
+        }
+      },
+      "manageItems": {
+        "title": "إضافة عنصر جديد",
+        "title2": "تعديل العنصر",
+        "extra": {
+          "maximum": "الحد الأقصى 5",
+          "wholeSaleAndDealerPrice": "سعر الجملة وسعر الموزع",
+          "addDiscount": "إضافة خصم",
+          "addVat": "إضافة ضريبة القيمة المضافة"
+        }
+      },
+      "itemDetails": {
+        "title": "تفاصيل العنصر",
+        "extra": {
+          "noImageAvailable": "لا توجد صورة متاحة!",
+          "preparationTime(rich)": "وقت التحضير: ${min: String} ${mins(mins)}",
+          "pleaseSelectVariation": "الرجاء اختيار نوع",
+          "pleaseSelectOption": "الرجاء اختيار خيار.",
+          "enterYourInstruction": "أدخل تعليماتك"
+        }
+      }
+    },
+    "category": {
+      "addNewCategory": "إضافة فئة جديدة",
+      "editCategory": "تعديل الفئة"
+    },
+    "brand": {
+      "addNewBrand": "إضافة علامة تجارية جديدة",
+      "editBrand": "تعديل العلامة التجارية"
+    },
+    "unit": {
+      "addNewUnit": "إضافة وحدة جديدة",
+      "editUnit": "تعديل الوحدة"
+    },
+    "stock": {
+      "stockList": "قائمة المخزون"
+    },
+    "aboutUs": {
+      "title": "من نحن"
+    },
+    "privacyPolicy": {
+      "title": "سياسة الخصوصية"
+    },
+    "termAndCondition": {
+      "title": "@:common.termAndCondition"
+    },
+    "orders": {
+      "manageOrders": {
+        "extra": {
+          "billItems": "عناصر الفاتورة",
+          "manageQuantity": "إدارة الكمية"
+        },
+        "title": {
+          "editOrder": "تعديل الطلب",
+          "editKOT": "تعديل طلب المطبخ"
+        }
+      }
+    },
+    "onlinePayment": {
+      "title": "الدفع عبر الإنترنت"
+    },
+    "paymentStatus": {
+      "success": {
+        "title": "شكرًا لك!",
+        "message": "سنراجع الدفعة ونوافق عليها خلال 24 ساعة.",
+        "actionButtonText": "عرض الفاتورة"
+      },
+      "fail": {
+        "title": "عفوًا! فشل الدفع",
+        "message": "فشلت معاملتك بسبب خطأ تقني.",
+        "actionButtonText": "حاول مرة أخرى"
+      }
+    },
+    "confirmationDialog": {
+      "title": "تسجيل الخروج",
+      "message": "هل أنت متأكد من تسجيل الخروج؟",
+      "acceptationText": "لا",
+      "rejectionText": "تسجيل الخروج"
+    },
+    "payment": {
+      "title": "@:common.paymentMethod",
+      "addPaymentMethod": "إضافة طريقة دفع جديدة",
+      "editPaymentMethod": "تعديل طريقة الدفع",
+      "choseOnlinePayment": "اختر الدفع عبر الإنترنت",
+      "selectPaymentMethod": "اختر طريقة الدفع",
+      "pleaseSelectAPaymentMethod": "الرجاء اختيار طريقة دفع.",
+      "methodStatus": {
+        "title": "الحالة",
+        "message": "لا يمكن أن تكون الحالة غير نشطة إذا كانت النظرة السريعة مفعلة!."
+      }
+    },
+    "subscriptionPlan": {
+      "title": "شراء الخطة المميزة",
+      "extra": {
+        "actionButtonText": "العودة",
+        "message": "تم دفع الاشتراك بنجاح.\n\nيمكنك الوصول إلى الميزات المشترك بها الآن.",
+        "mostPopular": "الأكثر شعبية"
+      }
+    },
+    "invoicePreview": {
+      "title": "معاينة الفاتورة",
+      "message": "معاينة PDF قادمة قريبًا"
+    },
+    "currency": {
+      "title": "@:common.currency"
+    },
+    "dashboard": {
+      "overview": "نظرة عامة",
+      "dashboardPrivacy": "خصوصية لوحة التحكم",
+      "moneyInAndMoneyOut": "الأموال الواردة والصادرة",
+      "lossAndProfitOverView": "نظرة عامة على الربح والخسارة"
+    },
+    "due": {
+      "title": "@:common.dueList",
+      "collectionList": "قائمة التحصيل",
+      "dueCollection": "تحصيل المستحقات"
+    },
+    "expense": {
+      "title": "@:common.expense",
+      "editExpense": "تعديل المصروف",
+      "addNewExpense": "إضافة مصروف جديد",
+      "editExpenseCategory": "تعديل فئة المصروف",
+      "addNewExpenseCategory": "إضافة فئة مصروف جديدة",
+      "payment": "الدفع",
+      "expenseCategory": "فئة المصروف",
+      "selectCategory": "اختر الفئة",
+      "allExpense": "جميع المصروفات",
+      "pleaseSelectACategory": "الرجاء اختيار فئة",
+      "expenseTitle": {
+        "label": "عنوان المصروف",
+        "hint": "أدخل المصروف"
+      }
+    },
+    "lossProfit": {
+      "title": "قائمة الخسارة/الربح",
+      "noLossProfitFound": "لم يتم العثور على خسارة/ربح!\nالرجاء محاولة إنشاء بعض المبيعات."
+    },
+    "income": {
+      "editIncomeCategory": "تعديل فئة الدخل",
+      "addNewIncomeCategory": "إضافة فئة دخل جديدة",
+      "incomeCategory": "فئة الدخل",
+      "allIncome": "جميع الدخل",
+      "editIncome": "تعديل الدخل",
+      "addNewIncome": "تعديل الدخل",
+      "addIncome": "إضافة دخل"
+    },
+    "moneyIn": {
+      "title": "قائمة الأموال الواردة",
+      "totalPaymentIn": "إجمالي الأموال الواردة"
+    },
+    "moneyOut": {
+      "title": "قائمة الأموال الصادرة",
+      "totalMoneyOut": "إجمالي الأموال الصادرة"
+    },
+    "profile": {
+      "title": "ملفي الشخصي",
+      "editProfile": "تعديل الملف الشخصي",
+      "businessInformation": "معلومات العمل",
+      "profileInformation": "معلومات الملف الشخصي"
+    },
+    "parties": {
+      "title": "قائمة الأطراف",
+      "allParties": "جميع الأطراف",
+      "customer": "العميل",
+      "supplier": "المورد",
+      "addParties": "إضافة أطراف",
+      "editParties": "تعديل الأطراف",
+      "partiesDetails": "تفاصيل الأطراف",
+      "personalInfo": "المعلومات الشخصية"
+    },
+    "ledger": {
+      "subTitle": "دفتر الحسابات"
+    },
+    "purchase": {
+      "title": "إضافة عملية شراء جديدة",
+      "editPurchase": "تعديل عملية الشراء"
+    },
+    "reports": {
+      "title": "التقارير"
+    },
+    "table": {
+      "title": "إضافة طاولة جديدة",
+      "editTable": "تعديل الطاولة"
+    },
+    "tax": {
+      "title": "معدلات ضريبة القيمة المضافة",
+      "buildHeaderTitle": "معدلات ضريبة القيمة المضافة - إدارة معدلات ضريبة القيمة المضافة الخاصة بك",
+      "vatGroup": {
+        "title": "مجموعة ضريبة القيمة المضافة",
+        "subTitle": "مجموعة ضريبة القيمة المضافة - إدارة مجموعة ضريبة القيمة المضافة الخاصة بك"
+      }
+    },
+    "vat": {
+      "addNewVat": "إضافة ضريبة قيمة مضافة جديدة",
+      "editVat": "تعديل ضريبة القيمة المضافة",
+      "addNewVatGroup": "إضافة مجموعة ضريبة قيمة مضافة جديدة",
+      "editVatGroup": "تعديل مجموعة ضريبة القيمة المضافة"
+    },
+    "orderList": {
+      "title": "قائمة الطلبات",
+      "filters": {
+        "orderType": {
+          "label": "@:common.orderType",
+          "hint": "اختر نوع الطلب"
+        },
+        "paymentStatus": {
+          "hint": "اختر حالة الدفع",
+          "label": "حالة الدفع"
+        }
+      }
+    },
+    "staffs": {
+      "staffList": {
+        "filters": {
+          "designation": {
+            "label": "اللقب",
+            "hint": "حدد اللقب"
+          }
+        },
+        "title": "جميع الموظفين"
+      },
+      "manageStaff": {
+        "title1": "إضافة موظف جديد",
+        "title2": "تحديث الموظف"
+      }
+    },
+    "ingredient": {
+      "ingredientList": {
+        "title1": "قائمة المكونات",
+        "title2": "حدد المكون"
+      },
+      "manageIngredient": {
+        "title1": "إضافة مكون جديد",
+        "title2": "تعديل المكون"
+      }
+    },
+    "itemModifier": {
+      "itemModifierList": {
+        "title": "@:common.itemModifiers"
+      },
+      "manageItemModifier": {
+        "title1": "إضافة معدّلات العناصر",
+        "title2": "تعديل معدّلات العناصر"
+      }
+    },
+    "quotation": {
+      "manageQuotation": {
+        "title": {
+          "add": "إضافة عرض سعر جديد",
+          "edit": "تعديل عرض سعر",
+          "convert": "تحويل إلى بيع"
+        }
+      }
+    },
+    "rolePermission": {
+      "rolePermissionList": {
+        "title": "قائمة الأدوار والصلاحيات"
+      },
+      "manageRolePermission": {
+        "title1": "إضافة دور جديد",
+        "title2": "تعديل الدور"
+      }
+    },
+    "printingOption": {
+      "title": "خيار الطباعة",
+      "form": {
+        "companyAddress": {
+          "label": "عنوان الشركة",
+          "hint": "أدخل عنوان الشركة"
+        },
+        "noteLabel": {
+          "label": "تسمية الملاحظة",
+          "hint": "أدخل تسمية الملاحظة."
+        },
+        "note": {
+          "label": "ملاحظة",
+          "hint": "أدخل ملاحظة."
+        },
+        "postSaleMessage": {
+          "label": "رسالة ما بعد البيع",
+          "hint": "أدخل رسالة ما بعد البيع"
+        },
+        "printingMethod": {
+          "label": "طريقة الطباعة",
+          "hint": "اختر طريقة الطباعة"
+        },
+        "printerProfile": {
+          "label": "ملف الطابعة",
+          "hint": "اختر ملف الطابعة"
+        },
+        "paperSize": {
+          "label": "حجم ورق الطابعة الحرارية",
+          "hint": "اختر حجم ورق الطابعة"
+        },
+        "printerDpi": {
+          "label": "دقة الطابعة",
+          "hint": "مثال: ٢٠٣"
+        },
+        "printingMargin": {
+          "label": "هامش الطباعة",
+          "hint": "مثال: ٢"
+        }
+      },
+      "tooltip": {
+        "printingMethod": {
+          "title": "قائمة منسدلة مع خيارات:",
+          "default": "• الافتراضي (الطريقة الأصلية لطباعة أحرف معيار الاتحاد الأوروبي)",
+          "image": "• صورة (موصى بها لطباعة أحرف يونيكود)"
+        }
+      },
+      "action": {
+        "save": "حفظ"
+      }
+    },
+    "kitchen": {
+      "list": {
+        "noKitchensFound": "لم يتم العثور على مطابخ.\n يرجى إضافة واحدة."
+      },
+      "manage": {
+        "addKitchen": "إضافة مطبخ",
+        "editKitchen": "تعديل مطبخ",
+        "kitchenName": {
+          "label": "اسم المطبخ",
+          "hint": "أدخل اسم المطبخ",
+          "error": "يرجى إدخال اسم المطبخ."
+        },
+        "description": {
+          "label": "الوصف",
+          "hint": "أدخل الوصف"
+        }
+      },
+      "manageItems": {
+        "title": "إدارة العناصر",
+        "addedItems": "العناصر المضافة",
+        "selectItemsError": "يرجى اختيار العناصر.",
+        "noItemsAdded": "لم تتم إضافة عناصر بعد!\nيرجى إضافة عناصر."
+      },
+      "card": {
+        "itemName": "اسم العنصر",
+        "manageItems": "+ إدارة العناصر",
+        "deleteItemConfirm": "هل تريد حذف هذا العنصر؟",
+        "deleteKitchenConfirm": "هل تريد حذف هذا المطبخ؟"
+      }
+    }
+  },
+  "enums": {
+    "dropdownDateFilter": {
+      "daily": "يومي",
+      "weekly": "أسبوعي",
+      "monthly": "شهري",
+      "yearly": "سنوي",
+      "custom": "مخصص"
+    },
+    "orderTypes": {
+      "dineIn": "تناول الطعام في المطعم",
+      "pickUp": "استلام",
+      "delivery": "توصيل",
+      "reservation": "حجز",
+      "quotation": "عرض أسعار"
+    },
+    "paymentStatus": {
+      "paid": "مدفوع",
+      "unpaid": "غير مدفوع"
+    },
+    "staffTypes": {
+      "manager": "مدير",
+      "waiter": "نادل",
+      "chef": "طاهي",
+      "cleaner": "عامل نظافة",
+      "driver": "سائق",
+      "deliveryBoy": "عامل توصيل"
+    },
+    "itemFoodTypes": {
+      "veg": "نباتي",
+      "nonVeg": "غير نباتي",
+      "egg": "بيض",
+      "drink": "مشروب",
+      "others": "أخرى"
+    },
+    "itemTypes": {
+      "single": "فردي",
+      "variation": "تنوع"
+    },
+    "quotationStatus": {
+      "open": "مفتوح",
+      "closed": "مغلق"
+    },
+    "tableStatus": {
+      "running": "مشغولة",
+      "available": "متاحة"
+    },
+    "thermalPrinterPrintingMethod": {
+      "image": "صورة",
+      "default": "افتراضي"
+    },
+    "kotOrderStatus": {
+      "label": {
+        "pending": "قيد الانتظار",
+        "preparing": "قيد التحضير",
+        "ready": "الطعام جاهز",
+        "served": "تم تقديم الطعام",
+        "cancelled": "ملغي"
+      },
+      "pending": "قيد الانتظار",
+      "preparing": "قيد التحضير",
+      "ready": "الطعام جاهز",
+      "served": "تم تقديم الطعام",
+      "cancelled": "ملغي"
+    },
+    "kotItemStatus": {
+      "pending": "بدء الطهي",
+      "start": "تحديد كجاهز",
+      "ready": "جاهز"
+    }
+  },
+  "thermalPrint": {
+    "invoice": {
+      "purchaseInvoiceLabel": "فاتورة الشراء: ${invoiceNumber: String}",
+      "saleInvoiceLabel": "رقم الطلب: ${invoiceNumber: String}",
+      "receiptNoLabel": "رقم الإيصال: ${invoiceNumber: String}",
+      "orderNoKotLabel": "رقم الطلب: ${invoiceNumber: String}",
+      "nameLabel": "الاسم: ${name: String}",
+      "mobileLabel": "الهاتف: ${phone: String}",
+      "purchasedByLabel": "تم الشراء بواسطة: ${role: String}",
+      "salesByLabel": "تم البيع بواسطة: ${role: String}",
+      "paidByLabel": "${label: String}: ${role: String}",
+      "paidToReceivedFromLabel": "${label: String}: ${name: String}",
+      "orderTypeLabel": "نوع الطلب: ${orderType: String}",
+      "tableLabel": "الطاولة: ${tableName: String}",
+      "tableNoLabel": "رقم الطاولة: ${tableName: String}",
+      "dateLabel": "التاريخ: ${dateTime: String}",
+      "invoiceFlag": "فاتورة",
+      "receiptFlag": "إيصال",
+      "paidBy": "دفع بواسطة",
+      "receivedBy": "استلم بواسطة",
+      "paidTo": "دفع إلى",
+      "receivedFrom": "استلم من",
+      "seller": "البائع: ${name: String}",
+      "address": "العنوان: ${addr: String}",
+      "vatNo": "رقم ضريبة القيمة المضافة",
+      "tel": "الهاتف: ${phoneNumber: String}",
+      "timeLabel": "الوقت: ${dateTime: String}"
+    },
+    "tableHeaders": {
+      "sl": "رقم تسلسلي",
+      "item": "العنصر",
+      "cost": "التكلفة",
+      "qty": "الكمية",
+      "uPrice": "السعر الفردي",
+      "amount": "المبلغ",
+      "total": "الإجمالي",
+      "invoiceTable": "فاتورة",
+      "dueTable": "مستحق"
+    },
+    "summary": {
+      "subTotal": "المجموع الفرعي:",
+      "discount": "الخصم: ${percentFmt: String}%",
+      "vat": "${vatName: String}: ${rateFmt: String}%",
+      "tip": "البقشيش:",
+      "deliveryCharge": "رسوم التوصيل:",
+      "totalPayable": "إجمالي المستحق:",
+      "paidAmount": "المبلغ المدفوع:",
+      "dueAmount": "المبلغ المستحق:",
+      "paymentType": "نوع الدفع: ${method: String}",
+      "remainingDue": "المتبقي المستحق:",
+      "paymentAmount": "مبلغ الدفع:",
+      "itemsCount": "العناصر: ${count: int}",
+      "qtyTotal": "الكمية: ${totalQty: int}"
+    },
+    "footer": {
+      "note": "${noteLabel: String}: ${note: String}",
+      "developedBy": "${developByLabel: String} ${developBy: String}"
+    }
+  },
+  "hrm": {
+    "department": "القسم",
+    "designation": "المسمى الوظيفي",
+    "shift": "وردية",
+    "employee": "موظف",
+    "leave": "إجازة",
+    "leaveType": "نوع الإجازة",
+    "leaveRequest": "طلب إجازة",
+    "holiday": "عطلة",
+    "attendance": "حضور",
+    "payroll": "كشوف المرتبات",
+    "pageTitles": {
+      "department": "القسم",
+      "designation": "المسمى الوظيفي",
+      "shift": "وردية",
+      "employee": "موظف",
+      "leave": "إجازة",
+      "leaveType": "نوع الإجازة",
+      "holiday": "عطلة",
+      "attendance": "حضور",
+      "payroll": "كشوف المرتبات",
+      "leaveReports": "تقارير الإجازات",
+      "payrollReports": "تقارير الرواتب",
+      "attendanceReports": "تقارير الحضور",
+      "addDepartment": "إضافة قسم",
+      "editDepartment": "تعديل قسم",
+      "addDesignation": "إضافة مسمى وظيفي",
+      "editDesignation": "تعديل مسمى وظيفي",
+      "addShift": "إضافة وردية",
+      "editShift": "تعديل الوردية",
+      "addEmployee": "إضافة موظف",
+      "editEmployee": "تعديل موظف",
+      "addLeave": "إضافة إجازة",
+      "editLeave": "تعديل إجازة",
+      "addLeaveType": "إضافة نوع إجازة",
+      "editLeaveType": "تعديل نوع إجازة",
+      "addHoliday": "إضافة عطلة",
+      "editHoliday": "تعديل عطلة",
+      "addAttendance": "إضافة حضور",
+      "editAttendance": "تعديل حضور",
+      "addPayroll": "إضافة راتب",
+      "editPayroll": "تعديل راتب"
+    },
+    "form": {
+      "labels": {
+        "department": "القسم",
+        "designation": "المسمى الوظيفي",
+        "shift": "الوردية",
+        "employee": "موظف",
+        "leaveType": "نوع الإجازة",
+        "leaveDuration": "مدة الإجازة",
+        "paymentYear": "سنة الدفع",
+        "paymentType": "طريقة الدفع",
+        "breakStatus": "حالة الاستراحة",
+        "startTime": "وقت البدء",
+        "endTime": "وقت الانتهاء",
+        "startBreakTime": "بداية الاستراحة",
+        "endBreakTime": "نهاية الاستراحة",
+        "breakTime": "وقت الاستراحة",
+        "breakDuration": "مدة الاستراحة",
+        "timeIn": "وقت الدخول",
+        "timeOut": "وقت الخروج",
+        "duration": "المدة",
+        "country": "الدولة",
+        "salary": "راتب",
+        "gender": "جنس",
+        "birthDate": "تاريخ الميلاد",
+        "joinDate": "تاريخ الانضمام",
+        "holidayName": "اسم العطلة",
+        "startDate": "تاريخ البدء",
+        "endDate": "تاريخ الانتهاء",
+        "month": "شهر",
+        "year": "سنة",
+        "status": "الحالة",
+        "description": "الوصف",
+        "amount": "المبلغ",
+        "payment": "الدفع",
+        "departmentName": "اسم القسم",
+        "designationName": "اسم المسمى الوظيفي",
+        "image": "صورة",
+        "name": "اسم"
+      },
+      "hints": {
+        "selectEmployee": "اختر موظف",
+        "selectDepartment": "اختر قسم",
+        "selectDesignation": "اختر مسمى وظيفي",
+        "selectShift": "اختر وردية",
+        "selectLeaveType": "اختر نوع إجازة",
+        "selectMonth": "اختر شهر",
+        "selectYear": "اختر سنة",
+        "selectDate": "اختر تاريخ",
+        "selectStartDate": "اختر تاريخ البدء",
+        "selectEndDate": "اختر تاريخ الانتهاء",
+        "selectTimeIn": "اختر وقت الدخول",
+        "selectTimeOut": "اختر وقت الخروج",
+        "selectStartTime": "اختر وقت البدء",
+        "selectEndTime": "اختر وقت الانتهاء",
+        "selectStatus": "اختر حالة",
+        "selectGender": "اختر الجنس",
+        "selectPaymentType": "اختر طريقة الدفع",
+        "enterFullName": "أدخل الاسم الكامل",
+        "enterEmail": "أدخل بريدك الإلكتروني",
+        "enterPhone": "أدخل هاتفك",
+        "enterCountry": "أدخل بلدك",
+        "enterSalary": "مثال: 500",
+        "enterHolidayName": "أدخل اسم العطلة",
+        "enterDescription": "أدخل الوصف...",
+        "autoCalculated": "محسوب تلقائيا",
+        "selectDatesFirst": "اختر التواريخ أولاً",
+        "allEmployee": "كل الموظفين",
+        "selectEmployeeFirst": "اختر الموظف أولاً",
+        "enterDepartmentName": "أدخل اسم القسم",
+        "enterDesignationName": "أدخل اسم المسمى الوظيفي",
+        "ex": "{value}",
+        "selectBirthDate": "اختر تاريخ الميلاد",
+        "selectJoinDate": "اختر تاريخ الانضمام",
+        "selectBreakStatus": "اختر حالة الاستراحة",
+        "enterLeaveTypeName": "أدخل اسم نوع الإجازة"
+      }
+    },
+    "emptyStates": {
+      "noLeaves": "لا توجد إجازات",
+      "noPayrollRecords": "لا توجد سجلات رواتب",
+      "noAttendanceRecords": "لا توجد سجلات حضور",
+      "noLeaveTypes": "لم يتم العثور على أنواع إجازات",
+      "noEmployees": "لا يوجد موظفين",
+      "noHolidays": "لا توجد عطلات",
+      "noShifts": "لم يتم العثور على ورديات",
+      "noDesignations": "لا توجد مسميات وظيفية",
+      "noDepartments": "لا توجد أقسام"
+    },
+    "confirmations": {
+      "deleteAttendance": "هل تريد حذف هذا الحضور؟",
+      "deletePayroll": "هل تريد حذف هذا الراتب؟",
+      "deleteLeave": "هل تريد حذف هذه الإجازة؟",
+      "deleteLeaveType": "هل تريد حذف نوع الإجازة هذا؟",
+      "deleteEmployee": "هل تريد حذف هذا الموظف؟",
+      "deleteHoliday": "هل تريد حذف هذه العطلة؟",
+      "deleteShift": "هل تريد حذف هذه الوردية؟",
+      "deleteDesignation": "هل تريد حذف هذا المسمى الوظيفي؟",
+      "deleteDepartment": "هل تريد حذف هذا القسم؟"
+    },
+    "validation": {
+      "selectEmployee": "يرجى اختيار موظف",
+      "selectMonth": "يرجى اختيار شهر",
+      "selectEndDate": "يرجى اختيار تاريخ الانتهاء",
+      "endDateAfterStart": "تاريخ الانتهاء يجب أن يكون بعد تاريخ البدء",
+      "selectStatus": "يرجى تحديد الحالة",
+      "selectLeaveType": "يرجى اختيار نوع إجازة",
+      "selectStartDate": "يرجى اختيار تاريخ البدء",
+      "selectDate": "يرجى اختيار تاريخ",
+      "selectTimeIn": "يرجى تحديد وقت الدخول",
+      "selectTimeOut": "يرجى تحديد وقت الخروج",
+      "enterDepartmentName": "يرجى إدخال اسم القسم",
+      "enterDesignationName": "يرجى إدخال اسم المسمى الوظيفي",
+      "enterName": "يرجى إدخال الاسم",
+      "selectDesignation": "يرجى اختيار مسمى وظيفي",
+      "selectDepartment": "يرجى اختيار قسم",
+      "enterEmail": "يرجى إدخال البريد الإلكتروني",
+      "enterValidEmail": "يرجى إدخال بريد إلكتروني صحيح",
+      "enterPhoneNumber": "يرجى إدخال رقم الهاتف",
+      "enterCountry": "يرجى إدخال الدولة",
+      "enterSalary": "يرجى إدخال الراتب",
+      "selectGender": "يرجى اختيار الجنس",
+      "selectShift": "يرجى اختيار وردية",
+      "selectBirthDate": "يرجى اختيار تاريخ الميلاد",
+      "selectJoinDate": "يرجى اختيار تاريخ الانضمام",
+      "enterHolidayName": "يرجى إدخال اسم العطلة",
+      "selectBreakStatus": "يرجى تحديد حالة الاستراحة",
+      "selectPaymentYear": "يرجى تحديد سنة الدفع",
+      "selectPaymentType": "يرجى تحديد نوع الدفع",
+      "enterAmount": "يرجى إدخال المبلغ",
+      "selectStartBreakTime": "يرجى تحديد وقت بدء الاستراحة",
+      "selectEndBreakTime": "يرجى تحديد وقت نهاية الاستراحة",
+      "enterLeaveTypeName": "يرجى إدخال اسم نوع الإجازة",
+      "selectStartTime": "يرجى تحديد وقت البدء",
+      "selectEndTime": "يرجى تحديد وقت الانتهاء"
+    },
+    "dropdowns": {
+      "addNew": "+ إضافة جديد",
+      "morning": "صباح",
+      "day": "نهار",
+      "evening": "مساء",
+      "night": "ليل",
+      "yes": "نعم",
+      "no": "لا",
+      "approved": "موافق عليه",
+      "rejected": "مرفوض",
+      "terminated": "منهي",
+      "suspended": "موقوف",
+      "male": "ذكر",
+      "female": "أنثى",
+      "pending": "قيد الانتظار",
+      "active": "نشط",
+      "inactive": "غير نشط",
+      "paid": "مدفوع",
+      "unpaid": "غير مدفوع"
+    },
+    "units": {
+      "days": "أيام"
+    },
+    "fallbacks": {
+      "noNoteAvailable": "لا توجد ملاحظة",
+      "noDescriptionAvailable": "لا يوجد وصف متاح",
+      "selectEmployeeFirst": "اختر الموظف أولاً"
+    },
+    "success": {
+      "leaveDelete": "تم حذف الإجازة بنجاح",
+      "attendanceDelete": "تم حذف الحضور بنجاح",
+      "attendanceAdd": "تم إضافة الحضور بنجاح",
+      "attendanceUpdate": "تم تحديث الحضور بنجاح",
+      "leaveAdd": "تم إضافة الإجازة بنجاح",
+      "leaveUpdate": "تم تحديث الإجازة بنجاح",
+      "departmentDelete": "تم حذف القسم بنجاح",
+      "departmentAdd": "تم إضافة القسم بنجاح",
+      "departmentUpdate": "تم تحديث القسم بنجاح",
+      "designationDelete": "تم حذف المسمى الوظيفي بنجاح",
+      "designationAdd": "تم إضافة المسمى الوظيفي بنجاح",
+      "designationUpdate": "تم تحديث المسمى الوظيفي بنجاح",
+      "employeeDelete": "تم حذف الموظف بنجاح",
+      "employeeAdd": "تم إضافة الموظف بنجاح",
+      "employeeUpdate": "تم تحديث الموظف بنجاح",
+      "holidayDelete": "تم حذف العطلة بنجاح",
+      "holidayAdd": "تم إضافة العطلة بنجاح",
+      "holidayUpdate": "تم تحديث العطلة بنجاح",
+      "leaveTypeDelete": "تم حذف نوع الإجازة بنجاح"
+    }
+  }
+}

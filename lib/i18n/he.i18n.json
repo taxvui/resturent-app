@@ -1,0 +1,1561 @@
+{
+  "@@meta": {
+    "languageCode": "he_IL",
+    "languageName": "Hebrew",
+    "version": "1.0.0"
+  },
+  "common": {
+    "signIn": "התחבר",
+    "signUp": "הירשם",
+    "verifyEmail": "אמת אימייל",
+    "customizeProfile": "התאם אישית פרופיל",
+    "imageOrLogo": "לוגו או תמונה",
+    "createNewPassword": "צור סיסמה חדשה",
+    "itemsList": "רשימת פריטים",
+    "searchItemsName": "חפש שם פריט",
+    "categoryList": "רשימת קטגוריות",
+    "brandList": "רשימת מותגים",
+    "unitList": "רשימת יחידות",
+    "itemDetails": "פרטי פריט",
+    "addStock": "הוסף מלאי",
+    "profile": "פרופיל",
+    "language": "שפה",
+    "termsAndConditions": "תנאים והתניות",
+    "aboutUs": "עלינו",
+    "logout": "התנתק",
+    "editProfile": "ערוך פרופיל",
+    "fullName": "שם מלא",
+    "email": "אימייל",
+    "mobileNumber": "מספר נייד",
+    "address": "כתובת",
+    "password": "סיסמה",
+    "forgotPassword": "שכחת סיסמה?",
+    "edit": "ערוך",
+    "delete": "מחק",
+    "addItems": "הוסף פריטים",
+    "stock": "מלאי",
+    "currentStock": "מלאי נוכחי",
+    "value": "ערך",
+    "sales": "מכירות",
+    "purchase": "רכישה",
+    "price": "מחיר",
+    "image": "תמונה",
+    "upload": "העלה",
+    "addNew": "הוסף חדש",
+    "pricing": "תמחור",
+    "name": "שם",
+    "category(plural)": {
+      "one": "קטגוריה",
+      "other": "קטגוריהs"
+    },
+    "areas": "Areas",
+    "brand": "מותג",
+    "lowStock": "מלאי נמוך",
+    "unit": "יחידה",
+    "vat": "מע\"מ",
+    "taxType": "סוג מס",
+    "purchasePrice": "מחיר רכישה",
+    "sellingPrice": "מחיר מכירה",
+    "wholeSalePrice": "מחיר סיטונאי",
+    "dealerPrice": "מחיר סוחר",
+    "searchHere": "חפש כאן",
+    "totalItems": "סך הכל פריטים",
+    "stockValue": "ערך מלאי",
+    "congratulation": "ברכות",
+    "salesList": "רשימת מכירות",
+    "searchInvoiceNumber": "חפש מספר חשבונית",
+    "view": "הצג",
+    "kFor": "עבור",
+    "total": "סך הכל",
+    "subTotal": "סכום ביניים",
+    "insufficientStockAvailableStock": "מלאי לא מספיק, מלאי זמין",
+    "discount": "הנחה",
+    "selectOne": "בחר אחד",
+    "allCategory": "כל הקטגוריות",
+    "details": "פרטים",
+    "parcel": "חבילה",
+    "kot": "קוט",
+    "table": "שולחן",
+    "holdTable": "החזק שולחן",
+    "capacity": "קיבולת",
+    "commonHint": "דוגמה: 10",
+    "pleaseEnterQuantity": "הזן כמות",
+    "quantityMustBeGreaterThanZero": "הכמות חייבת להיות גדולה מ-0",
+    "mobile": "נייד",
+    "orderNo": "מספר הזמנה",
+    "dateAndTime": "תאריך ושעה",
+    "items": "פריטים",
+    "totalAmount": "סכום כולל",
+    "paidAmount": "סכום ששולם",
+    "dueAmount": "סכום לתשלום",
+    "paymentType": "סוג תשלום",
+    "thankYou": "תודה",
+    "developedBy": "פותח על ידי ${domain: String}",
+    "qty": "מחיר",
+    "amount": "סכום",
+    "dashboard": "לוח מחוונים",
+    "reports": "דוחות",
+    "home": "בית",
+    "parties": "צדדים",
+    "subscriptionPlan": "תוכנית מנוי",
+    "estimateList": "רשימת הצעות מחיר",
+    "purchaseList": "רשימת רכישות",
+    "dueList": "רשימת חובות",
+    "lossOrProfit": "הפסד/רווח",
+    "stocks": "מלאי",
+    "moneyInList": "רשימת כספים נכנסים",
+    "moneyOutList": "רשימת כספים יוצאים",
+    "transactionList": "רשימת עסקאות",
+    "income": "הכנסה",
+    "expense": "הוצאה",
+    "quickView": "תצוגה מהירה",
+    "to": "עד",
+    "totalSales": "סך הכל מכירות",
+    "totalPurchase": "סך הכל רכישות",
+    "holdNumber": "הזמנות בהמתנה",
+    "totalExpense": "סך הכל הוצאות",
+    "loss": "הפסד",
+    "profit": "רווח",
+    "recentTransaction": "עסקאות אחרונות",
+    "invoice": "חשבונית",
+    "moneyIn": "כסף נכנס",
+    "moneyOut": "כסף יוצא",
+    "paid": "שולם",
+    "due": "לתשלום",
+    "partial": "חלקי",
+    "print": "הדפס",
+    "addCategory": "הוסף קטגוריה",
+    "addExpense": "הוסף הוצאה",
+    "search": "חפש...",
+    "viewDetails": "הצג פרטים",
+    "title": "כותרת",
+    "date": "תאריך",
+    "note": "הערה",
+    "phoneNumber": "מספר טלפון",
+    "type": "סוג",
+    "selectContactSType": "בחר סוג איש קשר",
+    "moreInfo": "מידע נוסף",
+    "paymentReceived": "התקבל תשלום",
+    "selectSupplier": "בחר ספק",
+    "supplier": "ספק",
+    "received": "התקבל",
+    "balanceDue": "יתרה לתשלום",
+    "addPurchase": "הוסף רכישה",
+    "selectedItemWillBeCleared": "הפריטים שנבחרו ימחקו.",
+    "searchItemName": "חפש שם פריט",
+    "billItems": "פריטי חשבון",
+    "addMoreItems": "הוסף פריטים נוספים",
+    "payAmount": "שלם סכום",
+    "salesReport": "דוח מכירות",
+    "purchaseReport": "דוח רכישות",
+    "stockReport": "דוח מלאי",
+    "dueReport": "דוח חובות",
+    "dueCollectionReport": "דוח גביית חובות",
+    "transactionReport": "דוח עסקאות",
+    "incomeReport": "דוח הכנסות",
+    "dueCollectionList": "רשימת גביית חובות",
+    "expenseReport": "דוחות הוצאות",
+    "dueCollection": "גביית חובות",
+    "myProfile": "הפרופיל שלי",
+    "printingOption": "אפשרויות הדפסה",
+    "currency": "מטבע",
+    "paymentMethod": "אמצעי תשלום",
+    "rateUs": "דרג אותנו",
+    "termAndCondition": "תנאים והתניות",
+    "tableList": "רשימת שולחנות",
+    "addTable": "הוסף שולחן",
+    "vatRate": "שיעור מע\"מ %",
+    "action": "פעולה",
+    "status": "סטטוס",
+    "active": "פעיל",
+    "inActive": "לא פעיל",
+    "subVats": "תתי מע\"מ",
+    "add": "הוסף",
+    "taxRate": "שיעור מס %",
+    "subTaxes": "תתי מסים",
+    "group": "קבוצה",
+    "VAT": "מע\"מ",
+    "subTaxList": "רשימת תתי מסים",
+    "vatPercent": "אחוז מע\"מ",
+    "statusIsCannotInActive": "לא ניתן להגדיר סטטוס כלא פעיל אם מע\"מ פעיל במכירות.",
+    "vatOnSales": "מע\"מ על מכירות",
+    "transaction": "עסקה",
+    "version": "גרסה ${version: String}",
+    "hold": "החזק",
+    "empty": "ריק",
+    "appName": "אפליקציית מסעדה",
+    "duePayment": "תשלום חוב",
+    "orders": "הזמנות",
+    "all": "הכל",
+    "ingredient": "מרכיב",
+    "menus": "תפריטים",
+    "modifierGroups": "קבוצות תוספות",
+    "itemModifiers": "תוספות לפריט",
+    "staff": "צוות",
+    "coupon": "קופון",
+    "pay": "תשלום",
+    "pendingOrders": "הזמנות בהמתנה",
+    "order": "הזמנה",
+    "payNow": "שלם עכשיו",
+    "addStaff": "הוסף איש צוות",
+    "designation": "תפקיד",
+    "itemAdded": "הפריט נוסף",
+    "noItemAdded": "לא נוסף פריט",
+    "saveNPrint": "שמור והדפס",
+    "allowMultiSelection": "אפשר בחירה מרובה",
+    "required": "חובה",
+    "optional": "אופציונלי",
+    "allowMultiSelectionForSale": "אפשר בחירה מרובה למכירה",
+    "isRequired": "האם חובה?",
+    "modifier": "תוספת",
+    "fullPayment": "תשלום מלא",
+    "payment": "תשלום",
+    "addTip": "הוסף טיפ",
+    "netPayable": "סכום לתשלום נטו",
+    "receiveAmount": "סכום שהתקבל",
+    "changeAmount": "סכום עודף",
+    "quotationList": "רשימת הצעות מחיר",
+    "addQuotation": "הוסף הצעת מחיר",
+    "convert": "המר",
+    "variations": "וריאציות",
+    "instructions": "הוראות",
+    "unavailable": "לא זמין",
+    "tip": "טיפ",
+    "salesQuotationReport": "דוח הצעת מחיר",
+    "orderType": "סוג הזמנה",
+    "deliveryCharge": "דמי משלוח",
+    "receiptNo": "מספר קבלה",
+    "paidBy": "שולם על ידי",
+    "receivedBy": "התקבל על ידי",
+    "paymentAmount": "סכום תשלום",
+    "remainingDue": "יתרה לתשלום",
+    "roleNPermission": "תפקיד והרשאה",
+    "sl": "רמת שירות",
+    "features": "תכונות",
+    "create": "צור",
+    "update": "עדכן",
+    "quotations": "הצעות מחיר",
+    "restaurant": "מסעדה",
+    "printerProfile": "פרופיל מדפסת",
+    "kitchenOrders": "הזמנות מטבח",
+    "kitchen(plural)": {
+      "one": "מטבח",
+      "other": "מטבחים"
+    },
+    "allKOT": "כל ה-KOT",
+    "cancelKOT": "בטל KOT",
+    "selectCancelReason": "בחר סיבת ביטול",
+    "additionalComment": "הערה נוספת",
+    "enterComment": "הזן הערה",
+    "orderStatus": "סטטוס הזמנה",
+    "selectOrderStatus": "בחר סטטוס הזמנה",
+    "kotReport": "דוח KOT",
+    "itemFoodType": "סוג אוכל",
+    "selectItemFoodType": "בחר @:common.itemFoodType",
+    "markAllAsRead": "סמן הכל כנקרא",
+    "online": "מקוון",
+    "cancelledReason": "סיבת ביטול",
+    "hrm": "HRM",
+    "notAvailable": "N/A"
+  },
+  "exceptions": {
+    "somethingWentWrong": "משהו השתבש, אנא נסה שוב",
+    "noCategoryFound": "לא נמצאה קטגוריה!\nאנא נסה להוסיף קטגוריה.",
+    "doYouWantToDeleteThisCategory": "האם אתה בטוח שברצונך למחוק קטגוריה זו?",
+    "noBrandFound": "לא נמצא מותג!\nאנא נסה להוסיף מותג.",
+    "doYouWantToDeleteThisBrand": "האם אתה בטוח שברצונך למחוק מותג זה?",
+    "noItemStockFound": "לא נמצא מלאי פריטים!\nאנא נסה להוסיף פריט.",
+    "noUnitFound": "לא נמצאה יחידה!\nאנא נסה להוסיף יחידה.",
+    "doYouDeleteThisUnit": "האם אתה בטוח שברצונך למחוק יחידה זו?",
+    "noSaleFoundPleaseSAddProduct": "לא נמצאה מכירה!\nאנא נסה להוסיף מכירה.",
+    "doYouWantToDeleteThisSale": "האם אתה בטוח שברצונך למחוק מכירה זו?",
+    "pleaseAddItemToTheCartFirst": "אנא הוסף פריטים לעגלה תחילה",
+    "noItemAdded": "לא נוספו פריטים",
+    "cannotEditOthersTable": "לא ניתן לערוך שולחן אחר.",
+    "tableIsAlreadyBlocked": "השולחן כבר תפוס.",
+    "failedToGetCustomerDetails": "אירעה שגיאה באחזור פרטי לקוח.",
+    "noTableFoundPleaseTryAgain": "לא נמצאו שולחנות!\nאנא נסה להוסיף שולחן.",
+    "noDueCollectionFound": "לא נמצאו חשבוניות לתשלום!\nתוכל לראות חשבוניות לתשלום כשתהיינה זמינות.",
+    "noExpenseFoundPleaseTryAddingExpense": "לא נמצאה הוצאה!\nאנא נסה להוסיף הוצאה.",
+    "doYouWantToDeleteThisExpense": "האם אתה בטוח שברצונך למחוק הוצאה זו?",
+    "noExpenseCategoryFound": "לא נמצאה קטגוריית הוצאות!\nאנא נסה להוסיף קטגוריית הוצאות.",
+    "noTransactionFound": "לא נמצאו עסקאות, אנא נסה שוב מאוחר יותר!",
+    "pleaseSelectACategory": "אנא בחר קטגוריה",
+    "noIncomeFound": "לא נמצאה הכנסה!\nאנא נסה להוסיף הכנסה",
+    "doYouWantToDeleteThisIncome": "האם אתה בטוח שברצונך למחוק הכנסה זו?",
+    "noIncomeCategoryFoundAddingAIncome": "לא נמצאה קטגוריית הכנסות!\nאנא נסה להוסיף קטגוריית הכנסות.",
+    "noItemFoundPleaseTryAddingItem": "לא נמצא פריט!\nאנא נסה להוסיף פריט.",
+    "noPartiesFound": "לא נמצאו צדדים",
+    "doYouWantToDeleteThisParty": "האם אתה בטוח שברצונך למחוק צד זה?",
+    "noLedgerFound": "לא נמצא ספר חשבונות!\nאנא נסה להוסיף ${transactionType: String}",
+    "areYouSureYouSureWantToDeleteThisTaxType": "האם אתה בטוח שברצונך למחוק סוג מס זה: ${taxType: String}?",
+    "noItemFoundPleaseSTryAddingAnPurchase": "לא נמצא פריט!\nאנא נסה להוסיף רכישה.",
+    "doYouWantToDeleteThisPurchase": "האם אתה בטוח שברצונך למחוק רכישה זו?",
+    "noTransactionFoundYouSeeTransactionHereWhenAvailable": "לא נמצאו עסקאות!\nתוכל לראות עסקאות כאן כשתהיינה זמינות.",
+    "noSaleFoundPleaseTryAddingSale": "לא נמצאה מכירה!\nאנא נסה להוסיף מכירה.",
+    "noPurchaseFoundPleaseTryAddingPurchase": "לא נמצאה רכישה!\nאנא נסה להוסיף רכישה.",
+    "noItemIncomeFound": "לא נמצאו הכנסות פריטים!\nתוכל לראות נתוני הכנסות כשיתאפשרו.",
+    "noItemExpenseFound": "לא נמצאו הוצאות פריטים!\nתוכל לראות נתוני הוצאות כשיתאפשרו.",
+    "noItemDueInvoiceFound": "לא נמצאו חשבוניות לתשלום עבור פריטים!\nתוכל לראות חשבוניות לתשלום כשיתאפשרו.",
+    "noItemDueCollectionInvoiceFound": "'לא נמצאו חשבוניות לגביית חובות עבור פריטים!\nתוכל לראות חשבוניות לגביית חובות כשיתאפשרו.",
+    "doYouWantToDeleteThisTable": "האם אתה בטוח שברצונך למחוק שולחן זה?'",
+    "thisVatIsBeingUsedOnSales": "מע\"מ זה נמצא בשימוש במכירות!",
+    "noPaymentMethodFoundPleaseTryAddingAPaymentMethod": "לא נמצא אמצעי תשלום!\nאנא נסה להוסיף אמצעי תשלום.",
+    "pleaseSelectACustomerFirst": "אנא בחר לקוח תחילה.",
+    "pleaseSelectATableToCreateAKot": "אנא בחר שולחן כדי ליצור KOT.",
+    "noStaffFound": "לא נמצא איש צוות!\\n אנא נסה להוסיף איש צוות.",
+    "noIngredientFound": "לא נמצא מרכיב!\\n אנא נסה להוסיף מרכיב.",
+    "exceedsPaymentAmount": "הסכום שהתקבל לא יכול להיות גדול מהסכום לתשלום.",
+    "noItemModifierFound": "לא נמצאה תוספת פריט!\\n אנא נסה להוסיף תוספת פריט.",
+    "noModifierGroupFound": "לא נמצאה קבוצת תוספות!\\n אנא נסה להוסיף קבוצת תוספות.",
+    "noOptionsFound": "לא נמצאו אפשרויות!",
+    "maxImageCountLimit": "ניתן לבחור עד 5 תמונות בלבד.",
+    "noQuotationFound": "לא נמצאה הצעת מחיר!\\n אנא נסה להוסיף הצעת מחיר.",
+    "noPermittedUserFound": "לא נמצא משתמש מורשה!\\n אנא נסה להוסיף משתמש."
+  },
+  "prompt": {
+    "logout": {
+      "title": "@:common.logout",
+      "message": "האם אתה בטוח שברצונך להתנתק?"
+    },
+    "unsavedWarning": {
+      "title": "האם ברצונך לחזור?",
+      "message": "שדות ששונו עלולים לא להינצל!"
+    },
+    "verify": {
+      "title": "אמת את האימייל שלך",
+      "description(rich)": "שלחנו אימייל עם קוד אימות ${emailSpan}\nייתכן שההודעה הגיעה לתיקיית הספאם שלך."
+    },
+    "subscriptionExpired": {
+      "title": "המנוי פג!",
+      "message": "אנא הירשם כדי להמשיך.",
+      "action": "הירשם"
+    },
+    "items": {
+      "delete": {
+        "title": "האם אתה בטוח שברצונך למחוק פריט זה?"
+      },
+      "filter": {
+        "title": "סנן לפי",
+        "extra": {
+          "lowToHigh": "מהנמוך לגבוה @:common.price",
+          "highToLow": "מהגבוה לנמוך @:common.price"
+        }
+      }
+    },
+    "checkInternet": {
+      "title": "אין חיבור לאינטרנט",
+      "message": "אנא בדוק את חיבור ה-Wi-Fi או הרשת הסלולרית ונסה שוב"
+    },
+    "back": {
+      "title": "לחץ שוב על 'חזור' כדי לצאת."
+    },
+    "stockModelSheet": {
+      "title": "הוסף מלאי חדש"
+    },
+    "paymentMethod": {
+      "title": "האם אתה בטוח שברצונך למחוק אמצעי תשלום זה?"
+    },
+    "extMsg": {
+      "kotSavedSuccessfully": "KOT נשמר בהצלחה"
+    },
+    "deleteStaff": "האם ברצונך למחוק איש צוות זה?",
+    "deleteIngredient": "האם ברצונך למחוק מרכיב זה?",
+    "deleteItemModifier": "האם ברצונך למחוק תוספת פריט זו?",
+    "deleteModifierGroup": "האם ברצונך למחוק קבוצת תוספות זו?",
+    "deleteQuotation": "האם ברצונך למחוק הצעת מחיר זו?"
+  },
+  "form": {
+    "fullName": {
+      "label": "@:common.fullName",
+      "hint": "הזן @:common.fullName",
+      "errors": {
+        "required": "אנא הזן את @:common.fullName שלך"
+      }
+    },
+    "email": {
+      "label": "@:common.email",
+      "hint": "הזן את @:common.email שלך",
+      "errors": {
+        "required": "אנא הזן את כתובת האימייל שלך",
+        "invalid": "⦸ אימייל לא תקין, אנא נסה שוב"
+      }
+    },
+    "password": {
+      "label": "@:common.password",
+      "hint": "* * * * * * * *",
+      "errors": {
+        "required": "אנא הזן את @:common.password שלך",
+        "minLength": "הסיסמה חייבת להיות לפחות ${count} תווים!"
+      }
+    },
+    "confirmPassword": {
+      "label": "אשר סיסמה",
+      "hint": "* * * * * * * *",
+      "errors": {
+        "required": "אנא הזן את @:common.password שלך",
+        "invalid": "'אישור הסיסמה אינו תואם!"
+      }
+    },
+    "otp": {
+      "errors": {
+        "required": "אנא הזן את קוד ה-OTP.",
+        "invalid": "אנא הזן את קוד ה-OTP הנוכחי."
+      }
+    },
+    "profile": {
+      "businessCategory": {
+        "label": "קטגוריה עסקית",
+        "hint": "בחר קטגוריה עסקית",
+        "errors": {
+          "required": "אנא בחר קטגוריה עסקית"
+        }
+      },
+      "shopOrStore": {
+        "label": "שם חנות/עסק*",
+        "hint": "הזן שם חנות או עסק",
+        "errors": {
+          "required": "אנא הזן את שם החנות או העסק שלך"
+        }
+      },
+      "openingBalance": {
+        "label": "יתרה פתיחה",
+        "hint": "הזן יתרת פתיחה"
+      },
+      "vatGstTitle": {
+        "label": "כותרת מע\"מ/מס קנייה",
+        "hint": "הזן מע\"מ/מס קנייה"
+      },
+      "vatGstNumber": {
+        "label": "מספר מע\"מ/מס קנייה",
+        "hint": "הזן מספר מע\"מ/מס קנייה"
+      }
+    },
+    "vat": {
+      "name": {
+        "label": "שם",
+        "hint": "הזן שם מע\"מ",
+        "error": {
+          "required": "אנא הזן שם מע\"מ"
+        }
+      },
+      "subVat": {
+        "label": "תת מע\"מ",
+        "hint": "בחר תת מע\"מ",
+        "errors": {
+          "required": "בחר תת מע\"מ"
+        }
+      },
+      "rate": {
+        "label": "שיעור מע\"מ %",
+        "hint": "הזן שיעור מע\"מ",
+        "errors": {
+          "required": "אנא הזן שיעור מע\"מ."
+        }
+      }
+    },
+    "category": {
+      "label": "@:common.category",
+      "hint": "בחר קטגוריית פריטים",
+      "error": {
+        "required": "אנא הזן שם קטגוריה"
+      }
+    },
+    "items": {
+      "barcode": {
+        "label": "ברקוד",
+        "hint": "@:common.selectOne"
+      },
+      "itemName": {
+        "label": "שם פריט",
+        "hint": "הזן שם פריט",
+        "extra": {
+          "required": "אנא הזן שם פריט"
+        }
+      },
+      "itemCategory": {
+        "label": "קטגוריית פריט",
+        "hint": "קטגוריית פריט",
+        "extra": {
+          "label": "בחר קטגוריה",
+          "required": "אנא בחר קטגוריה"
+        }
+      },
+      "brand": {
+        "label": "@:common.brand",
+        "hint": "@:common.selectOne",
+        "extra": {
+          "hint": "הזן שם מותג",
+          "required": "אנא הזן שם מותג"
+        }
+      },
+      "unit": {
+        "label": "@:common.unit",
+        "hint": "@:common.selectOne",
+        "error": {
+          "required": "אנא הזן שם יחידה"
+        }
+      },
+      "stock": {
+        "label": "מלאי פתיחה",
+        "hint": "@:common.commonHint",
+        "extra": {
+          "required": "אנא הזן את איכות הפריט."
+        }
+      },
+      "lowStock": {
+        "label": "@:common.lowStock",
+        "hint": "דוגמה: 5"
+      },
+      "purchasePrice": {
+        "label": "@:common.purchasePrice",
+        "hint": "דוגמה: \\$40",
+        "error": {
+          "required": "אנא הזן מחיר רכישה."
+        }
+      },
+      "salePrice": {
+        "label": "מחיר מכירה",
+        "hint": "דוגמה: \\$60",
+        "error": {
+          "required": "אנא הזן מחיר מכירה."
+        }
+      },
+      "totalSalePrice": {
+        "label": "מחיר מכירה כולל",
+        "hint": "דוגמה: \\$100"
+      },
+      "wholeSalePrice": {
+        "label": "@:common.wholeSalePrice",
+        "hint": "הזן מחיר סיטונאי"
+      },
+      "dealerPrice": {
+        "label": "@:common.dealerPrice",
+        "hint": "הזן מחיר סוחר"
+      },
+      "discount": {
+        "label": "הנחה (%)",
+        "hint": "@:common.commonHint"
+      },
+      "applicableTax": {
+        "label": "מס רלוונטי",
+        "hint": "@:common.selectOne"
+      },
+      "vatType": {
+        "label": "@:common.taxType",
+        "errorText": {
+          "required": "אנא בחר סוג מע\"מ"
+        }
+      },
+      "menu": {
+        "label": "בחר תפריט",
+        "errors": {
+          "required": "אנא בחר תפריט."
+        },
+        "hint": "בחר תפריט",
+        "extra": {
+          "selectNavLabel": "בחר תפריט פריטים"
+        }
+      },
+      "modifierItems": {
+        "label": "פריטי תוספות",
+        "hint": "בחר פריטי תוספות"
+      },
+      "preparationTime": {
+        "label(rich)": "זמן הכנה ${minutes(Minutes)}",
+        "hint": "לדוגמה: 30"
+      },
+      "variation": {
+        "name": {
+          "label": "שם",
+          "hint": "הזן וריאציה",
+          "errors": {
+            "required": "אנא הזן שם וריאציה."
+          }
+        },
+        "price": {
+          "errors": {
+            "required": "אנא הזן מחיר."
+          },
+          "label": "מחיר",
+          "hint": "לדוגמה: ‏30‏$"
+        }
+      }
+    },
+    "itemCart": {
+      "hint": "@:common.commonHint",
+      "error": {
+        "required": "@:common.pleaseEnterQuantity",
+        "noZero": "@:common.quantityMustBeGreaterThanZero"
+      }
+    },
+    "sales": {
+      "autoGenerateInvoice": {
+        "label": "מספר חשבון",
+        "hint": "P-00001"
+      },
+      "date": {
+        "label": "תאריך"
+      },
+      "customer": {
+        "label": "לקוח",
+        "hint": "בחר לקוח"
+      },
+      "phone": {
+        "label": "מספר טלפון",
+        "hint": "הזן מספר טלפון"
+      },
+      "address": {
+        "label": "כתובת",
+        "hint": "הזן כתובת"
+      },
+      "deliveryCharge": {
+        "label": "@:common.deliveryCharge",
+        "hint": "דוגמה: \\$20",
+        "hint2": "עלות לדוגמה: ‏10‏$"
+      },
+      "table": {
+        "hint": "בחר שולחן"
+      },
+      "waiter": {
+        "hint": "בחר מלצר"
+      }
+    },
+    "bill": {
+      "label": "מספר חשבון",
+      "hint": "P-00001"
+    },
+    "supplier": {
+      "label": "ספק",
+      "hint": "בחר ספק",
+      "extra": {
+        "required": "אנא בחר ספק"
+      }
+    },
+    "phone": {
+      "label": "מספר טלפון",
+      "hint": "הזן מספר טלפון",
+      "errors": {
+        "required": "אנא הזן מספר טלפון."
+      }
+    },
+    "address": {
+      "label": "כתובת חברה",
+      "hint": "הזן כתובת חברה"
+    },
+    "payment": {
+      "label": "שם",
+      "hint": "הזן שם תשלום",
+      "error": {
+        "required": "אנא הזן שם אמצעי תשלום"
+      }
+    },
+    "expense": {
+      "label": "קטגוריית הוצאות",
+      "hint": "בחר קטגוריית הוצאות",
+      "error": {
+        "required": "אנא הזן קטגוריית הוצאות"
+      }
+    },
+    "income": {
+      "label": "קטגוריית הכנסות",
+      "hint": "הזן שם קטגוריה",
+      "error": {
+        "required": "אנא הזן שם קטגוריה"
+      },
+      "incomeTitle": {
+        "label": "כותרת הכנסה",
+        "hint": "הזן הכנסה"
+      },
+      "incomeCategory": {
+        "label": "קטגוריית הכנסות",
+        "hint": "בחר קטגוריה"
+      },
+      "payment": {
+        "label": "תשלום",
+        "hint": "דוגמה: \\$10"
+      }
+    },
+    "note": {
+      "label": "הערה (אופציונלי)",
+      "hint": "הזן טקסט"
+    },
+    "parties": {
+      "partyName": {
+        "label": "שם צד",
+        "hint": "הזן שם צד",
+        "error": {
+          "required": "אנא הזן שם צד"
+        }
+      },
+      "partyPhone": {
+        "label": "מספר טלפון",
+        "hint": "הזן מספר טלפון",
+        "error": {
+          "required": "אנא הזן מספר טלפון"
+        }
+      }
+    },
+    "table": {
+      "name": {
+        "label": "שם שולחן",
+        "hint": "הזן שם שולחן",
+        "error": {
+          "required": "אנא הזן שם שולחן"
+        }
+      },
+      "capacity": {
+        "label": "קיבולת",
+        "hint": "הזן קיבולת",
+        "error": {
+          "required": "אנא הזן קיבולת"
+        }
+      }
+    },
+    "designation": {
+      "label": "@:common.designation",
+      "hint": "בחר תפקיד",
+      "errors": {
+        "required": "אנא בחר תפקיד."
+      }
+    },
+    "ingredientName": {
+      "label": "שם מרכיב",
+      "hint": "הזן שם מרכיב",
+      "errors": {
+        "required": "אנא הזן שם מרכיב"
+      }
+    },
+    "item": {
+      "label": "פריט",
+      "hint": "בחר פריט",
+      "errors": {
+        "required": "אנא בחר פריט."
+      }
+    },
+    "modifierGroup": {
+      "label": "קבוצת תוספות",
+      "hint": "בחר קבוצת תוספות",
+      "errors": {
+        "required": "אנא בחר קבוצת תוספות."
+      }
+    },
+    "description": {
+      "label": "תיאור",
+      "hint": "הזן תיאור"
+    },
+    "staff": {
+      "label": "@:common.staff",
+      "hint": "בחר איש צוות",
+      "errors": {
+        "required": "אנא בחר איש צוות"
+      }
+    },
+    "loginUserName": {
+      "label": "שם משתמש להתחברות",
+      "hint": "הזן שם משתמש או כתובת דוא\"ל",
+      "errors": {
+        "required": "אנא הזן שם משתמש או כתובת דוא\"ל"
+      }
+    }
+  },
+  "action": {
+    "next": "הבא",
+    "getStarted": "התחל",
+    "skip": "דלג",
+    "select": "בחר",
+    "save": "שמור",
+    "verify": "אמת",
+    "signIn": "@:common.signIn",
+    "signUp": "@:common.signUp",
+    "continue": "המשך",
+    "no": "לא",
+    "yes": "כן",
+    "okay": "בסדר",
+    "cancel": "בטל",
+    "confirm": "אשר",
+    "tryAgain": "נסה שוב",
+    "reset": "אפס",
+    "apply": "החל",
+    "stockAdjust": "התאם מלאי",
+    "addMoreItems": "הוסף פריטים נוספים",
+    "hold": "החזק",
+    "parcel": "@:common.parcel",
+    "buyNow": "קנה עכשיו",
+    "viewAll": "הצג הכל",
+    "viewLedger": "הצג ספר חשבונות",
+    "submit": "שלח",
+    "selected": "נבחר",
+    "addToCart": "הוסף לעגלה",
+    "selectAll": "בחר הכל",
+    "update": "@:common.update",
+    "addRole": "הוסף תפקיד"
+  },
+  "pages": {
+    "language": {
+      "appbarTitle": "@:action.select @:common.language"
+    },
+    "onboard": {
+      "onboardData": {
+        "data1": {
+          "title": "קל לשימוש @:common.appName",
+          "description": "הזמנות חלקות, שמירת מקום ללא מאמץ\\nהעצם את המסעדה שלך בקלות!"
+        },
+        "data2": {
+          "title": "ניהול הזמנות ללא מאמץ",
+          "description": "ייעל את תהליך קבלת ההזמנות במסעדה שלך עם מערכת הקופה האינטואיטיבית שלנו."
+        },
+        "data3": {
+          "title": "אנליטיקה ודיווח מצוינים",
+          "description": "לוח המחוונים האנליטי שלנו מספק דוחות מכירות ורכישות בזמן אמת"
+        }
+      }
+    },
+    "signIn": {
+      "title": "ברוך שובך",
+      "subtitle": "אנא הזן את פרטיך.",
+      "extra": {
+        "rememberMe": "זכור אותי",
+        "signUpNavigator(rich)": "אין לך חשבון? ${getStarted(@:action.getStarted)}",
+        "forgotPassword": "@:common.forgotPassword?"
+      }
+    },
+    "signUp": {
+      "title": "צור חשבון",
+      "subtitle": "אנא הזן את פרטיך",
+      "extra": {
+        "signInNavigator(rich)": "יש לך כבר חשבון? ${signIn(@:action.signIn)}"
+      }
+    },
+    "forgotPassword": {
+      "title": "@:common.forgotPassword",
+      "subtitle": "הזן את כתובת האימייל שלך כדי לשחזר את הסיסמה שלך."
+    },
+    "otpVerification": {
+      "title": "אימות",
+      "subtitle": "קוד בן 6 ספרות נשלח לכתובת האימייל שלך",
+      "extra": {
+        "codeResend": {
+          "codeSendIn": "הקוד נשלח תוך",
+          "resendCode": "שלח קוד מחדש"
+        }
+      }
+    },
+    "resetPassword": {
+      "title": "איפוס סיסמה",
+      "subtitle": "אפס את הסיסמה שלך כדי לשחזר ולהיכנס לחשבונך",
+      "extra": {
+        "dialog": {
+          "title": "השתנה בהצלחה!",
+          "subtitle": "היכנס באמצעות הסיסמה החדשה שלך.\nמפנה אותך לכניסה..."
+        }
+      }
+    },
+    "items": {
+      "itemList": {
+        "extra": {
+          "emptyItem": "לא נמצא פריט!\nאנא נסה להוסיף פריט."
+        }
+      },
+      "manageItems": {
+        "title": "הוסף פריט חדש",
+        "title2": "ערוך פריט",
+        "extra": {
+          "maximum": "מקסימום 5",
+          "wholeSaleAndDealerPrice": "מחיר סיטונאי וסוחר",
+          "addDiscount": "הוסף הנחה",
+          "addVat": "הוסף מע\"מ"
+        }
+      },
+      "itemDetails": {
+        "title": "פרטי פריט",
+        "extra": {
+          "noImageAvailable": "אין תמונה זמינה!",
+          "preparationTime(rich)": "זמן הכנה: ${min: String} ${mins(mins)}",
+          "pleaseSelectVariation": "אנא בחר וריאציה",
+          "pleaseSelectOption": "אנא בחר אפשרות.",
+          "enterYourInstruction": "הזן את ההוראות שלך"
+        }
+      }
+    },
+    "category": {
+      "addNewCategory": "הוסף קטגוריה חדשה",
+      "editCategory": "ערוך קטגוריה"
+    },
+    "brand": {
+      "addNewBrand": "הוסף מותג חדש",
+      "editBrand": "ערוך מותג"
+    },
+    "unit": {
+      "addNewUnit": "הוסף יחידה חדשה",
+      "editUnit": "ערוך יחידה"
+    },
+    "stock": {
+      "stockList": "רשימת מלאי"
+    },
+    "aboutUs": {
+      "title": "עלינו"
+    },
+    "privacyPolicy": {
+      "title": "מדיניות פרטיות"
+    },
+    "termAndCondition": {
+      "title": "@:common.termAndCondition"
+    },
+    "orders": {
+      "manageOrders": {
+        "extra": {
+          "billItems": "פריטי חשבון",
+          "manageQuantity": "נהל כמות"
+        },
+        "title": {
+          "editOrder": "ערוך הזמנה",
+          "editKOT": "ערוך KOT"
+        }
+      }
+    },
+    "onlinePayment": {
+      "title": "תשלום מקוון"
+    },
+    "paymentStatus": {
+      "success": {
+        "title": "תודה רבה!",
+        "message": "אנו נבדוק את התשלום ונאשר אותו תוך 24 שעות.",
+        "actionButtonText": "הצג חשבונית"
+      },
+      "fail": {
+        "title": "אופס! התשלום נכשל",
+        "message": "העסקה שלך נכשלה עקב תקלה טכנית.",
+        "actionButtonText": "נסה שוב"
+      }
+    },
+    "confirmationDialog": {
+      "title": "התנתק",
+      "message": "האם אתה בטוח שברצונך להתנתק?",
+      "acceptationText": "לא",
+      "rejectionText": "התנתק"
+    },
+    "payment": {
+      "title": "@:common.paymentMethod",
+      "addPaymentMethod": "הוסף אמצעי תשלום חדש",
+      "editPaymentMethod": "ערוך אמצעי תשלום",
+      "choseOnlinePayment": "בחר תשלום מקוון",
+      "selectPaymentMethod": "בחר אמצעי תשלום",
+      "pleaseSelectAPaymentMethod": "אנא בחר אמצעי תשלום.",
+      "methodStatus": {
+        "title": "סטטוס",
+        "message": "לא ניתן להגדיר סטטוס כלא פעיל אם תצוגה מהירה מופעלת!."
+      }
+    },
+    "subscriptionPlan": {
+      "title": "רכוש תוכנית פרימיום",
+      "extra": {
+        "actionButtonText": "חזור",
+        "message": "תשלום המנוי בוצע בהצלחה.\n\nכעת תוכל לגשת לתכונות המנויות.",
+        "mostPopular": "הכי פופולרי"
+      }
+    },
+    "invoicePreview": {
+      "title": "תצוגה מקדימה של חשבונית",
+      "message": "תצוגה מקדימה של PDF בקרוב"
+    },
+    "currency": {
+      "title": "@:common.currency"
+    },
+    "dashboard": {
+      "overview": "סקירה כללית",
+      "dashboardPrivacy": "פרטיות לוח מחוונים",
+      "moneyInAndMoneyOut": "כסף נכנס ויוצא",
+      "lossAndProfitOverView": "סקירת רווח והפסד"
+    },
+    "due": {
+      "title": "@:common.dueList",
+      "collectionList": "רשימת גבייה",
+      "dueCollection": "גביית חובות"
+    },
+    "expense": {
+      "title": "@:common.expense",
+      "editExpense": "ערוך הוצאה",
+      "addNewExpense": "הוסף הוצאה חדשה",
+      "editExpenseCategory": "ערוך קטגוריית הוצאה",
+      "addNewExpenseCategory": "הוסף קטגוריית הוצאה חדשה",
+      "payment": "תשלום",
+      "expenseCategory": "קטגוריית הוצאה",
+      "selectCategory": "בחר קטגוריה",
+      "allExpense": "כל ההוצאות",
+      "pleaseSelectACategory": "אנא בחר קטגוריה",
+      "expenseTitle": {
+        "label": "כותרת הוצאה",
+        "hint": "הכנס הוצאה"
+      }
+    },
+    "lossProfit": {
+      "title": "רשימת הפסד/רווח",
+      "noLossProfitFound": "לא נמצאו הפסדים/רווחים!\nאנא נסה ליצור מכירות."
+    },
+    "income": {
+      "editIncomeCategory": "ערוך קטגוריית הכנסות",
+      "addNewIncomeCategory": "הוסף קטגוריית הכנסות חדשה",
+      "incomeCategory": "קטגוריית הכנסות",
+      "allIncome": "כל ההכנסות",
+      "editIncome": "ערוך הכנסה",
+      "addNewIncome": "ערוך הכנסה",
+      "addIncome": "הוסף הכנסה"
+    },
+    "moneyIn": {
+      "title": "רשימת כספים נכנסים",
+      "totalPaymentIn": "סך הכל כספים נכנסים"
+    },
+    "moneyOut": {
+      "title": "רשימת כספים יוצאים",
+      "totalMoneyOut": "סך הכל כספים יוצאים"
+    },
+    "profile": {
+      "title": "הפרופיל שלי",
+      "editProfile": "ערוך פרופיל",
+      "businessInformation": "פרטי עסק",
+      "profileInformation": "פרטי פרופיל"
+    },
+    "parties": {
+      "title": "רשימת צדדים",
+      "allParties": "כל הצדדים",
+      "customer": "לקוח",
+      "supplier": "ספק",
+      "addParties": "הוסף צדדים",
+      "editParties": "ערוך צדדים",
+      "partiesDetails": "פרטי צד",
+      "personalInfo": "מידע אישי"
+    },
+    "ledger": {
+      "subTitle": "ספר חשבונות"
+    },
+    "purchase": {
+      "title": "הוסף רכישה חדשה",
+      "editPurchase": "ערוך רכישה"
+    },
+    "reports": {
+      "title": "דוחות"
+    },
+    "table": {
+      "title": "הוסף שולחן חדש",
+      "editTable": "ערוך שולחן"
+    },
+    "tax": {
+      "title": "שיעורי מע\"מ",
+      "buildHeaderTitle": "שיעורי מע\"מ - נהל את שיעורי המע\"מ שלך",
+      "vatGroup": {
+        "title": "קבוצת מע\"מ",
+        "subTitle": "קבוצת מע\"מ - נהל את קבוצת המע\"מ שלך"
+      }
+    },
+    "vat": {
+      "addNewVat": "הוסף מע\"מ חדש",
+      "editVat": "ערוך מע\"מ",
+      "addNewVatGroup": "הוסף קבוצת מע\"מ חדשה",
+      "editVatGroup": "ערוך קבוצת מע\"מ"
+    },
+    "orderList": {
+      "title": "רשימת הזמנות",
+      "filters": {
+        "orderType": {
+          "label": "@:common.orderType",
+          "hint": "בחר סוג הזמנה"
+        },
+        "paymentStatus": {
+          "hint": "בחר סטטוס תשלום",
+          "label": "סטטוס תשלום"
+        }
+      }
+    },
+    "staffs": {
+      "staffList": {
+        "filters": {
+          "designation": {
+            "label": "תפקיד",
+            "hint": "בחר תפקיד"
+          }
+        },
+        "title": "כל אנשי הצוות"
+      },
+      "manageStaff": {
+        "title1": "הוסף איש צוות חדש",
+        "title2": "עדכן איש צוות"
+      }
+    },
+    "ingredient": {
+      "ingredientList": {
+        "title1": "רשימת מרכיבים",
+        "title2": "בחר מרכיב"
+      },
+      "manageIngredient": {
+        "title1": "הוסף מרכיב חדש",
+        "title2": "ערוך מרכיב"
+      }
+    },
+    "itemModifier": {
+      "itemModifierList": {
+        "title": "@:common.itemModifiers"
+      },
+      "manageItemModifier": {
+        "title1": "הוסף תוספות פריט",
+        "title2": "ערוך תוספות פריט"
+      }
+    },
+    "quotation": {
+      "manageQuotation": {
+        "title": {
+          "add": "הוסף הצעת מחיר חדשה",
+          "edit": "ערוך הצעת מחיר",
+          "convert": "המר למכירה"
+        }
+      }
+    },
+    "rolePermission": {
+      "rolePermissionList": {
+        "title": "רשימת תפקידים והרשאות"
+      },
+      "manageRolePermission": {
+        "title1": "הוסף תפקיד חדש",
+        "title2": "ערוך תפקיד"
+      }
+    },
+    "printingOption": {
+      "title": "אפשרות הדפסה",
+      "form": {
+        "companyAddress": {
+          "label": "כתובת החברה",
+          "hint": "הזן כתובת חברה"
+        },
+        "noteLabel": {
+          "label": "תווית הערה",
+          "hint": "הזן תווית הערה."
+        },
+        "note": {
+          "label": "הערה",
+          "hint": "הזן הערה."
+        },
+        "postSaleMessage": {
+          "label": "הודעה לאחר מכירה",
+          "hint": "הזן הודעה לאחר מכירה"
+        },
+        "printingMethod": {
+          "label": "שיטת הדפסה",
+          "hint": "בחר שיטת הדפסה"
+        },
+        "printerProfile": {
+          "label": "פרופיל מדפסת",
+          "hint": "בחר פרופיל מדפסת"
+        },
+        "paperSize": {
+          "label": "גודל נייר מדפסת תרמית",
+          "hint": "בחר גודל נייר מדפסת"
+        },
+        "printerDpi": {
+          "label": "DPI מדפסת",
+          "hint": "לד: 203"
+        },
+        "printingMargin": {
+          "label": "שול הדפסה",
+          "hint": "לד: 2"
+        }
+      },
+      "tooltip": {
+        "printingMethod": {
+          "title": "רשימה נפתחת עם אפשרויות:",
+          "default": "• ברירת מחדל (שיטה מקורית להדפסת תווים סטנדרטיים של האיחוד האירופי)",
+          "image": "• תמונה (מומלץ להדפסת תווים יוניקוד)"
+        }
+      },
+      "action": {
+        "save": "שמור"
+      }
+    },
+    "kitchen": {
+      "list": {
+        "noKitchensFound": "לא נמצאו מטבחים.\n אנא נסה להוסיף אחד."
+      },
+      "manage": {
+        "addKitchen": "הוסף מטבח",
+        "editKitchen": "ערוך מטבח",
+        "kitchenName": {
+          "label": "שם המטבח",
+          "hint": "הכנס שם מטבח",
+          "error": "אנא הכנס שם מטבח."
+        },
+        "description": {
+          "label": "תיאור",
+          "hint": "הכנס תיאור"
+        }
+      },
+      "manageItems": {
+        "title": "ניהול פריטים",
+        "addedItems": "פריטים שנוספו",
+        "selectItemsError": "אנא בחר פריטים.",
+        "noItemsAdded": "עדיין לא נוספו פריטים!\nאנא נסה להוסיף פריטים."
+      },
+      "card": {
+        "itemName": "שם הפריט",
+        "manageItems": "+ ניהול פריטים",
+        "deleteItemConfirm": "האם אתה רוצה למחוק פריט זה?",
+        "deleteKitchenConfirm": "האם אתה רוצה למחוק מטבח זה?"
+      }
+    }
+  },
+  "enums": {
+    "dropdownDateFilter": {
+      "daily": "יומי",
+      "weekly": "שבועי",
+      "monthly": "חודשי",
+      "yearly": "שנתי",
+      "custom": "מותאם אישית"
+    },
+    "orderTypes": {
+      "dineIn": "סעודה במקום",
+      "pickUp": "איסוף עצמי",
+      "delivery": "משלוח",
+      "reservation": "הזמנה",
+      "quotation": "הצעת מחיר"
+    },
+    "paymentStatus": {
+      "paid": "שולם",
+      "unpaid": "לא שולם"
+    },
+    "staffTypes": {
+      "manager": "מנהל",
+      "waiter": "מלצר",
+      "chef": "שף",
+      "cleaner": "מנקה",
+      "driver": "נהג",
+      "deliveryBoy": "שליח"
+    },
+    "itemFoodTypes": {
+      "veg": "צמחוני",
+      "nonVeg": "לא צמחוני",
+      "egg": "ביצה",
+      "drink": "שתיה",
+      "others": "אחרים"
+    },
+    "itemTypes": {
+      "single": "יחיד",
+      "variation": "וריאציה"
+    },
+    "quotationStatus": {
+      "open": "פתוח",
+      "closed": "סגור"
+    },
+    "tableStatus": {
+      "running": "תפוס",
+      "available": "פנוי"
+    },
+    "thermalPrinterPrintingMethod": {
+      "image": "תמונה",
+      "default": "ברירת מחדל"
+    },
+    "kotOrderStatus": {
+      "label": {
+        "pending": "בהמתנה",
+        "preparing": "בהכנה",
+        "ready": "האוכל מוכן",
+        "served": "הוגש",
+        "cancelled": "בוטל"
+      },
+      "pending": "בהמתנה",
+      "preparing": "בהכנה",
+      "ready": "האוכל מוכן",
+      "served": "הוגש",
+      "cancelled": "בוטל"
+    },
+    "kotItemStatus": {
+      "pending": "התחל בישול",
+      "start": "סמן כהושלם",
+      "ready": "מוכן"
+    }
+  },
+  "thermalPrint": {
+    "invoice": {
+      "purchaseInvoiceLabel": "חשבונית רכישה: ${invoiceNumber: String}",
+      "saleInvoiceLabel": "מס' הזמנה: ${invoiceNumber: String}",
+      "receiptNoLabel": "מס' קבלה: ${invoiceNumber: String}",
+      "orderNoKotLabel": "מס' הזמנה: ${invoiceNumber: String}",
+      "nameLabel": "שם: ${name: String}",
+      "mobileLabel": "נייד: ${phone: String}",
+      "purchasedByLabel": "נרכש ע\"י: ${role: String}",
+      "salesByLabel": "נמכר ע\"י: ${role: String}",
+      "paidByLabel": "${label: String}: ${role: String}",
+      "paidToReceivedFromLabel": "${label: String}: ${name: String}",
+      "orderTypeLabel": "סוג הזמנה: ${orderType: String}",
+      "tableLabel": "שולחן: ${tableName: String}",
+      "tableNoLabel": "מס' שולחן: ${tableName: String}",
+      "dateLabel": "תאריך: ${dateTime: String}",
+      "invoiceFlag": "חשבונית",
+      "receiptFlag": "קבלה",
+      "paidBy": "שולם ע\"י",
+      "receivedBy": "התקבל ע\"י",
+      "paidTo": "שולם ל-",
+      "receivedFrom": "התקבל מ-",
+      "seller": "מוכר: ${name: String}",
+      "address": "כתובת: ${addr: String}",
+      "vatNo": "ח.פ./ע.מ.",
+      "tel": "טל: ${phoneNumber: String}",
+      "timeLabel": "שעה: ${dateTime: String}"
+    },
+    "tableHeaders": {
+      "sl": "מס' סד'",
+      "item": "פריט",
+      "cost": "עלות",
+      "qty": "כמות",
+      "uPrice": "מח. יח.",
+      "amount": "סכום",
+      "total": "סה\"כ",
+      "invoiceTable": "חשבונית",
+      "dueTable": "חוב"
+    },
+    "summary": {
+      "subTotal": "סיכום ביניים:",
+      "discount": "הנחה: ${percentFmt: String}",
+      "vat": "${vatName: String}: ${rateFmt: String}%",
+      "tip": "טיפ:",
+      "deliveryCharge": "דמי משלוח:",
+      "totalPayable": "סה\"כ לתשלום:",
+      "paidAmount": "סכום ששולם:",
+      "dueAmount": "סכום חוב:",
+      "paymentType": "אמצעי תשלום: ${method: String}",
+      "remainingDue": "יתרת חוב:",
+      "paymentAmount": "סכום תשלום:",
+      "itemsCount": "פריטים: ${count: int}",
+      "qtyTotal": "כמות: ${totalQty: int}"
+    },
+    "footer": {
+      "note": "${noteLabel: String}: ${note: String}",
+      "developedBy": "${developByLabel: String} ${developBy: String}"
+    }
+  },
+  "hrm": {
+    "department": "מחלקה",
+    "designation": "תואר",
+    "shift": "משמרת",
+    "employee": "עובד",
+    "leave": "חופשה",
+    "leaveType": "סוג חופשה",
+    "leaveRequest": "בקשת חופשה",
+    "holiday": "חג",
+    "attendance": "נוכחות",
+    "payroll": "שכר",
+    "pageTitles": {
+      "department": "מחלקה",
+      "designation": "תואר",
+      "shift": "משמרת",
+      "employee": "עובד",
+      "leave": "חופשה",
+      "leaveType": "סוג חופשה",
+      "holiday": "חג",
+      "attendance": "נוכחות",
+      "payroll": "שכר",
+      "leaveReports": "דוחות חופשה",
+      "payrollReports": "דוחות שכר",
+      "attendanceReports": "דוחות נוכחות",
+      "addDepartment": "הוסף מחלקה",
+      "editDepartment": "ערוך מחלקה",
+      "addDesignation": "הוסף תואר",
+      "editDesignation": "ערוך תואר",
+      "addShift": "הוסף משמרת",
+      "editShift": "ערוך משמרת",
+      "addEmployee": "הוסף עובד",
+      "editEmployee": "ערוך עובד",
+      "addLeave": "הוסף חופשה",
+      "editLeave": "ערוך חופשה",
+      "addLeaveType": "הוסף סוג חופשה",
+      "editLeaveType": "ערוך סוג חופשה",
+      "addHoliday": "הוסף חג",
+      "editHoliday": "ערוך חג",
+      "addAttendance": "הוסף נוכחות",
+      "editAttendance": "ערוך נוכחות",
+      "addPayroll": "הוסף משכורת",
+      "editPayroll": "ערוך משכורת"
+    },
+    "form": {
+      "labels": {
+        "department": "מחלקה",
+        "designation": "תואר",
+        "shift": "משמרת",
+        "employee": "עובד",
+        "leaveType": "סוג חופשה",
+        "leaveDuration": "משך החופשה",
+        "paymentYear": "שנת תשלום",
+        "paymentType": "סוג תשלום",
+        "breakStatus": "סטטוס הפסקה",
+        "startTime": "זמן התחלה",
+        "endTime": "זמן סיום",
+        "startBreakTime": "התחלת הפסקה",
+        "endBreakTime": "סיום הפסקה",
+        "breakTime": "זמן הפסקה",
+        "breakDuration": "משך ההפסקה",
+        "timeIn": "זמן כניסה",
+        "timeOut": "זמן יציאה",
+        "duration": "משך",
+        "country": "מדינה",
+        "salary": "משכורת",
+        "gender": "מין",
+        "birthDate": "תאריך לידה",
+        "joinDate": "תאריך הצטרפות",
+        "holidayName": "שם החג",
+        "startDate": "תאריך התחלה",
+        "endDate": "תאריך סיום",
+        "month": "חודש",
+        "year": "שנה",
+        "status": "סטטוס",
+        "description": "תיאור",
+        "amount": "סכום",
+        "payment": "תשלום",
+        "departmentName": "שם מחלקה",
+        "designationName": "שם התפקיד",
+        "image": "תמונה",
+        "name": "שם"
+      },
+      "hints": {
+        "selectEmployee": "בחר עובד",
+        "selectDepartment": "בחר מחלקה",
+        "selectDesignation": "בחר תואר",
+        "selectShift": "בחר משמרת",
+        "selectLeaveType": "בחר סוג חופשה",
+        "selectMonth": "בחר חודש",
+        "selectYear": "בחר שנה",
+        "selectDate": "בחר תאריך",
+        "selectStartDate": "בחר תאריך התחלה",
+        "selectEndDate": "בחר תאריך סיום",
+        "selectTimeIn": "בחר זמן כניסה",
+        "selectTimeOut": "בחר זמן יציאה",
+        "selectStartTime": "בחר זמן התחלה",
+        "selectEndTime": "בחר זמן סיום",
+        "selectStatus": "בחר סטטוס",
+        "selectGender": "בחר מין",
+        "selectPaymentType": "בחר סוג תשלום",
+        "enterFullName": "הזן שם מלא",
+        "enterEmail": "הזן אימייל",
+        "enterPhone": "הזן טלפון",
+        "enterCountry": "הזן מדינה",
+        "enterSalary": "לדוגמה: 500",
+        "enterHolidayName": "הזן שם חג",
+        "enterDescription": "הזן תיאור...",
+        "autoCalculated": "מחושב אוטומטית",
+        "selectDatesFirst": "בחר תאריכים תחילה",
+        "allEmployee": "כל העובדים",
+        "selectEmployeeFirst": "בחר עובד תחילה",
+        "enterDepartmentName": "הזן שם מחלקה",
+        "enterDesignationName": "הזן שם תפקיד",
+        "ex": "{value}",
+        "selectBirthDate": "בחר תאריך לידה",
+        "selectJoinDate": "בחר תאריך הצטרפות",
+        "selectBreakStatus": "בחר סטטוס הפסקה",
+        "enterLeaveTypeName": "הזן שם סוג חופשה"
+      }
+    },
+    "emptyStates": {
+      "noLeaves": "לא נמצאו חופשות",
+      "noPayrollRecords": "לא נמצאו רשומות שכר",
+      "noAttendanceRecords": "לא נמצאו רשומות נוכחות",
+      "noLeaveTypes": "לא נמצאו סוגי חופשות",
+      "noEmployees": "לא נמצאו עובדים",
+      "noHolidays": "לא נמצאו חגים",
+      "noShifts": "לא נמצאו משמרות",
+      "noDesignations": "לא נמצאו תארים",
+      "noDepartments": "לא נמצאו מחלקות"
+    },
+    "confirmations": {
+      "deleteAttendance": "האם אתה בטוח שברצונך למחוק נוכחות זו?",
+      "deletePayroll": "האם אתה בטוח שברצונך למחוק משכורת זו?",
+      "deleteLeave": "האם אתה בטוח שברצונך למחוק חופשה זו?",
+      "deleteLeaveType": "האם ברצונך למחוק סוג חופשה זה?",
+      "deleteEmployee": "האם אתה בטוח שברצונך למחוק עובד זה?",
+      "deleteHoliday": "האם אתה בטוח שברצונך למחוק חג זה?",
+      "deleteShift": "האם ברצונך למחוק משמרת זו?",
+      "deleteDesignation": "האם אתה בטוח שברצונך למחוק תואר זה?",
+      "deleteDepartment": "האם אתה בטוח שברצונך למחוק מחלקה זו?"
+    },
+    "validation": {
+      "selectEmployee": "אנא בחר עובד",
+      "selectMonth": "אנא בחר חודש",
+      "selectEndDate": "אנא בחר תאריך סיום",
+      "endDateAfterStart": "תאריך סיום חייב להיות אחרי תאריך התחלה",
+      "selectStatus": "אנא בחר סטטוס",
+      "selectLeaveType": "אנא בחר סוג חופשה",
+      "selectStartDate": "אנא בחר תאריך התחלה",
+      "selectDate": "אנא בחר תאריך",
+      "selectTimeIn": "אנא בחר שעת כניסה",
+      "selectTimeOut": "אנא בחר שעת יציאה",
+      "enterDepartmentName": "אנא הזן שם מחלקה",
+      "enterDesignationName": "אנא הזן שם תפקיד",
+      "enterName": "אנא הזן שם",
+      "selectDesignation": "אנא בחר תואר",
+      "selectDepartment": "אנא בחר מחלקה",
+      "enterEmail": "אנא הזן אימייל",
+      "enterValidEmail": "אנא הזן אימייל תקין",
+      "enterPhoneNumber": "אנא הזן מספר טלפון",
+      "enterCountry": "אנא הזן מדינה",
+      "enterSalary": "אנא הזן שכר",
+      "selectGender": "אנא בחר מין",
+      "selectShift": "אנא בחר משמרת",
+      "selectBirthDate": "אנא בחר תאריך לידה",
+      "selectJoinDate": "אנא בחר תאריך הצטרפות",
+      "enterHolidayName": "אנא הזן שם חג",
+      "selectBreakStatus": "אנא בחר סטטוס הפסקה",
+      "selectPaymentYear": "אנא בחר שנת תשלום",
+      "selectPaymentType": "אנא בחר סוג תשלום",
+      "enterAmount": "אנא הזן סכום",
+      "selectStartBreakTime": "אנא בחר שעת תחילת הפסקה",
+      "selectEndBreakTime": "אנא בחר שעת סיום הפסקה",
+      "enterLeaveTypeName": "אנא הזן שם סוג חופשה",
+      "selectStartTime": "אנא בחר שעת התחלה",
+      "selectEndTime": "אנא בחר שעת סיום"
+    },
+    "dropdowns": {
+      "addNew": "+ הוסף חדש",
+      "morning": "בוקר",
+      "day": "יום",
+      "evening": "ערב",
+      "night": "לילה",
+      "yes": "כן",
+      "no": "לא",
+      "approved": "אושר",
+      "rejected": "נדחה",
+      "terminated": "הופסק",
+      "suspended": "הושעה",
+      "male": "זכר",
+      "female": "נקבה",
+      "pending": "ממתין",
+      "active": "פעיל",
+      "inactive": "לא פעיל",
+      "paid": "שולם",
+      "unpaid": "לא שולם"
+    },
+    "units": {
+      "days": " ימים"
+    },
+    "fallbacks": {
+      "noNoteAvailable": "אין הערה זמינה",
+      "noDescriptionAvailable": "אין תיאור זמין",
+      "selectEmployeeFirst": "בחר עובד תחילה"
+    },
+    "success": {
+      "leaveDelete": "חופשה נמחקה בהצלחה",
+      "attendanceDelete": "נוכחות נמחקה בהצלחה",
+      "attendanceAdd": "נוכחות נוספה בהצלחה",
+      "attendanceUpdate": "נוכחות עודכנה בהצלחה",
+      "leaveAdd": "חופשה נוספה בהצלחה",
+      "leaveUpdate": "חופשה עודכנה בהצלחה",
+      "departmentDelete": "מחלקה נמחקה בהצלחה",
+      "departmentAdd": "מחלקה נוספה בהצלחה",
+      "departmentUpdate": "מחלקה עודכנה בהצלחה",
+      "designationDelete": "תואר נמחק בהצלחה",
+      "designationAdd": "תואר נוסף בהצלחה",
+      "designationUpdate": "תואר עודכן בהצלחה",
+      "employeeDelete": "עובד נמחק בהצלחה",
+      "employeeAdd": "עובד נוסף בהצלחה",
+      "employeeUpdate": "עובד עודכן בהצלחה",
+      "holidayDelete": "חג נמחק בהצלחה",
+      "holidayAdd": "חג נוסף בהצלחה",
+      "holidayUpdate": "חג עודכן בהצלחה",
+      "leaveTypeDelete": "סוג חופשה נמחק בהצלחה"
+    }
+  }
+}

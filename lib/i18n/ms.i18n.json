@@ -1,0 +1,1561 @@
+{
+  "@@meta": {
+    "languageCode": "ms_MY",
+    "languageName": "Malay",
+    "version": "1.0.0"
+  },
+  "common": {
+    "signIn": "Log Masuk",
+    "signUp": "Daftar",
+    "verifyEmail": "Sahkan Emel",
+    "customizeProfile": "Sesuaikan Profil",
+    "imageOrLogo": "Logo atau Imej",
+    "createNewPassword": "Cipta Kata Laluan Baru",
+    "itemsList": "Senarai Item",
+    "searchItemsName": "Cari Nama Item",
+    "categoryList": "Senarai Kategori",
+    "brandList": "Senarai Jenama",
+    "unitList": "Senarai Unit",
+    "itemDetails": "Butiran Item",
+    "addStock": "Tambah Stok",
+    "profile": "Profil",
+    "language": "Bahasa",
+    "termsAndConditions": "Terma & Syarat",
+    "aboutUs": "Tentang Kami",
+    "logout": "Log Keluar",
+    "editProfile": "Edit Profil",
+    "fullName": "Nama Penuh",
+    "email": "Emel",
+    "mobileNumber": "Nombor Telefon Bimbit",
+    "address": "Alamat",
+    "password": "Kata Laluan",
+    "forgotPassword": "Lupa kata laluan",
+    "edit": "Sunting",
+    "delete": "Padam",
+    "addItems": "Tambah Item",
+    "stock": "Stok",
+    "currentStock": "Stok Semasa",
+    "value": "Nilai",
+    "sales": "Jualan",
+    "purchase": "Pembelian",
+    "price": "Harga",
+    "image": "Imej",
+    "upload": "Muat Naik",
+    "addNew": "Tambah Baru",
+    "pricing": "Penetapan Harga",
+    "name": "Nama",
+    "category(plural)": {
+      "one": "Kategori",
+      "other": "Kategoris"
+    },
+    "areas": "Areas",
+    "brand": "Jenama",
+    "lowStock": "Stok Rendah",
+    "unit": "Unit",
+    "vat": "VAT",
+    "taxType": "Jenis Cukai",
+    "purchasePrice": "Harga Beli",
+    "sellingPrice": "Harga Jual",
+    "wholeSalePrice": "Harga Borong",
+    "dealerPrice": "Harga Peniaga",
+    "searchHere": "Cari Di Sini",
+    "totalItems": "Jumlah Item",
+    "stockValue": "Nilai Stok",
+    "congratulation": "Tahniah",
+    "salesList": "Senarai Jualan",
+    "searchInvoiceNumber": "Cari no invois",
+    "view": "Lihat",
+    "kFor": "Untuk",
+    "total": "Jumlah",
+    "subTotal": "Sub Jumlah",
+    "insufficientStockAvailableStock": "Stok tidak mencukupi, stok tersedia",
+    "discount": "Diskaun",
+    "selectOne": "Pilih satu",
+    "allCategory": "Semua Kategori",
+    "details": "Butiran",
+    "parcel": "Bungkusan",
+    "kot": "KOT",
+    "table": "Meja",
+    "holdTable": "Tahan Meja",
+    "capacity": "Kapasiti",
+    "commonHint": "Cth: 10",
+    "pleaseEnterQuantity": "Sila masukkan kuantiti",
+    "quantityMustBeGreaterThanZero": "Kuantiti mesti lebih besar daripada 0",
+    "mobile": "Mudah Alih",
+    "orderNo": "No Pesanan",
+    "dateAndTime": "Tarikh & Masa",
+    "items": "Item",
+    "totalAmount": "Jumlah Amaun",
+    "paidAmount": "Amaun Dibayar",
+    "dueAmount": "Amaun Tertunggak",
+    "paymentType": "Jenis Pembayaran",
+    "thankYou": "Terima kasih",
+    "developedBy": "Dibangunkan oleh ${domain: String}",
+    "qty": "Harga",
+    "amount": "Amaun",
+    "dashboard": "Papan Pemuka",
+    "reports": "Laporan",
+    "home": "Laman Utama",
+    "parties": "Pihak",
+    "subscriptionPlan": "Pelan Langganan",
+    "estimateList": "Senarai Anggaran",
+    "purchaseList": "Senarai Pembelian",
+    "dueList": "Senarai Tertunggak",
+    "lossOrProfit": "Kerugian/Keuntungan",
+    "stocks": "Stok",
+    "moneyInList": "Senarai Wang Masuk",
+    "moneyOutList": "Senarai Wang Keluar",
+    "transactionList": "Senarai Transaksi",
+    "income": "Pendapatan",
+    "expense": "Perbelanjaan",
+    "quickView": "Lihat Pantas",
+    "to": "hingga",
+    "totalSales": "Jumlah Jualan",
+    "totalPurchase": "Jumlah Pembelian",
+    "holdNumber": "Pesanan Tertahan",
+    "totalExpense": "Jumlah Perbelanjaan",
+    "loss": "Kerugian",
+    "profit": "Keuntungan",
+    "recentTransaction": "Transaksi Terkini",
+    "invoice": "Invois",
+    "moneyIn": "Wang Masuk",
+    "moneyOut": "Wang Keluar",
+    "paid": "Dibayar",
+    "due": "Tertunggak",
+    "partial": "Separa",
+    "print": "Cetak",
+    "addCategory": "Tambah Kategori",
+    "addExpense": "Tambah Perbelanjaan",
+    "search": "Cari...",
+    "viewDetails": "Lihat Butiran",
+    "title": "Tajuk",
+    "date": "Tarikh",
+    "note": "Nota",
+    "phoneNumber": "Nombor Telefon",
+    "type": "Jenis",
+    "selectContactSType": "Pilih jenis kenalan",
+    "moreInfo": "Maklumat Lanjut",
+    "paymentReceived": "Pembayaran Diterima",
+    "selectSupplier": "Pilih pembekal",
+    "supplier": "Pembekal",
+    "received": "Diterima",
+    "balanceDue": "Baki Tertunggak",
+    "addPurchase": "Tambah Pembelian",
+    "selectedItemWillBeCleared": "Item yang dipilih akan dibersihkan.",
+    "searchItemName": "Cari nama item",
+    "billItems": "Item Bil",
+    "addMoreItems": "Tambah Lebih Banyak Item",
+    "payAmount": "Bayar Amaun",
+    "salesReport": "Laporan Jualan",
+    "purchaseReport": "Laporan Pembelian",
+    "stockReport": "Laporan Stok",
+    "dueReport": "Laporan Tertunggak",
+    "dueCollectionReport": "Laporan Kutipan Tertunggak",
+    "transactionReport": "Laporan Transaksi",
+    "incomeReport": "Laporan Pendapatan",
+    "dueCollectionList": "Senarai Kutipan Tertunggak",
+    "expenseReport": "Laporan Perbelanjaan",
+    "dueCollection": "Kutipan Tertunggak",
+    "myProfile": "Profil Saya",
+    "printingOption": "Pilihan Cetakan",
+    "currency": "Mata Wang",
+    "paymentMethod": "Kaedah Pembayaran",
+    "rateUs": "Nilaikan Kami",
+    "termAndCondition": "Terma & Syarat",
+    "tableList": "Senarai Meja",
+    "addTable": "Tambah Meja",
+    "vatRate": "Kadar VAT %",
+    "action": "Tindakan",
+    "status": "Status",
+    "active": "Aktif",
+    "inActive": "Tidak Aktif",
+    "subVats": "Sub VAT",
+    "add": "Tambah",
+    "taxRate": "Kadar Cukai %",
+    "subTaxes": "Sub Cukai",
+    "group": "kumpulan",
+    "VAT": "NEEDS_TRANSLATION: VAT (ms)",
+    "subTaxList": "Senarai Sub Cukai",
+    "vatPercent": "Peratus VAT",
+    "statusIsCannotInActive": "Status tidak boleh tidak aktif jika VAT ada pada jualan.",
+    "vatOnSales": "VAT Pada Jualan",
+    "transaction": "Transaksi",
+    "version": "Versi ${version: String}",
+    "hold": "Tahan",
+    "empty": "Kosong",
+    "appName": "Restaurant App",
+    "duePayment": "Bayaran Tertunggak",
+    "orders": "Pesanan",
+    "all": "Semua",
+    "ingredient": "Bahan",
+    "menus": "Menu",
+    "modifierGroups": "Kumpulan Pengubah",
+    "itemModifiers": "Pengubah Item",
+    "staff": "Kakitangan",
+    "coupon": "Kupon",
+    "pay": "Bayar",
+    "pendingOrders": "Pesanan Tertunda",
+    "order": "Pesanan",
+    "payNow": "Bayar Sekarang",
+    "addStaff": "Tambah Kakitangan",
+    "designation": "Jawatan",
+    "itemAdded": "Item Ditambah",
+    "noItemAdded": "Tiada Item Ditambah",
+    "saveNPrint": "Simpan & Cetak",
+    "allowMultiSelection": "Benarkan pelbagai pilihan",
+    "required": "Diperlukan",
+    "optional": "Pilihan",
+    "allowMultiSelectionForSale": "Benarkan Pelbagai Pilihan untuk Jualan",
+    "isRequired": "Diperlukan",
+    "modifier": "Pengubah",
+    "fullPayment": "Bayaran Penuh",
+    "payment": "Pembayaran",
+    "addTip": "Tambah Tip",
+    "netPayable": "Jumlah Bersih Kena Bayar",
+    "receiveAmount": "Jumlah Diterima",
+    "changeAmount": "Jumlah Baki",
+    "quotationList": "Senarai Sebut Harga",
+    "addQuotation": "Tambah Sebut Harga",
+    "convert": "Tukar",
+    "variations": "Variasi",
+    "instructions": "Arahan",
+    "unavailable": "Tidak Tersedia",
+    "tip": "Petua",
+    "salesQuotationReport": "Laporan Sebut Harga Jualan",
+    "orderType": "Jenis Pesanan",
+    "deliveryCharge": "Caj Penghantaran",
+    "receiptNo": "No Resit",
+    "paidBy": "Dibayar Oleh",
+    "receivedBy": "Diterima Oleh",
+    "paymentAmount": "Jumlah Bayaran",
+    "remainingDue": "Baki Perlu Dibayar",
+    "roleNPermission": "Peranan & Kebenaran",
+    "sl": "SL",
+    "features": "Ciri-ciri",
+    "create": "Cipta",
+    "update": "Kemas Kini",
+    "quotations": "Sebut Harga",
+    "restaurant": "Restoran",
+    "printerProfile": "Profil Pencetak",
+    "kitchenOrders": "Pesanan Dapur",
+    "kitchen(plural)": {
+      "one": "Dapur",
+      "other": "Dapur"
+    },
+    "allKOT": "Semua KOT",
+    "cancelKOT": "Batalkan KOT",
+    "selectCancelReason": "Pilih Sebab Pembatalan",
+    "additionalComment": "Komen Tambahan",
+    "enterComment": "Masukkan komen",
+    "orderStatus": "Status Pesanan",
+    "selectOrderStatus": "Pilih status pesanan",
+    "kotReport": "Laporan KOT",
+    "itemFoodType": "Jenis Makanan",
+    "selectItemFoodType": "Pilih @:common.itemFoodType",
+    "markAllAsRead": "Tandakan Semua Sebagai Dibaca",
+    "online": "Online",
+    "cancelledReason": "Cancelled Reason",
+    "hrm": "HRM",
+    "notAvailable": "N/A"
+  },
+  "exceptions": {
+    "somethingWentWrong": "Ada yang tidak kena, sila cuba lagi",
+    "noCategoryFound": "Kategori tidak ditemui!\nSila cuba tambah kategori.",
+    "doYouWantToDeleteThisCategory": "Adakah anda mahu memadam kategori ini?",
+    "noBrandFound": "Jenama tidak ditemui!\nSila cuba tambah jenama.",
+    "doYouWantToDeleteThisBrand": "Adakah anda mahu memadam jenama ini?",
+    "noItemStockFound": "Stok item tidak ditemui!\nSila cuba tambah item.",
+    "noUnitFound": "Unit tidak ditemui!\nSila cuba tambah unit.",
+    "doYouDeleteThisUnit": "Adakah anda mahu memadam unit ini?",
+    "noSaleFoundPleaseSAddProduct": "Jualan tidak ditemui!\nSila cuba tambah jualan.",
+    "doYouWantToDeleteThisSale": "Adakah anda mahu memadam jualan ini?",
+    "pleaseAddItemToTheCartFirst": "Sila tambah item ke dalam troli dahulu",
+    "noItemAdded": "Tiada Item Ditambah",
+    "cannotEditOthersTable": "Tidak boleh mengedit meja orang lain.",
+    "tableIsAlreadyBlocked": "Meja sudah ditempah.",
+    "failedToGetCustomerDetails": "Gagal mendapatkan butiran pelanggan.",
+    "noTableFoundPleaseTryAgain": "Meja tidak ditemui!\nSila cuba tambah meja.",
+    "noDueCollectionFound": "Tiada invois tertunggak ditemui!\nAnda boleh melihat invois tertunggak apabila tersedia.",
+    "noExpenseFoundPleaseTryAddingExpense": "Perbelanjaan tidak ditemui!\nSila cuba tambah perbelanjaan.",
+    "doYouWantToDeleteThisExpense": "Adakah anda mahu memadam perbelanjaan ini?",
+    "noExpenseCategoryFound": "Kategori perbelanjaan tidak ditemui!\nSila cuba tambah kategori perbelanjaan.",
+    "noTransactionFound": "Tiada transaksi ditemui, sila cuba lagi nanti!",
+    "pleaseSelectACategory": "Sila pilih kategori",
+    "noIncomeFound": "Pendapatan tidak ditemui!\nSila cuba tambah pendapatan",
+    "doYouWantToDeleteThisIncome": "Adakah anda mahu memadam pendapatan ini?",
+    "noIncomeCategoryFoundAddingAIncome": "Kategori pendapatan tidak ditemui!\nSila cuba tambah kategori pendapatan.",
+    "noItemFoundPleaseTryAddingItem": "Item tidak ditemui!\nSila cuba tambah item.",
+    "noPartiesFound": "Tiada pihak ditemui",
+    "doYouWantToDeleteThisParty": "Adakah anda mahu memadam pihak ini?",
+    "noLedgerFound": "Lejar tidak ditemui!\nSila cuba tambah ${transactionType: String}",
+    "areYouSureYouSureWantToDeleteThisTaxType": "Adakah anda pasti mahu memadam ${taxType: String} ini?",
+    "noItemFoundPleaseSTryAddingAnPurchase": "Item tidak ditemui!\nSila cuba tambah pembelian.",
+    "doYouWantToDeleteThisPurchase": "Adakah anda mahu memadam pembelian ini?",
+    "noTransactionFoundYouSeeTransactionHereWhenAvailable": "Tiada transaksi ditemui!\nAnda akan melihat transaksi di sini apabila tersedia.",
+    "noSaleFoundPleaseTryAddingSale": "Jualan tidak ditemui!\nSila cuba tambah jualan.",
+    "noPurchaseFoundPleaseTryAddingPurchase": "Pembelian tidak ditemui!\nSila cuba tambah pembelian.",
+    "noItemIncomeFound": "Pendapatan item tidak ditemui!\nAnda boleh melihat data pendapatan apabila tersedia.",
+    "noItemExpenseFound": "Perbelanjaan item tidak ditemui!\nAnda boleh melihat data perbelanjaan apabila tersedia.",
+    "noItemDueInvoiceFound": "Invois item tertunggak tidak ditemui!\nAnda boleh melihat invois tertunggak apabila tersedia.",
+    "noItemDueCollectionInvoiceFound": "'Invois kutipan tertunggak item tidak ditemui!\nAnda boleh melihat invois kutipan tertunggak apabila tersedia.",
+    "doYouWantToDeleteThisTable": "Adakah anda mahu memadam meja ini?'",
+    "thisVatIsBeingUsedOnSales": "VAT ini sedang digunakan pada jualan!",
+    "noPaymentMethodFoundPleaseTryAddingAPaymentMethod": "Kaedah pembayaran tidak ditemui!\nSila cuba tambah kaedah pembayaran.",
+    "pleaseSelectACustomerFirst": "Sila pilih pelanggan terlebih dahulu.",
+    "pleaseSelectATableToCreateAKot": "Sila pilih meja untuk mencipta KOT.",
+    "noStaffFound": "Tiada kakitangan ditemui!\\n Sila cuba tambah kakitangan.",
+    "noIngredientFound": "Tiada bahan ditemui!\\n Sila cuba tambah bahan.",
+    "exceedsPaymentAmount": "Jumlah yang diterima tidak boleh melebihi jumlah yang perlu dibayar",
+    "noItemModifierFound": "Tiada pengubah item ditemui!\\n Sila cuba tambah pengubah item.",
+    "noModifierGroupFound": "Tiada kumpulan pengubah ditemui!\\n Sila cuba tambah kumpulan pengubah.",
+    "noOptionsFound": "Tiada pilihan ditemui!",
+    "maxImageCountLimit": "Anda hanya boleh memilih sehingga 5 imej.",
+    "noQuotationFound": "Tiada sebut harga ditemui!\\nSila cuba tambah sebut harga.",
+    "noPermittedUserFound": "Tiada pengguna yang dibenarkan ditemui!\\nSila cuba tambah pengguna."
+  },
+  "prompt": {
+    "logout": {
+      "title": "@:common.logout",
+      "message": "Adakah anda pasti mahu log keluar?"
+    },
+    "unsavedWarning": {
+      "title": "Adakah anda mahu kembali?",
+      "message": "Ruangan yang telah diubah mungkin tidak disimpan!"
+    },
+    "verify": {
+      "title": "Sahkan E-mel Anda",
+      "description(rich)": "Kami telah menghantar e-mel kod pengesahan${emailSpan}\n\nMungkin e-mel tersebut telah masuk ke folder spam anda."
+    },
+    "subscriptionExpired": {
+      "title": "Langganan Tamat!",
+      "message": "Sila langgan untuk meneruskan.",
+      "action": "Langgan"
+    },
+    "items": {
+      "delete": {
+        "title": "Adakah anda mahu memadam item ini?"
+      },
+      "filter": {
+        "title": "Tapis Mengikut",
+        "extra": {
+          "lowToHigh": "Rendah ke Tinggi @:common.price",
+          "highToLow": "Tinggi ke Rendah @:common.price"
+        }
+      }
+    },
+    "checkInternet": {
+      "title": "Tiada Sambungan Internet",
+      "message": "Sila periksa sambungan rangkaian mudah alih Wi-Fi anda dan cuba lagi"
+    },
+    "back": {
+      "title": "Tekan kembali sekali lagi untuk keluar."
+    },
+    "stockModelSheet": {
+      "title": "Tambah Stok Baru"
+    },
+    "paymentMethod": {
+      "title": "Adakah anda mahu memadam kaedah pembayaran ini?"
+    },
+    "extMsg": {
+      "kotSavedSuccessfully": "KOT berjaya disimpan"
+    },
+    "deleteStaff": "Adakah anda ingin memadam kakitangan ini?",
+    "deleteIngredient": "Adakah anda ingin memadam bahan ini?",
+    "deleteItemModifier": "Adakah anda ingin memadam pengubah item ini?",
+    "deleteModifierGroup": "Adakah anda ingin memadam kumpulan pengubah ini?",
+    "deleteQuotation": "Adakah anda ingin memadam sebut harga ini?"
+  },
+  "form": {
+    "fullName": {
+      "label": "@:common.fullName",
+      "hint": "Masukkan @:common.fullName",
+      "errors": {
+        "required": "Sila masukkan @:common.fullName anda"
+      }
+    },
+    "email": {
+      "label": "@:common.email",
+      "hint": "Masukkan @:common.email anda",
+      "errors": {
+        "required": "Sila masukkan alamat @:common.email anda",
+        "invalid": "⦸ E-mel Tidak Sah, Sila Cuba Lagi"
+      }
+    },
+    "password": {
+      "label": "@:common.password",
+      "hint": "* * * * * * * *",
+      "errors": {
+        "required": "Sila masukkan @:common.password anda",
+        "minLength": "Kata laluan mestilah sekurang-kurangnya ${count} aksara!"
+      }
+    },
+    "confirmPassword": {
+      "label": "Sahkan Kata Laluan",
+      "hint": "* * * * * * * *",
+      "errors": {
+        "required": "Sila masukkan @:common.password anda",
+        "invalid": "'Sahkan kata laluan tidak sepadan!"
+      }
+    },
+    "otp": {
+      "errors": {
+        "required": "Sila masukkan otp.",
+        "invalid": "Sila masukkan otp semasa."
+      }
+    },
+    "profile": {
+      "businessCategory": {
+        "label": "Kategori Perniagaan",
+        "hint": "Pilih kategori perniagaan",
+        "errors": {
+          "required": "Sila pilih kategori perniagaan"
+        }
+      },
+      "shopOrStore": {
+        "label": "Nama Kedai/Stor*",
+        "hint": "Masukkan nama kedai atau stor",
+        "errors": {
+          "required": "Sila masukkan nama kedai atau stor anda"
+        }
+      },
+      "openingBalance": {
+        "label": "Baki Awal",
+        "hint": "Masukkan baki awal"
+      },
+      "vatGstTitle": {
+        "label": "Tajuk VAT/GST",
+        "hint": "Masukkan vat/gst"
+      },
+      "vatGstNumber": {
+        "label": "Nombor VAT/GST",
+        "hint": "Masukkan nombor vat/gst"
+      }
+    },
+    "vat": {
+      "name": {
+        "label": "Nama",
+        "hint": "Masukkan nama VAT",
+        "error": {
+          "required": "Sila masukkan nama VAT"
+        }
+      },
+      "subVat": {
+        "label": "Sub Cukai Jualan",
+        "hint": "Pilih sub VAT",
+        "errors": {
+          "required": "Sila pilih sub VAT"
+        }
+      },
+      "rate": {
+        "label": "Kadar VAT %",
+        "hint": "Masukkan kadar VAT",
+        "errors": {
+          "required": "Sila masukkan kadar VAT."
+        }
+      }
+    },
+    "category": {
+      "label": "@:common.category",
+      "hint": "Pilih kategori item",
+      "error": {
+        "required": "Sila masukkan nama kategori"
+      }
+    },
+    "items": {
+      "barcode": {
+        "label": "Kod Bar",
+        "hint": "@:common.selectOne"
+      },
+      "itemName": {
+        "label": "Nama Item",
+        "hint": "Masukkan nama item",
+        "extra": {
+          "required": "Sila masukkan nama item"
+        }
+      },
+      "itemCategory": {
+        "label": "Kategori Item",
+        "hint": "Kategori Item",
+        "extra": {
+          "label": "Pilih kategori",
+          "required": "Sila pilih kategori"
+        }
+      },
+      "brand": {
+        "label": "@:common.brand",
+        "hint": "@:common.selectOne",
+        "extra": {
+          "hint": "Masukkan nama jenama",
+          "required": "Sila masukkan nama jenama"
+        }
+      },
+      "unit": {
+        "label": "@:common.unit",
+        "hint": "@:common.selectOne",
+        "error": {
+          "required": "Sila masukkan nama unit"
+        }
+      },
+      "stock": {
+        "label": "Stok Awal",
+        "hint": "@:common.commonHint",
+        "extra": {
+          "required": "Sila masukkan kualiti item."
+        }
+      },
+      "lowStock": {
+        "label": "@:common.lowStock",
+        "hint": "Cth: 5"
+      },
+      "purchasePrice": {
+        "label": "@:common.purchasePrice",
+        "hint": "Cth: \\$40",
+        "error": {
+          "required": "Sila masukkan harga belian."
+        }
+      },
+      "salePrice": {
+        "label": "Harga Jualan",
+        "hint": "Cth: \\$60",
+        "error": {
+          "required": "Sila masukkan harga jualan."
+        }
+      },
+      "totalSalePrice": {
+        "label": "Jumlah Harga Jualan",
+        "hint": "Cth: \\$100"
+      },
+      "wholeSalePrice": {
+        "label": "@:common.wholeSalePrice",
+        "hint": "Masukkan harga borong"
+      },
+      "dealerPrice": {
+        "label": "@:common.dealerPrice",
+        "hint": "Masukkan harga pengedar"
+      },
+      "discount": {
+        "label": "Diskaun (%)",
+        "hint": "@:common.commonHint"
+      },
+      "applicableTax": {
+        "label": "Cukai Berkenaan",
+        "hint": "@:common.selectOne"
+      },
+      "vatType": {
+        "label": "@:common.taxType",
+        "errorText": {
+          "required": "Sila pilih jenis VAT"
+        }
+      },
+      "menu": {
+        "label": "Pilih Menu",
+        "errors": {
+          "required": "Sila pilih menu."
+        },
+        "hint": "Pilih menu",
+        "extra": {
+          "selectNavLabel": "Pilih Menu Item"
+        }
+      },
+      "modifierItems": {
+        "label": "Item Pengubah",
+        "hint": "Pilih item pengubah"
+      },
+      "preparationTime": {
+        "label(rich)": "Masa Persediaan ${minutes(Minit)}",
+        "hint": "Cth: 30"
+      },
+      "variation": {
+        "name": {
+          "label": "Nama",
+          "hint": "Masukkan variasi",
+          "errors": {
+            "required": "Sila masukkan nama variasi."
+          }
+        },
+        "price": {
+          "errors": {
+            "required": "Sila masukkan harga."
+          },
+          "label": "Harga",
+          "hint": "Cth: RM30"
+        }
+      }
+    },
+    "itemCart": {
+      "hint": "@:common.commonHint",
+      "error": {
+        "required": "@:common.pleaseEnterQuantity",
+        "noZero": "@:common.quantityMustBeGreaterThanZero"
+      }
+    },
+    "sales": {
+      "autoGenerateInvoice": {
+        "label": "No Bil",
+        "hint": "P-00001"
+      },
+      "date": {
+        "label": "Tarikh"
+      },
+      "customer": {
+        "label": "Pelanggan",
+        "hint": "Pilih Pelanggan"
+      },
+      "phone": {
+        "label": "Nombor Telefon",
+        "hint": "Masukkan nombor telefon"
+      },
+      "address": {
+        "label": "Alamat",
+        "hint": "Masukkan alamat"
+      },
+      "deliveryCharge": {
+        "label": "@:common.deliveryCharge",
+        "hint": "Cth: \\$20",
+        "hint2": "Caj Cth: RM10"
+      },
+      "table": {
+        "hint": "Pilih Meja"
+      },
+      "waiter": {
+        "hint": "Pilih Pelayan"
+      }
+    },
+    "bill": {
+      "label": "No Bil",
+      "hint": "P-00001"
+    },
+    "supplier": {
+      "label": "Pembekal",
+      "hint": "Pilih Pembekal",
+      "extra": {
+        "required": "Sila pilih pembekal"
+      }
+    },
+    "phone": {
+      "label": "Nombor Telefon",
+      "hint": "Masukkan nombor telefon",
+      "errors": {
+        "required": "Sila masukkan nombor telefon."
+      }
+    },
+    "address": {
+      "label": "Alamat Syarikat",
+      "hint": "Masukkan alamat syarikat"
+    },
+    "payment": {
+      "label": "Nama",
+      "hint": "Masukkan nama pembayaran",
+      "error": {
+        "required": "Sila masukkan nama kaedah pembayaran"
+      }
+    },
+    "expense": {
+      "label": "Kategori Perbelanjaan",
+      "hint": "Pilih kategori perbelanjaan",
+      "error": {
+        "required": "Sila masukkan kategori perbelanjaan"
+      }
+    },
+    "income": {
+      "label": "Kategori Pendapatan",
+      "hint": "Masukkan nama kategori",
+      "error": {
+        "required": "Sila masukkan nama kategori"
+      },
+      "incomeTitle": {
+        "label": "Tajuk Pendapatan",
+        "hint": "Masukkan pendapatan"
+      },
+      "incomeCategory": {
+        "label": "Kategori Pendapatan",
+        "hint": "Pilih kategori"
+      },
+      "payment": {
+        "label": "Pembayaran",
+        "hint": "Cth: \\$10"
+      }
+    },
+    "note": {
+      "label": "Nota (Pilihan)",
+      "hint": "Masukkan Teks"
+    },
+    "parties": {
+      "partyName": {
+        "label": "Nama Pihak",
+        "hint": "Masukkan nama pihak",
+        "error": {
+          "required": "Sila masukkan nama pihak"
+        }
+      },
+      "partyPhone": {
+        "label": "Nombor Telefon",
+        "hint": "Masukkan nombor telefon",
+        "error": {
+          "required": "Sila masukkan nombor telefon"
+        }
+      }
+    },
+    "table": {
+      "name": {
+        "label": "Nama Meja",
+        "hint": "Masukkan nama meja",
+        "error": {
+          "required": "Sila masukkan nama meja"
+        }
+      },
+      "capacity": {
+        "label": "Kapasiti",
+        "hint": "Masukkan kapasiti",
+        "error": {
+          "required": "Sila masukkan kapasiti"
+        }
+      }
+    },
+    "designation": {
+      "label": "@:common.designation",
+      "hint": "Pilih jawatan",
+      "errors": {
+        "required": "Sila pilih jawatan."
+      }
+    },
+    "ingredientName": {
+      "label": "Nama Bahan",
+      "hint": "Masukkan nama bahan",
+      "errors": {
+        "required": "Sila masukkan nama bahan"
+      }
+    },
+    "item": {
+      "label": "Item",
+      "hint": "Pilih item",
+      "errors": {
+        "required": "Sila pilih item."
+      }
+    },
+    "modifierGroup": {
+      "label": "Kumpulan Pengubah",
+      "hint": "Pilih kumpulan pengubah",
+      "errors": {
+        "required": "Sila pilih kumpulan pengubah."
+      }
+    },
+    "description": {
+      "label": "Penerangan",
+      "hint": "Masukkan penerangan"
+    },
+    "staff": {
+      "label": "@:common.staff",
+      "hint": "Pilih seorang staf",
+      "errors": {
+        "required": "Sila pilih seorang staf"
+      }
+    },
+    "loginUserName": {
+      "label": "Nama Pengguna Log Masuk",
+      "hint": "Masukkan nama pengguna atau alamat emel",
+      "errors": {
+        "required": "Sila masukkan nama pengguna atau alamat emel"
+      }
+    }
+  },
+  "action": {
+    "next": "Seterusnya",
+    "getStarted": "Mulakan",
+    "skip": "Langkau",
+    "select": "Pilih",
+    "save": "Simpan",
+    "verify": "Sahkan",
+    "signIn": "@:common.signIn",
+    "signUp": "@:common.signUp",
+    "continue": "Teruskan",
+    "no": "Tidak",
+    "yes": "Ya",
+    "okay": "OK",
+    "cancel": "Batal",
+    "confirm": "Sahkan",
+    "tryAgain": "Cuba Lagi",
+    "reset": "Set Semula",
+    "apply": "Gunakan",
+    "stockAdjust": "Laras Stok",
+    "addMoreItems": "Tambah Lebih Banyak Item",
+    "hold": "Tahan",
+    "parcel": "@:common.parcel",
+    "buyNow": "Beli Sekarang",
+    "viewAll": "Lihat Semua",
+    "viewLedger": "Lihat lejar",
+    "submit": "Hantar",
+    "selected": "Dipilih",
+    "addToCart": "Tambah ke Troli",
+    "selectAll": "Pilih Semua",
+    "update": "@:common.update",
+    "addRole": "Tambah Peranan"
+  },
+  "pages": {
+    "language": {
+      "appbarTitle": "@:action.select @:common.language"
+    },
+    "onboard": {
+      "onboardData": {
+        "data1": {
+          "title": "Mudah digunakan @:common.appName",
+          "description": "Pesanan lancar, tempahan tanpa usaha\\nPerkasakan restoran anda dengan mudah!"
+        },
+        "data2": {
+          "title": "Pengurusan Pesanan Tanpa Usaha",
+          "description": "Perkemaskan proses pengambilan pesanan restoran anda dengan sistem POS intuitif kami."
+        },
+        "data3": {
+          "title": "Analitik & Pelaporan Cemerlang",
+          "description": "Papan pemuka analitik kami menyediakan laporan jualan & pembelian masa nyata"
+        }
+      }
+    },
+    "signIn": {
+      "title": "Selamat Kembali",
+      "subtitle": "Sila masukkan butiran anda.",
+      "extra": {
+        "rememberMe": "Ingat Saya",
+        "signUpNavigator(rich)": "Tiada akaun? ${getStarted(@:action.getStarted)}",
+        "forgotPassword": "@:common.forgotPassword?"
+      }
+    },
+    "signUp": {
+      "title": "Cipta Akaun",
+      "subtitle": "Sila masukkan butiran anda",
+      "extra": {
+        "signInNavigator(rich)": "Sudah mempunyai akaun? ${signIn(@:action.signIn)}"
+      }
+    },
+    "forgotPassword": {
+      "title": "@:common.forgotPassword",
+      "subtitle": "Masukkan Alamat emel anda untuk memulihkan kata laluan anda."
+    },
+    "otpVerification": {
+      "title": "Pengesahan",
+      "subtitle": "Pin 6 digit telah dihantar ke alamat emel anda",
+      "extra": {
+        "codeResend": {
+          "codeSendIn": "Kod dihantar dalam",
+          "resendCode": "Hantar semula kod"
+        }
+      }
+    },
+    "resetPassword": {
+      "title": "Set semula kata laluan",
+      "subtitle": "Set semula kata laluan anda untuk pemulihan dan log masuk ke akaun anda",
+      "extra": {
+        "dialog": {
+          "title": "Berjaya diubah!",
+          "subtitle": "Log masuk dengan kata laluan baharu anda.\nAnda akan dialihkan ke Log Masuk..."
+        }
+      }
+    },
+    "items": {
+      "itemList": {
+        "extra": {
+          "emptyItem": "Tiada item ditemui!\nSila cuba tambah item."
+        }
+      },
+      "manageItems": {
+        "title": "Tambah Item Baharu",
+        "title2": "Sunting Item",
+        "extra": {
+          "maximum": "Maksimum 5",
+          "wholeSaleAndDealerPrice": "Harga Borong & Peniaga",
+          "addDiscount": "Tambah Diskaun",
+          "addVat": "Tambah VAT"
+        }
+      },
+      "itemDetails": {
+        "title": "Butiran Item",
+        "extra": {
+          "noImageAvailable": "Tiada imej tersedia!",
+          "preparationTime(rich)": "Masa Penyediaan: ${min: String} ${mins(mins)}",
+          "pleaseSelectVariation": "Sila pilih variasi",
+          "pleaseSelectOption": "Sila pilih pilihan.",
+          "enterYourInstruction": "Masukkan arahan anda"
+        }
+      }
+    },
+    "category": {
+      "addNewCategory": "Tambah Kategori Baharu",
+      "editCategory": "Edit Kategori"
+    },
+    "brand": {
+      "addNewBrand": "Tambah Jenama Baharu",
+      "editBrand": "Edit Jenama"
+    },
+    "unit": {
+      "addNewUnit": "Tambah Unit Baharu",
+      "editUnit": "Sunting Unit"
+    },
+    "stock": {
+      "stockList": "Senarai Stok"
+    },
+    "aboutUs": {
+      "title": "Tentang Kami"
+    },
+    "privacyPolicy": {
+      "title": "Dasar Privasi"
+    },
+    "termAndCondition": {
+      "title": "@:common.termAndCondition"
+    },
+    "orders": {
+      "manageOrders": {
+        "extra": {
+          "billItems": "Item Bil",
+          "manageQuantity": "Urus Kuantiti"
+        },
+        "title": {
+          "editOrder": "Edit Pesanan",
+          "editKOT": "Edit KOT"
+        }
+      }
+    },
+    "onlinePayment": {
+      "title": "Pembayaran Dalam Talian"
+    },
+    "paymentStatus": {
+      "success": {
+        "title": "Terima Kasih!",
+        "message": "Kami akan menyemak pembayaran & meluluskannya dalam masa 24 jam.",
+        "actionButtonText": "Lihat Invois"
+      },
+      "fail": {
+        "title": "Oops! Pembayaran Gagal",
+        "message": "Transaksi anda gagal disebabkan oleh beberapa ralat teknikal.",
+        "actionButtonText": "Cuba Lagi"
+      }
+    },
+    "confirmationDialog": {
+      "title": "Log keluar",
+      "message": "Adakah anda pasti mahu log keluar?",
+      "acceptationText": "Tidak",
+      "rejectionText": "Log Keluar"
+    },
+    "payment": {
+      "title": "@:common.paymentMethod",
+      "addPaymentMethod": "Tambah Kaedah Pembayaran Baharu",
+      "editPaymentMethod": "Edit Kaedah Pembayaran",
+      "choseOnlinePayment": "Pilih Pembayaran Dalam Talian",
+      "selectPaymentMethod": "Pilih Kaedah Pembayaran",
+      "pleaseSelectAPaymentMethod": "Sila pilih kaedah pembayaran.",
+      "methodStatus": {
+        "title": "Status",
+        "message": "Status tidak boleh tidak aktif jika Paparan Pantas didayakan!."
+      }
+    },
+    "subscriptionPlan": {
+      "title": "Beli Pelan Premium",
+      "extra": {
+        "actionButtonText": "Kembali",
+        "message": "Pembayaran langganan berjaya.\n\nAnda kini boleh mengakses ciri-ciri yang dilanggan.",
+        "mostPopular": "Paling Popular"
+      }
+    },
+    "invoicePreview": {
+      "title": "Pratonton Invois",
+      "message": "Pratonton PDF Akan Datang"
+    },
+    "currency": {
+      "title": "@:common.currency"
+    },
+    "dashboard": {
+      "overview": "Gambaran Keseluruhan",
+      "dashboardPrivacy": "Privasi Papan Pemuka",
+      "moneyInAndMoneyOut": "Wang Masuk & Wang Keluar",
+      "lossAndProfitOverView": "Gambaran Keseluruhan Untung & Rugi"
+    },
+    "due": {
+      "title": "@:common.dueList",
+      "collectionList": "Senarai Kutipan",
+      "dueCollection": "Kutipan Tertunggak"
+    },
+    "expense": {
+      "title": "@:common.expense",
+      "editExpense": "Edit Perbelanjaan",
+      "addNewExpense": "Tambah Perbelanjaan Baharu",
+      "editExpenseCategory": "Edit Kategori Perbelanjaan",
+      "addNewExpenseCategory": "Tambah Kategori Perbelanjaan Baharu",
+      "payment": "Pembayaran",
+      "expenseCategory": "Kategori Perbelanjaan",
+      "selectCategory": "Pilih Kategori",
+      "allExpense": "Semua Perbelanjaan",
+      "pleaseSelectACategory": "Sila pilih kategori",
+      "expenseTitle": {
+        "label": "Tajuk Perbelanjaan",
+        "hint": "Masukkan perbelanjaan"
+      }
+    },
+    "lossProfit": {
+      "title": "Senarai Rugi/Untung",
+      "noLossProfitFound": "Tiada Rugi/Untung ditemui!\nSila cuba buat jualan."
+    },
+    "income": {
+      "editIncomeCategory": "Edit Kategori Pendapatan",
+      "addNewIncomeCategory": "Tambah Kategori Pendapatan Baharu",
+      "incomeCategory": "Kategori Pendapatan",
+      "allIncome": "Semua Pendapatan",
+      "editIncome": "Edit Pendapatan",
+      "addNewIncome": "Edit Pendapatan",
+      "addIncome": "Tambah Pendapatan"
+    },
+    "moneyIn": {
+      "title": "Senarai Wang Masuk",
+      "totalPaymentIn": "Jumlah Wang Masuk"
+    },
+    "moneyOut": {
+      "title": "Senarai Wang Keluar",
+      "totalMoneyOut": "Jumlah Wang Keluar"
+    },
+    "profile": {
+      "title": "Profil Saya",
+      "editProfile": "Edit Profil",
+      "businessInformation": "Maklumat Perniagaan",
+      "profileInformation": "Maklumat Profil"
+    },
+    "parties": {
+      "title": "Senarai Pihak",
+      "allParties": "Semua Pihak",
+      "customer": "Pelanggan",
+      "supplier": "Pembekal",
+      "addParties": "Tambah Pihak",
+      "editParties": "Edit Pihak",
+      "partiesDetails": "Butiran Pihak",
+      "personalInfo": "Maklumat Peribadi"
+    },
+    "ledger": {
+      "subTitle": "Lejar"
+    },
+    "purchase": {
+      "title": "Tambah Pembelian Baharu",
+      "editPurchase": "Edit Pembelian"
+    },
+    "reports": {
+      "title": "Laporan"
+    },
+    "table": {
+      "title": "Tambah Meja Baharu",
+      "editTable": "Edit Meja"
+    },
+    "tax": {
+      "title": "Kadar VAT",
+      "buildHeaderTitle": "Kadar VAT - Urus kadar VAT anda",
+      "vatGroup": {
+        "title": "Kumpulan VAT",
+        "subTitle": "Kumpulan VAT - Urus kumpulan VAT anda"
+      }
+    },
+    "vat": {
+      "addNewVat": "Tambah VAT Baharu",
+      "editVat": "Edit Cukai Jualan",
+      "addNewVatGroup": "Tambah Kumpulan VAT Baharu",
+      "editVatGroup": "Edit Kumpulan VAT"
+    },
+    "orderList": {
+      "title": "Senarai Pesanan",
+      "filters": {
+        "orderType": {
+          "label": "@:common.orderType",
+          "hint": "Pilih Jenis Pesanan"
+        },
+        "paymentStatus": {
+          "hint": "Pilih Status Pembayaran",
+          "label": "Status Pembayaran"
+        }
+      }
+    },
+    "staffs": {
+      "staffList": {
+        "filters": {
+          "designation": {
+            "label": "Jawatan",
+            "hint": "Pilih Jawatan"
+          }
+        },
+        "title": "Semua Kakitangan"
+      },
+      "manageStaff": {
+        "title1": "Tambah Kakitangan Baru",
+        "title2": "Kemas Kini Kakitangan"
+      }
+    },
+    "ingredient": {
+      "ingredientList": {
+        "title1": "Senarai Bahan",
+        "title2": "Pilih Bahan"
+      },
+      "manageIngredient": {
+        "title1": "Tambah Bahan Baru",
+        "title2": "Edit Bahan"
+      }
+    },
+    "itemModifier": {
+      "itemModifierList": {
+        "title": "@:common.itemModifiers"
+      },
+      "manageItemModifier": {
+        "title1": "Tambah Pengubah Item",
+        "title2": "Edit Pengubah Item"
+      }
+    },
+    "quotation": {
+      "manageQuotation": {
+        "title": {
+          "add": "Tambah Sebut Harga Baharu",
+          "edit": "Edit Sebut Harga",
+          "convert": "Tukar kepada Jualan"
+        }
+      }
+    },
+    "rolePermission": {
+      "rolePermissionList": {
+        "title": "Senarai Peranan & Kebenaran"
+      },
+      "manageRolePermission": {
+        "title1": "Tambah Peranan Baharu",
+        "title2": "Edit Peranan"
+      }
+    },
+    "printingOption": {
+      "title": "Pilihan Cetakan",
+      "form": {
+        "companyAddress": {
+          "label": "Alamat Syarikat",
+          "hint": "Masukkan alamat syarikat"
+        },
+        "noteLabel": {
+          "label": "Label Nota",
+          "hint": "Masukkan label nota."
+        },
+        "note": {
+          "label": "Nota",
+          "hint": "Masukkan nota."
+        },
+        "postSaleMessage": {
+          "label": "Mesej Pasca Jualan",
+          "hint": "Masukkan mesej pasca jualan"
+        },
+        "printingMethod": {
+          "label": "Kaedah Cetakan",
+          "hint": "Pilih Kaedah Cetakan"
+        },
+        "printerProfile": {
+          "label": "Profil Pencetak",
+          "hint": "Pilih profil pencetak"
+        },
+        "paperSize": {
+          "label": "Saiz Kertas Pencetak Termal",
+          "hint": "Pilih saiz kertas pencetak"
+        },
+        "printerDpi": {
+          "label": "DPI Pencetak",
+          "hint": "Contoh: 203"
+        },
+        "printingMargin": {
+          "label": "Margin Cetakan",
+          "hint": "Contoh: 2"
+        }
+      },
+      "tooltip": {
+        "printingMethod": {
+          "title": "Dropdown dengan pilihan:",
+          "default": "• Lalai (Kaedah asli untuk mencetak Aksara Piawai EU)",
+          "image": "• Imej (Disyorkan untuk Pencetakan Aksara Unicode)"
+        }
+      },
+      "action": {
+        "save": "Simpan"
+      }
+    },
+    "kitchen": {
+      "list": {
+        "noKitchensFound": "Tiada dapur ditemui.\n Sila cuba tambah satu."
+      },
+      "manage": {
+        "addKitchen": "Tambah Dapur",
+        "editKitchen": "Edit Dapur",
+        "kitchenName": {
+          "label": "Nama Dapur",
+          "hint": "Masukkan nama dapur",
+          "error": "Sila masukkan nama dapur."
+        },
+        "description": {
+          "label": "Penerangan",
+          "hint": "Masukkan penerangan"
+        }
+      },
+      "manageItems": {
+        "title": "Urus Item",
+        "addedItems": "Item Ditambah",
+        "selectItemsError": "Sila pilih item.",
+        "noItemsAdded": "Tiada item ditambah lagi!\nSila cuba tambah item."
+      },
+      "card": {
+        "itemName": "Nama Item",
+        "manageItems": "+ Urus Item",
+        "deleteItemConfirm": "Adakah anda mahu memadam item ini?",
+        "deleteKitchenConfirm": "Adakah anda mahu memadam dapur ini?"
+      }
+    }
+  },
+  "enums": {
+    "dropdownDateFilter": {
+      "daily": "Harian",
+      "weekly": "Mingguan",
+      "monthly": "Bulanan",
+      "yearly": "Tahunan",
+      "custom": "Tersuai"
+    },
+    "orderTypes": {
+      "dineIn": "Makan di Restoran",
+      "pickUp": "Ambil Sendiri",
+      "delivery": "Penghantaran",
+      "reservation": "Tempahan",
+      "quotation": "Sebut Harga"
+    },
+    "paymentStatus": {
+      "paid": "Dibayar",
+      "unpaid": "Belum Dibayar"
+    },
+    "staffTypes": {
+      "manager": "Pengurus",
+      "waiter": "Pelayan",
+      "chef": "Cef",
+      "cleaner": "Pembersih",
+      "driver": "Pemandu",
+      "deliveryBoy": "Penghantar"
+    },
+    "itemFoodTypes": {
+      "veg": "Sayuran",
+      "nonVeg": "Bukan Sayuran",
+      "egg": "Telur",
+      "drink": "Minuman",
+      "others": "Lain-lain"
+    },
+    "itemTypes": {
+      "single": "Tunggal",
+      "variation": "Variasi"
+    },
+    "quotationStatus": {
+      "open": "Terbuka",
+      "closed": "Ditutup"
+    },
+    "tableStatus": {
+      "running": "Diduduki",
+      "available": "Kosong"
+    },
+    "thermalPrinterPrintingMethod": {
+      "image": "Imej",
+      "default": "Lalai"
+    },
+    "kotOrderStatus": {
+      "label": {
+        "pending": "Menunggu",
+        "preparing": "Sedang Disiapkan",
+        "ready": "Pesanan Sedia",
+        "served": "Sudah Dihidang",
+        "cancelled": "Dibatalkan"
+      },
+      "pending": "Menunggu",
+      "preparing": "Sedang Disiapkan",
+      "ready": "Pesanan Sedia",
+      "served": "Sudah Dihidang",
+      "cancelled": "Dibatalkan"
+    },
+    "kotItemStatus": {
+      "pending": "Mula Memasak",
+      "start": "Tanda Sedia",
+      "ready": "Sedia"
+    }
+  },
+  "thermalPrint": {
+    "invoice": {
+      "purchaseInvoiceLabel": "Invois Pembelian: ${invoiceNumber: String}",
+      "saleInvoiceLabel": "No. Pesanan: ${invoiceNumber: String}",
+      "receiptNoLabel": "No. Resit: ${invoiceNumber: String}",
+      "orderNoKotLabel": "No. Pesanan: ${invoiceNumber: String}",
+      "nameLabel": "Nama: ${name: String}",
+      "mobileLabel": "Mudah Alih: ${phone: String}",
+      "purchasedByLabel": "Dibeli Oleh: ${role: String}",
+      "salesByLabel": "Dijual Oleh: ${role: String}",
+      "paidByLabel": "${label: String}: ${role: String}",
+      "paidToReceivedFromLabel": "${label: String}: ${name: String}",
+      "orderTypeLabel": "Jenis Pesanan: ${orderType: String}",
+      "tableLabel": "Meja: ${tableName: String}",
+      "tableNoLabel": "No. Meja: ${tableName: String}",
+      "dateLabel": "Tarikh: ${dateTime: String}",
+      "invoiceFlag": "INVOIS",
+      "receiptFlag": "RESIT",
+      "paidBy": "Dibayar Oleh",
+      "receivedBy": "Diterima Oleh",
+      "paidTo": "Dibayar Kepada",
+      "receivedFrom": "Diterima Daripada",
+      "seller": "Penjual: ${name: String}",
+      "address": "Alamat: ${addr: String}",
+      "vatNo": "No. Cukai",
+      "tel": "Tel: ${phoneNumber: String}",
+      "timeLabel": "Masa: ${dateTime: String}"
+    },
+    "tableHeaders": {
+      "sl": "Siri",
+      "item": "Item",
+      "cost": "Kos",
+      "qty": "Kuantiti",
+      "uPrice": "H. Unit",
+      "amount": "Amaun",
+      "total": "Jumlah",
+      "invoiceTable": "Invois",
+      "dueTable": "Terhutang"
+    },
+    "summary": {
+      "subTotal": "Subtotal:",
+      "discount": "Diskaun: ${percentFmt: String}",
+      "vat": "${vatName: String}: ${rateFmt: String}%",
+      "tip": "Tip:",
+      "deliveryCharge": "Caj Penghantaran:",
+      "totalPayable": "Jumlah Perlu Dibayar:",
+      "paidAmount": "Amaun Dibayar:",
+      "dueAmount": "Amaun Terhutang:",
+      "paymentType": "Jenis Pembayaran: ${method: String}",
+      "remainingDue": "Baki Terhutang:",
+      "paymentAmount": "Amaun Pembayaran:",
+      "itemsCount": "Item: ${count: int}",
+      "qtyTotal": "Kuantiti: ${totalQty: int}"
+    },
+    "footer": {
+      "note": "${noteLabel: String}: ${note: String}",
+      "developedBy": "${developByLabel: String} ${developBy: String}"
+    }
+  },
+  "hrm": {
+    "department": "Jabatan",
+    "designation": "Jawatan",
+    "shift": "Syif",
+    "employee": "Pekerja",
+    "leave": "Cuti",
+    "leaveType": "Jenis Cuti",
+    "leaveRequest": "Permohonan Cuti",
+    "holiday": "Hari Cuti",
+    "attendance": "Kehadiran",
+    "payroll": "Gaji",
+    "pageTitles": {
+      "department": "Jabatan",
+      "designation": "Jawatan",
+      "shift": "Syif",
+      "employee": "Pekerja",
+      "leave": "Cuti",
+      "leaveType": "Jenis Cuti",
+      "holiday": "Hari Cuti",
+      "attendance": "Kehadiran",
+      "payroll": "Gaji",
+      "leaveReports": "Laporan Cuti",
+      "payrollReports": "Laporan Gaji",
+      "attendanceReports": "Laporan Kehadiran",
+      "addDepartment": "Tambah Jabatan",
+      "editDepartment": "Edit Jabatan",
+      "addDesignation": "Tambah Jawatan",
+      "editDesignation": "Edit Jawatan",
+      "addShift": "Tambah Syif",
+      "editShift": "Edit Syif",
+      "addEmployee": "Tambah Pekerja",
+      "editEmployee": "Edit Pekerja",
+      "addLeave": "Tambah Cuti",
+      "editLeave": "Edit Cuti",
+      "addLeaveType": "Tambah Jenis Cuti",
+      "editLeaveType": "Edit Jenis Cuti",
+      "addHoliday": "Tambah Hari Cuti",
+      "editHoliday": "Edit Hari Cuti",
+      "addAttendance": "Tambah Kehadiran",
+      "editAttendance": "Edit Kehadiran",
+      "addPayroll": "Tambah Gaji",
+      "editPayroll": "Edit Gaji"
+    },
+    "form": {
+      "labels": {
+        "department": "Jabatan",
+        "designation": "Jawatan",
+        "shift": "Syif",
+        "employee": "Pekerja",
+        "leaveType": "Jenis Cuti",
+        "leaveDuration": "Tempoh Cuti",
+        "paymentYear": "Tahun Bayaran",
+        "paymentType": "Jenis Bayaran",
+        "breakStatus": "Status Rehat",
+        "startTime": "Masa Mula",
+        "endTime": "Masa Tamat",
+        "startBreakTime": "Mula Rehat",
+        "endBreakTime": "Tamat Rehat",
+        "breakTime": "Masa Rehat",
+        "breakDuration": "Tempoh Rehat",
+        "timeIn": "Masa Masuk",
+        "timeOut": "Masa Keluar",
+        "duration": "Tempoh",
+        "country": "Negara",
+        "salary": "Gaji",
+        "gender": "Jantina",
+        "birthDate": "Tarikh Lahir",
+        "joinDate": "Tarikh Masuk",
+        "holidayName": "Nama Hari Cuti",
+        "startDate": "Tarikh Mula",
+        "endDate": "Tarikh Tamat",
+        "month": "Bulan",
+        "year": "Tahun",
+        "status": "Status",
+        "description": "Keterangan",
+        "amount": "Jumlah",
+        "payment": "Bayaran",
+        "departmentName": "Nama Jabatan",
+        "designationName": "Nama Jawatan",
+        "image": "Imej",
+        "name": "Nama"
+      },
+      "hints": {
+        "selectEmployee": "Pilih Pekerja",
+        "selectDepartment": "Pilih Jabatan",
+        "selectDesignation": "Pilih Jawatan",
+        "selectShift": "Pilih Syif",
+        "selectLeaveType": "Pilih Jenis Cuti",
+        "selectMonth": "Pilih Bulan",
+        "selectYear": "Pilih Tahun",
+        "selectDate": "Pilih Tarikh",
+        "selectStartDate": "Pilih Tarikh Mula",
+        "selectEndDate": "Pilih Tarikh Tamat",
+        "selectTimeIn": "Pilih Masa Masuk",
+        "selectTimeOut": "Pilih Masa Keluar",
+        "selectStartTime": "Pilih Masa Mula",
+        "selectEndTime": "Pilih Masa Tamat",
+        "selectStatus": "Pilih Status",
+        "selectGender": "Pilih Jantina",
+        "selectPaymentType": "Pilih Jenis Bayaran",
+        "enterFullName": "Masukkan Nama Penuh",
+        "enterEmail": "Masukkan Emel",
+        "enterPhone": "Masukkan Telefon",
+        "enterCountry": "Masukkan Negara",
+        "enterSalary": "Cth: 500",
+        "enterHolidayName": "Masukkan Nama Hari Cuti",
+        "enterDescription": "Masukkan Keterangan...",
+        "autoCalculated": "Dikir Secara Automatik",
+        "selectDatesFirst": "Pilih Tarikh Dahulu",
+        "allEmployee": "Semua Pekerja",
+        "selectEmployeeFirst": "Pilih Pekerja Dahulu",
+        "enterDepartmentName": "Masukkan Nama Jabatan",
+        "enterDesignationName": "Masukkan nama jawatan",
+        "ex": "{value}",
+        "selectBirthDate": "Pilih Tarikh Lahir",
+        "selectJoinDate": "Pilih Tarikh Masuk",
+        "selectBreakStatus": "Pilih Status Rehat",
+        "enterLeaveTypeName": "Masukkan nama jenis cuti"
+      }
+    },
+    "emptyStates": {
+      "noLeaves": "Tiada Cuti Ditemui",
+      "noPayrollRecords": "Tiada Rekod Gaji Ditemui",
+      "noAttendanceRecords": "Tiada Rekod Kehadiran Ditemui",
+      "noLeaveTypes": "Tiada jenis cuti ditemui",
+      "noEmployees": "Tiada Pekerja Ditemui",
+      "noHolidays": "Tiada Hari Cuti Ditemui",
+      "noShifts": "Tiada syif ditemui",
+      "noDesignations": "Tiada Jawatan Ditemui",
+      "noDepartments": "Tiada Jabatan Ditemui"
+    },
+    "confirmations": {
+      "deleteAttendance": "Adakah anda pasti mahu memadam kehadiran ini?",
+      "deletePayroll": "Adakah anda pasti mahu memadam gaji ini?",
+      "deleteLeave": "Adakah anda pasti mahu memadam cuti ini?",
+      "deleteLeaveType": "Adakah anda mahu memadam jenis cuti ini?",
+      "deleteEmployee": "Adakah anda pasti mahu memadam pekerja ini?",
+      "deleteHoliday": "Adakah anda pasti mahu memadam hari cuti ini?",
+      "deleteShift": "Adakah anda mahu memadam syif ini?",
+      "deleteDesignation": "Adakah anda pasti mahu memadam jawatan ini?",
+      "deleteDepartment": "Adakah anda pasti mahu memadam jabatan ini?"
+    },
+    "validation": {
+      "selectEmployee": "Sila pilih pekerja",
+      "selectMonth": "Sila pilih bulan",
+      "selectEndDate": "Sila pilih tarikh tamat",
+      "endDateAfterStart": "Tarikh tamat mesti selepas tarikh mula",
+      "selectStatus": "Sila pilih status",
+      "selectLeaveType": "Sila pilih jenis cuti",
+      "selectStartDate": "Sila pilih tarikh mula",
+      "selectDate": "Sila pilih tarikh",
+      "selectTimeIn": "Sila pilih masa masuk",
+      "selectTimeOut": "Sila pilih masa keluar",
+      "enterDepartmentName": "Sila masukkan nama jabatan",
+      "enterDesignationName": "Sila masukkan nama jawatan",
+      "enterName": "Sila masukkan nama",
+      "selectDesignation": "Sila pilih jawatan",
+      "selectDepartment": "Sila pilih jabatan",
+      "enterEmail": "Sila masukkan emel",
+      "enterValidEmail": "Sila masukkan emel yang sah",
+      "enterPhoneNumber": "Sila masukkan nombor telefon",
+      "enterCountry": "Sila masukkan negara",
+      "enterSalary": "Sila masukkan gaji",
+      "selectGender": "Sila pilih jantina",
+      "selectShift": "Sila pilih syif",
+      "selectBirthDate": "Sila pilih tarikh lahir",
+      "selectJoinDate": "Sila pilih tarikh masuk",
+      "enterHolidayName": "Sila masukkan nama hari cuti",
+      "selectBreakStatus": "Sila pilih status rehat",
+      "selectPaymentYear": "Sila pilih tahun pembayaran",
+      "selectPaymentType": "Sila pilih jenis pembayaran",
+      "enterAmount": "Sila masukkan jumlah",
+      "selectStartBreakTime": "Sila pilih masa mula rehat",
+      "selectEndBreakTime": "Sila pilih masa tamat rehat",
+      "enterLeaveTypeName": "Sila masukkan nama jenis cuti",
+      "selectStartTime": "Sila pilih masa mula",
+      "selectEndTime": "Sila pilih masa tamat"
+    },
+    "dropdowns": {
+      "addNew": "+ Tambah Baru",
+      "morning": "Pagi",
+      "day": "Siang",
+      "evening": "Petang",
+      "night": "Malam",
+      "yes": "Ya",
+      "no": "Tidak",
+      "approved": "Diluluskan",
+      "rejected": "Ditolak",
+      "terminated": "Diberhentikan",
+      "suspended": "Digantung",
+      "male": "Lelaki",
+      "female": "Perempuan",
+      "pending": "Menunggu",
+      "active": "Aktif",
+      "inactive": "Tidak Aktif",
+      "paid": "Dibayar",
+      "unpaid": "Belum Dibayar"
+    },
+    "units": {
+      "days": "hari"
+    },
+    "fallbacks": {
+      "noNoteAvailable": "Tiada nota tersedia",
+      "noDescriptionAvailable": "Tiada penerangan tersedia",
+      "selectEmployeeFirst": "Pilih pekerja dahulu"
+    },
+    "success": {
+      "leaveDelete": "Cuti berjaya dipadam",
+      "attendanceDelete": "Kehadiran berjaya dipadam",
+      "attendanceAdd": "Kehadiran berjaya ditambah",
+      "attendanceUpdate": "Kehadiran berjaya dikemaskini",
+      "leaveAdd": "Cuti berjaya ditambah",
+      "leaveUpdate": "Cuti berjaya dikemaskini",
+      "departmentDelete": "Jabatan berjaya dipadam",
+      "departmentAdd": "Jabatan berjaya ditambah",
+      "departmentUpdate": "Jabatan berjaya dikemaskini",
+      "designationDelete": "Jawatan berjaya dipadam",
+      "designationAdd": "Jawatan berjaya ditambah",
+      "designationUpdate": "Jawatan berjaya dikemaskini",
+      "employeeDelete": "Pekerja berjaya dipadam",
+      "employeeAdd": "Pekerja berjaya ditambah",
+      "employeeUpdate": "Pekerja berjaya dikemaskini",
+      "holidayDelete": "Hari cuti berjaya dipadam",
+      "holidayAdd": "Hari cuti berjaya ditambah",
+      "holidayUpdate": "Hari cuti berjaya dikemaskini",
+      "leaveTypeDelete": "Jenis cuti berjaya dipadam"
+    }
+  }
+}

@@ -1,0 +1,1561 @@
+{
+  "@@meta": {
+    "languageCode": "el_GR",
+    "languageName": "Greek",
+    "version": "1.0.0"
+  },
+  "common": {
+    "signIn": "Είσοδος",
+    "signUp": "Εγγραφή",
+    "verifyEmail": "Επαλήθευση email",
+    "customizeProfile": "Προσαρμογή προφίλ",
+    "imageOrLogo": "Λογότυπο ή Εικόνα",
+    "createNewPassword": "Δημιουργία νέου κωδικού πρόσβασης",
+    "itemsList": "Λίστα αντικειμένων",
+    "searchItemsName": "Αναζήτηση ονόματος αντικειμένου",
+    "categoryList": "Λίστα κατηγοριών",
+    "brandList": "Λίστα εμπορικών σημάτων",
+    "unitList": "Λίστα μονάδων",
+    "itemDetails": "Λεπτομέρειες αντικειμένου",
+    "addStock": "Προσθήκη αποθέματος",
+    "profile": "Προφίλ",
+    "language": "Γλώσσα",
+    "termsAndConditions": "Όροι & Προϋποθέσεις",
+    "aboutUs": "Σχετικά με εμάς",
+    "logout": "Αποσύνδεση",
+    "editProfile": "Επεξεργασία προφίλ",
+    "fullName": "Ονοματεπώνυμο",
+    "email": "Ηλεκτρονικό ταχυδρομείο",
+    "mobileNumber": "Αριθμός κινητού τηλεφώνου",
+    "address": "Διεύθυνση",
+    "password": "Κωδικός πρόσβασης",
+    "forgotPassword": "Ξεχάσατε τον κωδικό πρόσβασης",
+    "edit": "Επεξεργασία",
+    "delete": "Διαγραφή",
+    "addItems": "Προσθήκη αντικειμένων",
+    "stock": "Απόθεμα",
+    "currentStock": "Τρέχον απόθεμα",
+    "value": "Αξία",
+    "sales": "Πωλήσεις",
+    "purchase": "Αγορά",
+    "price": "Τιμή",
+    "image": "Εικόνα",
+    "upload": "Ανέβασμα",
+    "addNew": "Προσθήκη νέου",
+    "pricing": "Τιμολόγηση",
+    "name": "Όνομα",
+    "category(plural)": {
+      "one": "Κατηγορία",
+      "other": "Κατηγορίαs"
+    },
+    "areas": "Areas",
+    "brand": "Μάρκα",
+    "lowStock": "Χαμηλό απόθεμα",
+    "unit": "Μονάδα",
+    "vat": "ΦΠΑ",
+    "taxType": "Τύπος φόρου",
+    "purchasePrice": "Τιμή αγοράς",
+    "sellingPrice": "Τιμή πώλησης",
+    "wholeSalePrice": "Τιμή χονδρικής",
+    "dealerPrice": "Τιμή αντιπροσώπου",
+    "searchHere": "Αναζήτηση εδώ",
+    "totalItems": "Συνολικά αντικείμενα",
+    "stockValue": "Αξία αποθέματος",
+    "congratulation": "Συγχαρητήρια",
+    "salesList": "Λίστα πωλήσεων",
+    "searchInvoiceNumber": "Αναζήτηση αριθμού τιμολογίου",
+    "view": "Προβολή",
+    "kFor": "Για",
+    "total": "Σύνολο",
+    "subTotal": "Υποσύνολο",
+    "insufficientStockAvailableStock": "Ελλιπές απόθεμα, διαθέσιμο απόθεμα",
+    "discount": "Έκπτωση",
+    "selectOne": "Επιλέξτε ένα",
+    "allCategory": "Όλες οι κατηγορίες",
+    "details": "Λεπτομέρειες",
+    "parcel": "Δέμα",
+    "kot": "ΚΟΤ",
+    "table": "Τραπέζι",
+    "holdTable": "Κράτηση τραπεζιού",
+    "capacity": "Χωρητικότητα",
+    "commonHint": "Π.χ.: 10",
+    "pleaseEnterQuantity": "Παρακαλώ εισάγετε ποσότητα",
+    "quantityMustBeGreaterThanZero": "Η ποσότητα πρέπει να είναι μεγαλύτερη από 0",
+    "mobile": "Κινητό",
+    "orderNo": "Αριθμός παραγγελίας",
+    "dateAndTime": "Ημερομηνία & Ώρα",
+    "items": "Αντικείμενα",
+    "totalAmount": "Συνολικό ποσό",
+    "paidAmount": "Πληρωμένο ποσό",
+    "dueAmount": "Οφειλόμενο ποσό",
+    "paymentType": "Τύπος πληρωμής",
+    "thankYou": "Ευχαριστούμε",
+    "developedBy": "Αναπτύχθηκε από ${domain: String}",
+    "qty": "Τιμή",
+    "amount": "Ποσό",
+    "dashboard": "Πίνακας ελέγχου",
+    "reports": "Αναφορές",
+    "home": "Αρχική",
+    "parties": "Μέρη",
+    "subscriptionPlan": "Πρόγραμμα συνδρομής",
+    "estimateList": "Λίστα εκτιμήσεων",
+    "purchaseList": "Λίστα αγορών",
+    "dueList": "Λίστα οφειλών",
+    "lossOrProfit": "Ζημία/Κέρδος",
+    "stocks": "Αποθέματα",
+    "moneyInList": "Λίστα εισροών χρημάτων",
+    "moneyOutList": "Λίστα εκροών χρημάτων",
+    "transactionList": "Λίστα συναλλαγών",
+    "income": "Έσοδα",
+    "expense": "Έξοδα",
+    "quickView": "Γρήγορη προβολή",
+    "to": "έως",
+    "totalSales": "Συνολικές πωλήσεις",
+    "totalPurchase": "Συνολικές αγορές",
+    "holdNumber": "Κρατημένες παραγγελίες",
+    "totalExpense": "Συνολικά έξοδα",
+    "loss": "Ζημία",
+    "profit": "Κέρδος",
+    "recentTransaction": "Πρόσφατες συναλλαγές",
+    "invoice": "Τιμολόγιο",
+    "moneyIn": "Εισροές χρημάτων",
+    "moneyOut": "Εκροές χρημάτων",
+    "paid": "Πληρώθηκε",
+    "due": "Οφείλεται",
+    "partial": "Μερικό",
+    "print": "Εκτύπωση",
+    "addCategory": "Προσθήκη κατηγορίας",
+    "addExpense": "Προσθήκη εξόδου",
+    "search": "Αναζήτηση...",
+    "viewDetails": "Προβολή λεπτομερειών",
+    "title": "Τίτλος",
+    "date": "Ημερομηνία",
+    "note": "Σημείωση",
+    "phoneNumber": "Αριθμός τηλεφώνου",
+    "type": "Τύπος",
+    "selectContactSType": "Επιλέξτε τον τύπο επαφής",
+    "moreInfo": "Περισσότερες πληροφορίες",
+    "paymentReceived": "Ελήφθη πληρωμή",
+    "selectSupplier": "Επιλέξτε προμηθευτή",
+    "supplier": "Προμηθευτής",
+    "received": "Ελήφθη",
+    "balanceDue": "Οφειλόμενο υπόλοιπο",
+    "addPurchase": "Προσθήκη αγοράς",
+    "selectedItemWillBeCleared": "Τα επιλεγμένα αντικείμενα θα διαγραφούν.",
+    "searchItemName": "Αναζήτηση ονόματος αντικειμένου",
+    "billItems": "Είδη τιμολογίου",
+    "addMoreItems": "Προσθήκη περισσότερων αντικειμένων",
+    "payAmount": "Πληρωτέο ποσό",
+    "salesReport": "Αναφορά πωλήσεων",
+    "purchaseReport": "Αναφορά αγορών",
+    "stockReport": "Αναφορά αποθέματος",
+    "dueReport": "Αναφορά οφειλών",
+    "dueCollectionReport": "Αναφορά είσπραξης οφειλών",
+    "transactionReport": "Αναφορά συναλλαγών",
+    "incomeReport": "Αναφορά εσόδων",
+    "dueCollectionList": "Λίστα είσπραξης οφειλών",
+    "expenseReport": "Αναφορές εξόδων",
+    "dueCollection": "Είσπραξη οφειλών",
+    "myProfile": "Το προφίλ μου",
+    "printingOption": "Επιλογή εκτύπωσης",
+    "currency": "Νόμισμα",
+    "paymentMethod": "Μέθοδος πληρωμής",
+    "rateUs": "Βαθμολογήστε μας",
+    "termAndCondition": "Όροι & Προϋποθέσεις",
+    "tableList": "Λίστα τραπεζιών",
+    "addTable": "Προσθήκη τραπεζιού",
+    "vatRate": "Ποσοστό ΦΠΑ %",
+    "action": "Ενέργεια",
+    "status": "Κατάσταση",
+    "active": "Ενεργό",
+    "inActive": "Ανενεργό",
+    "subVats": "Υπο-ΦΠΑ",
+    "add": "Προσθήκη",
+    "taxRate": "Ποσοστό φόρου %",
+    "subTaxes": "Υπο-φόροι",
+    "group": "ομάδα",
+    "VAT": "ΦΠΑ",
+    "subTaxList": "Λίστα υπο-φόρων",
+    "vatPercent": "Ποσοστό ΦΠΑ",
+    "statusIsCannotInActive": "Η κατάσταση δεν μπορεί να είναι ανενεργή εάν ο ΦΠΑ είναι ενεργός στις πωλήσεις.",
+    "vatOnSales": "ΦΠΑ στις πωλήσεις",
+    "transaction": "Συναλλαγή",
+    "version": "Έκδοση ${version: String}",
+    "hold": "Κράτηση",
+    "empty": "Άδειο",
+    "appName": "Εφαρμογή Εστιατορίου",
+    "duePayment": "Οφειλόμενη πληρωμή",
+    "orders": "Παραγγελίες",
+    "all": "Όλα",
+    "ingredient": "Συστατικό",
+    "menus": "Μενού",
+    "modifierGroups": "Ομάδες Τροποποιητών",
+    "itemModifiers": "Τροποποιητές Είδους",
+    "staff": "Προσωπικό",
+    "coupon": "Κουπόνι",
+    "pay": "Πληρωμή",
+    "pendingOrders": "Εκκρεμείς Παραγγελίες",
+    "order": "Παραγγελία",
+    "payNow": "Πληρωμή Τώρα",
+    "addStaff": "Προσθήκη Προσωπικού",
+    "designation": "Θέση",
+    "itemAdded": "Το στοιχείο προστέθηκε",
+    "noItemAdded": "Δεν προστέθηκε στοιχείο",
+    "saveNPrint": "Αποθήκευση & Εκτύπωση",
+    "allowMultiSelection": "Επιτρέπεται η πολλαπλή επιλογή",
+    "required": "Απαιτούμενο",
+    "optional": "Προαιρετικό",
+    "allowMultiSelectionForSale": "Επιτρέπεται η πολλαπλή επιλογή για πωλήσεις",
+    "isRequired": "Είναι Απαιτούμενο",
+    "modifier": "Τροποποιητής",
+    "fullPayment": "Πλήρης Πληρωμή",
+    "payment": "Πληρωμή",
+    "addTip": "Προσθήκη Φιλοδωρήματος",
+    "netPayable": "Καθαρό Πληρωτέο",
+    "receiveAmount": "Ποσό Παραλαβής",
+    "changeAmount": "Ποσό Αλλαγής",
+    "quotationList": "Λίστα Προσφορών",
+    "addQuotation": "Προσθήκη Προσφοράς",
+    "convert": "Μετατροπή",
+    "variations": "Παραλλαγές",
+    "instructions": "Οδηγίες",
+    "unavailable": "Μη διαθέσιμο",
+    "tip": "Συμβουλή",
+    "salesQuotationReport": "Αναφορά Προσφοράς Πωλήσεων",
+    "orderType": "Τύπος Παραγγελίας",
+    "deliveryCharge": "Χρέωση Αποστολής",
+    "receiptNo": "Αρ. Απόδειξης",
+    "paidBy": "Πληρώθηκε από",
+    "receivedBy": "Παραλήφθηκε από",
+    "paymentAmount": "Ποσό Πληρωμής",
+    "remainingDue": "Υπόλοιπο Οφειλής",
+    "roleNPermission": "Ρόλοι & Δικαιώματα",
+    "sl": "ΠΩΛ.",
+    "features": "Χαρακτηριστικά",
+    "create": "Δημιουργία",
+    "update": "Ενημέρωση",
+    "quotations": "Προσφορές",
+    "restaurant": "Εστιατόριο",
+    "printerProfile": "Προφίλ εκτυπωτή",
+    "kitchenOrders": "Παραγγελίες Κουζίνας",
+    "kitchen(plural)": {
+      "one": "Κουζίνα",
+      "other": "Κουζίνες"
+    },
+    "allKOT": "Όλα τα KOT",
+    "cancelKOT": "Ακύρωση KOT",
+    "selectCancelReason": "Επιλογή Αιτίας Ακύρωσης",
+    "additionalComment": "Πρόσθετο Σχόλιο",
+    "enterComment": "Εισαγωγή σχολίου",
+    "orderStatus": "Κατάσταση Παραγγελίας",
+    "selectOrderStatus": "Επιλογή κατάστασης παραγγελίας",
+    "kotReport": "Αναφορά KOT",
+    "itemFoodType": "Τύπος Φαγητού",
+    "selectItemFoodType": "Επιλογή @:common.itemFoodType",
+    "markAllAsRead": "Σήμανση όλων ως αναγνωσμένα",
+    "online": "Σε σύνδεση",
+    "cancelledReason": "Λόγος ακύρωσης",
+    "hrm": "HRM",
+    "notAvailable": "N/A"
+  },
+  "exceptions": {
+    "somethingWentWrong": "Κάτι πήγε στραβά, παρακαλώ προσπαθήστε ξανά",
+    "noCategoryFound": "Δεν βρέθηκε κατηγορία!\n Παρακαλώ προσπαθήστε να προσθέσετε μια κατηγορία.",
+    "doYouWantToDeleteThisCategory": "Θέλετε να διαγράψετε αυτήν την κατηγορία;",
+    "noBrandFound": "Δεν βρέθηκε μάρκα!\n Παρακαλώ προσπαθήστε να προσθέσετε μια μάρκα.",
+    "doYouWantToDeleteThisBrand": "Θέλετε να διαγράψετε αυτήν τη μάρκα;",
+    "noItemStockFound": "Δεν βρέθηκε απόθεμα για το προϊόν!\n Παρακαλώ προσπαθήστε να προσθέσετε ένα προϊόν.",
+    "noUnitFound": "Δεν βρέθηκε μονάδα!\n Παρακαλώ προσπαθήστε να προσθέσετε μια μονάδα.",
+    "doYouDeleteThisUnit": "Θέλετε να διαγράψετε αυτήν τη μονάδα;",
+    "noSaleFoundPleaseSAddProduct": "Δεν βρέθηκε πώληση!\n Παρακαλώ προσπαθήστε να προσθέσετε μια πώληση.",
+    "doYouWantToDeleteThisSale": "Θέλετε να διαγράψετε αυτήν την πώληση;",
+    "pleaseAddItemToTheCartFirst": "Παρακαλώ προσθέστε πρώτα προϊόντα στο καλάθι",
+    "noItemAdded": "Δεν έχουν προστεθεί προϊόντα",
+    "cannotEditOthersTable": "Δεν μπορείτε να επεξεργαστείτε άλλο τραπέζι.",
+    "tableIsAlreadyBlocked": "Το τραπέζι είναι ήδη κρατημένο.",
+    "failedToGetCustomerDetails": "Αποτυχία λήψης στοιχείων πελάτη.",
+    "noTableFoundPleaseTryAgain": "Δεν βρέθηκαν τραπέζια!\n Παρακαλώ προσπαθήστε να προσθέσετε ένα τραπέζι.",
+    "noDueCollectionFound": "Δεν βρέθηκε οφειλόμενο τιμολόγιο!\n Μπορείτε να δείτε τα οφειλόμενα τιμολόγια όταν είναι διαθέσιμα.",
+    "noExpenseFoundPleaseTryAddingExpense": "Δεν βρέθηκε έξοδο!\n Παρακαλώ προσπαθήστε να προσθέσετε ένα έξοδο.",
+    "doYouWantToDeleteThisExpense": "Θέλετε να διαγράψετε αυτό το έξοδο;",
+    "noExpenseCategoryFound": "Δεν βρέθηκε κατηγορία εξόδων!\n Παρακαλώ προσπαθήστε να προσθέσετε μια κατηγορία εξόδων.",
+    "noTransactionFound": "Δεν βρέθηκαν συναλλαγές, παρακαλώ προσπαθήστε ξανά αργότερα!",
+    "pleaseSelectACategory": "Παρακαλώ επιλέξτε μια κατηγορία",
+    "noIncomeFound": "Δεν βρέθηκε εισόδημα!\n Παρακαλώ προσπαθήστε να προσθέσετε ένα εισόδημα",
+    "doYouWantToDeleteThisIncome": "Θέλετε να διαγράψετε αυτό το εισόδημα;",
+    "noIncomeCategoryFoundAddingAIncome": "Δεν βρέθηκε κατηγορία εισοδήματος!\n Παρακαλώ προσπαθήστε να προσθέσετε μια κατηγορία εισοδήματος.",
+    "noItemFoundPleaseTryAddingItem": "Δεν βρέθηκε προϊόν!\n Παρακαλώ προσπαθήστε να προσθέσετε ένα προϊόν.",
+    "noPartiesFound": "Δεν βρέθηκαν μέρη",
+    "doYouWantToDeleteThisParty": "Θέλετε να διαγράψετε αυτό το μέρος;",
+    "noLedgerFound": "Δεν βρέθηκε καθολικό!\n Παρακαλώ προσπαθήστε να προσθέσετε μια ${transactionType: String}",
+    "areYouSureYouSureWantToDeleteThisTaxType": "Είστε σίγουρος ότι θέλετε να διαγράψετε αυτόν τον τύπο φόρου ${taxType: String};",
+    "noItemFoundPleaseSTryAddingAnPurchase": "Δεν βρέθηκε προϊόν!\n Παρακαλώ προσπαθήστε να προσθέσετε μια αγορά.",
+    "doYouWantToDeleteThisPurchase": "Θέλετε να διαγράψετε αυτήν την αγορά;",
+    "noTransactionFoundYouSeeTransactionHereWhenAvailable": "Δεν βρέθηκαν συναλλαγές!\n Θα δείτε τις συναλλαγές εδώ όταν είναι διαθέσιμες.",
+    "noSaleFoundPleaseTryAddingSale": "Δεν βρέθηκε πώληση!\n Παρακαλώ προσπαθήστε να προσθέσετε μια πώληση.",
+    "noPurchaseFoundPleaseTryAddingPurchase": "Δεν βρέθηκε αγορά!\n Παρακαλώ προσπαθήστε να προσθέσετε μια αγορά.",
+    "noItemIncomeFound": "Δεν βρέθηκαν εισοδήματα για το προϊόν!\n Μπορείτε να δείτε τα δεδομένα εισοδήματος όταν είναι διαθέσιμα.",
+    "noItemExpenseFound": "Δεν βρέθηκαν έξοδα για το προϊόν!\n Μπορείτε να δείτε τα δεδομένα εξόδων όταν είναι διαθέσιμα.",
+    "noItemDueInvoiceFound": "Δεν βρέθηκε οφειλόμενο τιμολόγιο για το προϊόν!\n Μπορείτε να δείτε τα οφειλόμενα τιμολόγια όταν είναι διαθέσιμα.",
+    "noItemDueCollectionInvoiceFound": "'Δεν βρέθηκε οφειλόμενο τιμολόγιο είσπραξης για το προϊόν!\n Μπορείτε να δείτε τα οφειλόμενα τιμολόγια είσπραξης όταν είναι διαθέσιμα.",
+    "doYouWantToDeleteThisTable": "Θέλετε να διαγράψετε αυτό το τραπέζι;'",
+    "thisVatIsBeingUsedOnSales": "Αυτός ο ΦΠΑ χρησιμοποιείται στις πωλήσεις!",
+    "noPaymentMethodFoundPleaseTryAddingAPaymentMethod": "Δεν βρέθηκε μέθοδος πληρωμής!\n Παρακαλώ προσπαθήστε να προσθέσετε μια μέθοδο πληρωμής.",
+    "pleaseSelectACustomerFirst": "Παρακαλώ επιλέξτε πρώτα έναν πελάτη.",
+    "pleaseSelectATableToCreateAKot": "Παρακαλώ επιλέξτε ένα τραπέζι για να δημιουργήσετε ένα KOT.",
+    "noStaffFound": "Δεν βρέθηκε προσωπικό!\nΠαρακαλώ προσπαθήστε να προσθέσετε προσωπικό.",
+    "noIngredientFound": "Δεν βρέθηκε συστατικό!\nΠαρακαλώ προσπαθήστε να προσθέσετε ένα συστατικό.",
+    "exceedsPaymentAmount": "Το ποσό που παραλήφθηκε δεν πρέπει να είναι μεγαλύτερο από το πληρωτέο ποσό.",
+    "noItemModifierFound": "Δεν βρέθηκε τροποποιητής στοιχείου!\nΠαρακαλώ προσπαθήστε να προσθέσετε έναν τροποποιητή στοιχείου.",
+    "noModifierGroupFound": "Δεν βρέθηκε ομάδα τροποποιητών!\nΠαρακαλώ προσπαθήστε να προσθέσετε μια ομάδα τροποποιητών.",
+    "noOptionsFound": "Δεν βρέθηκαν επιλογές!",
+    "maxImageCountLimit": "Μπορείτε να επιλέξετε έως και 5 εικόνες.",
+    "noQuotationFound": "Δεν βρέθηκε προσφορά!\\n Παρακαλώ δοκιμάστε να προσθέσετε μία προσφορά.",
+    "noPermittedUserFound": "Δεν βρέθηκε εξουσιοδοτημένος χρήστης!\\n Παρακαλώ προσπαθήστε να προσθέσετε έναν χρήστη."
+  },
+  "prompt": {
+    "logout": {
+      "title": "@:common.logout",
+      "message": "Είστε σίγουρος ότι θέλετε να αποσυνδεθείτε;"
+    },
+    "unsavedWarning": {
+      "title": "Θέλετε να επιστρέψετε;",
+      "message": "Τα πεδία που έχουν αλλάξει ενδέχεται να μην αποθηκευτούν!"
+    },
+    "verify": {
+      "title": "Επαληθεύστε το Email σας",
+      "description(rich)": "Έχουμε στείλει ένα email κωδικού επαλήθευσης${emailSpan}\n\nΕνδέχεται το μήνυμα να έχει καταλήξει στον φάκελο ανεπιθύμητης αλληλογραφίας σας."
+    },
+    "subscriptionExpired": {
+      "title": "Η συνδρομή έληξε!",
+      "message": "Παρακαλώ εγγραφείτε για να συνεχίσετε.",
+      "action": "Εγγραφή"
+    },
+    "items": {
+      "delete": {
+        "title": "Θέλετε να διαγράψετε αυτό το αντικείμενο;"
+      },
+      "filter": {
+        "title": "Φιλτράρισμα κατά",
+        "extra": {
+          "lowToHigh": "Χαμηλή προς Υψηλή @:common.price",
+          "highToLow": "Υψηλή προς Χαμηλή @:common.price"
+        }
+      }
+    },
+    "checkInternet": {
+      "title": "Δεν υπάρχει σύνδεση στο Διαδίκτυο",
+      "message": "Ελέγξτε τη σύνδεση Wi-Fi ή κινητού δικτύου και προσπαθήστε ξανά"
+    },
+    "back": {
+      "title": "Πατήστε ξανά πίσω για έξοδο."
+    },
+    "stockModelSheet": {
+      "title": "Προσθήκη νέου αποθέματος"
+    },
+    "paymentMethod": {
+      "title": "Θέλετε να διαγράψετε αυτήν τη μέθοδο πληρωμής;"
+    },
+    "extMsg": {
+      "kotSavedSuccessfully": "Το KOT αποθηκεύτηκε επιτυχώς."
+    },
+    "deleteStaff": "Θέλετε να διαγράψετε αυτό το μέλος του προσωπικού;",
+    "deleteIngredient": "Θέλετε να διαγράψετε αυτό το συστατικό;",
+    "deleteItemModifier": "Θέλετε να διαγράψετε αυτόν τον τροποποιητή στοιχείου;",
+    "deleteModifierGroup": "Θέλετε να διαγράψετε αυτήν την ομάδα τροποποιητών;",
+    "deleteQuotation": "Θέλετε να διαγράψετε αυτή την προσφορά;"
+  },
+  "form": {
+    "fullName": {
+      "label": "@:common.fullName",
+      "hint": "Εισαγάγετε @:common.fullName",
+      "errors": {
+        "required": "Παρακαλώ εισαγάγετε το @:common.fullName σας"
+      }
+    },
+    "email": {
+      "label": "@:common.email",
+      "hint": "Εισαγάγετε το @:common.email σας",
+      "errors": {
+        "required": "Παρακαλώ εισαγάγετε τη διεύθυνση @:common.email σας",
+        "invalid": "⦸ Μη έγκυρο Email, Προσπαθήστε Ξανά"
+      }
+    },
+    "password": {
+      "label": "@:common.password",
+      "hint": "* * * * * * * *",
+      "errors": {
+        "required": "Παρακαλώ εισαγάγετε τον @:common.password σας",
+        "minLength": "Ο κωδικός πρόσβασης πρέπει να έχει τουλάχιστον ${count} χαρακτήρες!"
+      }
+    },
+    "confirmPassword": {
+      "label": "Επιβεβαίωση Κωδικού Πρόσβασης",
+      "hint": "* * * * * * * *",
+      "errors": {
+        "required": "Παρακαλώ εισαγάγετε τον @:common.password σας",
+        "invalid": "'Ο κωδικός επιβεβαίωσης δεν ταιριάζει!"
+      }
+    },
+    "otp": {
+      "errors": {
+        "required": "Παρακαλώ εισαγάγετε το otp.",
+        "invalid": "Παρακαλώ εισαγάγετε το τρέχον otp."
+      }
+    },
+    "profile": {
+      "businessCategory": {
+        "label": "Κατηγορία Επιχείρησης",
+        "hint": "Επιλέξτε κατηγορία επιχείρησης",
+        "errors": {
+          "required": "Παρακαλώ επιλέξτε κατηγορία επιχείρησης"
+        }
+      },
+      "shopOrStore": {
+        "label": "Όνομα Καταστήματος*",
+        "hint": "Εισαγάγετε όνομα καταστήματος",
+        "errors": {
+          "required": "Παρακαλώ εισαγάγετε το όνομα του καταστήματός σας"
+        }
+      },
+      "openingBalance": {
+        "label": "Αρχικό Υπόλοιπο",
+        "hint": "Εισαγάγετε αρχικό υπόλοιπο"
+      },
+      "vatGstTitle": {
+        "label": "Τίτλος ΦΠΑ/GST",
+        "hint": "Εισαγάγετε φπα/gst"
+      },
+      "vatGstNumber": {
+        "label": "Αριθμός ΦΠΑ/GST",
+        "hint": "Εισαγάγετε αριθμό φπα/gst"
+      }
+    },
+    "vat": {
+      "name": {
+        "label": "Όνομα",
+        "hint": "Εισαγάγετε όνομα ΦΠΑ",
+        "error": {
+          "required": "Παρακαλώ εισαγάγετε όνομα ΦΠΑ"
+        }
+      },
+      "subVat": {
+        "label": "Υπο-ΦΠΑ",
+        "hint": "Επιλέξτε υπο-ΦΠΑ",
+        "errors": {
+          "required": "Παρακαλώ επιλέξτε έναν υπο-ΦΠΑ"
+        }
+      },
+      "rate": {
+        "label": "Ποσοστό ΦΠΑ %",
+        "hint": "Εισάγετε τον συντελεστή ΦΠΑ",
+        "errors": {
+          "required": "Παρακαλώ εισάγετε τον συντελεστή ΦΠΑ."
+        }
+      }
+    },
+    "category": {
+      "label": "@:common.category",
+      "hint": "Επιλέξτε κατηγορία είδους",
+      "error": {
+        "required": "Παρακαλώ εισαγάγετε όνομα κατηγορίας"
+      }
+    },
+    "items": {
+      "barcode": {
+        "label": "Γραμμωτός κώδικας",
+        "hint": "@:common.selectOne"
+      },
+      "itemName": {
+        "label": "Όνομα Είδους",
+        "hint": "Εισαγάγετε όνομα είδους",
+        "extra": {
+          "required": "Παρακαλώ εισαγάγετε όνομα είδους"
+        }
+      },
+      "itemCategory": {
+        "label": "Κατηγορία Είδους",
+        "hint": "Κατηγορία Είδους",
+        "extra": {
+          "label": "Επιλέξτε κατηγορία",
+          "required": "Παρακαλώ επιλέξτε μια κατηγορία"
+        }
+      },
+      "brand": {
+        "label": "@:common.brand",
+        "hint": "@:common.selectOne",
+        "extra": {
+          "hint": "Εισαγάγετε όνομα μάρκας",
+          "required": "Παρακαλώ εισαγάγετε όνομα μάρκας"
+        }
+      },
+      "unit": {
+        "label": "@:common.unit",
+        "hint": "@:common.selectOne",
+        "error": {
+          "required": "Παρακαλώ εισαγάγετε όνομα μονάδας"
+        }
+      },
+      "stock": {
+        "label": "Αρχικό Απόθεμα",
+        "hint": "@:common.commonHint",
+        "extra": {
+          "required": "Παρακαλώ εισαγάγετε την ποσότητα του είδους."
+        }
+      },
+      "lowStock": {
+        "label": "@:common.lowStock",
+        "hint": "Π.χ.: 5"
+      },
+      "purchasePrice": {
+        "label": "@:common.purchasePrice",
+        "hint": "Π.χ.: \\$40",
+        "error": {
+          "required": "Παρακαλώ εισαγάγετε την τιμή αγοράς."
+        }
+      },
+      "salePrice": {
+        "label": "Τιμή Πώλησης",
+        "hint": "Π.χ.: \\$60",
+        "error": {
+          "required": "Παρακαλώ εισαγάγετε την τιμή πώλησης."
+        }
+      },
+      "totalSalePrice": {
+        "label": "Συνολική Τιμή Πώλησης",
+        "hint": "Π.χ.: \\$100"
+      },
+      "wholeSalePrice": {
+        "label": "@:common.wholeSalePrice",
+        "hint": "Εισαγάγετε τιμή χονδρικής"
+      },
+      "dealerPrice": {
+        "label": "@:common.dealerPrice",
+        "hint": "Εισαγάγετε τιμή αντιπροσώπου"
+      },
+      "discount": {
+        "label": "Έκπτωση (%)",
+        "hint": "@:common.commonHint"
+      },
+      "applicableTax": {
+        "label": "Εφαρμοστέος Φόρος",
+        "hint": "@:common.selectOne"
+      },
+      "vatType": {
+        "label": "@:common.taxType",
+        "errorText": {
+          "required": "Παρακαλώ επιλέξτε έναν τύπο ΦΠΑ"
+        }
+      },
+      "menu": {
+        "label": "Επιλέξτε Μενού",
+        "errors": {
+          "required": "Παρακαλώ επιλέξτε ένα μενού."
+        },
+        "hint": "Επιλέξτε ένα μενού",
+        "extra": {
+          "selectNavLabel": "Επιλέξτε Μενού Στοιχείων"
+        }
+      },
+      "modifierItems": {
+        "label": "Στοιχεία Τροποποιητή",
+        "hint": "Επιλέξτε στοιχεία τροποποιητή"
+      },
+      "preparationTime": {
+        "label(rich)": "Χρόνος Προετοιμασίας ${minutes(Λεπτά)}",
+        "hint": "Π.χ.: 30"
+      },
+      "variation": {
+        "name": {
+          "label": "Όνομα",
+          "hint": "Εισάγετε παραλλαγή",
+          "errors": {
+            "required": "Παρακαλώ εισάγετε όνομα παραλλαγής."
+          }
+        },
+        "price": {
+          "errors": {
+            "required": "Παρακαλώ εισάγετε τιμή."
+          },
+          "label": "Τιμή",
+          "hint": "Π.χ.: \\$30"
+        }
+      }
+    },
+    "itemCart": {
+      "hint": "@:common.commonHint",
+      "error": {
+        "required": "@:common.pleaseEnterQuantity",
+        "noZero": "@:common.quantityMustBeGreaterThanZero"
+      }
+    },
+    "sales": {
+      "autoGenerateInvoice": {
+        "label": "Αριθμός Τιμολογίου",
+        "hint": "P-00001"
+      },
+      "date": {
+        "label": "Ημερομηνία"
+      },
+      "customer": {
+        "label": "Πελάτης",
+        "hint": "Επιλέξτε Πελάτη"
+      },
+      "phone": {
+        "label": "Αριθμός Τηλεφώνου",
+        "hint": "Εισαγάγετε αριθμό τηλεφώνου"
+      },
+      "address": {
+        "label": "Διεύθυνση",
+        "hint": "Εισαγάγετε διεύθυνση"
+      },
+      "deliveryCharge": {
+        "label": "@:common.deliveryCharge",
+        "hint": "Π.χ.: \\$20",
+        "hint2": "Χρέωση Π.χ.: \\$10"
+      },
+      "table": {
+        "hint": "Επιλέξτε Τραπέζι"
+      },
+      "waiter": {
+        "hint": "Επιλέξτε Σερβιτόρο"
+      }
+    },
+    "bill": {
+      "label": "Αριθμός Λογαριασμού",
+      "hint": "P-00001"
+    },
+    "supplier": {
+      "label": "Προμηθευτής",
+      "hint": "Επιλέξτε Προμηθευτή",
+      "extra": {
+        "required": "Παρακαλώ επιλέξτε έναν προμηθευτή"
+      }
+    },
+    "phone": {
+      "label": "Αριθμός Τηλεφώνου",
+      "hint": "Εισαγάγετε αριθμό τηλεφώνου",
+      "errors": {
+        "required": "Παρακαλώ εισαγάγετε αριθμό τηλεφώνου."
+      }
+    },
+    "address": {
+      "label": "Διεύθυνση",
+      "hint": "Εισαγάγετε διεύθυνση"
+    },
+    "payment": {
+      "label": "Όνομα",
+      "hint": "Εισαγάγετε όνομα πληρωμής",
+      "error": {
+        "required": "Παρακαλώ εισαγάγετε ένα όνομα τρόπου πληρωμής"
+      }
+    },
+    "expense": {
+      "label": "Κατηγορία Εξόδων",
+      "hint": "Επιλέξτε κατηγορία εξόδων",
+      "error": {
+        "required": "Παρακαλώ εισαγάγετε κατηγορία εξόδων"
+      }
+    },
+    "income": {
+      "label": "Κατηγορία Εσόδων",
+      "hint": "Εισαγάγετε όνομα κατηγορίας",
+      "error": {
+        "required": "Παρακαλώ εισαγάγετε όνομα κατηγορίας"
+      },
+      "incomeTitle": {
+        "label": "Τίτλος Εισοδήματος",
+        "hint": "Εισαγάγετε εισόδημα"
+      },
+      "incomeCategory": {
+        "label": "Κατηγορία Εισοδήματος",
+        "hint": "Επιλέξτε κατηγορία"
+      },
+      "payment": {
+        "label": "Πληρωμή",
+        "hint": "Π.χ.: \\$10"
+      }
+    },
+    "note": {
+      "label": "Σημείωση (Προαιρετικό)",
+      "hint": "Εισαγάγετε Κείμενο"
+    },
+    "parties": {
+      "partyName": {
+        "label": "Όνομα Μέρους",
+        "hint": "Εισαγάγετε όνομα μέρους",
+        "error": {
+          "required": "Παρακαλώ εισαγάγετε όνομα μέρους"
+        }
+      },
+      "partyPhone": {
+        "label": "Αριθμός Τηλεφώνου",
+        "hint": "Εισαγάγετε αριθμό τηλεφώνου",
+        "error": {
+          "required": "Παρακαλώ εισαγάγετε αριθμό τηλεφώνου"
+        }
+      }
+    },
+    "table": {
+      "name": {
+        "label": "Όνομα Τραπεζιού",
+        "hint": "Εισαγάγετε όνομα τραπεζιού",
+        "error": {
+          "required": "Παρακαλώ εισαγάγετε όνομα τραπεζιού"
+        }
+      },
+      "capacity": {
+        "label": "Χωρητικότητα",
+        "hint": "Εισαγάγετε χωρητικότητα",
+        "error": {
+          "required": "Παρακαλώ εισαγάγετε χωρητικότητα"
+        }
+      }
+    },
+    "designation": {
+      "label": "@:common.designation",
+      "hint": "Επιλέξτε μια θέση",
+      "errors": {
+        "required": "Παρακαλώ επιλέξτε μια θέση."
+      }
+    },
+    "ingredientName": {
+      "label": "Όνομα Συστατικού",
+      "hint": "Εισάγετε όνομα συστατικού",
+      "errors": {
+        "required": "Παρακαλώ εισάγετε όνομα συστατικού"
+      }
+    },
+    "item": {
+      "label": "Στοιχείο",
+      "hint": "Επιλέξτε στοιχείο",
+      "errors": {
+        "required": "Παρακαλώ επιλέξτε ένα στοιχείο."
+      }
+    },
+    "modifierGroup": {
+      "label": "Ομάδα Τροποποιητών",
+      "hint": "Επιλέξτε ομάδα τροποποιητών",
+      "errors": {
+        "required": "Παρακαλώ επιλέξτε μια ομάδα τροποποιητών."
+      }
+    },
+    "description": {
+      "label": "Περιγραφή",
+      "hint": "Εισάγετε περιγραφή"
+    },
+    "staff": {
+      "label": "@:common.staff",
+      "hint": "Επιλέξτε προσωπικό",
+      "errors": {
+        "required": "Παρακαλώ επιλέξτε προσωπικό"
+      }
+    },
+    "loginUserName": {
+      "label": "Όνομα Χρήστη Σύνδεσης",
+      "hint": "Εισάγετε όνομα χρήστη ή διεύθυνση email",
+      "errors": {
+        "required": "Παρακαλώ εισάγετε όνομα χρήστη ή διεύθυνση email"
+      }
+    }
+  },
+  "action": {
+    "next": "Επόμενο",
+    "getStarted": "Ξεκινήστε",
+    "skip": "Παράλειψη",
+    "select": "Επιλογή",
+    "save": "Αποθήκευση",
+    "verify": "Επαλήθευση",
+    "signIn": "@:common.signIn",
+    "signUp": "@:common.signUp",
+    "continue": "Συνέχεια",
+    "no": "Όχι",
+    "yes": "Ναι",
+    "okay": "Εντάξει",
+    "cancel": "Άκυρο",
+    "confirm": "Επιβεβαίωση",
+    "tryAgain": "Προσπαθήστε Ξανά",
+    "reset": "Επαναφορά",
+    "apply": "Εφαρμογή",
+    "stockAdjust": "Ρύθμιση Αποθέματος",
+    "addMoreItems": "Προσθήκη Περισσότερων Ειδών",
+    "hold": "Κράτηση",
+    "parcel": "@:common.parcel",
+    "buyNow": "Αγορά Τώρα",
+    "viewAll": "Προβολή Όλων",
+    "viewLedger": "Προβολή καθολικού",
+    "submit": "Υποβολή",
+    "selected": "Επιλεγμένο",
+    "addToCart": "Προσθήκη στο Καλάθι",
+    "selectAll": "Επιλογή Όλων",
+    "update": "@:common.update",
+    "addRole": "Προσθήκη Ρόλου"
+  },
+  "pages": {
+    "language": {
+      "appbarTitle": "@:action.select @:common.language"
+    },
+    "onboard": {
+      "onboardData": {
+        "data1": {
+          "title": "Εύκολο στη χρήση @:common.appName",
+          "description": "Απρόσκοπτες παραγγελίες, αβίαστες κρατήσεις\\nΕνισχύστε το εστιατόριό σας με ευκολία!"
+        },
+        "data2": {
+          "title": "Απλή Διαχείριση Παραγγελιών",
+          "description": "Βελτιστοποιήστε τη διαδικασία λήψης παραγγελιών του εστιατορίου σας με το διαισθητικό μας σύστημα POS."
+        },
+        "data3": {
+          "title": "Εξαιρετική Ανάλυση & Αναφορά",
+          "description": "Ο πίνακας ελέγχου ανάλυσης παρέχει αναφορές πωλήσεων & αγορών σε πραγματικό χρόνο"
+        }
+      }
+    },
+    "signIn": {
+      "title": "Καλώς Ήρθατε Πίσω",
+      "subtitle": "Παρακαλώ εισαγάγετε τα στοιχεία σας.",
+      "extra": {
+        "rememberMe": "Να με θυμάσαι",
+        "signUpNavigator(rich)": "Δεν έχετε λογαριασμό; ${getStarted(@:action.getStarted)}",
+        "forgotPassword": "@:common.forgotPassword?"
+      }
+    },
+    "signUp": {
+      "title": "Δημιουργία Λογαριασμού",
+      "subtitle": "Παρακαλώ εισαγάγετε τα στοιχεία σας",
+      "extra": {
+        "signInNavigator(rich)": "Έχετε ήδη λογαριασμό; ${signIn(@:action.signIn)}"
+      }
+    },
+    "forgotPassword": {
+      "title": "@:common.forgotPassword",
+      "subtitle": "Εισαγάγετε τη διεύθυνση email σας για να ανακτήσετε τον κωδικό πρόσβασής σας."
+    },
+    "otpVerification": {
+      "title": "Επαλήθευση",
+      "subtitle": "Ένας 6-ψήφιος κωδικός έχει σταλεί στη διεύθυνση email σας",
+      "extra": {
+        "codeResend": {
+          "codeSendIn": "Ο κωδικός θα σταλεί σε",
+          "resendCode": "Επανάληψη αποστολής κωδικού"
+        }
+      }
+    },
+    "resetPassword": {
+      "title": "Επαναφορά κωδικού πρόσβασης",
+      "subtitle": "Επαναφέρετε τον κωδικό πρόσβασής σας για ανάκτηση και σύνδεση στον λογαριασμό σας",
+      "extra": {
+        "dialog": {
+          "title": "Αλλαγή με επιτυχία!",
+          "subtitle": "Συνδεθείτε με τον νέο σας κωδικό πρόσβασης.\nΑνακατεύθυνση στη Σύνδεση..."
+        }
+      }
+    },
+    "items": {
+      "itemList": {
+        "extra": {
+          "emptyItem": "Δεν βρέθηκαν είδη!\nΠαρακαλώ προσπαθήστε να προσθέσετε ένα είδος."
+        }
+      },
+      "manageItems": {
+        "title": "Προσθήκη Νέου Είδους",
+        "title2": "Επεξεργασία Είδους",
+        "extra": {
+          "maximum": "Μέγιστο 5",
+          "wholeSaleAndDealerPrice": "Τιμή Χονδρικής & Αντιπροσώπου",
+          "addDiscount": "Προσθήκη Έκπτωσης",
+          "addVat": "Προσθήκη ΦΠΑ"
+        }
+      },
+      "itemDetails": {
+        "title": "Λεπτομέρειες Είδους",
+        "extra": {
+          "noImageAvailable": "Δεν υπάρχει διαθέσιμη εικόνα!",
+          "preparationTime(rich)": "Χρόνος Προετοιμασίας: ${min: String} ${mins(mins)}",
+          "pleaseSelectVariation": "Παρακαλώ επιλέξτε μια παραλλαγή",
+          "pleaseSelectOption": "Παρακαλώ επιλέξτε μια επιλογή.",
+          "enterYourInstruction": "Εισάγετε τις οδηγίες σας"
+        }
+      }
+    },
+    "category": {
+      "addNewCategory": "Προσθήκη Νέας Κατηγορίας",
+      "editCategory": "Επεξεργασία Κατηγορίας"
+    },
+    "brand": {
+      "addNewBrand": "Προσθήκη Νέας Μάρκας",
+      "editBrand": "Επεξεργασία Μάρκας"
+    },
+    "unit": {
+      "addNewUnit": "Προσθήκη Νέας Μονάδας",
+      "editUnit": "Επεξεργασία Μονάδας"
+    },
+    "stock": {
+      "stockList": "Λίστα Αποθεμάτων"
+    },
+    "aboutUs": {
+      "title": "Σχετικά με Εμάς"
+    },
+    "privacyPolicy": {
+      "title": "Πολιτική Απορρήτου"
+    },
+    "termAndCondition": {
+      "title": "@:common.termAndCondition"
+    },
+    "orders": {
+      "manageOrders": {
+        "extra": {
+          "billItems": "Είδη Λογαριασμού",
+          "manageQuantity": "Διαχείριση Ποσότητας"
+        },
+        "title": {
+          "editOrder": "Επεξεργασία Παραγγελίας",
+          "editKOT": "Επεξεργασία KOT"
+        }
+      }
+    },
+    "onlinePayment": {
+      "title": "Ηλεκτρονική Πληρωμή"
+    },
+    "paymentStatus": {
+      "success": {
+        "title": "Ευχαριστούμε!",
+        "message": "Θα εξετάσουμε την πληρωμή και θα την εγκρίνουμε εντός 24 ωρών.",
+        "actionButtonText": "Προβολή Τιμολογίου"
+      },
+      "fail": {
+        "title": "Ωχ! Η πληρωμή απέτυχε",
+        "message": "Η συναλλαγή σας απέτυχε λόγω κάποιου τεχνικού σφάλματος.",
+        "actionButtonText": "Προσπαθήστε Ξανά"
+      }
+    },
+    "confirmationDialog": {
+      "title": "Αποσύνδεση",
+      "message": "Είστε βέβαιοι ότι θέλετε να αποσυνδεθείτε;",
+      "acceptationText": "Όχι",
+      "rejectionText": "Αποσύνδεση"
+    },
+    "payment": {
+      "title": "@:common.paymentMethod",
+      "addPaymentMethod": "Προσθήκη Νέου Τρόπου Πληρωμής",
+      "editPaymentMethod": "Επεξεργασία Τρόπου Πληρωμής",
+      "choseOnlinePayment": "Επιλέξτε Ηλεκτρονική Πληρωμή",
+      "selectPaymentMethod": "Επιλέξτε Τρόπο Πληρωμής",
+      "pleaseSelectAPaymentMethod": "Παρακαλώ επιλέξτε έναν τρόπο πληρωμής.",
+      "methodStatus": {
+        "title": "Κατάσταση",
+        "message": "Η κατάσταση δεν μπορεί να είναι ανενεργή εάν είναι ενεργοποιημένη η Γρήγορη Προβολή!."
+      }
+    },
+    "subscriptionPlan": {
+      "title": "Αγοράστε Premium Πρόγραμμα",
+      "extra": {
+        "actionButtonText": "Επιστροφή",
+        "message": "Η πληρωμή της συνδρομής έγινε με επιτυχία.\n\nΜπορείτε πλέον να έχετε πρόσβαση στις λειτουργίες της συνδρομής.",
+        "mostPopular": "Πιο Δημοφιλές"
+      }
+    },
+    "invoicePreview": {
+      "title": "Προεπισκόπηση Τιμολογίου",
+      "message": "Προεπισκόπηση PDF Σύντομα Διαθέσιμη"
+    },
+    "currency": {
+      "title": "@:common.currency"
+    },
+    "dashboard": {
+      "overview": "Επισκόπηση",
+      "dashboardPrivacy": "Απόρρητο Πίνακα Ελέγχου",
+      "moneyInAndMoneyOut": "Εισροές & Εκροές Χρημάτων",
+      "lossAndProfitOverView": "Επισκόπηση Κερδών & Ζημιών"
+    },
+    "due": {
+      "title": "@:common.dueList",
+      "collectionList": "Λίστα Εισπράξεων",
+      "dueCollection": "Είσπραξη Οφειλών"
+    },
+    "expense": {
+      "title": "@:common.expense",
+      "editExpense": "Επεξεργασία Εξόδου",
+      "addNewExpense": "Προσθήκη Νέας Εξόδου",
+      "editExpenseCategory": "Επεξεργασία Κατηγορίας Εξόδου",
+      "addNewExpenseCategory": "Προσθήκη Νέας Κατηγορίας Εξόδου",
+      "payment": "Πληρωμή",
+      "expenseCategory": "Κατηγορία Εξόδου",
+      "selectCategory": "Επιλέξτε Κατηγορία",
+      "allExpense": "Όλες οι Έξοδοι",
+      "pleaseSelectACategory": "Παρακαλώ επιλέξτε μια κατηγορία",
+      "expenseTitle": {
+        "label": "Τίτλος Εξόδου",
+        "hint": "Εισάγετε έξοδα"
+      }
+    },
+    "lossProfit": {
+      "title": "Λίστα Ζημιών/Κερδών",
+      "noLossProfitFound": "Δεν βρέθηκε ζημία/κέρδος!\nΠαρακαλώ δοκιμάστε να δημιουργήσετε κάποιες πωλήσεις."
+    },
+    "income": {
+      "editIncomeCategory": "Επεξεργασία Κατηγορίας Εισοδήματος",
+      "addNewIncomeCategory": "Προσθήκη Νέας Κατηγορίας Εισοδήματος",
+      "incomeCategory": "Κατηγορία Εισοδήματος",
+      "allIncome": "Όλα τα Έσοδα",
+      "editIncome": "Επεξεργασία Εισοδήματος",
+      "addNewIncome": "Επεξεργασία Εισοδήματος",
+      "addIncome": "Προσθήκη Εισοδήματος"
+    },
+    "moneyIn": {
+      "title": "Λίστα Εισροών Χρημάτων",
+      "totalPaymentIn": "Συνολικές Εισροές Χρημάτων"
+    },
+    "moneyOut": {
+      "title": "Λίστα Εκροών Χρημάτων",
+      "totalMoneyOut": "Συνολικές Εκροές Χρημάτων"
+    },
+    "profile": {
+      "title": "Το Προφίλ Μου",
+      "editProfile": "Επεξεργασία Προφίλ",
+      "businessInformation": "Επιχειρηματικές Πληροφορίες",
+      "profileInformation": "Πληροφορίες Προφίλ"
+    },
+    "parties": {
+      "title": "Λίστα Μερών",
+      "allParties": "Όλα τα Μέρη",
+      "customer": "Πελάτης",
+      "supplier": "Προμηθευτής",
+      "addParties": "Προσθήκη Μερών",
+      "editParties": "Επεξεργασία Μερών",
+      "partiesDetails": "Λεπτομέρειες Μέρους",
+      "personalInfo": "Προσωπικές Πληροφορίες"
+    },
+    "ledger": {
+      "subTitle": "Καθολικό"
+    },
+    "purchase": {
+      "title": "Προσθήκη Νέας Αγοράς",
+      "editPurchase": "Επεξεργασία Αγοράς"
+    },
+    "reports": {
+      "title": "Αναφορές"
+    },
+    "table": {
+      "title": "Προσθήκη Νέου Τραπεζιού",
+      "editTable": "Επεξεργασία Τραπεζιού"
+    },
+    "tax": {
+      "title": "Συντελεστές ΦΠΑ",
+      "buildHeaderTitle": "Συντελεστές ΦΠΑ - Διαχειριστείτε τους συντελεστές ΦΠΑ σας",
+      "vatGroup": {
+        "title": "Ομάδα ΦΠΑ",
+        "subTitle": "Ομάδα ΦΠΑ - Διαχειριστείτε την ομάδα ΦΠΑ σας"
+      }
+    },
+    "vat": {
+      "addNewVat": "Προσθήκη Νέου ΦΠΑ",
+      "editVat": "Επεξεργασία ΦΠΑ",
+      "addNewVatGroup": "Προσθήκη Νέας Ομάδας ΦΠΑ",
+      "editVatGroup": "Επεξεργασία Ομάδας ΦΠΑ"
+    },
+    "orderList": {
+      "title": "Λίστα Παραγγελιών",
+      "filters": {
+        "orderType": {
+          "label": "@:common.orderType",
+          "hint": "Επιλέξτε Τύπο Παραγγελίας"
+        },
+        "paymentStatus": {
+          "hint": "Επιλέξτε Κατάσταση Πληρωμής",
+          "label": "Κατάσταση Πληρωμής"
+        }
+      }
+    },
+    "staffs": {
+      "staffList": {
+        "filters": {
+          "designation": {
+            "label": "Θέση",
+            "hint": "Επιλέξτε Θέση"
+          }
+        },
+        "title": "Όλο το Προσωπικό"
+      },
+      "manageStaff": {
+        "title1": "Προσθήκη Νέου Προσωπικού",
+        "title2": "Ενημέρωση Προσωπικού"
+      }
+    },
+    "ingredient": {
+      "ingredientList": {
+        "title1": "Λίστα Συστατικών",
+        "title2": "Επιλέξτε Συστατικό"
+      },
+      "manageIngredient": {
+        "title1": "Προσθήκη Νέου Συστατικού",
+        "title2": "Επεξεργασία Συστατικού"
+      }
+    },
+    "itemModifier": {
+      "itemModifierList": {
+        "title": "@:common.itemModifiers"
+      },
+      "manageItemModifier": {
+        "title1": "Προσθήκη Τροποποιητών Στοιχείων",
+        "title2": "Επεξεργασία Τροποποιητών Στοιχείων"
+      }
+    },
+    "quotation": {
+      "manageQuotation": {
+        "title": {
+          "add": "Προσθήκη Νέας Προσφοράς",
+          "edit": "Επεξεργασία Προσφοράς",
+          "convert": "Μετατροπή σε Πώληση"
+        }
+      }
+    },
+    "rolePermission": {
+      "rolePermissionList": {
+        "title": "Λίστα Ρόλων & Δικαιωμάτων"
+      },
+      "manageRolePermission": {
+        "title1": "Προσθήκη Νέου Ρόλου",
+        "title2": "Επεξεργασία Ρόλου"
+      }
+    },
+    "printingOption": {
+      "title": "Επιλογή εκτύπωσης",
+      "form": {
+        "companyAddress": {
+          "label": "Διεύθυνση εταιρείας",
+          "hint": "Εισάγετε διεύθυνση εταιρείας"
+        },
+        "noteLabel": {
+          "label": "Ετικέτα σημείωσης",
+          "hint": "Εισάγετε ετικέτα σημείωσης."
+        },
+        "note": {
+          "label": "Σημείωση",
+          "hint": "Εισάγετε σημείωση."
+        },
+        "postSaleMessage": {
+          "label": "Μήνυμα μετά την πώληση",
+          "hint": "Εισάγετε μήνυμα μετά την πώληση"
+        },
+        "printingMethod": {
+          "label": "Μέθοδος εκτύπωσης",
+          "hint": "Επιλέξτε μέθοδο εκτύπωσης"
+        },
+        "printerProfile": {
+          "label": "Προφίλ εκτυπωτή",
+          "hint": "Επιλέξτε προφίλ εκτυπωτή"
+        },
+        "paperSize": {
+          "label": "Μέγεθος χαρτιού θερμικού εκτυπωτή",
+          "hint": "Επιλέξτε μέγεθος χαρτιού εκτυπωτή"
+        },
+        "printerDpi": {
+          "label": "DPI εκτυπωτή",
+          "hint": "Παρ: 203"
+        },
+        "printingMargin": {
+          "label": "Περιθώριο εκτύπωσης",
+          "hint": "Παρ: 2"
+        }
+      },
+      "tooltip": {
+        "printingMethod": {
+          "title": "Αναπτυσσόμενο μενού με επιλογές:",
+          "default": "• Προεπιλογή (Εγγενής μέθοδος για εκτύπωση τυπικών χαρακτήρων ΕΕ)",
+          "image": "• Εικόνα (Συνιστάται για εκτύπωση χαρακτήρων Unicode)"
+        }
+      },
+      "action": {
+        "save": "Αποθήκευση"
+      }
+    },
+    "kitchen": {
+      "list": {
+        "noKitchensFound": "Δεν βρέθηκαν κουζίνες.\n Παρακαλώ προσπαθήστε να προσθέσετε μία."
+      },
+      "manage": {
+        "addKitchen": "Προσθήκη Κουζίνας",
+        "editKitchen": "Επεξεργασία Κουζίνας",
+        "kitchenName": {
+          "label": "Όνομα Κουζίνας",
+          "hint": "Εισάγετε όνομα κουζίνας",
+          "error": "Παρακαλώ εισάγετε όνομα κουζίνας."
+        },
+        "description": {
+          "label": "Περιγραφή",
+          "hint": "Εισάγετε περιγραφή"
+        }
+      },
+      "manageItems": {
+        "title": "Διαχείριση Ειδών",
+        "addedItems": "Προστιθέμενα Είδη",
+        "selectItemsError": "Παρακαλώ επιλέξτε είδη.",
+        "noItemsAdded": "Δεν προστέθηκαν είδη ακόμα!\nΠαρακαλώ προσπαθήστε να προσθέσετε είδη."
+      },
+      "card": {
+        "itemName": "Όνομα Είδους",
+        "manageItems": "+ Διαχείριση Ειδών",
+        "deleteItemConfirm": "Θέλετε να διαγράψετε αυτό το είδος;",
+        "deleteKitchenConfirm": "Θέλετε να διαγράψετε αυτή την κουζίνα;"
+      }
+    }
+  },
+  "enums": {
+    "dropdownDateFilter": {
+      "daily": "Ημερήσια",
+      "weekly": "Εβδομαδιαία",
+      "monthly": "Μηνιαία",
+      "yearly": "Ετήσια",
+      "custom": "Προσαρμοσμένη"
+    },
+    "orderTypes": {
+      "dineIn": "Εστίαση",
+      "pickUp": "Παραλαβή",
+      "delivery": "Παράδοση",
+      "reservation": "Κράτηση",
+      "quotation": "Προσφορά"
+    },
+    "paymentStatus": {
+      "paid": "Πληρωμένο",
+      "unpaid": "Απλήρωτο"
+    },
+    "staffTypes": {
+      "manager": "Διευθυντής",
+      "waiter": "Σερβιτόρος",
+      "chef": "Σεφ",
+      "cleaner": "Καθαριστής",
+      "driver": "Οδηγός",
+      "deliveryBoy": "Ντελιβεράς"
+    },
+    "itemFoodTypes": {
+      "veg": "Χορτοφαγικό",
+      "nonVeg": "Μη Χορτοφαγικό",
+      "egg": "Αυγό",
+      "drink": "Ποτό",
+      "others": "Άλλα"
+    },
+    "itemTypes": {
+      "single": "Ενιαίο",
+      "variation": "Παραλλαγή"
+    },
+    "quotationStatus": {
+      "open": "Ανοιχτή",
+      "closed": "Κλειστή"
+    },
+    "tableStatus": {
+      "running": "Κατειλημμένο",
+      "available": "Διαθέσιμο"
+    },
+    "thermalPrinterPrintingMethod": {
+      "image": "Εικόνα",
+      "default": "Προεπιλογή"
+    },
+    "kotOrderStatus": {
+      "label": {
+        "pending": "Σε εκκρεμότητα",
+        "preparing": "Προετοιμάζεται",
+        "ready": "Το φαγητό είναι έτοιμο",
+        "served": "Σερβιρίστηκε",
+        "cancelled": "Ακυρώθηκε"
+      },
+      "pending": "Σε εκκρεμότητα",
+      "preparing": "Προετοιμάζεται",
+      "ready": "Το φαγητό είναι έτοιμο",
+      "served": "Σερβιρίστηκε",
+      "cancelled": "Ακυρώθηκε"
+    },
+    "kotItemStatus": {
+      "pending": "Έναρξη μαγειρέματος",
+      "start": "Σήμανση ως έτοιμο",
+      "ready": "Έτοιμο"
+    }
+  },
+  "thermalPrint": {
+    "invoice": {
+      "purchaseInvoiceLabel": "Τιμολόγιο Αγοράς: ${invoiceNumber: String}",
+      "saleInvoiceLabel": "Αρ. Παραγγελίας: ${invoiceNumber: String}",
+      "receiptNoLabel": "Αρ. Απόδειξης: ${invoiceNumber: String}",
+      "orderNoKotLabel": "Αρ. Παραγγελίας: ${invoiceNumber: String}",
+      "nameLabel": "Όνομα: ${name: String}",
+      "mobileLabel": "Κινητό: ${phone: String}",
+      "purchasedByLabel": "Αγοράστηκε από: ${role: String}",
+      "salesByLabel": "Πωλήθηκε από: ${role: String}",
+      "paidByLabel": "${label: String}: ${role: String}",
+      "paidToReceivedFromLabel": "${label: String}: ${name: String}",
+      "orderTypeLabel": "Τύπος Παραγγελίας: ${orderType: String}",
+      "tableLabel": "Τραπέζι: ${tableName: String}",
+      "tableNoLabel": "Αρ. Τραπεζιού: ${tableName: String}",
+      "dateLabel": "Ημερομηνία: ${dateTime: String}",
+      "invoiceFlag": "ΤΙΜΟΛΟΓΙΟ",
+      "receiptFlag": "ΑΠΟΔΕΙΞΗ",
+      "paidBy": "Πληρώθηκε από",
+      "receivedBy": "Παραλήφθηκε από",
+      "paidTo": "Πληρώθηκε σε",
+      "receivedFrom": "Παραλήφθηκε από",
+      "seller": "Πωλητής: ${name: String}",
+      "address": "Διεύθυνση: ${addr: String}",
+      "vatNo": "Α.Φ.Μ.",
+      "tel": "Τηλ.: ${phoneNumber: String}",
+      "timeLabel": "Ώρα: ${dateTime: String}"
+    },
+    "tableHeaders": {
+      "sl": "Α.Α.",
+      "item": "Είδος",
+      "cost": "Κόστος",
+      "qty": "Ποσ.",
+      "uPrice": "Μ.Τ.",
+      "amount": "Ποσό",
+      "total": "Σύνολο",
+      "invoiceTable": "Τιμολόγιο",
+      "dueTable": "Οφειλή"
+    },
+    "summary": {
+      "subTotal": "Μερικό Σύνολο:",
+      "discount": "Έκπτωση: ${percentFmt: String}",
+      "vat": "${vatName: String}: ${rateFmt: String}%",
+      "tip": "Φιλοδώρημα:",
+      "deliveryCharge": "Κόστος Παράδοσης:",
+      "totalPayable": "Συνολικό Πληρωτέο:",
+      "paidAmount": "Πληρωμένο Ποσό:",
+      "dueAmount": "Οφειλόμενο Ποσό:",
+      "paymentType": "Τρόπος Πληρωμής: ${method: String}",
+      "remainingDue": "Υπόλοιπο Οφειλής:",
+      "paymentAmount": "Ποσό Πληρωμής:",
+      "itemsCount": "Είδη: ${count: int}",
+      "qtyTotal": "Ποσ.: ${totalQty: int}"
+    },
+    "footer": {
+      "note": "${noteLabel: String}: ${note: String}",
+      "developedBy": "${developByLabel: String} ${developBy: String}"
+    }
+  },
+  "hrm": {
+    "department": "Τμήμα",
+    "designation": "Ονομασία",
+    "shift": "Βάρδια",
+    "employee": "Υπάλληλος",
+    "leave": "Άδεια",
+    "leaveType": "Τύπος άδειας",
+    "leaveRequest": "Αίτημα άδειας",
+    "holiday": "Αργία",
+    "attendance": "Παρουσία",
+    "payroll": "Μισθοδοσία",
+    "pageTitles": {
+      "department": "Τμήμα",
+      "designation": "Ονομασία",
+      "shift": "Βάρδια",
+      "employee": "Υπάλληλος",
+      "leave": "Άδεια",
+      "leaveType": "Τύπος άδειας",
+      "holiday": "Αργία",
+      "attendance": "Παρουσία",
+      "payroll": "Μισθοδοσία",
+      "leaveReports": "Αναφορές αδειών",
+      "payrollReports": "Αναφορές μισθοδοσίας",
+      "attendanceReports": "Αναφορές παρουσίας",
+      "addDepartment": "Προσθήκη τμήματος",
+      "editDepartment": "Επεξεργασία τμήματος",
+      "addDesignation": "Προσθήκη ονομασίας",
+      "editDesignation": "Επεξεργασία ονομασίας",
+      "addShift": "Προσθήκη βάρδιας",
+      "editShift": "Επεξεργασία βάρδιας",
+      "addEmployee": "Προσθήκη υπαλλήλου",
+      "editEmployee": "Επεξεργασία υπαλλήλου",
+      "addLeave": "Προσθήκη άδειας",
+      "editLeave": "Επεξεργασία άδειας",
+      "addLeaveType": "Προσθήκη τύπου άδειας",
+      "editLeaveType": "Επεξεργασία τύπου άδειας",
+      "addHoliday": "Προσθήκη αργίας",
+      "editHoliday": "Επεξεργασία αργίας",
+      "addAttendance": "Προσθήκη παρουσίας",
+      "editAttendance": "Επεξεργασία παρουσίας",
+      "addPayroll": "Προσθήκη μισθοδοσίας",
+      "editPayroll": "Επεξεργασία μισθοδοσίας"
+    },
+    "form": {
+      "labels": {
+        "department": "Τμήμα",
+        "designation": "Ονομασία",
+        "shift": "Βάρδια",
+        "employee": "Υπάλληλος",
+        "leaveType": "Τύπος άδειας",
+        "leaveDuration": "Διάρκεια άδειας",
+        "paymentYear": "Έτος πληρωμής",
+        "paymentType": "Τύπος πληρωμής",
+        "breakStatus": "Κατάσταση διαλείμματος",
+        "startTime": "Ώρα έναρξης",
+        "endTime": "Ώρα λήξης",
+        "startBreakTime": "Έναρξη διαλείμματος",
+        "endBreakTime": "Λήξη διαλείμματος",
+        "breakTime": "Ώρα διαλείμματος",
+        "breakDuration": "Διάρκεια διαλείμματος",
+        "timeIn": "Ώρα προσέλευσης",
+        "timeOut": "Ώρα αναχώρησης",
+        "duration": "Διάρκεια",
+        "country": "Χώρα",
+        "salary": "Μισθός",
+        "gender": "Φύλο",
+        "birthDate": "Ημερομηνία γέννησης",
+        "joinDate": "Ημερομηνία πρόσληψης",
+        "holidayName": "Όνομα αργίας",
+        "startDate": "Ημερομηνία έναρξης",
+        "endDate": "Ημερομηνία λήξης",
+        "month": "Μήνας",
+        "year": "Έτος",
+        "status": "Κατάσταση",
+        "description": "Περιγραφή",
+        "amount": "Ποσό",
+        "payment": "Πληρωμή",
+        "departmentName": "Όνομα τμήματος",
+        "designationName": "Όνομα θέσης",
+        "image": "Εικόνα",
+        "name": "Όνομα"
+      },
+      "hints": {
+        "selectEmployee": "Επιλέξτε υπάλληλο",
+        "selectDepartment": "Επιλέξτε τμήμα",
+        "selectDesignation": "Επιλέξτε ονομασία",
+        "selectShift": "Επιλέξτε βάρδια",
+        "selectLeaveType": "Επιλέξτε τύπο άδειας",
+        "selectMonth": "Επιλέξτε μήνα",
+        "selectYear": "Επιλέξτε έτος",
+        "selectDate": "Επιλέξτε ημερομηνία",
+        "selectStartDate": "Επιλέξτε ημερομηνία έναρξης",
+        "selectEndDate": "Επιλέξτε ημερομηνία λήξης",
+        "selectTimeIn": "Επιλέξτε ώρα προσέλευσης",
+        "selectTimeOut": "Επιλέξτε ώρα αναχώρησης",
+        "selectStartTime": "Επιλέξτε ώρα έναρξης",
+        "selectEndTime": "Επιλέξτε ώρα λήξης",
+        "selectStatus": "Επιλέξτε κατάσταση",
+        "selectGender": "Επιλέξτε φύλο",
+        "selectPaymentType": "Επιλέξτε τύπο πληρωμής",
+        "enterFullName": "Εισάγετε ονοματεπώνυμο",
+        "enterEmail": "Εισάγετε email",
+        "enterPhone": "Εισάγετε τηλέφωνο",
+        "enterCountry": "Εισάγετε χώρα",
+        "enterSalary": "Π.χ.: 500",
+        "enterHolidayName": "Εισάγετε όνομα αργίας",
+        "enterDescription": "Εισάγετε περιγραφή...",
+        "autoCalculated": "Υπολογίζεται αυτόματα",
+        "selectDatesFirst": "Επιλέξτε ημερομηνίες πρώτα",
+        "allEmployee": "Όλοι οι υπάλληλοι",
+        "selectEmployeeFirst": "Επιλέξτε υπάλληλο πρώτα",
+        "enterDepartmentName": "Εισάγετε όνομα τμήματος",
+        "enterDesignationName": "Εισαγάγετε όνομα θέσης",
+        "ex": "{value}",
+        "selectBirthDate": "Επιλέξτε ημερομηνία γέννησης",
+        "selectJoinDate": "Επιλέξτε ημερομηνία πρόσληψης",
+        "selectBreakStatus": "Επιλέξτε κατάσταση διαλείμματος",
+        "enterLeaveTypeName": "Εισαγάγετε όνομα τύπου άδειας"
+      }
+    },
+    "emptyStates": {
+      "noLeaves": "Δε βρέθηκαν άδειες",
+      "noPayrollRecords": "Δε βρέθηκαν εγγραφές μισθοδοσίας",
+      "noAttendanceRecords": "Δε βρέθηκαν εγγραφές παρουσίας",
+      "noLeaveTypes": "Δεν βρέθηκαν τύποι αδειών",
+      "noEmployees": "Δε βρέθηκαν υπάλληλοι",
+      "noHolidays": "Δε βρέθηκαν αργίες",
+      "noShifts": "Δεν βρέθηκαν βάρδιες",
+      "noDesignations": "Δε βρέθηκαν ονομασίες",
+      "noDepartments": "Δε βρέθηκαν τμήματα"
+    },
+    "confirmations": {
+      "deleteAttendance": "Είστε σίγουροι ότι θέλετε να διαγράψετε αυτή την παρουσία;",
+      "deletePayroll": "Είστε σίγουροι ότι θέλετε να διαγράψετε αυτή τη μισθοδοσία;",
+      "deleteLeave": "Είστε σίγουροι ότι θέλετε να διαγράψετε αυτή την άδεια;",
+      "deleteLeaveType": "Θέλετε να διαγράψετε αυτόν τον τύπο άδειας;",
+      "deleteEmployee": "Είστε σίγουροι ότι θέλετε να διαγράψετε αυτόν τον υπάλληλο;",
+      "deleteHoliday": "Είστε σίγουροι ότι θέλετε να διαγράψετε αυτή την αργία;",
+      "deleteShift": "Θέλετε να διαγράψετε αυτήν τη βάρδια;",
+      "deleteDesignation": "Είστε σίγουροι ότι θέλετε να διαγράψετε αυτή την ονομασία;",
+      "deleteDepartment": "Είστε σίγουροι ότι θέλετε να διαγράψετε αυτό το τμήμα;"
+    },
+    "validation": {
+      "selectEmployee": "Παρακαλώ επιλέξτε υπάλληλο",
+      "selectMonth": "Παρακαλώ επιλέξτε μήνα",
+      "selectEndDate": "Παρακαλώ επιλέξτε ημερομηνία λήξης",
+      "endDateAfterStart": "Η ημερομηνία λήξης πρέπει να είναι μετά την ημερομηνία έναρξης",
+      "selectStatus": "Παρακαλώ επιλέξτε κατάσταση",
+      "selectLeaveType": "Παρακαλώ επιλέξτε τύπο άδειας",
+      "selectStartDate": "Παρακαλώ επιλέξτε ημερομηνία έναρξης",
+      "selectDate": "Παρακαλώ επιλέξτε ημερομηνία",
+      "selectTimeIn": "Παρακαλώ επιλέξτε ώρα εισόδου",
+      "selectTimeOut": "Παρακαλώ επιλέξτε ώρα εξόδου",
+      "enterDepartmentName": "Παρακαλώ εισάγετε όνομα τμήματος",
+      "enterDesignationName": "Παρακαλώ εισαγάγετε όνομα θέσης",
+      "enterName": "Παρακαλώ εισάγετε όνομα",
+      "selectDesignation": "Παρακαλώ επιλέξτε ονομασία",
+      "selectDepartment": "Παρακαλώ επιλέξτε τμήμα",
+      "enterEmail": "Παρακαλώ εισάγετε email",
+      "enterValidEmail": "Παρακαλώ εισάγετε έγκυρο email",
+      "enterPhoneNumber": "Παρακαλώ εισάγετε τηλέφωνο",
+      "enterCountry": "Παρακαλώ εισάγετε χώρα",
+      "enterSalary": "Παρακαλώ εισάγετε μισθό",
+      "selectGender": "Παρακαλώ επιλέξτε φύλο",
+      "selectShift": "Παρακαλώ επιλέξτε βάρδια",
+      "selectBirthDate": "Παρακαλώ επιλέξτε ημερομηνία γέννησης",
+      "selectJoinDate": "Παρακαλώ επιλέξτε ημερομηνία πρόσληψης",
+      "enterHolidayName": "Παρακαλώ εισάγετε όνομα αργίας",
+      "selectBreakStatus": "Παρακαλώ επιλέξτε κατάσταση διαλείμματος",
+      "selectPaymentYear": "Παρακαλώ επιλέξτε έτος πληρωμής",
+      "selectPaymentType": "Παρακαλώ επιλέξτε τύπο πληρωμής",
+      "enterAmount": "Παρακαλώ εισαγάγετε ποσό",
+      "selectStartBreakTime": "Παρακαλώ επιλέξτε ώρα έναρξης διαλείμματος",
+      "selectEndBreakTime": "Παρακαλώ επιλέξτε ώρα λήξης διαλείμματος",
+      "enterLeaveTypeName": "Παρακαλώ εισαγάγετε όνομα τύπου άδειας",
+      "selectStartTime": "Παρακαλώ επιλέξτε ώρα έναρξης",
+      "selectEndTime": "Παρακαλώ επιλέξτε ώρα λήξης"
+    },
+    "dropdowns": {
+      "addNew": "+ Προσθήκη νέου",
+      "morning": "Πρωί",
+      "day": "Μέρα",
+      "evening": "Απόγευμα",
+      "night": "Νύχτα",
+      "yes": "Ναι",
+      "no": "Όχι",
+      "approved": "Εγκρίθηκε",
+      "rejected": "Απορρίφθηκε",
+      "terminated": "Τερματίστηκε",
+      "suspended": "Σε αναστολή",
+      "male": "Άνδρας",
+      "female": "Γυναίκα",
+      "pending": "Εκκρεμεί",
+      "active": "Ενεργός",
+      "inactive": "Ανενεργός",
+      "paid": "Πληρωμένο",
+      "unpaid": "Μη πληρωμένο"
+    },
+    "units": {
+      "days": "μέρες"
+    },
+    "fallbacks": {
+      "noNoteAvailable": "Δεν υπάρχει σημείωση διαθέσιμη",
+      "noDescriptionAvailable": "Δεν υπάρχει διαθέσιμη περιγραφή",
+      "selectEmployeeFirst": "Επιλέξτε υπάλληλο πρώτα"
+    },
+    "success": {
+      "leaveDelete": "Η άδεια διαγράφηκε επιτυχώς",
+      "attendanceDelete": "Η παρουσία διαγράφηκε επιτυχώς",
+      "attendanceAdd": "Η παρουσία προστέθηκε επιτυχώς",
+      "attendanceUpdate": "Η παρουσία ενημερώθηκε επιτυχώς",
+      "leaveAdd": "Η άδεια προστέθηκε επιτυχώς",
+      "leaveUpdate": "Η άδεια ενημερώθηκε επιτυχώς",
+      "departmentDelete": "Το τμήμα διαγράφηκε επιτυχώς",
+      "departmentAdd": "Το τμήμα προστέθηκε επιτυχώς",
+      "departmentUpdate": "Το τμήμα ενημερώθηκε επιτυχώς",
+      "designationDelete": "Η ονομασία διαγράφηκε επιτυχώς",
+      "designationAdd": "Η ονομασία προστέθηκε επιτυχώς",
+      "designationUpdate": "Η ονομασία ενημερώθηκε επιτυχώς",
+      "employeeDelete": "Ο υπάλληλος διαγράφηκε επιτυχώς",
+      "employeeAdd": "Ο υπάλληλος προστέθηκε επιτυχώς",
+      "employeeUpdate": "Ο υπάλληλος ενημερώθηκε επιτυχώς",
+      "holidayDelete": "Η αργία διαγράφηκε επιτυχώς",
+      "holidayAdd": "Η αργία προστέθηκε επιτυχώς",
+      "holidayUpdate": "Η αργία ενημερώθηκε επιτυχώς",
+      "leaveTypeDelete": "Ο τύπος άδειας διαγράφηκε επιτυχώς"
+    }
+  }
+}

@@ -1,0 +1,2 @@
+dependency_overrides:
+  hugeicons: ^0.0.11 # using old version of `hugeicons` cause from 1.0.0 made breaking changes which is not compitable with this project

@@ -1,0 +1,1561 @@
+{
+  "@@meta": {
+    "languageCode": "bn_BD",
+    "languageName": "Bangla",
+    "version": "1.0.0"
+  },
+  "common": {
+    "signIn": "সাইন ইন",
+    "signUp": "সাইন আপ",
+    "verifyEmail": "ইমেইল যাচাই করুন",
+    "customizeProfile": "প্রোফাইল কাস্টমাইজ করুন",
+    "imageOrLogo": "লোগো বা ছবি",
+    "createNewPassword": "নতুন পাসওয়ার্ড তৈরি করুন",
+    "itemsList": "আইটেম তালিকা",
+    "searchItemsName": "আইটেমের নাম খুঁজুন",
+    "categoryList": "ক্যাটাগরি তালিকা",
+    "brandList": "ব্র্যান্ড তালিকা",
+    "unitList": "ইউনিট তালিকা",
+    "itemDetails": "আইটেমের বিবরণ",
+    "addStock": "স্টক যোগ করুন",
+    "profile": "প্রোফাইল",
+    "language": "ভাষা",
+    "termsAndConditions": "শর্তাবলী",
+    "aboutUs": "আমাদের সম্পর্কে",
+    "logout": "লগআউট",
+    "editProfile": "প্রোফাইল সম্পাদনা করুন",
+    "fullName": "পুরো নাম",
+    "email": "ইমেইল",
+    "mobileNumber": "মোবাইল নম্বর",
+    "address": "ঠিকানা",
+    "password": "পাসওয়ার্ড",
+    "forgotPassword": "পাসওয়ার্ড ভুলে গেছেন",
+    "edit": "সম্পাদনা করুন",
+    "delete": "মুছুন",
+    "addItems": "আইটেম যোগ করুন",
+    "stock": "স্টক",
+    "currentStock": "বর্তমান স্টক",
+    "value": "মূল্য",
+    "sales": "বিক্রয়",
+    "purchase": "ক্রয়",
+    "price": "দাম",
+    "image": "ছবি",
+    "upload": "আপলোড করুন",
+    "addNew": "নতুন যোগ করুন",
+    "pricing": "মূল্য নির্ধারণ",
+    "name": "নাম",
+    "category(plural)": {
+      "one": "ক্যাটাগরি",
+      "other": "ক্যাটাগরি"
+    },
+    "areas": "এলাকা",
+    "brand": "ব্র্যান্ড",
+    "lowStock": "কম স্টক",
+    "unit": "ইউনিট",
+    "vat": "ভ্যাট",
+    "taxType": "কর প্রকার",
+    "purchasePrice": "ক্রয় মূল্য",
+    "sellingPrice": "বিক্রয় মূল্য",
+    "wholeSalePrice": "পাইকারি মূল্য",
+    "dealerPrice": "ডিলার মূল্য",
+    "searchHere": "এখানে খুঁজুন",
+    "totalItems": "মোট আইটেম",
+    "stockValue": "স্টক মূল্য",
+    "congratulation": "অভিনন্দন",
+    "salesList": "বিক্রয় তালিকা",
+    "searchInvoiceNumber": "ইনভয়েস নম্বর খুঁজুন",
+    "view": "দেখুন",
+    "kFor": "জন্য",
+    "total": "মোট",
+    "subTotal": "সাব টোটাল",
+    "insufficientStockAvailableStock": "অপর্যাপ্ত স্টক, উপলব্ধ স্টক",
+    "discount": "ছাড়",
+    "selectOne": "একটি নির্বাচন করুন",
+    "allCategory": "সকল ক্যাটাগরি",
+    "details": "বিস্তারিত",
+    "parcel": "পার্সেল",
+    "kot": "কেওটি",
+    "table": "টেবিল",
+    "holdTable": "টেবিল ধরে রাখুন",
+    "capacity": "ধারণক্ষমতা",
+    "commonHint": "উদাহরণ: ১০",
+    "pleaseEnterQuantity": "অনুগ্রহ করে পরিমাণ লিখুন",
+    "quantityMustBeGreaterThanZero": "পরিমাণ অবশ্যই ০ এর বেশি হতে হবে",
+    "mobile": "মোবাইল",
+    "orderNo": "অর্ডার নং",
+    "dateAndTime": "তারিখ ও সময়",
+    "items": "আইটেম",
+    "totalAmount": "মোট পরিমাণ",
+    "paidAmount": "পরিশোধিত পরিমাণ",
+    "dueAmount": "বাকি পরিমাণ",
+    "paymentType": "পেমেন্ট প্রকার",
+    "thankYou": "ধন্যবাদ",
+    "developedBy": "${domain: String} দ্বারা তৈরি",
+    "qty": "পরিমাণ",
+    "amount": "পরিমাণ",
+    "dashboard": "ড্যাশবোর্ড",
+    "reports": "রিপোর্ট",
+    "home": "হোম",
+    "parties": "পার্টিজ",
+    "subscriptionPlan": "সাবস্ক্রিপশন প্ল্যান",
+    "estimateList": "অনুমান তালিকা",
+    "purchaseList": "ক্রয় তালিকা",
+    "dueList": "বাকি তালিকা",
+    "lossOrProfit": "লাভ/ক্ষতি",
+    "stocks": "স্টক",
+    "moneyInList": "আয় তালিকা",
+    "moneyOutList": "ব্যয় তালিকা",
+    "transactionList": "লেনদেন তালিকা",
+    "income": "আয়",
+    "expense": "ব্যয়",
+    "quickView": "দ্রুত দেখুন",
+    "to": "থেকে",
+    "totalSales": "মোট বিক্রয়",
+    "totalPurchase": "মোট ক্রয়",
+    "holdNumber": "অপেক্ষমান অর্ডার",
+    "totalExpense": "মোট ব্যয়",
+    "loss": "ক্ষতি",
+    "profit": "লাভ",
+    "recentTransaction": "সাম্প্রতিক লেনদেন",
+    "invoice": "ইনভয়েস",
+    "moneyIn": "আয়",
+    "moneyOut": "ব্যয়",
+    "paid": "পরিশোধিত",
+    "due": "বাকি",
+    "partial": "আংশিক",
+    "print": "প্রিন্ট",
+    "addCategory": "ক্যাটাগরি যোগ করুন",
+    "addExpense": "ব্যয় যোগ করুন",
+    "search": "খুঁজুন...",
+    "viewDetails": "বিস্তারিত দেখুন",
+    "title": "শিরোনাম",
+    "date": "তারিখ",
+    "note": "নোট",
+    "phoneNumber": "ফোন নম্বর",
+    "type": "প্রকার",
+    "selectContactSType": "যোগাযোগের প্রকার নির্বাচন করুন",
+    "moreInfo": "আরও তথ্য",
+    "paymentReceived": "পেমেন্ট গৃহীত",
+    "selectSupplier": "সরবরাহকারী নির্বাচন করুন",
+    "supplier": "সরবরাহকারী",
+    "received": "গৃহীত",
+    "balanceDue": "বাকি ব্যালেন্স",
+    "addPurchase": "ক্রয় যোগ করুন",
+    "selectedItemWillBeCleared": "নির্বাচিত আইটেম মুছে ফেলা হবে।",
+    "searchItemName": "আইটেমের নাম খুঁজুন",
+    "billItems": "বিল আইটেম",
+    "addMoreItems": "আরও আইটেম যোগ করুন",
+    "payAmount": "পরিশোধের পরিমাণ",
+    "salesReport": "বিক্রয় রিপোর্ট",
+    "purchaseReport": "ক্রয় রিপোর্ট",
+    "stockReport": "স্টক রিপোর্ট",
+    "dueReport": "বাকি রিপোর্ট",
+    "dueCollectionReport": "বাকি সংগ্রহ রিপোর্ট",
+    "transactionReport": "লেনদেন রিপোর্ট",
+    "incomeReport": "আয় রিপোর্ট",
+    "dueCollectionList": "বাকি সংগ্রহ তালিকা",
+    "expenseReport": "ব্যয় রিপোর্ট",
+    "dueCollection": "বাকি সংগ্রহ",
+    "myProfile": "আমার প্রোফাইল",
+    "printingOption": "প্রিন্টিং অপশন",
+    "currency": "মুদ্রা",
+    "paymentMethod": "পেমেন্ট পদ্ধতি",
+    "rateUs": "আমাদের রেটিং দিন",
+    "termAndCondition": "শর্তাবলী",
+    "tableList": "টেবিল তালিকা",
+    "addTable": "টেবিল যোগ করুন",
+    "vatRate": "ভ্যাট হার %",
+    "action": "অ্যাকশন",
+    "status": "স্ট্যাটাস",
+    "active": "সক্রিয়",
+    "inActive": "নিষ্ক্রিয়",
+    "subVats": "সাব ভ্যাট",
+    "add": "যোগ করুন",
+    "taxRate": "কর হার %",
+    "subTaxes": "সাব ট্যাক্স",
+    "group": "গ্রুপ",
+    "VAT": "ভ্যাট",
+    "subTaxList": "সাব ট্যাক্স তালিকা",
+    "vatPercent": "ভ্যাট শতাংশ",
+    "statusIsCannotInActive": "বিক্রয়ে ভ্যাট থাকলে স্ট্যাটাস নিষ্ক্রিয় করা যাবে না।",
+    "vatOnSales": "বিক্রয়ে ভ্যাট",
+    "transaction": "লেনদেন",
+    "version": "সংস্করণ ${version: String}",
+    "hold": "হোল্ড",
+    "empty": "খালি",
+    "appName": "রেস্টুরেন্ট অ্যাপ",
+    "duePayment": "বাকি পেমেন্ট",
+    "orders": "অর্ডার",
+    "all": "সব",
+    "ingredient": "উপাদান",
+    "menus": "মেনু",
+    "modifierGroups": "মডিফায়ার গ্রুপ",
+    "itemModifiers": "আইটেম মডিফায়ার",
+    "staff": "কর্মী",
+    "coupon": "কুপন",
+    "pay": "পেমেন্ট",
+    "pendingOrders": "অপেক্ষমান অর্ডার",
+    "order": "অর্ডার",
+    "payNow": "এখনই পেমেন্ট করুন",
+    "addStaff": "কর্মী যোগ করুন",
+    "designation": "পদবী",
+    "itemAdded": "আইটেম যোগ করা হয়েছে",
+    "noItemAdded": "কোনো আইটেম যোগ করা হয়নি",
+    "saveNPrint": "সংরক্ষণ করুন ও মুদ্রণ করুন",
+    "allowMultiSelection": "একাধিক নির্বাচন অনুমোদন করুন",
+    "required": "আবশ্যক",
+    "optional": "ঐচ্ছিক",
+    "allowMultiSelectionForSale": "বিক্রয়ের জন্য একাধিক নির্বাচন অনুমোদন করুন",
+    "isRequired": "আবশ্যক",
+    "modifier": "মডিফায়ার",
+    "fullPayment": "সম্পূর্ণ পেমেন্ট",
+    "payment": "পেমেন্ট",
+    "addTip": "টিপ যোগ করুন",
+    "netPayable": "নেট প্রদেয়",
+    "receiveAmount": "পরিমাণ গ্রহণ",
+    "changeAmount": "ফেরত টাকা",
+    "quotationList": "উদ্ধৃতি তালিকা",
+    "addQuotation": "উদ্ধৃতি যোগ করুন",
+    "convert": "রূপান্তর করুন",
+    "variations": "ভ্যারিয়েশন",
+    "instructions": "নির্দেশনা",
+    "unavailable": "অনুপ্রাপ্য",
+    "tip": "পরামর্শ",
+    "salesQuotationReport": "বিক্রয় উদ্ধৃতি প্রতিবেদন",
+    "orderType": "অর্ডার প্রকার",
+    "deliveryCharge": "ডেলিভারি চার্জ",
+    "receiptNo": "রসিদ নং",
+    "paidBy": "প্রদানকারী",
+    "receivedBy": "গ্রহণকারী",
+    "paymentAmount": "পরিশোধিত টাকার পরিমাণ",
+    "remainingDue": "অবশিষ্ট বকেয়া",
+    "roleNPermission": "ভূমিকা ও অনুমতি",
+    "sl": "ক্রমিক নং",
+    "features": "বৈশিষ্ট্য",
+    "create": "তৈরি করুন",
+    "update": "আপডেট করুন",
+    "quotations": "উদ্ধৃতিসমূহ",
+    "restaurant": "রেস্টুরেন্ট",
+    "printerProfile": "প্রিন্টার প্রোফাইল",
+    "kitchenOrders": "কিচেন অর্ডার",
+    "kitchen(plural)": {
+      "one": "রান্নাঘর",
+      "other": "রান্নাঘরগুলো"
+    },
+    "allKOT": "সকল কেওটি",
+    "cancelKOT": "কেওটি বাতিল করুন",
+    "selectCancelReason": "বাতিলের কারণ নির্বাচন করুন",
+    "additionalComment": "অতিরিক্ত মন্তব্য",
+    "enterComment": "মন্তব্য লিখুন",
+    "orderStatus": "অর্ডার স্ট্যাটাস",
+    "selectOrderStatus": "অর্ডার স্ট্যাটাস নির্বাচন করুন",
+    "kotReport": "কেওটি রিপোর্ট",
+    "itemFoodType": "খাবারের ধরন",
+    "selectItemFoodType": "@:common.itemFoodType নির্বাচন করুন",
+    "markAllAsRead": "সবগুলো পঠিত হিসেবে চিহ্নিত করুন",
+    "online": "অনলাইন",
+    "cancelledReason": "বাতিলের কারণ",
+    "hrm": "এইচআরএম",
+    "notAvailable": "N/A"
+  },
+  "exceptions": {
+    "somethingWentWrong": "কিছু ভুল হয়েছে, অনুগ্রহ করে আবার চেষ্টা করুন",
+    "noCategoryFound": "কোন ক্যাটাগরি পাওয়া যায়নি!\n অনুগ্রহ করে একটি ক্যাটাগরি যোগ করার চেষ্টা করুন।",
+    "doYouWantToDeleteThisCategory": "আপনি কি এই ক্যাটাগরি মুছতে চান?",
+    "noBrandFound": "কোন ব্র্যান্ড পাওয়া যায়নি!\n অনুগ্রহ করে একটি ব্র্যান্ড যোগ করার চেষ্টা করুন।",
+    "doYouWantToDeleteThisBrand": "আপনি কি এই ব্র্যান্ড মুছতে চান?",
+    "noItemStockFound": "কোন আইটেম স্টক পাওয়া যায়নি!\n অনুগ্রহ করে একটি আইটেম যোগ করার চেষ্টা করুন।",
+    "noUnitFound": "কোন ইউনিট পাওয়া যায়নি!\n অনুগ্রহ করে একটি ইউনিট যোগ করার চেষ্টা করুন।",
+    "doYouDeleteThisUnit": "আপনি কি এই ইউনিট মুছতে চান?",
+    "noSaleFoundPleaseSAddProduct": "কোন বিক্রয় পাওয়া যায়নি!\n অনুগ্রহ করে একটি বিক্রয় যোগ করার চেষ্টা করুন।",
+    "doYouWantToDeleteThisSale": "আপনি কি এই বিক্রয় মুছতে চান?",
+    "pleaseAddItemToTheCartFirst": "অনুগ্রহ করে প্রথমে কার্টে আইটেম যোগ করুন",
+    "noItemAdded": "কোন আইটেম যোগ করা হয়নি",
+    "cannotEditOthersTable": "অন্য টেবিল সম্পাদনা করা যাবে না।",
+    "tableIsAlreadyBlocked": "টেবিল ইতিমধ্যে বুক করা আছে।",
+    "failedToGetCustomerDetails": "গ্রাহকের বিবরণ পেতে ব্যর্থ হয়েছে।",
+    "noTableFoundPleaseTryAgain": "কোন টেবিল পাওয়া যায়নি!\n অনুগ্রহ করে একটি টেবিল যোগ করার চেষ্টা করুন।",
+    "noDueCollectionFound": "কোন বাকি ইনভয়েস পাওয়া যায়নি!\n উপলব্ধ হলে আপনি বাকি ইনভয়েস দেখতে পারবেন।",
+    "noExpenseFoundPleaseTryAddingExpense": "কোন ব্যয় পাওয়া যায়নি!\n অনুগ্রহ করে একটি ব্যয় যোগ করার চেষ্টা করুন।",
+    "doYouWantToDeleteThisExpense": "আপনি কি এই ব্যয় মুছতে চান?",
+    "noExpenseCategoryFound": "কোন ব্যয় ক্যাটাগরি পাওয়া যায়নি!\n অনুগ্রহ করে একটি ব্যয় ক্যাটাগরি যোগ করার চেষ্টা করুন।",
+    "noTransactionFound": "কোন লেনদেন পাওয়া যায়নি, অনুগ্রহ করে পরে আবার চেষ্টা করুন!",
+    "pleaseSelectACategory": "অনুগ্রহ করে একটি ক্যাটাগরি নির্বাচন করুন",
+    "noIncomeFound": "কোন আয় পাওয়া যায়নি!\n অনুগ্রহ করে একটি আয় যোগ করার চেষ্টা করুন",
+    "doYouWantToDeleteThisIncome": "আপনি কি এই আয় মুছতে চান?",
+    "noIncomeCategoryFoundAddingAIncome": "কোন আয় ক্যাটাগরি পাওয়া যায়নি!\n অনুগ্রহ করে একটি আয় ক্যাটাগরি যোগ করার চেষ্টা করুন।",
+    "noItemFoundPleaseTryAddingItem": "কোন আইটেম পাওয়া যায়নি!\n অনুগ্রহ করে একটি আইটেম যোগ করার চেষ্টা করুন।",
+    "noPartiesFound": "কোন পার্টি পাওয়া যায়নি",
+    "doYouWantToDeleteThisParty": "আপনি কি এই পার্টি মুছতে চান",
+    "noLedgerFound": "কোন লেজার পাওয়া যায়নি!\n অনুগ্রহ করে একটি ${transactionType: String} যোগ করার চেষ্টা করুন",
+    "areYouSureYouSureWantToDeleteThisTaxType": "আপনি কি নিশ্চিত যে আপনি এই ${taxType: String} মুছতে চান?",
+    "noItemFoundPleaseSTryAddingAnPurchase": "কোন আইটেম পাওয়া যায়নি!\n অনুগ্রহ করে একটি ক্রয় যোগ করার চেষ্টা করুন।",
+    "doYouWantToDeleteThisPurchase": "আপনি কি এই ক্রয় মুছতে চান?",
+    "noTransactionFoundYouSeeTransactionHereWhenAvailable": "কোন লেনদেন পাওয়া যায়নি!\n উপলব্ধ হলে আপনি এখানে লেনদেন দেখতে পারবেন।",
+    "noSaleFoundPleaseTryAddingSale": "কোন বিক্রয় পাওয়া যায়নি!\n অনুগ্রহ করে একটি বিক্রয় যোগ করার চেষ্টা করুন।",
+    "noPurchaseFoundPleaseTryAddingPurchase": "কোন ক্রয় পাওয়া যায়নি!\n অনুগ্রহ করে একটি ক্রয় যোগ করার চেষ্টা করুন।",
+    "noItemIncomeFound": "কোন আইটেম আয় পাওয়া যায়নি!\n উপলব্ধ হলে আপনি আয় তথ্য দেখতে পারবেন।",
+    "noItemExpenseFound": "কোন আইটেম ব্যয় পাওয়া যায়নি!\n উপলব্ধ হলে আপনি ব্যয় তথ্য দেখতে পারবেন।",
+    "noItemDueInvoiceFound": "কোন আইটেম বাকি ইনভয়েস পাওয়া যায়নি!\n উপলব্ধ হলে আপনি বাকি ইনভয়েস দেখতে পারবেন।",
+    "noItemDueCollectionInvoiceFound": "কোন আইটেম বাকি সংগ্রহ ইনভয়েস পাওয়া যায়নি!\n উপলব্ধ হলে আপনি বাকি সংগ্রহ ইনভয়েস দেখতে পারবেন।",
+    "doYouWantToDeleteThisTable": "আপনি কি এই টেবিল মুছতে চান?",
+    "thisVatIsBeingUsedOnSales": "এই ভ্যাট বিক্রয়ে ব্যবহৃত হচ্ছে!",
+    "noPaymentMethodFoundPleaseTryAddingAPaymentMethod": "কোনও পেমেন্ট পদ্ধতি খুঁজে পাওয়া যায়নি!\nঅনুগ্রহ করে একটি পেমেন্ট পদ্ধতি যোগ করার চেষ্টা করুন।",
+    "pleaseSelectACustomerFirst": "অনুগ্রহ করে প্রথমে একজন গ্রাহক নির্বাচন করুন।",
+    "pleaseSelectATableToCreateAKot": "কেওটি তৈরি করতে অনুগ্রহ করে একটি টেবিল নির্বাচন করুন।",
+    "noStaffFound": "কোন কর্মী পাওয়া যায়নি!\\nঅনুগ্রহ করে একজন কর্মী যোগ করার চেষ্টা করুন।",
+    "noIngredientFound": "কোন উপাদান পাওয়া যায়নি!\\nঅনুগ্রহ করে একটি উপাদান যোগ করার চেষ্টা করুন।",
+    "exceedsPaymentAmount": "প্রাপ্ত পরিমাণ প্রদেয় পরিমাণের চেয়ে বেশি হওয়া উচিত নয়",
+    "noItemModifierFound": "কোন আইটেম মডিফায়ার পাওয়া যায়নি!\n অনুগ্রহ করে একটি আইটেম মডিফায়ার যোগ করার চেষ্টা করুন।",
+    "noModifierGroupFound": "কোনো মডিফায়ার গ্রুপ পাওয়া যায়নি!\\nঅনুগ্রহ করে একটি মডিফায়ার গ্রুপ যোগ করার চেষ্টা করুন।",
+    "noOptionsFound": "কোনো বিকল্প পাওয়া যায়নি!",
+    "maxImageCountLimit": "আপনি শুধুমাত্র ৫টি পর্যন্ত ছবি নির্বাচন করতে পারবেন।",
+    "noQuotationFound": "কোনো উদ্ধৃতি পাওয়া যায়নি!\n অনুগ্রহ করে একটি উদ্ধৃতি যোগ করার চেষ্টা করুন।",
+    "noPermittedUserFound": "কোনো অনুমোদিত ব্যবহারকারী পাওয়া যায়নি!\\nঅনুগ্রহ করে একজন ব্যবহারকারী যোগ করার চেষ্টা করুন।"
+  },
+  "prompt": {
+    "logout": {
+      "title": "@:common.logout",
+      "message": "আপনি কি লগআউট করতে নিশ্চিত?"
+    },
+    "unsavedWarning": {
+      "title": "আপনি কি ফিরে যেতে চান?",
+      "message": "পরিবর্তিত ফিল্ডগুলো সংরক্ষণ নাও হতে পারে!"
+    },
+    "verify": {
+      "title": "আপনার ইমেল যাচাই করুন",
+      "description(rich)": "আমরা একটি যাচাইকরণ কোড ইমেল পাঠিয়েছি${emailSpan}\n\nহতে পারে ইমেলটি আপনার স্প্যাম ফোল্ডারে চলে গেছে।"
+    },
+    "subscriptionExpired": {
+      "title": "সাবস্ক্রিপশন শেষ!",
+      "message": "চালিয়ে যেতে সাবস্ক্রাইব করুন।",
+      "action": "সাবস্ক্রাইব করুন"
+    },
+    "items": {
+      "delete": {
+        "title": "আপনি কি এই আইটেম মুছতে চান?"
+      },
+      "filter": {
+        "title": "ফিল্টার করুন",
+        "extra": {
+          "lowToHigh": "কম থেকে বেশি @:common.price",
+          "highToLow": "বেশি থেকে কম @:common.price"
+        }
+      }
+    },
+    "checkInternet": {
+      "title": "কোন ইন্টারনেট সংযোগ নেই",
+      "message": "অনুগ্রহ করে আপনার ওয়াই-ফাই মোবাইল নেটওয়ার্ক সংযোগ পরীক্ষা করুন এবং আবার চেষ্টা করুন"
+    },
+    "back": {
+      "title": "বের হতে আবার ব্যাক বাটন টিপুন।"
+    },
+    "stockModelSheet": {
+      "title": "নতুন স্টক যোগ করুন"
+    },
+    "paymentMethod": {
+      "title": "আপনি কি এই পেমেন্ট পদ্ধতিটি মুছে ফেলতে চান?"
+    },
+    "extMsg": {
+      "kotSavedSuccessfully": "কেওটি সফলভাবে সংরক্ষিত হয়েছে"
+    },
+    "deleteStaff": "আপনি কি এই কর্মীকে মুছতে চান?",
+    "deleteIngredient": "আপনি কি এই উপাদানটি মুছতে চান?",
+    "deleteItemModifier": "আপনি কি এই আইটেম মডিফায়ারটি মুছে ফেলতে চান?",
+    "deleteModifierGroup": "আপনি কি এই মডিফায়ার গ্রুপটি মুছে ফেলতে চান?",
+    "deleteQuotation": "আপনি কি এই উদ্ধৃতিটি মুছে ফেলতে চান?"
+  },
+  "form": {
+    "fullName": {
+      "label": "@:common.fullName",
+      "hint": "আপনার @:common.fullName লিখুন",
+      "errors": {
+        "required": "অনুগ্রহ করে আপনার @:common.fullName লিখুন"
+      }
+    },
+    "email": {
+      "label": "@:common.email",
+      "hint": "আপনার @:common.email লিখুন",
+      "errors": {
+        "required": "অনুগ্রহ করে আপনার @:common.email ঠিকানা লিখুন",
+        "invalid": "⦸ অবৈধ ইমেইল, অনুগ্রহ করে আবার চেষ্টা করুন"
+      }
+    },
+    "password": {
+      "label": "@:common.password",
+      "hint": "* * * * * * * *",
+      "errors": {
+        "required": "অনুগ্রহ করে আপনার @:common.password লিখুন",
+        "minLength": "পাসওয়ার্ড অবশ্যই কমপক্ষে ${count} অক্ষরের হতে হবে!"
+      }
+    },
+    "confirmPassword": {
+      "label": "পাসওয়ার্ড নিশ্চিত করুন",
+      "hint": "* * * * * * * *",
+      "errors": {
+        "required": "অনুগ্রহ করে আপনার @:common.password লিখুন",
+        "invalid": "নিশ্চিতকরণ পাসওয়ার্ড মিলছে না!"
+      }
+    },
+    "otp": {
+      "errors": {
+        "required": "অনুগ্রহ করে ওটিপি লিখুন।",
+        "invalid": "অনুগ্রহ করে বর্তমান ওটিপি লিখুন।"
+      }
+    },
+    "profile": {
+      "businessCategory": {
+        "label": "ব্যবসা ক্যাটাগরি",
+        "hint": "ব্যবসা ক্যাটাগরি নির্বাচন করুন",
+        "errors": {
+          "required": "অনুগ্রহ করে ব্যবসা ক্যাটাগরি নির্বাচন করুন"
+        }
+      },
+      "shopOrStore": {
+        "label": "দোকান/স্টোরের নাম*",
+        "hint": "দোকান বা স্টোরের নাম লিখুন",
+        "errors": {
+          "required": "অনুগ্রহ করে আপনার দোকান বা স্টোরের নাম লিখুন"
+        }
+      },
+      "openingBalance": {
+        "label": "প্রারম্ভিক ব্যালেন্স",
+        "hint": "প্রারম্ভিক ব্যালেন্স লিখুন"
+      },
+      "vatGstTitle": {
+        "label": "ভ্যাট/জিএসটি শিরোনাম",
+        "hint": "ভ্যাট/জিএসটি লিখুন"
+      },
+      "vatGstNumber": {
+        "label": "ভ্যাট/জিএসটি নম্বর",
+        "hint": "ভ্যাট/জিএসটি নম্বর লিখুন"
+      }
+    },
+    "vat": {
+      "name": {
+        "label": "নাম",
+        "hint": "ভ্যাট নাম লিখুন",
+        "error": {
+          "required": "অনুগ্রহ করে ভ্যাট নাম লিখুন"
+        }
+      },
+      "subVat": {
+        "label": "সাব ভ্যাট",
+        "hint": "সাব ভ্যাট নির্বাচন করুন",
+        "errors": {
+          "required": "অনুগ্রহ করে সাব ভ্যাট নির্বাচন করুন"
+        }
+      },
+      "rate": {
+        "label": "ভ্যাট হার %",
+        "hint": "ভ্যাট হার লিখুন",
+        "errors": {
+          "required": "দয়া করে ভ্যাট হার লিখুন।"
+        }
+      }
+    },
+    "category": {
+      "label": "@:common.category",
+      "hint": "আইটেম ক্যাটাগরি নির্বাচন করুন",
+      "error": {
+        "required": "অনুগ্রহ করে ক্যাটাগরি নাম লিখুন"
+      }
+    },
+    "items": {
+      "barcode": {
+        "label": "বারকোড",
+        "hint": "@:common.selectOne"
+      },
+      "itemName": {
+        "label": "আইটেমের নাম",
+        "hint": "আইটেমের নাম লিখুন",
+        "extra": {
+          "required": "অনুগ্রহ করে আইটেমের নাম লিখুন"
+        }
+      },
+      "itemCategory": {
+        "label": "আইটেম ক্যাটাগরি",
+        "hint": "আইটেম ক্যাটাগরি",
+        "extra": {
+          "label": "ক্যাটাগরি নির্বাচন করুন",
+          "required": "অনুগ্রহ করে একটি ক্যাটাগরি নির্বাচন করুন"
+        }
+      },
+      "brand": {
+        "label": "@:common.brand",
+        "hint": "@:common.selectOne",
+        "extra": {
+          "hint": "ব্র্যান্ড নাম লিখুন",
+          "required": "অনুগ্রহ করে ব্র্যান্ড নাম লিখুন"
+        }
+      },
+      "unit": {
+        "label": "@:common.unit",
+        "hint": "@:common.selectOne",
+        "error": {
+          "required": "অনুগ্রহ করে ইউনিট নাম লিখুন"
+        }
+      },
+      "stock": {
+        "label": "প্রারম্ভিক স্টক",
+        "hint": "@:common.commonHint",
+        "extra": {
+          "required": "অনুগ্রহ করে আইটেমের গুণমান লিখুন।"
+        }
+      },
+      "lowStock": {
+        "label": "@:common.lowStock",
+        "hint": "উদাহরণ: ৫"
+      },
+      "purchasePrice": {
+        "label": "@:common.purchasePrice",
+        "hint": "উদাহরণ: \\$৪০",
+        "error": {
+          "required": "অনুগ্রহ করে ক্রয় মূল্য লিখুন।"
+        }
+      },
+      "salePrice": {
+        "label": "বিক্রয় মূল্য",
+        "hint": "উদাহরণ: \\$৬০",
+        "error": {
+          "required": "অনুগ্রহ করে বিক্রয় মূল্য লিখুন।"
+        }
+      },
+      "totalSalePrice": {
+        "label": "মোট বিক্রয় মূল্য",
+        "hint": "উদাহরণ: \\$১০০"
+      },
+      "wholeSalePrice": {
+        "label": "@:common.wholeSalePrice",
+        "hint": "পাইকারি মূল্য লিখুন"
+      },
+      "dealerPrice": {
+        "label": "@:common.dealerPrice",
+        "hint": "ডিলার মূল্য লিখুন"
+      },
+      "discount": {
+        "label": "ছাড় (%)",
+        "hint": "@:common.commonHint"
+      },
+      "applicableTax": {
+        "label": "প্রযোজ্য কর",
+        "hint": "@:common.selectOne"
+      },
+      "vatType": {
+        "label": "@:common.taxType",
+        "errorText": {
+          "required": "অনুগ্রহ করে একটি ভ্যাট প্রকার নির্বাচন করুন"
+        }
+      },
+      "menu": {
+        "label": "মেনু নির্বাচন করুন",
+        "errors": {
+          "required": "অনুগ্রহ করে একটি মেনু নির্বাচন করুন।"
+        },
+        "hint": "একটি মেনু নির্বাচন করুন",
+        "extra": {
+          "selectNavLabel": "আইটেম মেনু নির্বাচন করুন"
+        }
+      },
+      "modifierItems": {
+        "label": "মডিফায়ার আইটেমসমূহ",
+        "hint": "মডিফায়ার আইটেমসমূহ নির্বাচন করুন"
+      },
+      "preparationTime": {
+        "label(rich)": "প্রস্তুতির সময় ${minutes(মিনিটস)}",
+        "hint": "উদাহরণ: ৩০"
+      },
+      "variation": {
+        "name": {
+          "label": "নাম",
+          "hint": "পরিবর্তন লিখুন",
+          "errors": {
+            "required": "অনুগ্রহ করে পরিবর্তনের নাম লিখুন।"
+          }
+        },
+        "price": {
+          "errors": {
+            "required": "অনুগ্রহ করে মূল্য লিখুন।"
+          },
+          "label": "মূল্য",
+          "hint": "উদাহরণ: \\$৩০"
+        }
+      }
+    },
+    "itemCart": {
+      "hint": "@:common.commonHint",
+      "error": {
+        "required": "@:common.pleaseEnterQuantity",
+        "noZero": "@:common.quantityMustBeGreaterThanZero"
+      }
+    },
+    "sales": {
+      "autoGenerateInvoice": {
+        "label": "বিল নং",
+        "hint": "P-০০০০১"
+      },
+      "date": {
+        "label": "তারিখ"
+      },
+      "customer": {
+        "label": "গ্রাহক",
+        "hint": "গ্রাহক নির্বাচন করুন"
+      },
+      "phone": {
+        "label": "ফোন নম্বর",
+        "hint": "ফোন নম্বর লিখুন"
+      },
+      "address": {
+        "label": "ঠিকানা",
+        "hint": "ঠিকানা লিখুন"
+      },
+      "deliveryCharge": {
+        "label": "@:common.deliveryCharge",
+        "hint": "উদাহরণ: \\$২০",
+        "hint2": "চার্জ যেমন: \\$১০"
+      },
+      "table": {
+        "hint": "টেবিল নির্বাচন করুন"
+      },
+      "waiter": {
+        "hint": "ওয়েটার নির্বাচন করুন"
+      }
+    },
+    "bill": {
+      "label": "বিল নং",
+      "hint": "P-০০০০১"
+    },
+    "supplier": {
+      "label": "সরবরাহকারী",
+      "hint": "সরবরাহকারী নির্বাচন করুন",
+      "extra": {
+        "required": "অনুগ্রহ করে একটি সরবরাহকারী নির্বাচন করুন"
+      }
+    },
+    "phone": {
+      "label": "ফোন নম্বর",
+      "hint": "ফোন নম্বর লিখুন",
+      "errors": {
+        "required": "অনুগ্রহ করে ফোন নম্বর লিখুন।"
+      }
+    },
+    "address": {
+      "label": "ঠিকানা",
+      "hint": "ঠিকানা লিখুন"
+    },
+    "payment": {
+      "label": "নাম",
+      "hint": "পেমেন্ট নাম লিখুন",
+      "error": {
+        "required": "অনুগ্রহ করে একটি পেমেন্ট পদ্ধতির নাম লিখুন"
+      }
+    },
+    "expense": {
+      "label": "ব্যয় ক্যাটাগরি",
+      "hint": "ব্যয় ক্যাটাগরি নির্বাচন করুন",
+      "error": {
+        "required": "অনুগ্রহ করে ব্যয় ক্যাটাগরি লিখুন"
+      }
+    },
+    "income": {
+      "label": "আয় ক্যাটাগরি",
+      "hint": "ক্যাটাগরি নাম লিখুন",
+      "error": {
+        "required": "অনুগ্রহ করে ক্যাটাগরি নাম লিখুন"
+      },
+      "incomeTitle": {
+        "label": "আয় শিরোনাম",
+        "hint": "আয় লিখুন"
+      },
+      "incomeCategory": {
+        "label": "আয় ক্যাটাগরি",
+        "hint": "ক্যাটাগরি নির্বাচন করুন"
+      },
+      "payment": {
+        "label": "পেমেন্ট",
+        "hint": "উদাহরণ: \\$১০"
+      }
+    },
+    "note": {
+      "label": "নোট (ঐচ্ছিক)",
+      "hint": "টেক্সট লিখুন"
+    },
+    "parties": {
+      "partyName": {
+        "label": "পার্টির নাম",
+        "hint": "পার্টির নাম লিখুন",
+        "error": {
+          "required": "অনুগ্রহ করে পার্টির নাম লিখুন"
+        }
+      },
+      "partyPhone": {
+        "label": "ফোন নম্বর",
+        "hint": "ফোন নম্বর লিখুন",
+        "error": {
+          "required": "অনুগ্রহ করে ফোন নম্বর লিখুন"
+        }
+      }
+    },
+    "table": {
+      "name": {
+        "label": "টেবিলের নাম",
+        "hint": "টেবিলের নাম লিখুন",
+        "error": {
+          "required": "অনুগ্রহ করে টেবিলের নাম লিখুন"
+        }
+      },
+      "capacity": {
+        "label": "ধারণক্ষমতা",
+        "hint": "ধারণক্ষমতা লিখুন",
+        "error": {
+          "required": "অনুগ্রহ করে ধারণক্ষমতা লিখুন"
+        }
+      }
+    },
+    "designation": {
+      "label": "@:common.designation",
+      "hint": "একটি পদ নির্বাচন করুন",
+      "errors": {
+        "required": "অনুগ্রহ করে একটি পদ নির্বাচন করুন।"
+      }
+    },
+    "ingredientName": {
+      "label": "উপাদানের নাম",
+      "hint": "উপাদানের নাম লিখুন",
+      "errors": {
+        "required": "অনুগ্রহ করে উপাদানের নাম লিখুন"
+      }
+    },
+    "item": {
+      "label": "আইটেম",
+      "hint": "আইটেম নির্বাচন করুন",
+      "errors": {
+        "required": "অনুগ্রহ করে একটি আইটেম নির্বাচন করুন।"
+      }
+    },
+    "modifierGroup": {
+      "label": "মডিফায়ার গ্রুপ",
+      "hint": "মডিফায়ার গ্রুপ নির্বাচন করুন",
+      "errors": {
+        "required": "অনুগ্রহ করে একটি মডিফায়ার গ্রুপ নির্বাচন করুন।"
+      }
+    },
+    "description": {
+      "label": "বর্ণনা",
+      "hint": "বর্ণনা লিখুন"
+    },
+    "staff": {
+      "label": "@:common.staff",
+      "hint": "একজন স্টাফ নির্বাচন করুন",
+      "errors": {
+        "required": "অনুগ্রহ করে একজন স্টাফ নির্বাচন করুন"
+      }
+    },
+    "loginUserName": {
+      "label": "লগইন ব্যবহারকারীর নাম",
+      "hint": "ব্যবহারকারীর নাম অথবা ইমেইল ঠিকানা লিখুন",
+      "errors": {
+        "required": "অনুগ্রহ করে ব্যবহারকারীর নাম অথবা ইমেইল ঠিকানা লিখুন"
+      }
+    }
+  },
+  "action": {
+    "next": "পরবর্তী",
+    "getStarted": "শুরু করুন",
+    "skip": "এড়িয়ে যান",
+    "select": "নির্বাচন করুন",
+    "save": "সংরক্ষণ করুন",
+    "verify": "যাচাই করুন",
+    "signIn": "@:common.signIn",
+    "signUp": "@:common.signUp",
+    "continue": "চালিয়ে যান",
+    "no": "না",
+    "yes": "হ্যাঁ",
+    "okay": "ঠিক আছে",
+    "cancel": "বাতিল করুন",
+    "confirm": "নিশ্চিত করুন",
+    "tryAgain": "আবার চেষ্টা করুন",
+    "reset": "রিসেট করুন",
+    "apply": "প্রয়োগ করুন",
+    "stockAdjust": "স্টক সমন্বয় করুন",
+    "addMoreItems": "আরও আইটেম যোগ করুন",
+    "hold": "হোল্ড করুন",
+    "parcel": "@:common.parcel",
+    "buyNow": "এখনই কিনুন",
+    "viewAll": "সবগুলো দেখুন",
+    "viewLedger": "লেজার দেখুন",
+    "submit": "জমা দিন",
+    "selected": "নির্বাচিত",
+    "addToCart": "কার্টে যোগ করুন",
+    "selectAll": "সব নির্বাচন করুন",
+    "update": "@:common.update",
+    "addRole": "ভূমিকা যোগ করুন"
+  },
+  "pages": {
+    "language": {
+      "appbarTitle": "@:action.select @:common.language"
+    },
+    "onboard": {
+      "onboardData": {
+        "data1": {
+          "title": "ব্যবহার করতে সহজ @:common.appName",
+          "description": "সুবিন্যস্ত অর্ডার, ঝামেলামুক্ত বুকিং\nসহজেই আপনার রেস্তোরাঁ চালিত করুন!"
+        },
+        "data2": {
+          "title": "অনায়াস অর্ডার ব্যবস্থাপনা",
+          "description": "আমাদের সহজবোধ্য পিওএস সিস্টেমের সাহায্যে আপনার রেস্টুরেন্টের অর্ডার গ্রহণ প্রক্রিয়া সহজ করুন।"
+        },
+        "data3": {
+          "title": "চমৎকার বিশ্লেষণ ও প্রতিবেদন",
+          "description": "আমাদের বিশ্লেষণ ড্যাশবোর্ড রিয়েল-টাইম বিক্রয় ও ক্রয় প্রতিবেদন প্রদান করে"
+        }
+      }
+    },
+    "signIn": {
+      "title": "আবারও স্বাগতম",
+      "subtitle": "অনুগ্রহ করে আপনার বিবরণ লিখুন।",
+      "extra": {
+        "rememberMe": "আমাকে মনে রাখুন",
+        "signUpNavigator(rich)": "একাউন্ট নেই? ${getStarted(@:action.getStarted)}",
+        "forgotPassword": "@:common.forgotPassword?"
+      }
+    },
+    "signUp": {
+      "title": "একটি অ্যাকাউন্ট তৈরি করুন",
+      "subtitle": "অনুগ্রহ করে আপনার বিবরণ লিখুন",
+      "extra": {
+        "signInNavigator(rich)": "ইতিমধ্যে একটি অ্যাকাউন্ট আছে? ${signIn(@:action.signIn)}"
+      }
+    },
+    "forgotPassword": {
+      "title": "@:common.forgotPassword",
+      "subtitle": "আপনার পাসওয়ার্ড পুনরুদ্ধার করতে আপনার ইমেইল ঠিকানা লিখুন।"
+    },
+    "otpVerification": {
+      "title": "যাচাইকরণ",
+      "subtitle": "৬ সংখ্যার পিন আপনার ইমেইল ঠিকানায় পাঠানো হয়েছে",
+      "extra": {
+        "codeResend": {
+          "codeSendIn": "কোড পাঠানো হয়েছে",
+          "resendCode": "কোড পুনরায় পাঠান"
+        }
+      }
+    },
+    "resetPassword": {
+      "title": "পাসওয়ার্ড রিসেট করুন",
+      "subtitle": "আপনার অ্যাকাউন্ট পুনরুদ্ধার করতে এবং লগ ইন করতে আপনার পাসওয়ার্ড রিসেট করুন",
+      "extra": {
+        "dialog": {
+          "title": "সফলভাবে পরিবর্তন করা হয়েছে!",
+          "subtitle": "আপনার নতুন পাসওয়ার্ড দিয়ে সাইন ইন করুন।\n আপনাকে সাইন ইন পৃষ্ঠায় পুনঃনির্দেশিত করা হচ্ছে..."
+        }
+      }
+    },
+    "items": {
+      "itemList": {
+        "extra": {
+          "emptyItem": "কোন আইটেম পাওয়া যায়নি!\n অনুগ্রহ করে একটি আইটেম যোগ করার চেষ্টা করুন।"
+        }
+      },
+      "manageItems": {
+        "title": "নতুন আইটেম যোগ করুন",
+        "title2": "আইটেম সম্পাদনা করুন",
+        "extra": {
+          "maximum": "সর্বাধিক ৫",
+          "wholeSaleAndDealerPrice": "পাইকারি ও ডিলার মূল্য",
+          "addDiscount": "ছাড় যোগ করুন",
+          "addVat": "ভ্যাট যোগ করুন"
+        }
+      },
+      "itemDetails": {
+        "title": "আইটেমের বিবরণ",
+        "extra": {
+          "noImageAvailable": "কোন ছবি উপলব্ধ নেই!",
+          "preparationTime(rich)": "প্রস্তুতির সময়: ${min: String} ${mins(mins)}",
+          "pleaseSelectVariation": "একটি ভ্যারিয়েশন নির্বাচন করুন।",
+          "pleaseSelectOption": "একটি বিকল্প নির্বাচন করুন।",
+          "enterYourInstruction": "আপনার নির্দেশনা লিখুন"
+        }
+      }
+    },
+    "category": {
+      "addNewCategory": "নতুন ক্যাটাগরি যোগ করুন",
+      "editCategory": "ক্যাটাগরি সম্পাদনা করুন"
+    },
+    "brand": {
+      "addNewBrand": "নতুন ব্র্যান্ড যোগ করুন",
+      "editBrand": "ব্র্যান্ড সম্পাদনা করুন"
+    },
+    "unit": {
+      "addNewUnit": "নতুন ইউনিট যোগ করুন",
+      "editUnit": "ইউনিট সম্পাদনা করুন"
+    },
+    "stock": {
+      "stockList": "স্টক তালিকা"
+    },
+    "aboutUs": {
+      "title": "আমাদের সম্পর্কে"
+    },
+    "privacyPolicy": {
+      "title": "গোপনীয়তা নীতি"
+    },
+    "termAndCondition": {
+      "title": "@:common.termAndCondition"
+    },
+    "orders": {
+      "manageOrders": {
+        "extra": {
+          "billItems": "বিল আইটেম",
+          "manageQuantity": "পরিমাণ পরিচালনা করুন"
+        },
+        "title": {
+          "editOrder": "অর্ডার সম্পাদনা",
+          "editKOT": "কেওটি সম্পাদনা"
+        }
+      }
+    },
+    "onlinePayment": {
+      "title": "অনলাইন পেমেন্ট"
+    },
+    "paymentStatus": {
+      "success": {
+        "title": "ধন্যবাদ!",
+        "message": "আমরা পেমেন্ট পর্যালোচনা করব এবং ২৪ ঘন্টার মধ্যে অনুমোদন করব।",
+        "actionButtonText": "ইনভয়েস দেখুন"
+      },
+      "fail": {
+        "title": "উফ! পেমেন্ট ব্যর্থ হয়েছে",
+        "message": "কিছু প্রযুক্তিগত ত্রুটির কারণে আপনার লেনদেন ব্যর্থ হয়েছে।",
+        "actionButtonText": "আবার চেষ্টা করুন"
+      }
+    },
+    "confirmationDialog": {
+      "title": "লগ আউট",
+      "message": "আপনি কি লগআউট করতে নিশ্চিত?",
+      "acceptationText": "না",
+      "rejectionText": "লগ আউট"
+    },
+    "payment": {
+      "title": "@:common.paymentMethod",
+      "addPaymentMethod": "নতুন পেমেন্ট পদ্ধতি যোগ করুন",
+      "editPaymentMethod": "পেমেন্ট পদ্ধতি সম্পাদনা করুন",
+      "choseOnlinePayment": "অনলাইন পেমেন্ট বেছে নিন",
+      "selectPaymentMethod": "পেমেন্ট পদ্ধতি নির্বাচন করুন",
+      "pleaseSelectAPaymentMethod": "অনুগ্রহ করে একটি পেমেন্ট পদ্ধতি নির্বাচন করুন।",
+      "methodStatus": {
+        "title": "স্ট্যাটাস",
+        "message": "কুইক ভিউ সক্রিয় থাকলে স্ট্যাটাস নিষ্ক্রিয় হতে পারে না!।"
+      }
+    },
+    "subscriptionPlan": {
+      "title": "প্রিমিয়াম প্ল্যান কিনুন",
+      "extra": {
+        "actionButtonText": "ফিরে যান",
+        "message": "সাবস্ক্রিপশন পেমেন্ট সফলভাবে সম্পন্ন হয়েছে।\n\nআপনি এখন সাবস্ক্রাইব করা ফিচারগুলি অ্যাক্সেস করতে পারেন।",
+        "mostPopular": "সবচেয়ে জনপ্রিয়"
+      }
+    },
+    "invoicePreview": {
+      "title": "ইনভয়েস প্রিভিউ",
+      "message": "পিডিএফ প্রিভিউ শীঘ্রই আসছে"
+    },
+    "currency": {
+      "title": "@:common.currency"
+    },
+    "dashboard": {
+      "overview": "ওভারভিউ",
+      "dashboardPrivacy": "ড্যাশবোর্ড গোপনীয়তা",
+      "moneyInAndMoneyOut": "আয় ও ব্যয়",
+      "lossAndProfitOverView": "লাভ ও ক্ষতির সংক্ষিপ্ত বিবরণ"
+    },
+    "due": {
+      "title": "@:common.dueList",
+      "collectionList": "সংগ্রহ তালিকা",
+      "dueCollection": "বাকি সংগ্রহ"
+    },
+    "expense": {
+      "title": "@:common.expense",
+      "editExpense": "খরচ সম্পাদনা করুন",
+      "addNewExpense": "নতুন খরচ যোগ করুন",
+      "editExpenseCategory": "খরচের বিভাগ সম্পাদনা করুন",
+      "addNewExpenseCategory": "নতুন খরচের বিভাগ যোগ করুন",
+      "payment": "পেমেন্ট",
+      "expenseCategory": "খরচের বিভাগ",
+      "selectCategory": "বিভাগ নির্বাচন করুন",
+      "allExpense": "সকল খরচ",
+      "pleaseSelectACategory": "অনুগ্রহ করে একটি বিভাগ নির্বাচন করুন",
+      "expenseTitle": {
+        "label": "খরচের শিরোনাম",
+        "hint": "খরচ লিখুন"
+      }
+    },
+    "lossProfit": {
+      "title": "ক্ষতি/লাভের তালিকা",
+      "noLossProfitFound": "কোনো ক্ষতি/লাভ পাওয়া যায়নি!\nঅনুগ্রহ করে কিছু বিক্রয় তৈরি করার চেষ্টা করুন।"
+    },
+    "income": {
+      "editIncomeCategory": "আয় ক্যাটাগরি সম্পাদনা করুন",
+      "addNewIncomeCategory": "নতুন আয় ক্যাটাগরি যোগ করুন",
+      "incomeCategory": "আয় ক্যাটাগরি",
+      "allIncome": "সমস্ত আয়",
+      "editIncome": "আয় সম্পাদনা করুন",
+      "addNewIncome": "আয় সম্পাদনা করুন",
+      "addIncome": "আয় যোগ করুন"
+    },
+    "moneyIn": {
+      "title": "আয় তালিকা",
+      "totalPaymentIn": "মোট আয়"
+    },
+    "moneyOut": {
+      "title": "ব্যয় তালিকা",
+      "totalMoneyOut": "মোট ব্যয়"
+    },
+    "profile": {
+      "title": "আমার প্রোফাইল",
+      "editProfile": "প্রোফাইল সম্পাদনা করুন",
+      "businessInformation": "ব্যবসায়িক তথ্য",
+      "profileInformation": "প্রোফাইল তথ্য"
+    },
+    "parties": {
+      "title": "পার্টি তালিকা",
+      "allParties": "সমস্ত পার্টি",
+      "customer": "গ্রাহক",
+      "supplier": "সরবরাহকারী",
+      "addParties": "পার্টি যোগ করুন",
+      "editParties": "পার্টি সম্পাদনা করুন",
+      "partiesDetails": "পার্টির বিবরণ",
+      "personalInfo": "ব্যক্তিগত তথ্য"
+    },
+    "ledger": {
+      "subTitle": "লেজার"
+    },
+    "purchase": {
+      "title": "নতুন ক্রয় যোগ করুন",
+      "editPurchase": "ক্রয় সম্পাদনা করুন"
+    },
+    "reports": {
+      "title": "প্রতিবেদন"
+    },
+    "table": {
+      "title": "নতুন টেবিল যোগ করুন",
+      "editTable": "টেবিল সম্পাদনা করুন"
+    },
+    "tax": {
+      "title": "ভ্যাট হার",
+      "buildHeaderTitle": "ভ্যাট হার - আপনার ভ্যাট হার পরিচালনা করুন",
+      "vatGroup": {
+        "title": "ভ্যাট গ্রুপ",
+        "subTitle": "ভ্যাট গ্রুপ - আপনার ভ্যাট গ্রুপ পরিচালনা করুন"
+      }
+    },
+    "vat": {
+      "addNewVat": "নতুন ভ্যাট যোগ করুন",
+      "editVat": "ভ্যাট সম্পাদনা করুন",
+      "addNewVatGroup": "নতুন ভ্যাট গ্রুপ যোগ করুন",
+      "editVatGroup": "ভ্যাট গ্রুপ সম্পাদনা করুন"
+    },
+    "orderList": {
+      "title": "অর্ডার তালিকা",
+      "filters": {
+        "orderType": {
+          "label": "@:common.orderType",
+          "hint": "অর্ডার প্রকার নির্বাচন করুন"
+        },
+        "paymentStatus": {
+          "hint": "পেমেন্ট স্ট্যাটাস নির্বাচন করুন",
+          "label": "পেমেন্ট স্ট্যাটাস"
+        }
+      }
+    },
+    "staffs": {
+      "staffList": {
+        "filters": {
+          "designation": {
+            "label": "পদবী",
+            "hint": "পদবী নির্বাচন করুন"
+          }
+        },
+        "title": "সকল কর্মী"
+      },
+      "manageStaff": {
+        "title1": "নতুন কর্মী যোগ করুন",
+        "title2": "কর্মী আপডেট করুন"
+      }
+    },
+    "ingredient": {
+      "ingredientList": {
+        "title1": "উপাদান তালিকা",
+        "title2": "উপাদান নির্বাচন করুন"
+      },
+      "manageIngredient": {
+        "title1": "নতুন উপাদান যোগ করুন",
+        "title2": "উপাদান সম্পাদনা করুন"
+      }
+    },
+    "itemModifier": {
+      "itemModifierList": {
+        "title": "@:common.itemModifiers"
+      },
+      "manageItemModifier": {
+        "title1": "আইটেম মডিফায়ার যোগ করুন",
+        "title2": "আইটেম মডিফায়ার সম্পাদনা করুন"
+      }
+    },
+    "quotation": {
+      "manageQuotation": {
+        "title": {
+          "add": "নতুন উদ্ধৃতি যোগ করুন",
+          "edit": "উদ্ধৃতি সম্পাদনা করুন",
+          "convert": "বিক্রয়ে রূপান্তর করুন"
+        }
+      }
+    },
+    "rolePermission": {
+      "rolePermissionList": {
+        "title": "ভূমিকা ও অনুমতি তালিকা"
+      },
+      "manageRolePermission": {
+        "title1": "নতুন ভূমিকা যোগ করুন",
+        "title2": "ভূমিকা সম্পাদনা করুন"
+      }
+    },
+    "printingOption": {
+      "title": "প্রিন্টিং অপশন",
+      "form": {
+        "companyAddress": {
+          "label": "কোম্পানি ঠিকানা",
+          "hint": "কোম্পানি ঠিকানা লিখুন"
+        },
+        "noteLabel": {
+          "label": "নোট লেবেল",
+          "hint": "নোট লেবেল লিখুন."
+        },
+        "note": {
+          "label": "নোট",
+          "hint": "নোট লিখুন."
+        },
+        "postSaleMessage": {
+          "label": "পোস্ট সেল মেসেজ",
+          "hint": "পোস্ট সেল মেসেজ লিখুন"
+        },
+        "printingMethod": {
+          "label": "প্রিন্টিং মেথড",
+          "hint": "প্রিন্টিং মেথড নির্বাচন করুন"
+        },
+        "printerProfile": {
+          "label": "প্রিন্টার প্রোফাইল",
+          "hint": "প্রিন্টার প্রোফাইল নির্বাচন করুন"
+        },
+        "paperSize": {
+          "label": "থার্মাল প্রিন্টার পেপার সাইজ",
+          "hint": "প্রিন্টার পেপার সাইজ নির্বাচন করুন"
+        },
+        "printerDpi": {
+          "label": "প্রিন্টার ডিপিআই",
+          "hint": "উদা: ২০৩"
+        },
+        "printingMargin": {
+          "label": "প্রিন্টিং মার্জিন",
+          "hint": "উদা: ২"
+        }
+      },
+      "tooltip": {
+        "printingMethod": {
+          "title": "অপশন সহ ড্রপডাউন:",
+          "default": "• ডিফল্ট (ইউরোপীয় স্ট্যান্ডার্ড ক্যারেক্টার প্রিন্ট করার নেটিভ মেথড)",
+          "image": "• ইমেজ (ইউনিকোড ক্যারেক্টার প্রিন্টিং এর জন্য সুপারিশকৃত)"
+        }
+      },
+      "action": {
+        "save": "সেভ"
+      }
+    },
+    "kitchen": {
+      "list": {
+        "noKitchensFound": "কোনো রান্নাঘর পাওয়া যায়নি।\n অনুগ্রহ করে একটি যোগ করুন।"
+      },
+      "manage": {
+        "addKitchen": "রান্নাঘর যোগ করুন",
+        "editKitchen": "রান্নাঘর সম্পাদনা করুন",
+        "kitchenName": {
+          "label": "রান্নাঘরের নাম",
+          "hint": "রান্নাঘরের নাম লিখুন",
+          "error": "অনুগ্রহ করে রান্নাঘরের নাম লিখুন।"
+        },
+        "description": {
+          "label": "বিবরণ",
+          "hint": "বিবরণ লিখুন"
+        }
+      },
+      "manageItems": {
+        "title": "আইটেম ব্যবস্থাপনা",
+        "addedItems": "যোগ করা আইটেম",
+        "selectItemsError": "অনুগ্রহ করে আইটেম নির্বাচন করুন।",
+        "noItemsAdded": "এখনো কোনো আইটেম যোগ করা হয়নি!\nঅনুগ্রহ করে আইটেম যোগ করুন।"
+      },
+      "card": {
+        "itemName": "আইটেমের নাম",
+        "manageItems": "+ আইটেম ব্যবস্থাপনা",
+        "deleteItemConfirm": "আপনি কি এই আইটেমটি মুছতে চান?",
+        "deleteKitchenConfirm": "আপনি কি এই রান্নাঘরটি মুছতে চান?"
+      }
+    }
+  },
+  "enums": {
+    "dropdownDateFilter": {
+      "daily": "দৈনিক",
+      "weekly": "সাপ্তাহিক",
+      "monthly": "মাসিক",
+      "yearly": "বার্ষিক",
+      "custom": "কাস্টম"
+    },
+    "orderTypes": {
+      "dineIn": "ডাইন ইন",
+      "pickUp": "পিক আপ",
+      "delivery": "ডেলিভারি",
+      "reservation": "রিজার্ভেশন",
+      "quotation": "কোটেশন"
+    },
+    "paymentStatus": {
+      "paid": "পরিশোধিত",
+      "unpaid": "অপরিশোধিত"
+    },
+    "staffTypes": {
+      "manager": "ম্যানেজার",
+      "waiter": "ওয়েটার",
+      "chef": "শেফ",
+      "cleaner": "ক্লিনার",
+      "driver": "ড্রাইভার",
+      "deliveryBoy": "ডেলিভারি বয়"
+    },
+    "itemFoodTypes": {
+      "veg": "ভেজিটেরিয়ান",
+      "nonVeg": "নন-ভেজিটেরিয়ান",
+      "egg": "ডিম",
+      "drink": "পানীয়",
+      "others": "অন্যান্য"
+    },
+    "itemTypes": {
+      "single": "সিঙ্গেল",
+      "variation": "ভেরিয়েশন"
+    },
+    "quotationStatus": {
+      "open": "খোলা",
+      "closed": "বন্ধ"
+    },
+    "tableStatus": {
+      "running": "চলমান",
+      "available": "উপলব্ধ"
+    },
+    "thermalPrinterPrintingMethod": {
+      "image": "ইমেজ",
+      "default": "ডিফল্ট"
+    },
+    "kotOrderStatus": {
+      "label": {
+        "pending": "অপেক্ষমান",
+        "preparing": "প্রস্তুত হচ্ছে",
+        "ready": "খাবার তৈরি",
+        "served": "খাবার পরিবেশন করা হয়েছে",
+        "cancelled": "বাতিল"
+      },
+      "pending": "অপেক্ষমান",
+      "preparing": "প্রস্তুত হচ্ছে",
+      "ready": "খাবার তৈরি",
+      "served": "খাবার পরিবেশন করা হয়েছে",
+      "cancelled": "বাতিল"
+    },
+    "kotItemStatus": {
+      "pending": "রান্না শুরু করুন",
+      "start": "প্রস্তুত চিহ্নিত করুন",
+      "ready": "প্রস্তুত"
+    }
+  },
+  "thermalPrint": {
+    "invoice": {
+      "purchaseInvoiceLabel": "ক্রয় চালান: ${invoiceNumber: String}",
+      "saleInvoiceLabel": "অর্ডার নং: ${invoiceNumber: String}",
+      "receiptNoLabel": "রসিদ নং: ${invoiceNumber: String}",
+      "orderNoKotLabel": "অর্ডার নং: ${invoiceNumber: String}",
+      "nameLabel": "নাম: ${name: String}",
+      "mobileLabel": "মোবাইল: ${phone: String}",
+      "purchasedByLabel": "কর্তৃক ক্রয়কৃত: ${role: String}",
+      "salesByLabel": "কর্তৃক বিক্রয়কৃত: ${role: String}",
+      "paidByLabel": "${label: String}: ${role: String}",
+      "paidToReceivedFromLabel": "${label: String}: ${name: String}",
+      "orderTypeLabel": "অর্ডারের প্রকার: ${orderType: String}",
+      "tableLabel": "টেবিল: ${tableName: String}",
+      "tableNoLabel": "টেবিল নং: ${tableName: String}",
+      "dateLabel": "তারিখ: ${dateTime: String}",
+      "invoiceFlag": "চালান",
+      "receiptFlag": "রসিদ",
+      "paidBy": "কর্তৃক প্রদত্ত",
+      "receivedBy": "কর্তৃক গৃহীত",
+      "paidTo": "প্রদত্ত",
+      "receivedFrom": "গ্রহীত",
+      "seller": "বিক্রেতা: ${name: String}",
+      "address": "ঠিকানা: ${addr: String}",
+      "vatNo": "ভ্যাট নং",
+      "tel": "ফোন: ${phoneNumber: String}",
+      "timeLabel": "সময়: ${dateTime: String}"
+    },
+    "tableHeaders": {
+      "sl": "ক্রম",
+      "item": "আইটেম",
+      "cost": "খরচ",
+      "qty": "পরিমাণ",
+      "uPrice": "একক মূল্য",
+      "amount": "পরিমাণ",
+      "total": "মোট",
+      "invoiceTable": "চালান",
+      "dueTable": "বাকি"
+    },
+    "summary": {
+      "subTotal": "সাব টোটাল:",
+      "discount": "ছাড়: ${percentFmt: String}",
+      "vat": "${vatName: String}: ${rateFmt: String}%",
+      "tip": "বখশিশ:",
+      "deliveryCharge": "ডেলিভারি চার্জ:",
+      "totalPayable": "মোট পরিশোধযোগ্য:",
+      "paidAmount": "পরিশোধিত অর্থ:",
+      "dueAmount": "বাকি অর্থ:",
+      "paymentType": "পরিশোধের ধরন: ${method: String}",
+      "remainingDue": "অবশিষ্ট বাকি:",
+      "paymentAmount": "পরিশোধের অর্থ:",
+      "itemsCount": "আইটেম: ${count: int}",
+      "qtyTotal": "পরিমাণ: ${totalQty: int}"
+    },
+    "footer": {
+      "note": "${noteLabel: String}: ${note: String}",
+      "developedBy": "${developByLabel: String} ${developBy: String}"
+    }
+  },
+  "hrm": {
+    "department": "বিভাগ",
+    "designation": "পদবী",
+    "shift": "শিফট",
+    "employee": "কর্মচারী",
+    "leave": "ছুটি",
+    "leaveType": "ছুটির ধরন",
+    "leaveRequest": "ছুটির আবেদন",
+    "holiday": "ছুটির দিন",
+    "attendance": "উপস্থিতি",
+    "payroll": "বেতন",
+    "pageTitles": {
+      "department": "বিভাগ",
+      "designation": "পদবী",
+      "shift": "শিফট",
+      "employee": "কর্মচারী",
+      "leave": "ছুটি",
+      "leaveType": "ছুটির ধরন",
+      "holiday": "ছুটির দিন",
+      "attendance": "উপস্থিতি",
+      "payroll": "বেতন",
+      "leaveReports": "ছুটির রিপোর্ট",
+      "payrollReports": "বেতন রিপোর্ট",
+      "attendanceReports": "উপস্থিতি রিপোর্ট",
+      "addDepartment": "বিভাগ যোগ করুন",
+      "editDepartment": "বিভাগ সম্পাদনা করুন",
+      "addDesignation": "পদবী যোগ করুন",
+      "editDesignation": "পদবী সম্পাদনা করুন",
+      "addShift": "শিফট যোগ করুন",
+      "editShift": "শিফট সম্পাদনা করুন",
+      "addEmployee": "কর্মচারী যোগ করুন",
+      "editEmployee": "কর্মচারী সম্পাদনা করুন",
+      "addLeave": "ছুটি যোগ করুন",
+      "editLeave": "ছুটি সম্পাদনা করুন",
+      "addLeaveType": "ছুটির ধরন যোগ করুন",
+      "editLeaveType": "ছুটির ধরন সম্পাদনা করুন",
+      "addHoliday": "ছুটির দিন যোগ করুন",
+      "editHoliday": "ছুটির দিন সম্পাদনা করুন",
+      "addAttendance": "উপস্থিতি যোগ করুন",
+      "editAttendance": "উপস্থিতি সম্পাদনা করুন",
+      "addPayroll": "বেতন যোগ করুন",
+      "editPayroll": "বেতন সম্পাদনা করুন"
+    },
+    "form": {
+      "labels": {
+        "department": "বিভাগ",
+        "designation": "পদবী",
+        "shift": "শিফট",
+        "employee": "কর্মচারী",
+        "leaveType": "ছুটির ধরন",
+        "leaveDuration": "ছুটির মেয়াদ",
+        "paymentYear": "প্রদানের বছর",
+        "paymentType": "প্রদানের ধরন",
+        "breakStatus": "বিরতির অবস্থা",
+        "startTime": "শুরুর সময়",
+        "endTime": "শেষের সময়",
+        "startBreakTime": "বিরতি শুরু",
+        "endBreakTime": "বিরতি শেষ",
+        "breakTime": "বিরতির সময়",
+        "breakDuration": "বিরতির সময়কাল",
+        "timeIn": "প্রবেশের সময়",
+        "timeOut": "প্রস্থান সময়",
+        "duration": "মেয়াদ",
+        "country": "দেশ",
+        "salary": "বেতন",
+        "gender": "লিঙ্গ",
+        "birthDate": "জন্ম তারিখ",
+        "joinDate": "যোগদানের তারিখ",
+        "holidayName": "ছুটির নাম",
+        "startDate": "শুরুর তারিখ",
+        "endDate": "শেষের তারিখ",
+        "month": "মাস",
+        "year": "বছর",
+        "status": "অবস্থা",
+        "description": "বিবরণ",
+        "amount": "পরিমাণ",
+        "payment": "প্রদান",
+        "departmentName": "বিভাগের নাম",
+        "designationName": "পদের নাম",
+        "image": "ছবি",
+        "name": "নাম"
+      },
+      "hints": {
+        "selectEmployee": "কর্মচারী নির্বাচন করুন",
+        "selectDepartment": "বিভাগ নির্বাচন করুন",
+        "selectDesignation": "পদবী নির্বাচন করুন",
+        "selectShift": "শিফট নির্বাচন করুন",
+        "selectLeaveType": "ছুটির ধরন নির্বাচন করুন",
+        "selectMonth": "মাস নির্বাচন করুন",
+        "selectYear": "বছর নির্বাচন করুন",
+        "selectDate": "তারিখ নির্বাচন করুন",
+        "selectStartDate": "শুরুর তারিখ নির্বাচন করুন",
+        "selectEndDate": "শেষের তারিখ নির্বাচন করুন",
+        "selectTimeIn": "প্রবেশের সময় নির্বাচন করুন",
+        "selectTimeOut": "প্রস্থানের সময় নির্বাচন করুন",
+        "selectStartTime": "শুরুর সময় নির্বাচন করুন",
+        "selectEndTime": "শেষের সময় নির্বাচন করুন",
+        "selectStatus": "অবস্থা নির্বাচন করুন",
+        "selectGender": "লিঙ্গ নির্বাচন করুন",
+        "selectPaymentType": "প্রদানের ধরন নির্বাচন করুন",
+        "enterFullName": "পুরো নাম লিখুন",
+        "enterEmail": "ইমেল লিখুন",
+        "enterPhone": "ফোন নম্বর লিখুন",
+        "enterCountry": "দেশ লিখুন",
+        "enterSalary": "উদাঃ 500",
+        "enterHolidayName": "ছুটির নাম লিখুন",
+        "enterDescription": "বিবরণ লিখুন...",
+        "autoCalculated": "স্বয়ংক্রিয়ভাবে গণনা করা হয়েছে",
+        "selectDatesFirst": "প্রথমে তারিখ নির্বাচন করুন",
+        "allEmployee": "সকল কর্মচারী",
+        "selectEmployeeFirst": "প্রথমে কর্মচারী নির্বাচন করুন",
+        "enterDepartmentName": "বিভাগের নাম লিখুন",
+        "enterDesignationName": "পদের নাম লিখুন",
+        "ex": "{value}",
+        "selectBirthDate": "জন্ম তারিখ নির্বাচন করুন",
+        "selectJoinDate": "যোগদানের তারিখ নির্বাচন করুন",
+        "selectBreakStatus": "বিরতির স্থিতি নির্বাচন করুন",
+        "enterLeaveTypeName": "ছুটির ধরনের নাম লিখুন"
+      }
+    },
+    "emptyStates": {
+      "noLeaves": "কোন ছুটি পাওয়া যায়নি",
+      "noPayrollRecords": "কোন বেতনের রেকর্ড পাওয়া যায়নি",
+      "noAttendanceRecords": "কোন উপস্থিতির রেকর্ড পাওয়া যায়নি",
+      "noLeaveTypes": "কোন ছুটির ধরন পাওয়া যায়নি",
+      "noEmployees": "কোন কর্মচারী পাওয়া যায়নি",
+      "noHolidays": "কোন ছুটির দিন পাওয়া যায়নি",
+      "noShifts": "কোন শিফট পাওয়া যায়নি",
+      "noDesignations": "কোন পদবী পাওয়া যায়নি",
+      "noDepartments": "কোন বিভাগ পাওয়া যায়নি"
+    },
+    "confirmations": {
+      "deleteAttendance": "আপনি কি এই উপস্থিতি মুছতে চান?",
+      "deletePayroll": "আপনি কি এই বেতন মুছতে চান?",
+      "deleteLeave": "আপনি কি এই ছুটি মুছতে চান?",
+      "deleteLeaveType": "আপনি কি এই ছুটির ধরনটি ডিলিট করতে চান?",
+      "deleteEmployee": "আপনি কি এই কর্মচারীকে মুছতে চান?",
+      "deleteHoliday": "আপনি কি এই ছুটির দিন মুছতে চান?",
+      "deleteShift": "আপনি কি এই শিফটটি ডিলিট করতে চান?",
+      "deleteDesignation": "আপনি কি এই পদবী মুছতে চান?",
+      "deleteDepartment": "আপনি কি এই বিভাগ মুছতে চান?"
+    },
+    "validation": {
+      "selectEmployee": "অনুগ্রহ করে কর্মচারী নির্বাচন করুন",
+      "selectMonth": "অনুগ্রহ করে মাস নির্বাচন করুন",
+      "selectEndDate": "অনুগ্রহ করে শেষের তারিখ নির্বাচন করুন",
+      "endDateAfterStart": "শেষের তারিখ শুরুর তারিখের পরে হতে হবে",
+      "selectStatus": "অনুগ্রহ করে স্থিতি নির্বাচন করুন",
+      "selectLeaveType": "অনুগ্রহ করে ছুটির ধরন নির্বাচন করুন",
+      "selectStartDate": "অনুগ্রহ করে শুরুর তারিখ নির্বাচন করুন",
+      "selectDate": "অনুগ্রহ করে তারিখ নির্বাচন করুন",
+      "selectTimeIn": "অনুগ্রহ করে প্রবেশের সময় নির্বাচন করুন",
+      "selectTimeOut": "অনুগ্রহ করে প্রস্থানের সময় নির্বাচন করুন",
+      "enterDepartmentName": "অনুগ্রহ করে বিভাগের নাম লিখুন",
+      "enterDesignationName": "অনুগ্রহ করে পদের নাম লিখুন",
+      "enterName": "অনুগ্রহ করে নাম লিখুন",
+      "selectDesignation": "অনুগ্রহ করে পদবী নির্বাচন করুন",
+      "selectDepartment": "অনুগ্রহ করে বিভাগ নির্বাচন করুন",
+      "enterEmail": "অনুগ্রহ করে ইমেল লিখুন",
+      "enterValidEmail": "অনুগ্রহ করে একটি বৈধ ইমেল লিখুন",
+      "enterPhoneNumber": "অনুগ্রহ করে ফোন নম্বর লিখুন",
+      "enterCountry": "অনুগ্রহ করে দেশ লিখুন",
+      "enterSalary": "অনুগ্রহ করে বেতন লিখুন",
+      "selectGender": "অনুগ্রহ করে লিঙ্গ নির্বাচন করুন",
+      "selectShift": "অনুগ্রহ করে শিফট নির্বাচন করুন",
+      "selectBirthDate": "অনুগ্রহ করে জন্ম তারিখ নির্বাচন করুন",
+      "selectJoinDate": "অনুগ্রহ করে যোগদানের তারিখ নির্বাচন করুন",
+      "enterHolidayName": "অনুগ্রহ করে ছুটির নাম লিখুন",
+      "selectBreakStatus": "অনুগ্রহ করে বিরতির স্থিতি নির্বাচন করুন",
+      "selectPaymentYear": "অনুগ্রহ করে পেমেন্টের বছর নির্বাচন করুন",
+      "selectPaymentType": "অনুগ্রহ করে পেমেন্টের ধরন নির্বাচন করুন",
+      "enterAmount": "অনুগ্রহ করে পরিমাণ লিখুন",
+      "selectStartBreakTime": "অনুগ্রহ করে বিরতি শুরুর সময় নির্বাচন করুন",
+      "selectEndBreakTime": "অনুগ্রহ করে বিরতি শেষের সময় নির্বাচন করুন",
+      "enterLeaveTypeName": "অনুগ্রহ করে ছুটির ধরনের নাম লিখুন",
+      "selectStartTime": "অনুগ্রহ করে শুরুর সময় নির্বাচন করুন",
+      "selectEndTime": "অনুগ্রহ করে শেষের সময় নির্বাচন করুন"
+    },
+    "dropdowns": {
+      "addNew": "+ নতুন যোগ করুন",
+      "morning": "সকাল",
+      "day": "দিন",
+      "evening": "সন্ধ্যা",
+      "night": "রাত",
+      "yes": "হ্যাঁ",
+      "no": "না",
+      "approved": "অনুমোদিত",
+      "rejected": "প্রত্যাখ্যাত",
+      "terminated": "সমাপ্ত",
+      "suspended": "স্থগিত",
+      "male": "পুরুষ",
+      "female": "মহিলা",
+      "pending": "অপেক্ষমান",
+      "active": "সক্রিয়",
+      "inactive": "নিষ্ক্রিয়",
+      "paid": "পরিশোধিত",
+      "unpaid": "অপরিশোধিত"
+    },
+    "units": {
+      "days": "দিন"
+    },
+    "fallbacks": {
+      "noNoteAvailable": "কোন নোট নেই",
+      "noDescriptionAvailable": "কোন বর্ণনা উপলব্ধ নেই",
+      "selectEmployeeFirst": "প্রথমে কর্মচারী নির্বাচন করুন"
+    },
+    "success": {
+      "leaveDelete": "ছুটি সফলভাবে মুছে ফেলা হয়েছে",
+      "attendanceDelete": "উপস্থিতি সফলভাবে মুছে ফেলা হয়েছে",
+      "attendanceAdd": "উপস্থিতি সফলভাবে যোগ করা হয়েছে",
+      "attendanceUpdate": "উপস্থিতি সফলভাবে আপডেট করা হয়েছে",
+      "leaveAdd": "ছুটি সফলভাবে যোগ করা হয়েছে",
+      "leaveUpdate": "ছুটি সফলভাবে আপডেট করা হয়েছে",
+      "departmentDelete": "বিভাগ সফলভাবে মুছে ফেলা হয়েছে",
+      "departmentAdd": "বিভাগ সফলভাবে যোগ করা হয়েছে",
+      "departmentUpdate": "বিভাগ সফলভাবে আপডেট করা হয়েছে",
+      "designationDelete": "পদবী সফলভাবে মুছে ফেলা হয়েছে",
+      "designationAdd": "পদবী সফলভাবে যোগ করা হয়েছে",
+      "designationUpdate": "পদবী সফলভাবে আপডেট করা হয়েছে",
+      "employeeDelete": "কর্মচারী সফলভাবে মুছে ফেলা হয়েছে",
+      "employeeAdd": "কর্মচারী সফলভাবে যোগ করা হয়েছে",
+      "employeeUpdate": "কর্মচারী সফলভাবে আপডেট করা হয়েছে",
+      "holidayDelete": "ছুটির দিন সফলভাবে মুছে ফেলা হয়েছে",
+      "holidayAdd": "ছুটির দিন সফলভাবে যোগ করা হয়েছে",
+      "holidayUpdate": "ছুটির দিন সফলভাবে আপডেট করা হয়েছে",
+      "leaveTypeDelete": "ছুটির ধরন সফলভাবে মুছে ফেলা হয়েছে"
+    }
+  }
+}

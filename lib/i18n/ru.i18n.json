@@ -1,0 +1,1561 @@
+{
+  "@@meta": {
+    "languageCode": "ru_RU",
+    "languageName": "Русский",
+    "version": "1.0.0"
+  },
+  "common": {
+    "signIn": "Войти",
+    "signUp": "Зарегистрироваться",
+    "verifyEmail": "Подтвердить адрес электронной почты",
+    "customizeProfile": "Настроить профиль",
+    "imageOrLogo": "Логотип или изображение",
+    "createNewPassword": "Создать новый пароль",
+    "itemsList": "Список товаров",
+    "searchItemsName": "Поиск по названию товара",
+    "categoryList": "Список категорий",
+    "brandList": "Список брендов",
+    "unitList": "Список единиц измерения",
+    "itemDetails": "Детали товара",
+    "addStock": "Добавить склад",
+    "profile": "Профиль",
+    "language": "Язык",
+    "termsAndConditions": "Условия и положения",
+    "aboutUs": "О нас",
+    "logout": "Выйти",
+    "editProfile": "Редактировать профиль",
+    "fullName": "Полное имя",
+    "email": "Электронная почта",
+    "mobileNumber": "Номер мобильного телефона",
+    "address": "Адрес",
+    "password": "Пароль",
+    "forgotPassword": "Забыли пароль",
+    "edit": "Редактировать",
+    "delete": "Удалить",
+    "addItems": "Добавить товары",
+    "stock": "Склад",
+    "currentStock": "Текущий склад",
+    "value": "Стоимость",
+    "sales": "Продажи",
+    "purchase": "Покупка",
+    "price": "Цена",
+    "image": "Изображение",
+    "upload": "Загрузить",
+    "addNew": "Добавить новый",
+    "pricing": "Ценообразование",
+    "name": "Название",
+    "category(plural)": {
+      "one": "Категория",
+      "other": "Категорияs"
+    },
+    "areas": "Areas",
+    "brand": "Бренд",
+    "lowStock": "Низкий склад",
+    "unit": "Единица измерения",
+    "vat": "НДС",
+    "taxType": "Тип налога",
+    "purchasePrice": "Цена покупки",
+    "sellingPrice": "Цена продажи",
+    "wholeSalePrice": "Оптовая цена",
+    "dealerPrice": "Цена дилера",
+    "searchHere": "Поиск здесь",
+    "totalItems": "Всего товаров",
+    "stockValue": "Стоимость склада",
+    "congratulation": "Поздравляем",
+    "salesList": "Список продаж",
+    "searchInvoiceNumber": "Поиск по номеру счета",
+    "view": "Просмотр",
+    "kFor": "Для",
+    "total": "Итого",
+    "subTotal": "Промежуточный итог",
+    "insufficientStockAvailableStock": "Недостаточный запас, доступный запас",
+    "discount": "Скидка",
+    "selectOne": "Выберите один",
+    "allCategory": "Все категории",
+    "details": "Детали",
+    "parcel": "Посылка",
+    "kot": "КОТ",
+    "table": "Стол",
+    "holdTable": "Задержать стол",
+    "capacity": "Вместимость",
+    "commonHint": "Например: 10",
+    "pleaseEnterQuantity": "Пожалуйста, введите количество",
+    "quantityMustBeGreaterThanZero": "Количество должно быть больше 0",
+    "mobile": "Мобильный",
+    "orderNo": "Номер заказа",
+    "dateAndTime": "Дата и время",
+    "items": "Товары",
+    "totalAmount": "Общая сумма",
+    "paidAmount": "Оплаченная сумма",
+    "dueAmount": "Сумма к оплате",
+    "paymentType": "Тип оплаты",
+    "thankYou": "Спасибо",
+    "developedBy": "Разработано ${domain: String}",
+    "qty": "Цена",
+    "amount": "Сумма",
+    "dashboard": "Панель управления",
+    "reports": "Отчеты",
+    "home": "Главная",
+    "parties": "Контрагенты",
+    "subscriptionPlan": "План подписки",
+    "estimateList": "Список смет",
+    "purchaseList": "Список покупок",
+    "dueList": "Список задолженностей",
+    "lossOrProfit": "Прибыль/Убыток",
+    "stocks": "Акции",
+    "moneyInList": "Список поступлений",
+    "moneyOutList": "Список расходов",
+    "transactionList": "Список транзакций",
+    "income": "Доход",
+    "expense": "Расход",
+    "quickView": "Быстрый просмотр",
+    "to": "до",
+    "totalSales": "Общие продажи",
+    "totalPurchase": "Общие закупки",
+    "holdNumber": "Отложенные заказы",
+    "totalExpense": "Общие расходы",
+    "loss": "Убыток",
+    "profit": "Прибыль",
+    "recentTransaction": "Последние транзакции",
+    "invoice": "Счет-фактура",
+    "moneyIn": "Поступления",
+    "moneyOut": "Расходы",
+    "paid": "Оплачено",
+    "due": "К оплате",
+    "partial": "Частично",
+    "print": "Печать",
+    "addCategory": "Добавить категорию",
+    "addExpense": "Добавить расход",
+    "search": "Поиск...",
+    "viewDetails": "Посмотреть детали",
+    "title": "Заголовок",
+    "date": "Дата",
+    "note": "Примечание",
+    "phoneNumber": "Номер телефона",
+    "type": "Тип",
+    "selectContactSType": "Выберите тип контакта",
+    "moreInfo": "Подробнее",
+    "paymentReceived": "Платеж получен",
+    "selectSupplier": "Выберите поставщика",
+    "supplier": "Поставщик",
+    "received": "Получено",
+    "balanceDue": "Остаток к оплате",
+    "addPurchase": "Добавить покупку",
+    "selectedItemWillBeCleared": "Выбранные товары будут удалены.",
+    "searchItemName": "Поиск по названию товара",
+    "billItems": "Позиции счета",
+    "addMoreItems": "Добавить еще товары",
+    "payAmount": "Сумма к оплате",
+    "salesReport": "Отчет о продажах",
+    "purchaseReport": "Отчет о закупках",
+    "stockReport": "Отчет о складе",
+    "dueReport": "Отчет о задолженностях",
+    "dueCollectionReport": "Отчет о сборе задолженностей",
+    "transactionReport": "Отчет о транзакциях",
+    "incomeReport": "Отчет о доходах",
+    "dueCollectionList": "Список сбора задолженностей",
+    "expenseReport": "Отчеты о расходах",
+    "dueCollection": "Сбор задолженностей",
+    "myProfile": "Мой профиль",
+    "printingOption": "Параметры печати",
+    "currency": "Валюта",
+    "paymentMethod": "Способ оплаты",
+    "rateUs": "Оцените нас",
+    "termAndCondition": "Условия и положения",
+    "tableList": "Список столов",
+    "addTable": "Добавить стол",
+    "vatRate": "Ставка НДС %",
+    "action": "Действие",
+    "status": "Статус",
+    "active": "Активный",
+    "inActive": "Неактивный",
+    "subVats": "Под НДС",
+    "add": "Добавить",
+    "taxRate": "Налоговая ставка %",
+    "subTaxes": "Под налоги",
+    "group": "группа",
+    "VAT": "НДС",
+    "subTaxList": "Список под налогов",
+    "vatPercent": "Процент НДС",
+    "statusIsCannotInActive": "Статус не может быть неактивным, если НДС включен в продажи.",
+    "vatOnSales": "НДС при продажах",
+    "transaction": "Транзакция",
+    "version": "Версия ${version: String}",
+    "hold": "Удержать",
+    "empty": "Пусто",
+    "appName": "Restaurant App",
+    "duePayment": "Оплата задолженности",
+    "orders": "Заказы",
+    "all": "Все",
+    "ingredient": "Ингредиент",
+    "menus": "Меню",
+    "modifierGroups": "Группы модификаторов",
+    "itemModifiers": "Модификаторы блюд",
+    "staff": "Персонал",
+    "coupon": "Купон",
+    "pay": "Оплатить",
+    "pendingOrders": "Ожидающие заказы",
+    "order": "Заказ",
+    "payNow": "Оплатить сейчас",
+    "addStaff": "Добавить сотрудника",
+    "designation": "Должность",
+    "itemAdded": "Позиция добавлена",
+    "noItemAdded": "Позиции не добавлены",
+    "saveNPrint": "Сохранить и распечатать",
+    "allowMultiSelection": "Разрешить множественный выбор",
+    "required": "Обязательно",
+    "optional": "Необязательно",
+    "allowMultiSelectionForSale": "Разрешить множественный выбор для продаж",
+    "isRequired": "Обязательно",
+    "modifier": "Модификатор",
+    "fullPayment": "Полная оплата",
+    "payment": "Оплата",
+    "addTip": "Добавить чаевые",
+    "netPayable": "К оплате",
+    "receiveAmount": "Полученная сумма",
+    "changeAmount": "Сдача",
+    "quotationList": "Список предложений",
+    "addQuotation": "Добавить предложение",
+    "convert": "Конвертировать",
+    "variations": "Вариации",
+    "instructions": "Инструкции",
+    "unavailable": "Недоступно",
+    "tip": "Совет",
+    "salesQuotationReport": "Отчет по коммерческому предложению",
+    "orderType": "Тип заказа",
+    "deliveryCharge": "Стоимость доставки",
+    "receiptNo": "Номер квитанции",
+    "paidBy": "Оплатил",
+    "receivedBy": "Получил",
+    "paymentAmount": "Сумма платежа",
+    "remainingDue": "Остаток к оплате",
+    "roleNPermission": "Роль и разрешение",
+    "sl": "№",
+    "features": "Функции",
+    "create": "Создать",
+    "update": "Обновить",
+    "quotations": "Коммерческие предложения",
+    "restaurant": "Ресторан",
+    "printerProfile": "Профиль принтера",
+    "kitchenOrders": "Заказы на кухню",
+    "kitchen(plural)": {
+      "one": "Кухня",
+      "other": "Кухни"
+    },
+    "allKOT": "Все KOT",
+    "cancelKOT": "Отменить KOT",
+    "selectCancelReason": "Выберите причину отмены",
+    "additionalComment": "Дополнительный комментарий",
+    "enterComment": "Введите комментарий",
+    "orderStatus": "Статус заказа",
+    "selectOrderStatus": "Выберите статус заказа",
+    "kotReport": "Отчет KOT",
+    "itemFoodType": "Тип еды",
+    "selectItemFoodType": "Выберите @:common.itemFoodType",
+    "markAllAsRead": "Отметить все как прочитанное",
+    "online": "Online",
+    "cancelledReason": "Cancelled Reason",
+    "hrm": "HRM",
+    "notAvailable": "N/A"
+  },
+  "exceptions": {
+    "somethingWentWrong": "Что-то пошло не так, пожалуйста, попробуйте еще раз",
+    "noCategoryFound": "Категория не найдена!\n Пожалуйста, попробуйте добавить категорию.",
+    "doYouWantToDeleteThisCategory": "Вы действительно хотите удалить эту категорию?",
+    "noBrandFound": "Бренд не найден!\n Пожалуйста, попробуйте добавить бренд.",
+    "doYouWantToDeleteThisBrand": "Вы действительно хотите удалить этот бренд?",
+    "noItemStockFound": "Склад товара не найден!\n Пожалуйста, попробуйте добавить товар.",
+    "noUnitFound": "Единица измерения не найдена!\n Пожалуйста, попробуйте добавить единицу измерения.",
+    "doYouDeleteThisUnit": "Вы действительно хотите удалить эту единицу измерения?",
+    "noSaleFoundPleaseSAddProduct": "Продажа не найдена!\n Пожалуйста, попробуйте добавить продажу.",
+    "doYouWantToDeleteThisSale": "Вы действительно хотите удалить эту продажу?",
+    "pleaseAddItemToTheCartFirst": "Пожалуйста, сначала добавьте товары в корзину",
+    "noItemAdded": "Товары не добавлены",
+    "cannotEditOthersTable": "Невозможно редактировать чужой стол.",
+    "tableIsAlreadyBlocked": "Стол уже забронирован.",
+    "failedToGetCustomerDetails": "Не удалось получить данные клиента.",
+    "noTableFoundPleaseTryAgain": "Столы не найдены!\n Пожалуйста, попробуйте добавить стол.",
+    "noDueCollectionFound": "Не найдены неоплаченные счета!\n Вы сможете увидеть неоплаченные счета, когда они появятся.",
+    "noExpenseFoundPleaseTryAddingExpense": "Расходы не найдены!\n Пожалуйста, попробуйте добавить расход.",
+    "doYouWantToDeleteThisExpense": "Вы действительно хотите удалить этот расход?",
+    "noExpenseCategoryFound": "Категория расходов не найдена!\n Пожалуйста, попробуйте добавить категорию расходов.",
+    "noTransactionFound": "Транзакции не найдены, пожалуйста, попробуйте позже!",
+    "pleaseSelectACategory": "Пожалуйста, выберите категорию",
+    "noIncomeFound": "Доходы не найдены!\n Пожалуйста, попробуйте добавить доход.",
+    "doYouWantToDeleteThisIncome": "Вы действительно хотите удалить этот доход?",
+    "noIncomeCategoryFoundAddingAIncome": "Категория доходов не найдена!\n Пожалуйста, попробуйте добавить категорию доходов.",
+    "noItemFoundPleaseTryAddingItem": "Товар не найден!\n Пожалуйста, попробуйте добавить товар.",
+    "noPartiesFound": "Контрагенты не найдены",
+    "doYouWantToDeleteThisParty": "Вы действительно хотите удалить этого контрагента?",
+    "noLedgerFound": "Книга учета не найдена!\n Пожалуйста, попробуйте добавить ${transactionType: String}",
+    "areYouSureYouSureWantToDeleteThisTaxType": "Вы уверены, что хотите удалить этот ${taxType: String}?",
+    "noItemFoundPleaseSTryAddingAnPurchase": "Товар не найден!\n Пожалуйста, попробуйте добавить покупку.",
+    "doYouWantToDeleteThisPurchase": "Вы действительно хотите удалить эту покупку?",
+    "noTransactionFoundYouSeeTransactionHereWhenAvailable": "Транзакции не найдены!\n Вы увидите транзакции здесь, когда они появятся.",
+    "noSaleFoundPleaseTryAddingSale": "Продажа не найдена!\n Пожалуйста, попробуйте добавить продажу.",
+    "noPurchaseFoundPleaseTryAddingPurchase": "Покупка не найдена!\n Пожалуйста, попробуйте добавить покупку.",
+    "noItemIncomeFound": "Доходы по товарам не найдены!\n Данные о доходах будут доступны позже.",
+    "noItemExpenseFound": "Расходы по товарам не найдены!\n Данные о расходах будут доступны позже.",
+    "noItemDueInvoiceFound": "Не найдены неоплаченные счета по товарам!\n Вы сможете увидеть неоплаченные счета, когда они появятся.",
+    "noItemDueCollectionInvoiceFound": "'Не найдены неоплаченные счета для сбора по товарам!\n Вы сможете увидеть счета для сбора, когда они появятся.",
+    "doYouWantToDeleteThisTable": "Вы действительно хотите удалить этот стол?'",
+    "thisVatIsBeingUsedOnSales": "Этот НДС используется в продажах!",
+    "noPaymentMethodFoundPleaseTryAddingAPaymentMethod": "Способ оплаты не найден!\n Пожалуйста, попробуйте добавить способ оплаты.",
+    "pleaseSelectACustomerFirst": "Пожалуйста, выберите клиента сначала.",
+    "pleaseSelectATableToCreateAKot": "Пожалуйста, выберите стол, чтобы создать KOT.",
+    "noStaffFound": "Персонал не найден!\\n Пожалуйста, попробуйте добавить сотрудника",
+    "noIngredientFound": "Ингредиент не найден!\\n Пожалуйста, попробуйте добавить ингредиент.",
+    "exceedsPaymentAmount": "Полученная сумма не должна быть больше суммы к оплате",
+    "noItemModifierFound": "Модификатор блюда не найден!\\n Пожалуйста, попробуйте добавить модификатор блюда.",
+    "noModifierGroupFound": "Группа модификаторов не найдена!\\n Пожалуйста, попробуйте добавить группу модификаторов.",
+    "noOptionsFound": "Параметры не найдены!",
+    "maxImageCountLimit": "Вы можете выбрать не более 5 изображений.",
+    "noQuotationFound": "Предложений не найдено!\\n Попробуйте добавить предложение.",
+    "noPermittedUserFound": "Не найдено разрешенных пользователей!\\n Пожалуйста, попробуйте добавить пользователя."
+  },
+  "prompt": {
+    "logout": {
+      "title": "@:common.logout",
+      "message": "Вы уверены, что хотите выйти?"
+    },
+    "unsavedWarning": {
+      "title": "Вы хотите вернуться?",
+      "message": "Измененные поля могут быть не сохранены!"
+    },
+    "verify": {
+      "title": "Подтвердите свой адрес электронной почты",
+      "description(rich)": "Мы отправили электронное письмо с кодом подтверждения${emailSpan}\n\nВозможно, письмо попало в папку со спамом."
+    },
+    "subscriptionExpired": {
+      "title": "Срок подписки истек!",
+      "message": "Пожалуйста, оформите подписку, чтобы продолжить.",
+      "action": "Подписаться"
+    },
+    "items": {
+      "delete": {
+        "title": "Вы действительно хотите удалить этот товар?"
+      },
+      "filter": {
+        "title": "Фильтровать по",
+        "extra": {
+          "lowToHigh": "От низкой к высокой @:common.price",
+          "highToLow": "От высокой к низкой @:common.price"
+        }
+      }
+    },
+    "checkInternet": {
+      "title": "Нет подключения к интернету",
+      "message": "Пожалуйста, проверьте подключение к сети Wi-Fi или мобильной сети и попробуйте еще раз"
+    },
+    "back": {
+      "title": "Нажмите «назад» еще раз, чтобы выйти."
+    },
+    "stockModelSheet": {
+      "title": "Добавить новый склад"
+    },
+    "paymentMethod": {
+      "title": "Вы действительно хотите удалить этот способ оплаты?"
+    },
+    "extMsg": {
+      "kotSavedSuccessfully": "KOT успешно сохранен"
+    },
+    "deleteStaff": "Вы хотите удалить этого сотрудника?",
+    "deleteIngredient": "Вы хотите удалить этот ингредиент?",
+    "deleteItemModifier": "Вы хотите удалить этот модификатор блюда?",
+    "deleteModifierGroup": "Вы хотите удалить эту группу модификаторов?",
+    "deleteQuotation": "Вы хотите удалить это предложение?"
+  },
+  "form": {
+    "fullName": {
+      "label": "@:common.fullName",
+      "hint": "Введите @:common.fullName",
+      "errors": {
+        "required": "Пожалуйста, введите ваше @:common.fullName"
+      }
+    },
+    "email": {
+      "label": "@:common.email",
+      "hint": "Введите ваш @:common.email",
+      "errors": {
+        "required": "Пожалуйста, введите ваш адрес @:common.email",
+        "invalid": "⦸ Неверный адрес электронной почты, попробуйте еще раз"
+      }
+    },
+    "password": {
+      "label": "@:common.password",
+      "hint": "* * * * * * * *",
+      "errors": {
+        "required": "Пожалуйста, введите ваш @:common.password",
+        "minLength": "Пароль должен содержать не менее ${count} символов!"
+      }
+    },
+    "confirmPassword": {
+      "label": "Подтвердите пароль",
+      "hint": "* * * * * * * *",
+      "errors": {
+        "required": "Пожалуйста, введите ваш @:common.password",
+        "invalid": "'Подтверждение пароля не совпадает!"
+      }
+    },
+    "otp": {
+      "errors": {
+        "required": "Пожалуйста, введите OTP.",
+        "invalid": "Пожалуйста, введите текущий OTP."
+      }
+    },
+    "profile": {
+      "businessCategory": {
+        "label": "Категория бизнеса",
+        "hint": "Выберите категорию бизнеса",
+        "errors": {
+          "required": "Пожалуйста, выберите категорию бизнеса"
+        }
+      },
+      "shopOrStore": {
+        "label": "Название магазина*",
+        "hint": "Введите название магазина",
+        "errors": {
+          "required": "Пожалуйста, введите название вашего магазина"
+        }
+      },
+      "openingBalance": {
+        "label": "Начальный баланс",
+        "hint": "Введите начальный баланс"
+      },
+      "vatGstTitle": {
+        "label": "Название НДС/GST",
+        "hint": "Введите НДС/GST"
+      },
+      "vatGstNumber": {
+        "label": "Номер НДС/GST",
+        "hint": "Введите номер НДС/GST"
+      }
+    },
+    "vat": {
+      "name": {
+        "label": "Название",
+        "hint": "Введите название НДС",
+        "error": {
+          "required": "Пожалуйста, введите название НДС"
+        }
+      },
+      "subVat": {
+        "label": "Под НДС",
+        "hint": "Выберите под НДС",
+        "errors": {
+          "required": "Пожалуйста, выберите под НДС"
+        }
+      },
+      "rate": {
+        "label": "Ставка НДС %",
+        "hint": "Введите ставку НДС",
+        "errors": {
+          "required": "Пожалуйста, введите ставку НДС."
+        }
+      }
+    },
+    "category": {
+      "label": "@:common.category",
+      "hint": "Выберите категорию товара",
+      "error": {
+        "required": "Пожалуйста, введите название категории"
+      }
+    },
+    "items": {
+      "barcode": {
+        "label": "Штрихкод",
+        "hint": "@:common.selectOne"
+      },
+      "itemName": {
+        "label": "Название товара",
+        "hint": "Введите название товара",
+        "extra": {
+          "required": "Пожалуйста, введите название товара"
+        }
+      },
+      "itemCategory": {
+        "label": "Категория товара",
+        "hint": "Категория товара",
+        "extra": {
+          "label": "Выберите категорию",
+          "required": "Пожалуйста, выберите категорию"
+        }
+      },
+      "brand": {
+        "label": "@:common.brand",
+        "hint": "@:common.selectOne",
+        "extra": {
+          "hint": "Введите название бренда",
+          "required": "Пожалуйста, введите название бренда"
+        }
+      },
+      "unit": {
+        "label": "@:common.unit",
+        "hint": "@:common.selectOne",
+        "error": {
+          "required": "Пожалуйста, введите название единицы измерения"
+        }
+      },
+      "stock": {
+        "label": "Начальный склад",
+        "hint": "@:common.commonHint",
+        "extra": {
+          "required": "Пожалуйста, введите количество товара."
+        }
+      },
+      "lowStock": {
+        "label": "@:common.lowStock",
+        "hint": "Например: 5"
+      },
+      "purchasePrice": {
+        "label": "@:common.purchasePrice",
+        "hint": "Например: \\$40",
+        "error": {
+          "required": "Пожалуйста, введите закупочную цену."
+        }
+      },
+      "salePrice": {
+        "label": "Цена продажи",
+        "hint": "Например: \\$60",
+        "error": {
+          "required": "Пожалуйста, введите цену продажи."
+        }
+      },
+      "totalSalePrice": {
+        "label": "Общая цена продажи",
+        "hint": "Например: \\$100"
+      },
+      "wholeSalePrice": {
+        "label": "@:common.wholeSalePrice",
+        "hint": "Введите оптовую цену"
+      },
+      "dealerPrice": {
+        "label": "@:common.dealerPrice",
+        "hint": "Введите дилерскую цену"
+      },
+      "discount": {
+        "label": "Скидка (%)",
+        "hint": "@:common.commonHint"
+      },
+      "applicableTax": {
+        "label": "Применимый налог",
+        "hint": "@:common.selectOne"
+      },
+      "vatType": {
+        "label": "@:common.taxType",
+        "errorText": {
+          "required": "Пожалуйста, выберите тип НДС"
+        }
+      },
+      "menu": {
+        "label": "Выберите меню",
+        "errors": {
+          "required": "Пожалуйста, выберите меню."
+        },
+        "hint": "Выберите меню",
+        "extra": {
+          "selectNavLabel": "Выбрать меню блюд"
+        }
+      },
+      "modifierItems": {
+        "label": "Модификаторы блюд",
+        "hint": "Выберите модификаторы блюд"
+      },
+      "preparationTime": {
+        "label(rich)": "Время приготовления ${minutes(минут)}",
+        "hint": "Пример: 30"
+      },
+      "variation": {
+        "name": {
+          "label": "Название",
+          "hint": "Введите вариант",
+          "errors": {
+            "required": "Пожалуйста, введите название варианта."
+          }
+        },
+        "price": {
+          "errors": {
+            "required": "Пожалуйста, введите цену."
+          },
+          "label": "Цена",
+          "hint": "Пример: \\$30"
+        }
+      }
+    },
+    "itemCart": {
+      "hint": "@:common.commonHint",
+      "error": {
+        "required": "@:common.pleaseEnterQuantity",
+        "noZero": "@:common.quantityMustBeGreaterThanZero"
+      }
+    },
+    "sales": {
+      "autoGenerateInvoice": {
+        "label": "Номер счета",
+        "hint": "P-00001"
+      },
+      "date": {
+        "label": "Дата"
+      },
+      "customer": {
+        "label": "Клиент",
+        "hint": "Выберите клиента"
+      },
+      "phone": {
+        "label": "Номер телефона",
+        "hint": "Введите номер телефона"
+      },
+      "address": {
+        "label": "Адрес",
+        "hint": "Введите адрес"
+      },
+      "deliveryCharge": {
+        "label": "@:common.deliveryCharge",
+        "hint": "Например: \\$20",
+        "hint2": "Плата Пример: \\$10"
+      },
+      "table": {
+        "hint": "Выберите стол"
+      },
+      "waiter": {
+        "hint": "Выберите официанта"
+      }
+    },
+    "bill": {
+      "label": "Номер счета",
+      "hint": "P-00001"
+    },
+    "supplier": {
+      "label": "Поставщик",
+      "hint": "Выберите поставщика",
+      "extra": {
+        "required": "Пожалуйста, выберите поставщика"
+      }
+    },
+    "phone": {
+      "label": "Номер телефона",
+      "hint": "Введите номер телефона",
+      "errors": {
+        "required": "Пожалуйста, введите номер телефона."
+      }
+    },
+    "address": {
+      "label": "Адрес компании",
+      "hint": "Введите адрес компании"
+    },
+    "payment": {
+      "label": "Название",
+      "hint": "Введите название платежа",
+      "error": {
+        "required": "Пожалуйста, введите название способа оплаты"
+      }
+    },
+    "expense": {
+      "label": "Категория расходов",
+      "hint": "Выберите категорию расходов",
+      "error": {
+        "required": "Пожалуйста, введите категорию расходов"
+      }
+    },
+    "income": {
+      "label": "Категория доходов",
+      "hint": "Введите название категории",
+      "error": {
+        "required": "Пожалуйста, введите название категории"
+      },
+      "incomeTitle": {
+        "label": "Название дохода",
+        "hint": "Введите доход"
+      },
+      "incomeCategory": {
+        "label": "Категория доходов",
+        "hint": "Выберите категорию"
+      },
+      "payment": {
+        "label": "Платеж",
+        "hint": "Например: \\$10"
+      }
+    },
+    "note": {
+      "label": "Примечание (необязательно)",
+      "hint": "Введите текст"
+    },
+    "parties": {
+      "partyName": {
+        "label": "Имя контрагента",
+        "hint": "Введите имя контрагента",
+        "error": {
+          "required": "Пожалуйста, введите имя контрагента"
+        }
+      },
+      "partyPhone": {
+        "label": "Номер телефона",
+        "hint": "Введите номер телефона",
+        "error": {
+          "required": "Пожалуйста, введите номер телефона"
+        }
+      }
+    },
+    "table": {
+      "name": {
+        "label": "Название стола",
+        "hint": "Введите название стола",
+        "error": {
+          "required": "Пожалуйста, введите название стола"
+        }
+      },
+      "capacity": {
+        "label": "Вместимость",
+        "hint": "Введите вместимость",
+        "error": {
+          "required": "Пожалуйста, введите вместимость"
+        }
+      }
+    },
+    "designation": {
+      "label": "@:common.designation",
+      "hint": "Выберите должность",
+      "errors": {
+        "required": "Пожалуйста, выберите должность."
+      }
+    },
+    "ingredientName": {
+      "label": "Название ингредиента",
+      "hint": "Введите название ингредиента",
+      "errors": {
+        "required": "Пожалуйста, введите название ингредиента"
+      }
+    },
+    "item": {
+      "label": "Позиция",
+      "hint": "Выберите позицию",
+      "errors": {
+        "required": "Пожалуйста, выберите позицию."
+      }
+    },
+    "modifierGroup": {
+      "label": "Группа модификаторов",
+      "hint": "Выберите группу модификаторов",
+      "errors": {
+        "required": "Пожалуйста, выберите группу модификаторов."
+      }
+    },
+    "description": {
+      "label": "Описание",
+      "hint": "Введите описание"
+    },
+    "staff": {
+      "label": "@:common.staff",
+      "hint": "Выберите сотрудника",
+      "errors": {
+        "required": "Пожалуйста, выберите сотрудника"
+      }
+    },
+    "loginUserName": {
+      "label": "Имя пользователя для входа",
+      "hint": "Введите имя пользователя или адрес электронной почты",
+      "errors": {
+        "required": "Пожалуйста, введите имя пользователя или адрес электронной почты"
+      }
+    }
+  },
+  "action": {
+    "next": "Далее",
+    "getStarted": "Начать",
+    "skip": "Пропустить",
+    "select": "Выбрать",
+    "save": "Сохранить",
+    "verify": "Подтвердить",
+    "signIn": "@:common.signIn",
+    "signUp": "@:common.signUp",
+    "continue": "Продолжить",
+    "no": "Нет",
+    "yes": "Да",
+    "okay": "Окей",
+    "cancel": "Отмена",
+    "confirm": "Подтвердить",
+    "tryAgain": "Попробовать снова",
+    "reset": "Сбросить",
+    "apply": "Применить",
+    "stockAdjust": "Корректировка склада",
+    "addMoreItems": "Добавить еще товары",
+    "hold": "Удержать",
+    "parcel": "@:common.parcel",
+    "buyNow": "Купить сейчас",
+    "viewAll": "Посмотреть все",
+    "viewLedger": "Просмотреть книгу учета",
+    "submit": "Отправить",
+    "selected": "Выбрано",
+    "addToCart": "Добавить в корзину",
+    "selectAll": "Выбрать все",
+    "update": "@:common.update",
+    "addRole": "Добавить роль"
+  },
+  "pages": {
+    "language": {
+      "appbarTitle": "@:action.select @:common.language"
+    },
+    "onboard": {
+      "onboardData": {
+        "data1": {
+          "title": "Простое в использовании приложение @:common.appName",
+          "description": "Бесшовные заказы, легкое бронирование\\n С легкостью управляйте своим рестораном!"
+        },
+        "data2": {
+          "title": "Легкое управление заказами",
+          "description": "Оптимизируйте процесс приема заказов в вашем ресторане с помощью нашей интуитивно понятной POS-системы."
+        },
+        "data3": {
+          "title": "Отличная аналитика и отчетность",
+          "description": "Наша аналитическая панель предоставляет отчеты о продажах и покупках в режиме реального времени."
+        }
+      }
+    },
+    "signIn": {
+      "title": "С возвращением",
+      "subtitle": "Пожалуйста, введите свои данные.",
+      "extra": {
+        "rememberMe": "Запомнить меня",
+        "signUpNavigator(rich)": "Нет аккаунта? ${getStarted(@:action.getStarted)}",
+        "forgotPassword": "@:common.forgotPassword?"
+      }
+    },
+    "signUp": {
+      "title": "Создать аккаунт",
+      "subtitle": "Пожалуйста, введите свои данные",
+      "extra": {
+        "signInNavigator(rich)": "Уже есть аккаунт? ${signIn(@:action.signIn)}"
+      }
+    },
+    "forgotPassword": {
+      "title": "@:common.forgotPassword",
+      "subtitle": "Введите свой адрес электронной почты для восстановления пароля."
+    },
+    "otpVerification": {
+      "title": "Верификация",
+      "subtitle": "На ваш адрес электронной почты был отправлен 6-значный пин-код",
+      "extra": {
+        "codeResend": {
+          "codeSendIn": "Код будет отправлен через",
+          "resendCode": "Отправить код повторно"
+        }
+      }
+    },
+    "resetPassword": {
+      "title": "Сбросить пароль",
+      "subtitle": "Сбросьте пароль для восстановления и войдите в свой аккаунт",
+      "extra": {
+        "dialog": {
+          "title": "Успешно изменено!",
+          "subtitle": "Войдите с новым паролем.\nПеренаправление на страницу входа..."
+        }
+      }
+    },
+    "items": {
+      "itemList": {
+        "extra": {
+          "emptyItem": "Товары не найдены!\nПожалуйста, попробуйте добавить товар."
+        }
+      },
+      "manageItems": {
+        "title": "Добавить новый товар",
+        "title2": "Редактировать товар",
+        "extra": {
+          "maximum": "Максимум 5",
+          "wholeSaleAndDealerPrice": "Оптовая и дилерская цена",
+          "addDiscount": "Добавить скидку",
+          "addVat": "Добавить НДС"
+        }
+      },
+      "itemDetails": {
+        "title": "Детали товара",
+        "extra": {
+          "noImageAvailable": "Нет доступного изображения!",
+          "preparationTime(rich)": "Время приготовления: ${min: String} ${mins(mins)}",
+          "pleaseSelectVariation": "Пожалуйста, выберите вариацию",
+          "pleaseSelectOption": "Пожалуйста, выберите опцию.",
+          "enterYourInstruction": "Введите свои инструкции"
+        }
+      }
+    },
+    "category": {
+      "addNewCategory": "Добавить новую категорию",
+      "editCategory": "Редактировать категорию"
+    },
+    "brand": {
+      "addNewBrand": "Добавить новый бренд",
+      "editBrand": "Редактировать бренд"
+    },
+    "unit": {
+      "addNewUnit": "Добавить новую единицу измерения",
+      "editUnit": "Редактировать единицу измерения"
+    },
+    "stock": {
+      "stockList": "Список складов"
+    },
+    "aboutUs": {
+      "title": "О нас"
+    },
+    "privacyPolicy": {
+      "title": "Политика конфиденциальности"
+    },
+    "termAndCondition": {
+      "title": "@:common.termAndCondition"
+    },
+    "orders": {
+      "manageOrders": {
+        "extra": {
+          "billItems": "Позиции счета",
+          "manageQuantity": "Управление количеством"
+        },
+        "title": {
+          "editOrder": "Редактировать заказ",
+          "editKOT": "Редактировать KOT"
+        }
+      }
+    },
+    "onlinePayment": {
+      "title": "Онлайн оплата"
+    },
+    "paymentStatus": {
+      "success": {
+        "title": "Спасибо!",
+        "message": "Мы рассмотрим платеж и подтвердим его в течение 24 часов.",
+        "actionButtonText": "Просмотреть счет"
+      },
+      "fail": {
+        "title": "Упс! Оплата не удалась",
+        "message": "Ваша транзакция не удалась из-за технической ошибки.",
+        "actionButtonText": "Попробовать снова"
+      }
+    },
+    "confirmationDialog": {
+      "title": "Выйти",
+      "message": "Вы уверены, что хотите выйти?",
+      "acceptationText": "Нет",
+      "rejectionText": "Выйти"
+    },
+    "payment": {
+      "title": "@:common.paymentMethod",
+      "addPaymentMethod": "Добавить новый способ оплаты",
+      "editPaymentMethod": "Редактировать способ оплаты",
+      "choseOnlinePayment": "Выбрать онлайн оплату",
+      "selectPaymentMethod": "Выберите способ оплаты",
+      "pleaseSelectAPaymentMethod": "Пожалуйста, выберите способ оплаты.",
+      "methodStatus": {
+        "title": "Статус",
+        "message": "Статус не может быть неактивным, если включен быстрый просмотр!."
+      }
+    },
+    "subscriptionPlan": {
+      "title": "Купить Премиум план",
+      "extra": {
+        "actionButtonText": "Назад",
+        "message": "Оплата подписки прошла успешно.\n\nТеперь вам доступны функции подписки.",
+        "mostPopular": "Самый популярный"
+      }
+    },
+    "invoicePreview": {
+      "title": "Предварительный просмотр счета",
+      "message": "Предварительный просмотр PDF скоро появится"
+    },
+    "currency": {
+      "title": "@:common.currency"
+    },
+    "dashboard": {
+      "overview": "Обзор",
+      "dashboardPrivacy": "Конфиденциальность панели управления",
+      "moneyInAndMoneyOut": "Приход и расход денег",
+      "lossAndProfitOverView": "Обзор прибыли и убытков"
+    },
+    "due": {
+      "title": "@:common.dueList",
+      "collectionList": "Список сборов",
+      "dueCollection": "Сбор задолженностей"
+    },
+    "expense": {
+      "title": "@:common.expense",
+      "editExpense": "Изменить расход",
+      "addNewExpense": "Добавить новый расход",
+      "editExpenseCategory": "Изменить категорию расходов",
+      "addNewExpenseCategory": "Добавить новую категорию расходов",
+      "payment": "Оплата",
+      "expenseCategory": "Категория расходов",
+      "selectCategory": "Выбрать категорию",
+      "allExpense": "Все расходы",
+      "pleaseSelectACategory": "Пожалуйста, выберите категорию",
+      "expenseTitle": {
+        "label": "Название расхода",
+        "hint": "Введите расход"
+      }
+    },
+    "lossProfit": {
+      "title": "Список убытков/прибыли",
+      "noLossProfitFound": "Убытки/прибыль не найдены!\nПожалуйста, попробуйте создать продажи."
+    },
+    "income": {
+      "editIncomeCategory": "Редактировать категорию доходов",
+      "addNewIncomeCategory": "Добавить новую категорию доходов",
+      "incomeCategory": "Категория доходов",
+      "allIncome": "Все доходы",
+      "editIncome": "Редактировать доход",
+      "addNewIncome": "Редактировать доход",
+      "addIncome": "Добавить доход"
+    },
+    "moneyIn": {
+      "title": "Список поступлений",
+      "totalPaymentIn": "Всего поступлений"
+    },
+    "moneyOut": {
+      "title": "Список расходов",
+      "totalMoneyOut": "Всего расходов"
+    },
+    "profile": {
+      "title": "Мой профиль",
+      "editProfile": "Редактировать профиль",
+      "businessInformation": "Информация о компании",
+      "profileInformation": "Информация о профиле"
+    },
+    "parties": {
+      "title": "Список контрагентов",
+      "allParties": "Все контрагенты",
+      "customer": "Клиент",
+      "supplier": "Поставщик",
+      "addParties": "Добавить контрагентов",
+      "editParties": "Редактировать контрагентов",
+      "partiesDetails": "Детали контрагентов",
+      "personalInfo": "Личная информация"
+    },
+    "ledger": {
+      "subTitle": "Книга учета"
+    },
+    "purchase": {
+      "title": "Добавить новую покупку",
+      "editPurchase": "Редактировать покупку"
+    },
+    "reports": {
+      "title": "Отчеты"
+    },
+    "table": {
+      "title": "Добавить новый стол",
+      "editTable": "Редактировать стол"
+    },
+    "tax": {
+      "title": "Ставки НДС",
+      "buildHeaderTitle": "Ставки НДС - Управление ставками НДС",
+      "vatGroup": {
+        "title": "Группа НДС",
+        "subTitle": "Группа НДС - Управление группой НДС"
+      }
+    },
+    "vat": {
+      "addNewVat": "Добавить новый НДС",
+      "editVat": "Редактировать НДС",
+      "addNewVatGroup": "Добавить новую группу НДС",
+      "editVatGroup": "Редактировать группу НДС"
+    },
+    "orderList": {
+      "title": "Список заказов",
+      "filters": {
+        "orderType": {
+          "label": "@:common.orderType",
+          "hint": "Выберите тип заказа"
+        },
+        "paymentStatus": {
+          "hint": "Выберите статус оплаты",
+          "label": "Статус оплаты"
+        }
+      }
+    },
+    "staffs": {
+      "staffList": {
+        "filters": {
+          "designation": {
+            "label": "Должность",
+            "hint": "Выберите должность"
+          }
+        },
+        "title": "Весь персонал"
+      },
+      "manageStaff": {
+        "title1": "Добавить нового сотрудника",
+        "title2": "Обновить сотрудника"
+      }
+    },
+    "ingredient": {
+      "ingredientList": {
+        "title1": "Список ингредиентов",
+        "title2": "Выберите ингредиент"
+      },
+      "manageIngredient": {
+        "title1": "Добавить новый ингредиент",
+        "title2": "Редактировать ингредиент"
+      }
+    },
+    "itemModifier": {
+      "itemModifierList": {
+        "title": "@:common.itemModifiers"
+      },
+      "manageItemModifier": {
+        "title1": "Добавить модификаторы блюд",
+        "title2": "Редактировать модификаторы блюд"
+      }
+    },
+    "quotation": {
+      "manageQuotation": {
+        "title": {
+          "add": "Добавить новое предложение",
+          "edit": "Редактировать предложение",
+          "convert": "Конвертировать в продажу"
+        }
+      }
+    },
+    "rolePermission": {
+      "rolePermissionList": {
+        "title": "Список ролей и разрешений"
+      },
+      "manageRolePermission": {
+        "title1": "Добавить новую роль",
+        "title2": "Редактировать роль"
+      }
+    },
+    "printingOption": {
+      "title": "Вариант печати",
+      "form": {
+        "companyAddress": {
+          "label": "Адрес компании",
+          "hint": "Введите адрес компании"
+        },
+        "noteLabel": {
+          "label": "Метка заметки",
+          "hint": "Введите метку заметки."
+        },
+        "note": {
+          "label": "Заметка",
+          "hint": "Введите заметку."
+        },
+        "postSaleMessage": {
+          "label": "Сообщение после продажи",
+          "hint": "Введите сообщение после продажи"
+        },
+        "printingMethod": {
+          "label": "Метод печати",
+          "hint": "Выберите метод печати"
+        },
+        "printerProfile": {
+          "label": "Профиль принтера",
+          "hint": "Выберите профиль принтера"
+        },
+        "paperSize": {
+          "label": "Размер бумаги термопринтера",
+          "hint": "Выберите размер бумаги принтера"
+        },
+        "printerDpi": {
+          "label": "DPI принтера",
+          "hint": "Пример: 203"
+        },
+        "printingMargin": {
+          "label": "Поле печати",
+          "hint": "Пример: 2"
+        }
+      },
+      "tooltip": {
+        "printingMethod": {
+          "title": "Выпадающий список с вариантами:",
+          "default": "• По умолчанию (Нативный метод для печати стандартных символов ЕС)",
+          "image": "• Изображение (Рекомендуется для печати символов Unicode)"
+        }
+      },
+      "action": {
+        "save": "Сохранить"
+      }
+    },
+    "kitchen": {
+      "list": {
+        "noKitchensFound": "Кухни не найдены.\n Пожалуйста, добавьте одну."
+      },
+      "manage": {
+        "addKitchen": "Добавить кухню",
+        "editKitchen": "Редактировать кухню",
+        "kitchenName": {
+          "label": "Название кухни",
+          "hint": "Введите название кухни",
+          "error": "Пожалуйста, введите название кухни."
+        },
+        "description": {
+          "label": "Описание",
+          "hint": "Введите описание"
+        }
+      },
+      "manageItems": {
+        "title": "Управление товарами",
+        "addedItems": "Добавленные товары",
+        "selectItemsError": "Пожалуйста, выберите товары.",
+        "noItemsAdded": "Товары еще не добавлены!\nПожалуйста, добавьте товары."
+      },
+      "card": {
+        "itemName": "Название товара",
+        "manageItems": "+ Управление товарами",
+        "deleteItemConfirm": "Вы хотите удалить этот товар?",
+        "deleteKitchenConfirm": "Вы хотите удалить эту кухню?"
+      }
+    }
+  },
+  "enums": {
+    "dropdownDateFilter": {
+      "daily": "Ежедневно",
+      "weekly": "Еженедельно",
+      "monthly": "Ежемесячно",
+      "yearly": "Ежегодно",
+      "custom": "Пользовательский"
+    },
+    "orderTypes": {
+      "dineIn": "В зале",
+      "pickUp": "Самовывоз",
+      "delivery": "Доставка",
+      "reservation": "Бронирование",
+      "quotation": "Предложение"
+    },
+    "paymentStatus": {
+      "paid": "Оплачено",
+      "unpaid": "Неоплачено"
+    },
+    "staffTypes": {
+      "manager": "Менеджер",
+      "waiter": "Официант",
+      "chef": "Шеф-повар",
+      "cleaner": "Уборщик",
+      "driver": "Водитель",
+      "deliveryBoy": "Курьер"
+    },
+    "itemFoodTypes": {
+      "veg": "Вегетарианское",
+      "nonVeg": "Невегетарианское",
+      "egg": "С яйцом",
+      "drink": "Напиток",
+      "others": "Прочее"
+    },
+    "itemTypes": {
+      "single": "Единичный",
+      "variation": "Вариация"
+    },
+    "quotationStatus": {
+      "open": "Открыто",
+      "closed": "Закрыто"
+    },
+    "tableStatus": {
+      "running": "Занят",
+      "available": "Свободен"
+    },
+    "thermalPrinterPrintingMethod": {
+      "image": "Изображение",
+      "default": "По умолчанию"
+    },
+    "kotOrderStatus": {
+      "label": {
+        "pending": "В ожидании",
+        "preparing": "Готовится",
+        "ready": "Блюдо готово",
+        "served": "Подано",
+        "cancelled": "Отменено"
+      },
+      "pending": "В ожидании",
+      "preparing": "Готовится",
+      "ready": "Блюдо готово",
+      "served": "Подано",
+      "cancelled": "Отменено"
+    },
+    "kotItemStatus": {
+      "pending": "Начать готовить",
+      "start": "Отметить готовность",
+      "ready": "Готово"
+    }
+  },
+  "thermalPrint": {
+    "invoice": {
+      "purchaseInvoiceLabel": "Счет на покупку: ${invoiceNumber: String}",
+      "saleInvoiceLabel": "№ заказа: ${invoiceNumber: String}",
+      "receiptNoLabel": "№ чека: ${invoiceNumber: String}",
+      "orderNoKotLabel": "№ заказа: ${invoiceNumber: String}",
+      "nameLabel": "Имя: ${name: String}",
+      "mobileLabel": "Мобильный: ${phone: String}",
+      "purchasedByLabel": "Куплено: ${role: String}",
+      "salesByLabel": "Продано: ${role: String}",
+      "paidByLabel": "${label: String}: ${role: String}",
+      "paidToReceivedFromLabel": "${label: String}: ${name: String}",
+      "orderTypeLabel": "Тип заказа: ${orderType: String}",
+      "tableLabel": "Стол: ${tableName: String}",
+      "tableNoLabel": "№ стола: ${tableName: String}",
+      "dateLabel": "Дата: ${dateTime: String}",
+      "invoiceFlag": "СЧЕТ",
+      "receiptFlag": "ЧЕК",
+      "paidBy": "Оплатил",
+      "receivedBy": "Получил",
+      "paidTo": "Оплачено кому",
+      "receivedFrom": "Получено от",
+      "seller": "Продавец: ${name: String}",
+      "address": "Адрес: ${addr: String}",
+      "vatNo": "ИНН",
+      "tel": "Тел: ${phoneNumber: String}",
+      "timeLabel": "Время: ${dateTime: String}"
+    },
+    "tableHeaders": {
+      "sl": "№ п/п",
+      "item": "Товар",
+      "cost": "Стоимость",
+      "qty": "Кол-во",
+      "uPrice": "Цена/ед.",
+      "amount": "Сумма",
+      "total": "Итого",
+      "invoiceTable": "Счет",
+      "dueTable": "Задолженность"
+    },
+    "summary": {
+      "subTotal": "Промежуточная сумма:",
+      "discount": "Скидка: ${percentFmt: String}",
+      "vat": "${vatName: String}: ${rateFmt: String}%",
+      "tip": "Чаевые:",
+      "deliveryCharge": "Стоимость доставки:",
+      "totalPayable": "Всего к оплате:",
+      "paidAmount": "Оплаченная сумма:",
+      "dueAmount": "Сумма задолженности:",
+      "paymentType": "Тип оплаты: ${method: String}",
+      "remainingDue": "Остаток задолженности:",
+      "paymentAmount": "Сумма оплаты:",
+      "itemsCount": "Товары: ${count: int}",
+      "qtyTotal": "Кол-во: ${totalQty: int}"
+    },
+    "footer": {
+      "note": "${noteLabel: String}: ${note: String}",
+      "developedBy": "${developByLabel: String} ${developBy: String}"
+    }
+  },
+  "hrm": {
+    "department": "Отдел",
+    "designation": "Должность",
+    "shift": "Смена",
+    "employee": "Сотрудник",
+    "leave": "Отпуск",
+    "leaveType": "Тип отпуска",
+    "leaveRequest": "Запрос на отпуск",
+    "holiday": "Праздник",
+    "attendance": "Посещаемость",
+    "payroll": "Зарплата",
+    "pageTitles": {
+      "department": "Отдел",
+      "designation": "Должность",
+      "shift": "Смена",
+      "employee": "Сотрудник",
+      "leave": "Отпуск",
+      "leaveType": "Тип отпуска",
+      "holiday": "Праздник",
+      "attendance": "Посещаемость",
+      "payroll": "Зарплата",
+      "leaveReports": "Отчеты об отпусках",
+      "payrollReports": "Отчеты о зарплате",
+      "attendanceReports": "Отчеты о посещаемости",
+      "addDepartment": "Добавить отдел",
+      "editDepartment": "Редактировать отдел",
+      "addDesignation": "Добавить должность",
+      "editDesignation": "Редактировать должность",
+      "addShift": "Добавить смену",
+      "editShift": "Редактировать смену",
+      "addEmployee": "Добавить сотрудника",
+      "editEmployee": "Редактировать сотрудника",
+      "addLeave": "Добавить отпуск",
+      "editLeave": "Редактировать отпуск",
+      "addLeaveType": "Добавить тип отпуска",
+      "editLeaveType": "Редактировать тип отпуска",
+      "addHoliday": "Добавить праздник",
+      "editHoliday": "Редактировать праздник",
+      "addAttendance": "Добавить посещаемость",
+      "editAttendance": "Редактировать посещаемость",
+      "addPayroll": "Добавить зарплату",
+      "editPayroll": "Редактировать зарплату"
+    },
+    "form": {
+      "labels": {
+        "department": "Отдел",
+        "designation": "Должность",
+        "shift": "Смена",
+        "employee": "Сотрудник",
+        "leaveType": "Тип отпуска",
+        "leaveDuration": "Длительность отпуска",
+        "paymentYear": "Год оплаты",
+        "paymentType": "Тип оплаты",
+        "breakStatus": "Статус перерыва",
+        "startTime": "Время начала",
+        "endTime": "Время окончания",
+        "startBreakTime": "Начало перерыва",
+        "endBreakTime": "Конец перерыва",
+        "breakTime": "Время перерыва",
+        "breakDuration": "Продолжительность перерыва",
+        "timeIn": "Время прихода",
+        "timeOut": "Время ухода",
+        "duration": "Длительность",
+        "country": "Страна",
+        "salary": "Зарплата",
+        "gender": "Пол",
+        "birthDate": "Дата рождения",
+        "joinDate": "Дата приема",
+        "holidayName": "Название праздника",
+        "startDate": "Дата начала",
+        "endDate": "Дата окончания",
+        "month": "Месяц",
+        "year": "Год",
+        "status": "Статус",
+        "description": "Описание",
+        "amount": "Сумма",
+        "payment": "Оплата",
+        "departmentName": "Название отдела",
+        "designationName": "Название должности",
+        "image": "Изображение",
+        "name": "Имя"
+      },
+      "hints": {
+        "selectEmployee": "Выберите сотрудника",
+        "selectDepartment": "Выберите отдел",
+        "selectDesignation": "Выберите должность",
+        "selectShift": "Выберите смену",
+        "selectLeaveType": "Выберите тип отпуска",
+        "selectMonth": "Выберите месяц",
+        "selectYear": "Выберите год",
+        "selectDate": "Выберите дату",
+        "selectStartDate": "Выберите дату начала",
+        "selectEndDate": "Выберите дату окончания",
+        "selectTimeIn": "Выберите время прихода",
+        "selectTimeOut": "Выберите время ухода",
+        "selectStartTime": "Выберите время начала",
+        "selectEndTime": "Выберите время окончания",
+        "selectStatus": "Выберите статус",
+        "selectGender": "Выберите пол",
+        "selectPaymentType": "Выберите тип оплаты",
+        "enterFullName": "Введите полное имя",
+        "enterEmail": "Введите email",
+        "enterPhone": "Введите телефон",
+        "enterCountry": "Введите страну",
+        "enterSalary": "Например: 500",
+        "enterHolidayName": "Введите название праздника",
+        "enterDescription": "Введите описание...",
+        "autoCalculated": "Рассчитано автоматически",
+        "selectDatesFirst": "Сначала выберите даты",
+        "allEmployee": "Все сотрудники",
+        "selectEmployeeFirst": "Сначала выберите сотрудника",
+        "enterDepartmentName": "Введите название отдела",
+        "enterDesignationName": "Введите название должности",
+        "ex": "{value}",
+        "selectBirthDate": "Выберите дату рождения",
+        "selectJoinDate": "Выберите дату приема",
+        "selectBreakStatus": "Выберите статус перерыва",
+        "enterLeaveTypeName": "Введите название типа отпуска"
+      }
+    },
+    "emptyStates": {
+      "noLeaves": "Отпуска не найдены",
+      "noPayrollRecords": "Записи о зарплате не найдены",
+      "noAttendanceRecords": "Записи о посещаемости не найдены",
+      "noLeaveTypes": "Типы отпусков не найдены",
+      "noEmployees": "Сотрудники не найдены",
+      "noHolidays": "Праздники не найдены",
+      "noShifts": "Смены не найдены",
+      "noDesignations": "Должности не найдены",
+      "noDepartments": "Отделы не найдены"
+    },
+    "confirmations": {
+      "deleteAttendance": "Вы уверены, что хотите удалить эту запись о посещаемости?",
+      "deletePayroll": "Вы уверены, что хотите удалить эту запись о зарплате?",
+      "deleteLeave": "Вы уверены, что хотите удалить этот отпуск?",
+      "deleteLeaveType": "Вы хотите удалить этот тип отпуска?",
+      "deleteEmployee": "Вы уверены, что хотите удалить этого сотрудника?",
+      "deleteHoliday": "Вы уверены, что хотите удалить этот праздник?",
+      "deleteShift": "Вы хотите удалить эту смену?",
+      "deleteDesignation": "Вы уверены, что хотите удалить эту должность?",
+      "deleteDepartment": "Вы уверены, что хотите удалить этот отдел?"
+    },
+    "validation": {
+      "selectEmployee": "Пожалуйста, выберите сотрудника",
+      "selectMonth": "Пожалуйста, выберите месяц",
+      "selectEndDate": "Пожалуйста, выберите дату окончания",
+      "endDateAfterStart": "Дата окончания должна быть позже даты начала",
+      "selectStatus": "Пожалуйста, выберите статус",
+      "selectLeaveType": "Пожалуйста, выберите тип отпуска",
+      "selectStartDate": "Пожалуйста, выберите дату начала",
+      "selectDate": "Пожалуйста, выберите дату",
+      "selectTimeIn": "Пожалуйста, выберите время прихода",
+      "selectTimeOut": "Пожалуйста, выберите время ухода",
+      "enterDepartmentName": "Пожалуйста, введите название отдела",
+      "enterDesignationName": "Пожалуйста, введите название должности",
+      "enterName": "Пожалуйста, введите имя",
+      "selectDesignation": "Пожалуйста, выберите должность",
+      "selectDepartment": "Пожалуйста, выберите отдел",
+      "enterEmail": "Пожалуйста, введите email",
+      "enterValidEmail": "Пожалуйста, введите корректный email",
+      "enterPhoneNumber": "Пожалуйста, введите номер телефона",
+      "enterCountry": "Пожалуйста, введите страну",
+      "enterSalary": "Пожалуйста, введите зарплату",
+      "selectGender": "Пожалуйста, выберите пол",
+      "selectShift": "Пожалуйста, выберите смену",
+      "selectBirthDate": "Пожалуйста, выберите дату рождения",
+      "selectJoinDate": "Пожалуйста, выберите дату приема",
+      "enterHolidayName": "Пожалуйста, введите название праздника",
+      "selectBreakStatus": "Пожалуйста, выберите статус перерыва",
+      "selectPaymentYear": "Пожалуйста, выберите год оплаты",
+      "selectPaymentType": "Пожалуйста, выберите тип оплаты",
+      "enterAmount": "Пожалуйста, введите сумму",
+      "selectStartBreakTime": "Пожалуйста, выберите время начала перерыва",
+      "selectEndBreakTime": "Пожалуйста, выберите время окончания перерыва",
+      "enterLeaveTypeName": "Пожалуйста, введите название типа отпуска",
+      "selectStartTime": "Пожалуйста, выберите время начала",
+      "selectEndTime": "Пожалуйста, выберите время окончания"
+    },
+    "dropdowns": {
+      "addNew": "+ Добавить новый",
+      "morning": "Утро",
+      "day": "День",
+      "evening": "Вечер",
+      "night": "Ночь",
+      "yes": "Да",
+      "no": "Нет",
+      "approved": "Одобрено",
+      "rejected": "Отклонено",
+      "terminated": "Уволен",
+      "suspended": "Отстранен",
+      "male": "Мужской",
+      "female": "Женский",
+      "pending": "В ожидании",
+      "active": "Активен",
+      "inactive": "Неактивен",
+      "paid": "Оплачено",
+      "unpaid": "Не оплачено"
+    },
+    "units": {
+      "days": "дней"
+    },
+    "fallbacks": {
+      "noNoteAvailable": "Нет примечания",
+      "noDescriptionAvailable": "Описание отсутствует",
+      "selectEmployeeFirst": "Сначала выберите сотрудника"
+    },
+    "success": {
+      "leaveDelete": "Отпуск успешно удален",
+      "attendanceDelete": "Запись о посещаемости успешно удалена",
+      "attendanceAdd": "Запись о посещаемости успешно добавлена",
+      "attendanceUpdate": "Запись о посещаемости успешно обновлена",
+      "leaveAdd": "Отпуск успешно добавлен",
+      "leaveUpdate": "Отпуск успешно обновлен",
+      "departmentDelete": "Отдел успешно удален",
+      "departmentAdd": "Отдел успешно добавлен",
+      "departmentUpdate": "Отдел успешно обновлен",
+      "designationDelete": "Должность успешно удалена",
+      "designationAdd": "Должность успешно добавлена",
+      "designationUpdate": "Должность успешно обновлена",
+      "employeeDelete": "Сотрудник успешно удален",
+      "employeeAdd": "Сотрудник успешно добавлен",
+      "employeeUpdate": "Сотрудник успешно обновлен",
+      "holidayDelete": "Праздник успешно удален",
+      "holidayAdd": "Праздник успешно добавлен",
+      "holidayUpdate": "Праздник успешно обновлен",
+      "leaveTypeDelete": "Тип отпуска успешно удален"
+    }
+  }
+}

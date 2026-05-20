@@ -1,0 +1,1561 @@
+{
+  "@@meta": {
+    "languageCode": "et_EE",
+    "languageName": "Estonian",
+    "version": "1.0.0"
+  },
+  "common": {
+    "signIn": "Logi sisse",
+    "signUp": "Registreeru",
+    "verifyEmail": "Verifitseeri e-post",
+    "customizeProfile": "Kohanda profiili",
+    "imageOrLogo": "Logo või pilt",
+    "createNewPassword": "Loo uus salasõna",
+    "itemsList": "Kaupade nimekiri",
+    "searchItemsName": "Otsi kauba nime",
+    "categoryList": "Kategooriate nimekiri",
+    "brandList": "Brändide nimekiri",
+    "unitList": "Ühikute nimekiri",
+    "itemDetails": "Kauba detailid",
+    "addStock": "Lisa laoseisu",
+    "profile": "Profiil",
+    "language": "Keel",
+    "termsAndConditions": "Kasutustingimused",
+    "aboutUs": "Meist",
+    "logout": "Logi välja",
+    "editProfile": "Muuda profiili",
+    "fullName": "Täisnimi",
+    "email": "E-post",
+    "mobileNumber": "Mobiilinumber",
+    "address": "Aadress",
+    "password": "Salasõna",
+    "forgotPassword": "Unustasid salasõna?",
+    "edit": "Muuda",
+    "delete": "Kustuta",
+    "addItems": "Lisa kaupu",
+    "stock": "Laoseis",
+    "currentStock": "Praegune laoseis",
+    "value": "Väärtus",
+    "sales": "Müük",
+    "purchase": "Ost",
+    "price": "Hind",
+    "image": "Pilt",
+    "upload": "Laadi üles",
+    "addNew": "Lisa uus",
+    "pricing": "Hinnakujundus",
+    "name": "Nimi",
+    "category(plural)": {
+      "one": "Kategooria",
+      "other": "Kategoorias"
+    },
+    "areas": "Areas",
+    "brand": "Bränd",
+    "lowStock": "Madal laoseis",
+    "unit": "Ühik",
+    "vat": "Käibemaks",
+    "taxType": "Maksutüüp",
+    "purchasePrice": "Ostuhind",
+    "sellingPrice": "Müügihind",
+    "wholeSalePrice": "Hulgimüügihind",
+    "dealerPrice": "Edasimüüja hind",
+    "searchHere": "Otsi siit",
+    "totalItems": "Kokku kaupu",
+    "stockValue": "Laoseisu väärtus",
+    "congratulation": "Õnnitleme",
+    "salesList": "Müügi nimekiri",
+    "searchInvoiceNumber": "Otsi arve numbrit",
+    "view": "Vaata",
+    "kFor": "Eest",
+    "total": "Kokku",
+    "subTotal": "Vahesumma",
+    "insufficientStockAvailableStock": "Ebapiisav laoseis, saadaval laoseis",
+    "discount": "Allahindlus",
+    "selectOne": "Vali üks",
+    "allCategory": "Kõik kategooriad",
+    "details": "Detailid",
+    "parcel": "Pakk",
+    "kot": "KOT",
+    "table": "Laud",
+    "holdTable": "Hoia laud",
+    "capacity": "Mahutavus",
+    "commonHint": "Nt: 10",
+    "pleaseEnterQuantity": "Palun sisesta kogus",
+    "quantityMustBeGreaterThanZero": "Kogus peab olema suurem kui 0",
+    "mobile": "Mobiil",
+    "orderNo": "Tellimuse nr",
+    "dateAndTime": "Kuupäev ja aeg",
+    "items": "Kaubad",
+    "totalAmount": "Kogusumma",
+    "paidAmount": "Makstud summa",
+    "dueAmount": "Tasumata summa",
+    "paymentType": "Makseviis",
+    "thankYou": "Aitäh",
+    "developedBy": "Arendatud: ${domain: String}",
+    "qty": "Hind",
+    "amount": "Summa",
+    "dashboard": "Armatuurlaud",
+    "reports": "Aruanded",
+    "home": "Avaleht",
+    "parties": "Osalised",
+    "subscriptionPlan": "Tellimusplaan",
+    "estimateList": "Hinnapakkumiste nimekiri",
+    "purchaseList": "Ostude nimekiri",
+    "dueList": "Tasumata arvete nimekiri",
+    "lossOrProfit": "Kahjum/kasum",
+    "stocks": "Laoseisud",
+    "moneyInList": "Sissetulekute nimekiri",
+    "moneyOutList": "Väljaminekute nimekiri",
+    "transactionList": "Tehingute nimekiri",
+    "income": "Sissetulek",
+    "expense": "Väljaminek",
+    "quickView": "Kiirvaade",
+    "to": "kuni",
+    "totalSales": "Kogumüük",
+    "totalPurchase": "Koguost",
+    "holdNumber": "Hoitud tellimused",
+    "totalExpense": "Kogukulu",
+    "loss": "Kahjum",
+    "profit": "Kasum",
+    "recentTransaction": "Hiljutised tehingud",
+    "invoice": "Arve",
+    "moneyIn": "Sissetulek",
+    "moneyOut": "Väljaminek",
+    "paid": "Makstud",
+    "due": "Tasumata",
+    "partial": "Osaline",
+    "print": "Prindi",
+    "addCategory": "Lisa kategooria",
+    "addExpense": "Lisa kulu",
+    "search": "Otsi...",
+    "viewDetails": "Vaata detaile",
+    "title": "Pealkiri",
+    "date": "Kuupäev",
+    "note": "Märkus",
+    "phoneNumber": "Telefoninumber",
+    "type": "Tüüp",
+    "selectContactSType": "Vali kontakti tüüp",
+    "moreInfo": "Lisainfo",
+    "paymentReceived": "Makse laekunud",
+    "selectSupplier": "Vali tarnija",
+    "supplier": "Tarnija",
+    "received": "Laekunud",
+    "balanceDue": "Tasumata saldo",
+    "addPurchase": "Lisa ost",
+    "selectedItemWillBeCleared": "Valitud kaubad eemaldatakse.",
+    "searchItemName": "Otsi kauba nime",
+    "billItems": "Arve kaubad",
+    "addMoreItems": "Lisa veel kaupu",
+    "payAmount": "Maksusumma",
+    "salesReport": "Müügiaruanne",
+    "purchaseReport": "Ostuaruanne",
+    "stockReport": "Laoseisu aruanne",
+    "dueReport": "Tasumata arvete aruanne",
+    "dueCollectionReport": "Tasumata arvete sissenõudmise aruanne",
+    "transactionReport": "Tehinguaruanne",
+    "incomeReport": "Sissetulekute aruanne",
+    "dueCollectionList": "Tasumata arvete sissenõudmise nimekiri",
+    "expenseReport": "Kulude aruanded",
+    "dueCollection": "Tasumata sissenõudmine",
+    "myProfile": "Minu profiil",
+    "printingOption": "Printimise valikud",
+    "currency": "Valuuta",
+    "paymentMethod": "Makseviis",
+    "rateUs": "Hinda meid",
+    "termAndCondition": "Kasutustingimused",
+    "tableList": "Laudade nimekiri",
+    "addTable": "Lisa laud",
+    "vatRate": "Käibemaksumäär %",
+    "action": "Tegevus",
+    "status": "Staatus",
+    "active": "Aktiivne",
+    "inActive": "Mitteaktiivne",
+    "subVats": "Alamkäibemaksud",
+    "add": "Lisa",
+    "taxRate": "Maksumäär %",
+    "subTaxes": "Alamaksud",
+    "group": "grupp",
+    "VAT": "KÄIBEMAKS",
+    "subTaxList": "Alamaksud nimekiri",
+    "vatPercent": "Käibemaksu protsent",
+    "statusIsCannotInActive": "Staatus ei saa olla mitteaktiivne, kui käibemaks on müügil.",
+    "vatOnSales": "Käibemaks müügil",
+    "transaction": "Tehing",
+    "version": "Versioon ${version: String}",
+    "hold": "Hoia",
+    "empty": "Tühi",
+    "appName": "Restorani rakendus",
+    "duePayment": "Tähtajaline makse",
+    "orders": "Tellimused",
+    "all": "Kõik",
+    "ingredient": "Koostisosa",
+    "menus": "Menüüd",
+    "modifierGroups": "Modifitseerijate grupid",
+    "itemModifiers": "Kauba modifitseerijad",
+    "staff": "Personal",
+    "coupon": "Kupong",
+    "pay": "Maksa",
+    "pendingOrders": "Ootel tellimused",
+    "order": "Tellimus",
+    "payNow": "Maksa kohe",
+    "addStaff": "Lisa personal",
+    "designation": "Ametinimetus",
+    "itemAdded": "Toode lisatud",
+    "noItemAdded": "Tooteid pole lisatud",
+    "saveNPrint": "Salvesta ja Prindi",
+    "allowMultiSelection": "Luba mitu valikut",
+    "required": "Nõutav",
+    "optional": "Valikuline",
+    "allowMultiSelectionForSale": "Luba mitme valiku valik müügiks",
+    "isRequired": "On nõutav",
+    "modifier": "Modifitseerija",
+    "fullPayment": "Täismakse",
+    "payment": "Makse",
+    "addTip": "Lisa jootraha",
+    "netPayable": "Neto tasumisele kuuluv",
+    "receiveAmount": "Saadud summa",
+    "changeAmount": "Tagastatav summa",
+    "quotationList": "Pakkumiste loetelu",
+    "addQuotation": "Lisa pakkumine",
+    "convert": "Teisenda",
+    "variations": "Variatsioonid",
+    "instructions": "Juhised",
+    "unavailable": "Pole saadaval",
+    "tip": "Vihje",
+    "salesQuotationReport": "Müügipakkumise aruanne",
+    "orderType": "Tellimuse tüüp",
+    "deliveryCharge": "Kohaletoimetamise tasu",
+    "receiptNo": "Kviitungi nr",
+    "paidBy": "Maksja",
+    "receivedBy": "Vastuvõtja",
+    "paymentAmount": "Maksesumma",
+    "remainingDue": "Maksmata jääk",
+    "roleNPermission": "Roll ja luba",
+    "sl": "SL",
+    "features": "Funktsioonid",
+    "create": "Loo",
+    "update": "Uuenda",
+    "quotations": "Pakkumised",
+    "restaurant": "Restoran",
+    "printerProfile": "Printeri profiil",
+    "kitchenOrders": "Köögitellimused",
+    "kitchen(plural)": {
+      "one": "Köök",
+      "other": "Köögid"
+    },
+    "allKOT": "Kõik KOT",
+    "cancelKOT": "Tühista KOT",
+    "selectCancelReason": "Vali tühistamise põhjus",
+    "additionalComment": "Lisakomentaar",
+    "enterComment": "Sisesta kommentaar",
+    "orderStatus": "Tellimuse staatus",
+    "selectOrderStatus": "Vali tellimuse staatus",
+    "kotReport": "KOT aruanne",
+    "itemFoodType": "Toidu tüüp",
+    "selectItemFoodType": "Vali @:common.itemFoodType",
+    "markAllAsRead": "Märgi kõik loetuks",
+    "online": "Veebis",
+    "cancelledReason": "Tühistamise põhjus",
+    "hrm": "HRM",
+    "notAvailable": "N/A"
+  },
+  "exceptions": {
+    "somethingWentWrong": "Midagi läks valesti, palun proovi uuesti",
+    "noCategoryFound": "Kategooriat ei leitud!\n Palun proovi kategooria lisada.",
+    "doYouWantToDeleteThisCategory": "Kas sa soovid selle kategooria kustutada?",
+    "noBrandFound": "Brändi ei leitud!\n Palun proovi bränd lisada.",
+    "doYouWantToDeleteThisBrand": "Kas sa soovid selle brändi kustutada?",
+    "noItemStockFound": "Kaupade laoseisu ei leitud!\n Palun proovi kaup lisada.",
+    "noUnitFound": "Ühikut ei leitud!\n Palun proovi ühik lisada.",
+    "doYouDeleteThisUnit": "Kas sa soovid selle ühiku kustutada?",
+    "noSaleFoundPleaseSAddProduct": "Müüki ei leitud!\n Palun proovi müük lisada.",
+    "doYouWantToDeleteThisSale": "Kas sa soovid selle müügi kustutada?",
+    "pleaseAddItemToTheCartFirst": "Palun lisa esmalt kaupu ostukorvi",
+    "noItemAdded": "Kaupu pole lisatud",
+    "cannotEditOthersTable": "Teise lauda ei saa muuta.",
+    "tableIsAlreadyBlocked": "Laud on juba broneeritud.",
+    "failedToGetCustomerDetails": "Kliendi andmete hankimine ebaõnnestus.",
+    "noTableFoundPleaseTryAgain": "Laudu ei leitud!\n Palun proovi laud lisada.",
+    "noDueCollectionFound": "Tasumata arveid ei leitud!\n Sa näed tasumata arveid, kui need on saadaval.",
+    "noExpenseFoundPleaseTryAddingExpense": "Kulusid ei leitud!\n Palun proovi kulu lisada.",
+    "doYouWantToDeleteThisExpense": "Kas sa soovid selle kulu kustutada?",
+    "noExpenseCategoryFound": "Kulude kategooriat ei leitud!\n Palun proovi kulude kategooria lisada.",
+    "noTransactionFound": "Tehinguid ei leitud, palun proovi hiljem uuesti!",
+    "pleaseSelectACategory": "Palun vali kategooria",
+    "noIncomeFound": "Tulu ei leitud!\n Palun proovi tulu lisada",
+    "doYouWantToDeleteThisIncome": "Kas sa soovid selle tulu kustutada?",
+    "noIncomeCategoryFoundAddingAIncome": "Tulu kategooriat ei leitud!\n Palun proovi tulu kategooria lisada.",
+    "noItemFoundPleaseTryAddingItem": "Kaupa ei leitud!\n Palun proovi kaup lisada.",
+    "noPartiesFound": "Osalisi ei leitud",
+    "doYouWantToDeleteThisParty": "Kas sa soovid selle osalise kustutada?",
+    "noLedgerFound": "Pearaamatut ei leitud!\n Palun proovi lisada ${transactionType: String}",
+    "areYouSureYouSureWantToDeleteThisTaxType": "Kas sa oled kindel, et sa soovid selle ${taxType: String} kustutada?",
+    "noItemFoundPleaseSTryAddingAnPurchase": "Kaupa ei leitud!\n Palun proovi ost lisada.",
+    "doYouWantToDeleteThisPurchase": "Kas sa soovid selle ostu kustutada?",
+    "noTransactionFoundYouSeeTransactionHereWhenAvailable": "Tehinguid ei leitud!\n Sa näed tehinguid siin, kui need on saadaval.",
+    "noSaleFoundPleaseTryAddingSale": "Müüki ei leitud!\n Palun proovi müük lisada.",
+    "noPurchaseFoundPleaseTryAddingPurchase": "Ostu ei leitud!\n Palun proovi ost lisada.",
+    "noItemIncomeFound": "Kaupade sissetulekut ei leitud!\n Sa näed sissetuleku andmeid, kui need on saadaval.",
+    "noItemExpenseFound": "Kaupade kulusid ei leitud!\n Sa näed kulude andmeid, kui need on saadaval.",
+    "noItemDueInvoiceFound": "Kaupade tasumata arveid ei leitud!\n Sa näed tasumata arveid, kui need on saadaval.",
+    "noItemDueCollectionInvoiceFound": "'Kaupade tasumata sissenõudmise arveid ei leitud!\n Sa näed tasumata sissenõudmise arveid, kui need on saadaval.",
+    "doYouWantToDeleteThisTable": "Kas sa soovid selle laua kustutada?'",
+    "thisVatIsBeingUsedOnSales": "Seda käibemaksu kasutatakse müügil!",
+    "noPaymentMethodFoundPleaseTryAddingAPaymentMethod": "Makseviisi ei leitud!\n Palun proovi makseviis lisada.",
+    "pleaseSelectACustomerFirst": "Palun vali kõigepealt klient.",
+    "pleaseSelectATableToCreateAKot": "Palun vali laud KOT-i loomiseks.",
+    "noStaffFound": "Personali ei leitud!\\n Palun proovige personali lisada.",
+    "noIngredientFound": "Koostisosi ei leitud!\\n Palun proovige koostisosi lisada.",
+    "exceedsPaymentAmount": "Saadud summa ei tohi olla suurem kui tasumisele kuuluv summa",
+    "noItemModifierFound": "Kauba modifitseerijat ei leitud!\\n Palun proovige kauba modifitseerijat lisada.",
+    "noModifierGroupFound": "Modifitseerijate gruppi ei leitud!\\n Palun proovige modifitseerijate gruppi lisada.",
+    "noOptionsFound": "Valikuid ei leitud!",
+    "maxImageCountLimit": "Saate valida ainult kuni 5 pilti.",
+    "noQuotationFound": "Pakkumist ei leitud!\\n Palun proovige pakkumist lisada.",
+    "noPermittedUserFound": "Lubatavat kasutajat ei leitud!\\n Palun proovige lisada kasutaja."
+  },
+  "prompt": {
+    "logout": {
+      "title": "@:common.logout",
+      "message": "Kas sa oled kindel, et sa soovid välja logida?"
+    },
+    "unsavedWarning": {
+      "title": "Kas soovite tagasi minna?",
+      "message": "Muudetud väljad ei pruugi salvestuda!"
+    },
+    "verify": {
+      "title": "Kinnita oma e-post",
+      "description(rich)": "Oleme saatnud kinnituskoodiga e-kirja${emailSpan}\n\nVõib-olla sattus kiri rämpsposti kausta."
+    },
+    "subscriptionExpired": {
+      "title": "Tellimus on aegunud!",
+      "message": "Palun telli jätkamiseks.",
+      "action": "Telli"
+    },
+    "items": {
+      "delete": {
+        "title": "Kas sa soovid selle kauba kustutada?"
+      },
+      "filter": {
+        "title": "Filtreeri",
+        "extra": {
+          "lowToHigh": "Madalaimast kõrgeimani @:common.price",
+          "highToLow": "Kõrgeimast madalaimani @:common.price"
+        }
+      }
+    },
+    "checkInternet": {
+      "title": "Internetiühendus puudub",
+      "message": "Palun kontrolli oma Wi-Fi või mobiilse võrgu ühendust ja proovi uuesti"
+    },
+    "back": {
+      "title": "Väljumiseks vajuta uuesti tagasi."
+    },
+    "stockModelSheet": {
+      "title": "Lisa uus laoseis"
+    },
+    "paymentMethod": {
+      "title": "Kas sa soovid selle makseviisi kustutada?"
+    },
+    "extMsg": {
+      "kotSavedSuccessfully": "KOT edukalt salvestatud"
+    },
+    "deleteStaff": "Kas soovite selle töötaja kustutada?",
+    "deleteIngredient": "Kas soovite selle koostisosa kustutada?",
+    "deleteItemModifier": "Kas soovite selle kauba modifitseerija kustutada?",
+    "deleteModifierGroup": "Kas soovite selle modifitseerijate grupi kustutada?",
+    "deleteQuotation": "Kas soovite selle pakkumise kustutada?"
+  },
+  "form": {
+    "fullName": {
+      "label": "@:common.fullName",
+      "hint": "Sisesta @:common.fullName",
+      "errors": {
+        "required": "Palun sisesta oma @:common.fullName"
+      }
+    },
+    "email": {
+      "label": "@:common.email",
+      "hint": "Sisesta oma @:common.email",
+      "errors": {
+        "required": "Palun sisesta oma @:common.email aadress",
+        "invalid": "⦸ Vigane e-post, palun proovi uuesti"
+      }
+    },
+    "password": {
+      "label": "@:common.password",
+      "hint": "* * * * * * * *",
+      "errors": {
+        "required": "Palun sisesta oma @:common.password",
+        "minLength": "Salasõna peab olema vähemalt ${count} tähemärki pikk!"
+      }
+    },
+    "confirmPassword": {
+      "label": "Kinnita salasõna",
+      "hint": "* * * * * * * *",
+      "errors": {
+        "required": "Palun sisesta oma @:common.password",
+        "invalid": "'Kinnitatud salasõna ei ühti!"
+      }
+    },
+    "otp": {
+      "errors": {
+        "required": "Palun sisesta ühekordne parool.",
+        "invalid": "Palun sisesta praegune ühekordne parool."
+      }
+    },
+    "profile": {
+      "businessCategory": {
+        "label": "Ärikategooria",
+        "hint": "Vali ärikategooria",
+        "errors": {
+          "required": "Palun vali ärikategooria"
+        }
+      },
+      "shopOrStore": {
+        "label": "Poe/kaupluse nimi*",
+        "hint": "Sisesta poe või kaupluse nimi",
+        "errors": {
+          "required": "Palun sisesta oma poe või kaupluse nimi"
+        }
+      },
+      "openingBalance": {
+        "label": "Algussaldo",
+        "hint": "Sisesta algussaldo"
+      },
+      "vatGstTitle": {
+        "label": "KM/GST nimetus",
+        "hint": "Sisesta km/gst"
+      },
+      "vatGstNumber": {
+        "label": "KM/GST number",
+        "hint": "Sisesta km/gst number"
+      }
+    },
+    "vat": {
+      "name": {
+        "label": "Nimi",
+        "hint": "Sisesta käibemaksu nimi",
+        "error": {
+          "required": "Palun sisesta käibemaksu nimi"
+        }
+      },
+      "subVat": {
+        "label": "Alamkäibemaks",
+        "hint": "Vali alamkäibemaks",
+        "errors": {
+          "required": "Palun vali alamkäibemaks"
+        }
+      },
+      "rate": {
+        "label": "Käibemaksumäär %",
+        "hint": "Sisesta käibemaksumäär",
+        "errors": {
+          "required": "Palun sisestage käibemaksumäär."
+        }
+      }
+    },
+    "category": {
+      "label": "@:common.category",
+      "hint": "Vali kauba kategooria",
+      "error": {
+        "required": "Palun sisesta kategooria nimi"
+      }
+    },
+    "items": {
+      "barcode": {
+        "label": "Vöötkood",
+        "hint": "@:common.selectOne"
+      },
+      "itemName": {
+        "label": "Kauba nimi",
+        "hint": "Sisesta kauba nimi",
+        "extra": {
+          "required": "Palun sisesta kauba nimi"
+        }
+      },
+      "itemCategory": {
+        "label": "Kauba kategooria",
+        "hint": "Kauba kategooria",
+        "extra": {
+          "label": "Vali kategooria",
+          "required": "Palun vali kategooria"
+        }
+      },
+      "brand": {
+        "label": "@:common.brand",
+        "hint": "@:common.selectOne",
+        "extra": {
+          "hint": "Sisesta brändi nimi",
+          "required": "Palun sisesta brändi nimi"
+        }
+      },
+      "unit": {
+        "label": "@:common.unit",
+        "hint": "@:common.selectOne",
+        "error": {
+          "required": "Palun sisesta ühiku nimi"
+        }
+      },
+      "stock": {
+        "label": "Alguslaoseis",
+        "hint": "@:common.commonHint",
+        "extra": {
+          "required": "Palun sisesta kauba kogus."
+        }
+      },
+      "lowStock": {
+        "label": "@:common.lowStock",
+        "hint": "Nt: 5"
+      },
+      "purchasePrice": {
+        "label": "@:common.purchasePrice",
+        "hint": "Nt: \\$40",
+        "error": {
+          "required": "Palun sisesta ostuhind."
+        }
+      },
+      "salePrice": {
+        "label": "Müügihind",
+        "hint": "Nt: \\$60",
+        "error": {
+          "required": "Palun sisesta müügihind."
+        }
+      },
+      "totalSalePrice": {
+        "label": "Kogumüügihind",
+        "hint": "Nt: \\$100"
+      },
+      "wholeSalePrice": {
+        "label": "@:common.wholeSalePrice",
+        "hint": "Sisesta hulgimüügihind"
+      },
+      "dealerPrice": {
+        "label": "@:common.dealerPrice",
+        "hint": "Sisesta edasimüüja hind"
+      },
+      "discount": {
+        "label": "Allahindlus (%)",
+        "hint": "@:common.commonHint"
+      },
+      "applicableTax": {
+        "label": "Kohaldatav maks",
+        "hint": "@:common.selectOne"
+      },
+      "vatType": {
+        "label": "@:common.taxType",
+        "errorText": {
+          "required": "Palun vali käibemaksu tüüp"
+        }
+      },
+      "menu": {
+        "label": "Vali menüü",
+        "errors": {
+          "required": "Palun vali menüü."
+        },
+        "hint": "Vali menüü",
+        "extra": {
+          "selectNavLabel": "Vali toote menüü"
+        }
+      },
+      "modifierItems": {
+        "label": "Modifitseerijate tooted",
+        "hint": "Vali modifitseerijate tooted"
+      },
+      "preparationTime": {
+        "label(rich)": "Valmistamisaeg ${minutes(Minutid)}",
+        "hint": "Nt: 30"
+      },
+      "variation": {
+        "name": {
+          "label": "Nimi",
+          "hint": "Sisesta variatsioon",
+          "errors": {
+            "required": "Palun sisestage variatsiooni nimi."
+          }
+        },
+        "price": {
+          "errors": {
+            "required": "Palun sisestage hind."
+          },
+          "label": "Hind",
+          "hint": "Nt: \\$30"
+        }
+      }
+    },
+    "itemCart": {
+      "hint": "@:common.commonHint",
+      "error": {
+        "required": "@:common.pleaseEnterQuantity",
+        "noZero": "@:common.quantityMustBeGreaterThanZero"
+      }
+    },
+    "sales": {
+      "autoGenerateInvoice": {
+        "label": "Arve nr",
+        "hint": "P-00001"
+      },
+      "date": {
+        "label": "Kuupäev"
+      },
+      "customer": {
+        "label": "Klient",
+        "hint": "Vali klient"
+      },
+      "phone": {
+        "label": "Telefoninumber",
+        "hint": "Sisesta telefoninumber"
+      },
+      "address": {
+        "label": "Aadress",
+        "hint": "Sisesta aadress"
+      },
+      "deliveryCharge": {
+        "label": "@:common.deliveryCharge",
+        "hint": "Nt: \\$20",
+        "hint2": "Tasuta näide: \\$10"
+      },
+      "table": {
+        "hint": "Vali laud"
+      },
+      "waiter": {
+        "hint": "Vali kelner"
+      }
+    },
+    "bill": {
+      "label": "Arve nr",
+      "hint": "P-00001"
+    },
+    "supplier": {
+      "label": "Tarnija",
+      "hint": "Vali tarnija",
+      "extra": {
+        "required": "Palun vali tarnija"
+      }
+    },
+    "phone": {
+      "label": "Telefoninumber",
+      "hint": "Sisesta telefoninumber",
+      "errors": {
+        "required": "Palun sisesta telefoninumber."
+      }
+    },
+    "address": {
+      "label": "Aadress",
+      "hint": "Sisesta aadress"
+    },
+    "payment": {
+      "label": "Nimi",
+      "hint": "Sisesta makse nimi",
+      "error": {
+        "required": "Palun sisesta makseviisi nimi"
+      }
+    },
+    "expense": {
+      "label": "Kulu kategooria",
+      "hint": "Vali kulu kategooria",
+      "error": {
+        "required": "Palun sisesta kulu kategooria"
+      }
+    },
+    "income": {
+      "label": "Tulu kategooria",
+      "hint": "Sisesta kategooria nimi",
+      "error": {
+        "required": "Palun sisesta kategooria nimi"
+      },
+      "incomeTitle": {
+        "label": "Tulu nimetus",
+        "hint": "Sisesta tulu"
+      },
+      "incomeCategory": {
+        "label": "Tulu kategooria",
+        "hint": "Vali kategooria"
+      },
+      "payment": {
+        "label": "Makse",
+        "hint": "Nt: \\$10"
+      }
+    },
+    "note": {
+      "label": "Märkus (valikuline)",
+      "hint": "Sisesta tekst"
+    },
+    "parties": {
+      "partyName": {
+        "label": "Osalise nimi",
+        "hint": "Sisesta osalise nimi",
+        "error": {
+          "required": "Palun sisesta osalise nimi"
+        }
+      },
+      "partyPhone": {
+        "label": "Telefoninumber",
+        "hint": "Sisesta telefoninumber",
+        "error": {
+          "required": "Palun sisesta telefoninumber"
+        }
+      }
+    },
+    "table": {
+      "name": {
+        "label": "Laua nimi",
+        "hint": "Sisesta laua nimi",
+        "error": {
+          "required": "Palun sisesta laua nimi"
+        }
+      },
+      "capacity": {
+        "label": "Mahutavus",
+        "hint": "Sisesta mahutavus",
+        "error": {
+          "required": "Palun sisesta mahutavus"
+        }
+      }
+    },
+    "designation": {
+      "label": "@:common.designation",
+      "hint": "Vali ametinimetus",
+      "errors": {
+        "required": "Palun vali ametinimetus."
+      }
+    },
+    "ingredientName": {
+      "label": "Koostisosa nimi",
+      "hint": "Sisesta koostisosa nimi",
+      "errors": {
+        "required": "Palun sisestage koostisosa nimi"
+      }
+    },
+    "item": {
+      "label": "Toode",
+      "hint": "Vali toode",
+      "errors": {
+        "required": "Palun vali toode."
+      }
+    },
+    "modifierGroup": {
+      "label": "Modifitseerijate grupp",
+      "hint": "Vali modifitseerijate grupp",
+      "errors": {
+        "required": "Palun vali modifitseerijate grupp."
+      }
+    },
+    "description": {
+      "label": "Kirjeldus",
+      "hint": "Sisesta kirjeldus"
+    },
+    "staff": {
+      "label": "@:common.staff",
+      "hint": "Vali töötaja",
+      "errors": {
+        "required": "Palun vali töötaja"
+      }
+    },
+    "loginUserName": {
+      "label": "Kasutajatunnus",
+      "hint": "Sisesta kasutajanimi või e-posti aadress",
+      "errors": {
+        "required": "Palun sisesta kasutajanimi või e-posti aadress"
+      }
+    }
+  },
+  "action": {
+    "next": "Järgmine",
+    "getStarted": "Alusta",
+    "skip": "Jäta vahele",
+    "select": "Vali",
+    "save": "Salvesta",
+    "verify": "Kontrolli",
+    "signIn": "@:common.signIn",
+    "signUp": "@:common.signUp",
+    "continue": "Jätka",
+    "no": "Ei",
+    "yes": "Jah",
+    "okay": "Olgu",
+    "cancel": "Tühista",
+    "confirm": "Kinnita",
+    "tryAgain": "Proovi uuesti",
+    "reset": "Lähtesta",
+    "apply": "Rakenda",
+    "stockAdjust": "Kohanda laoseisu",
+    "addMoreItems": "Lisa veel kaupu",
+    "hold": "Hoia",
+    "parcel": "@:common.parcel",
+    "buyNow": "Osta kohe",
+    "viewAll": "Vaata kõiki",
+    "viewLedger": "Vaata pearaamatut",
+    "submit": "Esita",
+    "selected": "Valitud",
+    "addToCart": "Lisa ostukorvi",
+    "selectAll": "Vali kõik",
+    "update": "@:common.update",
+    "addRole": "Lisa roll"
+  },
+  "pages": {
+    "language": {
+      "appbarTitle": "@:action.select @:common.language"
+    },
+    "onboard": {
+      "onboardData": {
+        "data1": {
+          "title": "Lihtne kasutada @:common.appName",
+          "description": "Sujuvad tellimused, pingevabad broneeringud\\nTugevda oma restorani hõlpsalt!"
+        },
+        "data2": {
+          "title": "Lihtne tellimuste haldus",
+          "description": "Sujuusta oma restorani tellimuste vastuvõtmise protsessi meie intuitiivse POS-süsteemiga."
+        },
+        "data3": {
+          "title": "Suurepärane analüütika ja aruandlus",
+          "description": "Meie analüütika armatuurlaud pakub reaalajas müügi- ja ostuaruandeid"
+        }
+      }
+    },
+    "signIn": {
+      "title": "Tere tulemast tagasi",
+      "subtitle": "Palun sisesta oma andmed.",
+      "extra": {
+        "rememberMe": "Mäleta mind",
+        "signUpNavigator(rich)": "Sul pole kontot? ${getStarted(@:action.getStarted)}",
+        "forgotPassword": "@:common.forgotPassword?"
+      }
+    },
+    "signUp": {
+      "title": "Loo konto",
+      "subtitle": "Palun sisesta oma andmed",
+      "extra": {
+        "signInNavigator(rich)": "Sul on juba konto? ${signIn(@:action.signIn)}"
+      }
+    },
+    "forgotPassword": {
+      "title": "@:common.forgotPassword",
+      "subtitle": "Sisesta oma e-posti aadress, et taastada oma salasõna."
+    },
+    "otpVerification": {
+      "title": "Verifitseerimine",
+      "subtitle": "6-kohaline PIN-kood on saadetud sinu e-posti aadressile",
+      "extra": {
+        "codeResend": {
+          "codeSendIn": "Kood saadetakse",
+          "resendCode": "Saada kood uuesti"
+        }
+      }
+    },
+    "resetPassword": {
+      "title": "Lähtesta salasõna",
+      "subtitle": "Lähtesta oma salasõna taastamiseks ja oma kontole sisselogimiseks",
+      "extra": {
+        "dialog": {
+          "title": "Muudetud edukalt!",
+          "subtitle": "Logi sisse oma uue salasõnaga.\nSind suunatakse sisselogimisele..."
+        }
+      }
+    },
+    "items": {
+      "itemList": {
+        "extra": {
+          "emptyItem": "Kaupu ei leitud!\nPalun proovi kaup lisada."
+        }
+      },
+      "manageItems": {
+        "title": "Lisa uus kaup",
+        "title2": "Muuda kaupa",
+        "extra": {
+          "maximum": "Maksimaalselt 5",
+          "wholeSaleAndDealerPrice": "Hulgi- ja edasimüüja hind",
+          "addDiscount": "Lisa allahindlus",
+          "addVat": "Lisa käibemaks"
+        }
+      },
+      "itemDetails": {
+        "title": "Kauba detailid",
+        "extra": {
+          "noImageAvailable": "Pilt pole saadaval!",
+          "preparationTime(rich)": "Ettevalmistusaeg: ${min: String} ${mins(minutit)}",
+          "pleaseSelectVariation": "Palun valige variatsioon",
+          "pleaseSelectOption": "Palun valige valik.",
+          "enterYourInstruction": "Sisestage oma juhised"
+        }
+      }
+    },
+    "category": {
+      "addNewCategory": "Lisa uus kategooria",
+      "editCategory": "Muuda kategooriat"
+    },
+    "brand": {
+      "addNewBrand": "Lisa uus bränd",
+      "editBrand": "Muuda brändi"
+    },
+    "unit": {
+      "addNewUnit": "Lisa uus ühik",
+      "editUnit": "Muuda ühikut"
+    },
+    "stock": {
+      "stockList": "Laoseisu nimekiri"
+    },
+    "aboutUs": {
+      "title": "Meist"
+    },
+    "privacyPolicy": {
+      "title": "Privaatsuspoliitika"
+    },
+    "termAndCondition": {
+      "title": "@:common.termAndCondition"
+    },
+    "orders": {
+      "manageOrders": {
+        "extra": {
+          "billItems": "Arve kaubad",
+          "manageQuantity": "Haldada kogust"
+        },
+        "title": {
+          "editOrder": "Muuda tellimust",
+          "editKOT": "KOTi muutmine"
+        }
+      }
+    },
+    "onlinePayment": {
+      "title": "Veebimakse"
+    },
+    "paymentStatus": {
+      "success": {
+        "title": "Aitäh!",
+        "message": "Vaatame makse üle ja kinnitame selle 24 tunni jooksul.",
+        "actionButtonText": "Vaata arvet"
+      },
+      "fail": {
+        "title": "Oih! Makse ebaõnnestus",
+        "message": "Sinu tehing ebaõnnestus tehnilise vea tõttu.",
+        "actionButtonText": "Proovi uuesti"
+      }
+    },
+    "confirmationDialog": {
+      "title": "Logi välja",
+      "message": "Kas sa oled kindel, et sa soovid välja logida?",
+      "acceptationText": "Ei",
+      "rejectionText": "Logi välja"
+    },
+    "payment": {
+      "title": "@:common.paymentMethod",
+      "addPaymentMethod": "Lisa uus makseviis",
+      "editPaymentMethod": "Muuda makseviisi",
+      "choseOnlinePayment": "Vali veebimakse",
+      "selectPaymentMethod": "Vali makseviis",
+      "pleaseSelectAPaymentMethod": "Palun vali makseviis.",
+      "methodStatus": {
+        "title": "Staatus",
+        "message": "Staatus ei saa olla mitteaktiivne, kui kiirvaade on lubatud!."
+      }
+    },
+    "subscriptionPlan": {
+      "title": "Osta Premium plaan",
+      "extra": {
+        "actionButtonText": "Mine tagasi",
+        "message": "Tellimuse makse õnnestus.\n\nSaad nüüd kasutada tellitud funktsioone.",
+        "mostPopular": "Populaarseim"
+      }
+    },
+    "invoicePreview": {
+      "title": "Arve eelvaade",
+      "message": "PDF eelvaade on peagi saadaval"
+    },
+    "currency": {
+      "title": "@:common.currency"
+    },
+    "dashboard": {
+      "overview": "Ülevaade",
+      "dashboardPrivacy": "Armatuurlaua privaatsus",
+      "moneyInAndMoneyOut": "Sissetulekud ja väljaminekud",
+      "lossAndProfitOverView": "Kasumi ja kahjumi ülevaade"
+    },
+    "due": {
+      "title": "@:common.dueList",
+      "collectionList": "Sissenõudmiste nimekiri",
+      "dueCollection": "Tasumata sissenõudmine"
+    },
+    "expense": {
+      "title": "@:common.expense",
+      "editExpense": "Muuda kulu",
+      "addNewExpense": "Lisa uus kulu",
+      "editExpenseCategory": "Muuda kulukategooriat",
+      "addNewExpenseCategory": "Lisa uus kulukategooria",
+      "payment": "Makse",
+      "expenseCategory": "Kulukategooria",
+      "selectCategory": "Vali kategooria",
+      "allExpense": "Kõik kulud",
+      "pleaseSelectACategory": "Palun vali kategooria",
+      "expenseTitle": {
+        "label": "Kulu pealkiri",
+        "hint": "Sisesta kulu"
+      }
+    },
+    "lossProfit": {
+      "title": "Kahjumi/kasumi nimekiri",
+      "noLossProfitFound": "Kahjumit/kasumit ei leitud!\nPalun proovige luua müüke."
+    },
+    "income": {
+      "editIncomeCategory": "Muuda sissetuleku kategooriat",
+      "addNewIncomeCategory": "Lisa uus sissetuleku kategooria",
+      "incomeCategory": "Sissetuleku kategooria",
+      "allIncome": "Kogu sissetulek",
+      "editIncome": "Muuda sissetulekut",
+      "addNewIncome": "Muuda sissetulekut",
+      "addIncome": "Lisa sissetulek"
+    },
+    "moneyIn": {
+      "title": "Sissetulekute nimekiri",
+      "totalPaymentIn": "Kogu sissetulek"
+    },
+    "moneyOut": {
+      "title": "Väljaminekute nimekiri",
+      "totalMoneyOut": "Kogu väljaminek"
+    },
+    "profile": {
+      "title": "Minu profiil",
+      "editProfile": "Muuda profiili",
+      "businessInformation": "Ettevõtte andmed",
+      "profileInformation": "Profiili andmed"
+    },
+    "parties": {
+      "title": "Osaliste nimekiri",
+      "allParties": "Kõik osalised",
+      "customer": "Klient",
+      "supplier": "Tarnija",
+      "addParties": "Lisa osalisi",
+      "editParties": "Muuda osalisi",
+      "partiesDetails": "Osalise detailid",
+      "personalInfo": "Isiklik info"
+    },
+    "ledger": {
+      "subTitle": "Pearaamat"
+    },
+    "purchase": {
+      "title": "Lisa uus ost",
+      "editPurchase": "Muuda ostu"
+    },
+    "reports": {
+      "title": "Aruanded"
+    },
+    "table": {
+      "title": "Lisa uus laud",
+      "editTable": "Muuda lauda"
+    },
+    "tax": {
+      "title": "Käibemaksumäärad",
+      "buildHeaderTitle": "Käibemaksumäärad - halda oma käibemaksumäärasid",
+      "vatGroup": {
+        "title": "Käibemaksu grupp",
+        "subTitle": "Käibemaksu grupp - halda oma käibemaksu gruppi"
+      }
+    },
+    "vat": {
+      "addNewVat": "Lisa uus käibemaks",
+      "editVat": "Muuda käibemaksu",
+      "addNewVatGroup": "Lisa uus käibemaksu grupp",
+      "editVatGroup": "Muuda käibemaksu gruppi"
+    },
+    "orderList": {
+      "title": "Tellimuste nimekiri",
+      "filters": {
+        "orderType": {
+          "label": "@:common.orderType",
+          "hint": "Vali tellimuse tüüp"
+        },
+        "paymentStatus": {
+          "hint": "Vali makse staatus",
+          "label": "Makse staatus"
+        }
+      }
+    },
+    "staffs": {
+      "staffList": {
+        "filters": {
+          "designation": {
+            "label": "Ametinimetus",
+            "hint": "Vali ametinimetus"
+          }
+        },
+        "title": "Kogu personal"
+      },
+      "manageStaff": {
+        "title1": "Lisa uus töötaja",
+        "title2": "Uuenda töötajat"
+      }
+    },
+    "ingredient": {
+      "ingredientList": {
+        "title1": "Koostisosade nimekiri",
+        "title2": "Vali koostisosa"
+      },
+      "manageIngredient": {
+        "title1": "Lisa uus koostisosa",
+        "title2": "Muuda koostisosa"
+      }
+    },
+    "itemModifier": {
+      "itemModifierList": {
+        "title": "@:common.itemModifiers"
+      },
+      "manageItemModifier": {
+        "title1": "Lisa kauba modifitseerijad",
+        "title2": "Muuda kauba modifitseerijaid"
+      }
+    },
+    "quotation": {
+      "manageQuotation": {
+        "title": {
+          "add": "Lisa uus pakkumine",
+          "edit": "Muuda pakkumist",
+          "convert": "Teisenda müügiks"
+        }
+      }
+    },
+    "rolePermission": {
+      "rolePermissionList": {
+        "title": "Rollide ja lubade loend"
+      },
+      "manageRolePermission": {
+        "title1": "Lisa uus roll",
+        "title2": "Muuda rolli"
+      }
+    },
+    "printingOption": {
+      "title": "Trükkimisvalik",
+      "form": {
+        "companyAddress": {
+          "label": "Ettevõtte aadress",
+          "hint": "Sisestage ettevõtte aadress"
+        },
+        "noteLabel": {
+          "label": "Märkuse silt",
+          "hint": "Sisestage märkuse silt."
+        },
+        "note": {
+          "label": "Märkus",
+          "hint": "Sisestage märkus."
+        },
+        "postSaleMessage": {
+          "label": "Pärast müüki sõnum",
+          "hint": "Sisestage pärast müüki sõnum"
+        },
+        "printingMethod": {
+          "label": "Trükkimismeetod",
+          "hint": "Valige trükkimismeetod"
+        },
+        "printerProfile": {
+          "label": "Printeri profiil",
+          "hint": "Valige printeri profiil"
+        },
+        "paperSize": {
+          "label": "Termilise printeri paberisuurus",
+          "hint": "Valige printeri paberisuurus"
+        },
+        "printerDpi": {
+          "label": "Printeri DPI",
+          "hint": "Nt: 203"
+        },
+        "printingMargin": {
+          "label": "Trükkimisveeris",
+          "hint": "Nt: 2"
+        }
+      },
+      "tooltip": {
+        "printingMethod": {
+          "title": "Rippmenüü valikutega:",
+          "default": "• Vaikimisi (Kohalik meetod EL standardmärkide trükkimiseks)",
+          "image": "• Pilt (Soovitatav Unicode märkide trükkimiseks)"
+        }
+      },
+      "action": {
+        "save": "Salvesta"
+      }
+    },
+    "kitchen": {
+      "list": {
+        "noKitchensFound": "Köökisid ei leitud.\n Palun proovige üks lisada."
+      },
+      "manage": {
+        "addKitchen": "Lisa köök",
+        "editKitchen": "Muuda kööki",
+        "kitchenName": {
+          "label": "Köögi nimi",
+          "hint": "Sisesta köögi nimi",
+          "error": "Palun sisesta köögi nimi."
+        },
+        "description": {
+          "label": "Kirjeldus",
+          "hint": "Sisesta kirjeldus"
+        }
+      },
+      "manageItems": {
+        "title": "Halda tooteid",
+        "addedItems": "Lisatud tooted",
+        "selectItemsError": "Palun vali tooted.",
+        "noItemsAdded": "Tooteid pole veel lisatud!\nPalun proovi tooteid lisada."
+      },
+      "card": {
+        "itemName": "Toote nimi",
+        "manageItems": "+ Halda tooteid",
+        "deleteItemConfirm": "Kas soovite selle toote kustutada?",
+        "deleteKitchenConfirm": "Kas soovite selle köögi kustutada?"
+      }
+    }
+  },
+  "enums": {
+    "dropdownDateFilter": {
+      "daily": "Igapäevane",
+      "weekly": "Iganädalane",
+      "monthly": "Igakuine",
+      "yearly": "Iga-aastane",
+      "custom": "Kohandatud"
+    },
+    "orderTypes": {
+      "dineIn": "Kohapeal söömine",
+      "pickUp": "Kaasa võtmine",
+      "delivery": "Kohaletoimetamine",
+      "reservation": "Broneering",
+      "quotation": "Hinnapakkumine"
+    },
+    "paymentStatus": {
+      "paid": "Makstud",
+      "unpaid": "Tasumata"
+    },
+    "staffTypes": {
+      "manager": "Juhataja",
+      "waiter": "Kelner",
+      "chef": "Peakokk",
+      "cleaner": "Koristaja",
+      "driver": "Autojuht",
+      "deliveryBoy": "Kuller"
+    },
+    "itemFoodTypes": {
+      "veg": "Taimetoit",
+      "nonVeg": "Mitte-taimetoit",
+      "egg": "Muna",
+      "drink": "Jook",
+      "others": "Muud"
+    },
+    "itemTypes": {
+      "single": "Üksik",
+      "variation": "Variatsioon"
+    },
+    "quotationStatus": {
+      "open": "Avatud",
+      "closed": "Suletud"
+    },
+    "tableStatus": {
+      "running": "Hõivatud",
+      "available": "Vaba"
+    },
+    "thermalPrinterPrintingMethod": {
+      "image": "Pilt",
+      "default": "Vaikimisi"
+    },
+    "kotOrderStatus": {
+      "label": {
+        "pending": "Ootel",
+        "preparing": "Valmistamisel",
+        "ready": "Toit on valmis",
+        "served": "Serveeritud",
+        "cancelled": "Tühistatud"
+      },
+      "pending": "Ootel",
+      "preparing": "Valmistamisel",
+      "ready": "Toit on valmis",
+      "served": "Serveeritud",
+      "cancelled": "Tühistatud"
+    },
+    "kotItemStatus": {
+      "pending": "Alusta toiduvalmistamist",
+      "start": "Märgi valmiks",
+      "ready": "Valmis"
+    }
+  },
+  "thermalPrint": {
+    "invoice": {
+      "purchaseInvoiceLabel": "Ostu arve: ${invoiceNumber: String}",
+      "saleInvoiceLabel": "Tellimuse nr: ${invoiceNumber: String}",
+      "receiptNoLabel": "Kviitungi nr: ${invoiceNumber: String}",
+      "orderNoKotLabel": "Tellimuse nr: ${invoiceNumber: String}",
+      "nameLabel": "Nimi: ${name: String}",
+      "mobileLabel": "Mobiil: ${phone: String}",
+      "purchasedByLabel": "Ostja: ${role: String}",
+      "salesByLabel": "Müüja: ${role: String}",
+      "paidByLabel": "${label: String}: ${role: String}",
+      "paidToReceivedFromLabel": "${label: String}: ${name: String}",
+      "orderTypeLabel": "Tellimuse tüüp: ${orderType: String}",
+      "tableLabel": "Laud: ${tableName: String}",
+      "tableNoLabel": "Laua nr: ${tableName: String}",
+      "dateLabel": "Kuupäev: ${dateTime: String}",
+      "invoiceFlag": "ARVE",
+      "receiptFlag": "KVIITUNG",
+      "paidBy": "Tasutud",
+      "receivedBy": "Vastuvõtja",
+      "paidTo": "Tasutud saajale",
+      "receivedFrom": "Vastu võetud saatjalt",
+      "seller": "Müüja: ${name: String}",
+      "address": "Aadress: ${addr: String}",
+      "vatNo": "KMKR nr",
+      "tel": "Tel: ${phoneNumber: String}",
+      "timeLabel": "Kellaaeg: ${dateTime: String}"
+    },
+    "tableHeaders": {
+      "sl": "Jrk.",
+      "item": "Toode",
+      "cost": "Kulu",
+      "qty": "Kogus",
+      "uPrice": "Üh. hind",
+      "amount": "Summa",
+      "total": "Kokku",
+      "invoiceTable": "Arve",
+      "dueTable": "Võlg"
+    },
+    "summary": {
+      "subTotal": "Vahesumma:",
+      "discount": "Allahindlus: ${percentFmt: String}",
+      "vat": "${vatName: String}: ${rateFmt: String}%",
+      "tip": "Jootraha:",
+      "deliveryCharge": "Kohaletoimetamistasu:",
+      "totalPayable": "Tasuda kokku:",
+      "paidAmount": "Tasutud summa:",
+      "dueAmount": "Võlgnetav summa:",
+      "paymentType": "Makseviis: ${method: String}",
+      "remainingDue": "Jääk:",
+      "paymentAmount": "Maksesumma:",
+      "itemsCount": "Tooted: ${count: int}",
+      "qtyTotal": "Kogus: ${totalQty: int}"
+    },
+    "footer": {
+      "note": "${noteLabel: String}: ${note: String}",
+      "developedBy": "${developByLabel: String} ${developBy: String}"
+    }
+  },
+  "hrm": {
+    "department": "Osakond",
+    "designation": "Ametinimetus",
+    "shift": "Vahetus",
+    "employee": "Töötaja",
+    "leave": "Puhkus",
+    "leaveType": "Puhkuse tüüp",
+    "leaveRequest": "Puhkuse taotlus",
+    "holiday": "Püha",
+    "attendance": "Kohalolek",
+    "payroll": "Palgaleht",
+    "pageTitles": {
+      "department": "Osakond",
+      "designation": "Ametinimetus",
+      "shift": "Vahetus",
+      "employee": "Töötaja",
+      "leave": "Puhkus",
+      "leaveType": "Puhkuse tüüp",
+      "holiday": "Püha",
+      "attendance": "Kohalolek",
+      "payroll": "Palgaleht",
+      "leaveReports": "Puhkuse aruanded",
+      "payrollReports": "Palgalehe aruanded",
+      "attendanceReports": "Kohaloleku aruanded",
+      "addDepartment": "Lisa osakond",
+      "editDepartment": "Muuda osakonda",
+      "addDesignation": "Lisa ametinimetus",
+      "editDesignation": "Muuda ametinimetust",
+      "addShift": "Lisa vahetus",
+      "editShift": "Muuda vahetust",
+      "addEmployee": "Lisa töötaja",
+      "editEmployee": "Muuda töötajat",
+      "addLeave": "Lisa puhkus",
+      "editLeave": "Muuda puhkust",
+      "addLeaveType": "Lisa puhkuse tüüp",
+      "editLeaveType": "Muuda puhkuse tüüpi",
+      "addHoliday": "Lisa püha",
+      "editHoliday": "Muuda püha",
+      "addAttendance": "Lisa kohalolek",
+      "editAttendance": "Muuda kohalolekut",
+      "addPayroll": "Lisa palgaleht",
+      "editPayroll": "Muuda palgalehte"
+    },
+    "form": {
+      "labels": {
+        "department": "Osakond",
+        "designation": "Ametinimetus",
+        "shift": "Vahetus",
+        "employee": "Töötaja",
+        "leaveType": "Puhkuse tüüp",
+        "leaveDuration": "Puhkuse kestus",
+        "paymentYear": "Makseaasta",
+        "paymentType": "Makse tüüp",
+        "breakStatus": "Pausi olek",
+        "startTime": "Algusaeg",
+        "endTime": "Lõppaeg",
+        "startBreakTime": "Pausi algus",
+        "endBreakTime": "Pausi lõpp",
+        "breakTime": "Pausi aeg",
+        "breakDuration": "Pausi kestus",
+        "timeIn": "Sisse logimine",
+        "timeOut": "Välja logimine",
+        "duration": "Kestus",
+        "country": "Riik",
+        "salary": "Palk",
+        "gender": "Sugu",
+        "birthDate": "Sünnikuupäev",
+        "joinDate": "Liitumise kuupäev",
+        "holidayName": "Püha nimi",
+        "startDate": "Alguskuupäev",
+        "endDate": "Lõppkuupäev",
+        "month": "Kuu",
+        "year": "Aasta",
+        "status": "Olek",
+        "description": "Kirjeldus",
+        "amount": "Summa",
+        "payment": "Makse",
+        "departmentName": "Osakonna nimi",
+        "designationName": "Ametinimetus",
+        "image": "Pilt",
+        "name": "Nimi"
+      },
+      "hints": {
+        "selectEmployee": "Vali töötaja",
+        "selectDepartment": "Vali osakond",
+        "selectDesignation": "Vali ametinimetus",
+        "selectShift": "Vali vahetus",
+        "selectLeaveType": "Vali puhkuse tüüp",
+        "selectMonth": "Vali kuu",
+        "selectYear": "Vali aasta",
+        "selectDate": "Vali kuupäev",
+        "selectStartDate": "Vali alguskuupäev",
+        "selectEndDate": "Vali lõppkuupäev",
+        "selectTimeIn": "Vali sisse logimine",
+        "selectTimeOut": "Vali välja logimine",
+        "selectStartTime": "Vali algusaeg",
+        "selectEndTime": "Vali lõppaeg",
+        "selectStatus": "Vali olek",
+        "selectGender": "Vali sugu",
+        "selectPaymentType": "Vali makse tüüp",
+        "enterFullName": "Sisesta täisnimi",
+        "enterEmail": "Sisesta e-post",
+        "enterPhone": "Sisesta telefon",
+        "enterCountry": "Sisesta riik",
+        "enterSalary": "Nt: 500",
+        "enterHolidayName": "Sisesta püha nimi",
+        "enterDescription": "Sisesta kirjeldus...",
+        "autoCalculated": "Automaatselt arvutatud",
+        "selectDatesFirst": "Vali kuupäevad esimesena",
+        "allEmployee": "Kõik töötajad",
+        "selectEmployeeFirst": "Vali töötaja esimesena",
+        "enterDepartmentName": "Sisesta osakonna nimi",
+        "enterDesignationName": "Sisesta ametinimetus",
+        "ex": "{value}",
+        "selectBirthDate": "Vali sünnikuupäev",
+        "selectJoinDate": "Vali liitumise kuupäev",
+        "selectBreakStatus": "Vali pausi olek",
+        "enterLeaveTypeName": "Sisesta puhkuse tüübi nimi"
+      }
+    },
+    "emptyStates": {
+      "noLeaves": "Puhkuseid ei leitud",
+      "noPayrollRecords": "Palgalehti ei leitud",
+      "noAttendanceRecords": "Kohalolekuid ei leitud",
+      "noLeaveTypes": "Puhkuse tüüpe ei leitud",
+      "noEmployees": "Töötajaid ei leitud",
+      "noHolidays": "Pühi ei leitud",
+      "noShifts": "Vahetusi ei leitud",
+      "noDesignations": "Ametinimetusi ei leitud",
+      "noDepartments": "Osakondi ei leitud"
+    },
+    "confirmations": {
+      "deleteAttendance": "Kas olete kindel, et soovite selle kohaloleku kustutada?",
+      "deletePayroll": "Kas olete kindel, et soovite selle palgalehe kustutada?",
+      "deleteLeave": "Kas olete kindel, et soovite selle puhkuse kustutada?",
+      "deleteLeaveType": "Kas soovite selle puhkuse tüübi kustutada?",
+      "deleteEmployee": "Kas olete kindel, et soovite selle töötaja kustutada?",
+      "deleteHoliday": "Kas olete kindel, et soovite selle püha kustutada?",
+      "deleteShift": "Kas soovite selle vahetuse kustutada?",
+      "deleteDesignation": "Kas olete kindel, et soovite selle ametinimetuse kustutada?",
+      "deleteDepartment": "Kas olete kindel, et soovite selle osakonna kustutada?"
+    },
+    "validation": {
+      "selectEmployee": "Palun vali töötaja",
+      "selectMonth": "Palun vali kuu",
+      "selectEndDate": "Palun vali lõppkuupäev",
+      "endDateAfterStart": "Lõppkuupäev peab olema pärast alguskuupäeva",
+      "selectStatus": "Palun vali olek",
+      "selectLeaveType": "Palun vali puhkuse tüüp",
+      "selectStartDate": "Palun vali alguskuupäev",
+      "selectDate": "Palun vali kuupäev",
+      "selectTimeIn": "Palun vali sisenemise aeg",
+      "selectTimeOut": "Palun vali väljumise aeg",
+      "enterDepartmentName": "Palun sisesta osakonna nimi",
+      "enterDesignationName": "Palun sisesta ametinimetus",
+      "enterName": "Palun sisesta nimi",
+      "selectDesignation": "Palun vali ametinimetus",
+      "selectDepartment": "Palun vali osakond",
+      "enterEmail": "Palun sisesta e-post",
+      "enterValidEmail": "Palun sisesta kehtiv e-post",
+      "enterPhoneNumber": "Palun sisesta telefoninumber",
+      "enterCountry": "Palun sisesta riik",
+      "enterSalary": "Palun sisesta palk",
+      "selectGender": "Palun vali sugu",
+      "selectShift": "Palun vali vahetus",
+      "selectBirthDate": "Palun vali sünnikuupäev",
+      "selectJoinDate": "Palun vali liitumise kuupäev",
+      "enterHolidayName": "Palun sisesta püha nimi",
+      "selectBreakStatus": "Palun vali pausi olek",
+      "selectPaymentYear": "Palun vali makseaasta",
+      "selectPaymentType": "Palun vali maksetüüp",
+      "enterAmount": "Palun sisesta summa",
+      "selectStartBreakTime": "Palun vali pausi algusaeg",
+      "selectEndBreakTime": "Palun vali pausi lõpuaeg",
+      "enterLeaveTypeName": "Palun sisesta puhkuse tüübi nimi",
+      "selectStartTime": "Palun vali algusaeg",
+      "selectEndTime": "Palun vali lõpuaeg"
+    },
+    "dropdowns": {
+      "addNew": "+ Lisa uus",
+      "morning": "Hommik",
+      "day": "Päev",
+      "evening": "Õhtu",
+      "night": "Öö",
+      "yes": "Jah",
+      "no": "Ei",
+      "approved": "Kinnitatud",
+      "rejected": "Tagasi lükatud",
+      "terminated": "Lõpetatud",
+      "suspended": "Peatatud",
+      "male": "Mees",
+      "female": "Naine",
+      "pending": "Ootel",
+      "active": "Aktiivne",
+      "inactive": "Mitteaktiivne",
+      "paid": "Makstud",
+      "unpaid": "Maksmata"
+    },
+    "units": {
+      "days": "päeva"
+    },
+    "fallbacks": {
+      "noNoteAvailable": "Märkus puudub",
+      "noDescriptionAvailable": "Kirjeldus pole saadaval",
+      "selectEmployeeFirst": "Vali töötaja esimesena"
+    },
+    "success": {
+      "leaveDelete": "Puhkus edukalt kustutatud",
+      "attendanceDelete": "Kohalolek edukalt kustutatud",
+      "attendanceAdd": "Kohalolek edukalt lisatud",
+      "attendanceUpdate": "Kohalolek edukalt uuendatud",
+      "leaveAdd": "Puhkus edukalt lisatud",
+      "leaveUpdate": "Puhkus edukalt uuendatud",
+      "departmentDelete": "Osakond edukalt kustutatud",
+      "departmentAdd": "Osakond edukalt lisatud",
+      "departmentUpdate": "Osakond edukalt uuendatud",
+      "designationDelete": "Ametinimetus edukalt kustutatud",
+      "designationAdd": "Ametinimetus edukalt lisatud",
+      "designationUpdate": "Ametinimetus edukalt uuendatud",
+      "employeeDelete": "Töötaja edukalt kustutatud",
+      "employeeAdd": "Töötaja edukalt lisatud",
+      "employeeUpdate": "Töötaja edukalt uuendatud",
+      "holidayDelete": "Püha edukalt kustutatud",
+      "holidayAdd": "Püha edukalt lisatud",
+      "holidayUpdate": "Püha edukalt uuendatud",
+      "leaveTypeDelete": "Puhkuse tüüp edukalt kustutatud"
+    }
+  }
+}

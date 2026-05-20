@@ -1,0 +1,1561 @@
+{
+  "@@meta": {
+    "languageCode": "zh_ZH",
+    "languageName": "Chinese",
+    "version": "1.0.0"
+  },
+  "common": {
+    "signIn": "登录",
+    "signUp": "注册",
+    "verifyEmail": "验证邮箱",
+    "customizeProfile": "自定义个人资料",
+    "imageOrLogo": "徽标或图片",
+    "createNewPassword": "创建新密码",
+    "itemsList": "商品列表",
+    "searchItemsName": "搜索商品名称",
+    "categoryList": "分类列表",
+    "brandList": "品牌列表",
+    "unitList": "单位列表",
+    "itemDetails": "商品详情",
+    "addStock": "增加库存",
+    "profile": "个人资料",
+    "language": "语言",
+    "termsAndConditions": "条款与条件",
+    "aboutUs": "关于我们",
+    "logout": "登出",
+    "editProfile": "编辑个人资料",
+    "fullName": "全名",
+    "email": "邮箱",
+    "mobileNumber": "手机号码",
+    "address": "地址",
+    "password": "密码",
+    "forgotPassword": "忘记密码",
+    "edit": "编辑",
+    "delete": "删除",
+    "addItems": "添加商品",
+    "stock": "库存",
+    "currentStock": "当前库存",
+    "value": "价值",
+    "sales": "销售",
+    "purchase": "采购",
+    "price": "价格",
+    "image": "图片",
+    "upload": "上传",
+    "addNew": "添加新的",
+    "pricing": "定价",
+    "name": "名称",
+    "category(plural)": {
+      "one": "分类",
+      "other": "分类s"
+    },
+    "areas": "Areas",
+    "brand": "品牌",
+    "lowStock": "低库存",
+    "unit": "单位",
+    "vat": "增值税",
+    "taxType": "税类型",
+    "purchasePrice": "采购价格",
+    "sellingPrice": "销售价格",
+    "wholeSalePrice": "批发价",
+    "dealerPrice": "经销商价格",
+    "searchHere": "在此搜索",
+    "totalItems": "总商品数",
+    "stockValue": "库存价值",
+    "congratulation": "恭喜",
+    "salesList": "销售列表",
+    "searchInvoiceNumber": "搜索发票号",
+    "view": "查看",
+    "kFor": "为",
+    "total": "总计",
+    "subTotal": "小计",
+    "insufficientStockAvailableStock": "库存不足，可用库存",
+    "discount": "折扣",
+    "selectOne": "选择一个",
+    "allCategory": "所有分类",
+    "details": "详情",
+    "parcel": "包裹",
+    "kot": "厨房订单",
+    "table": "桌子",
+    "holdTable": "保留桌子",
+    "capacity": "容量",
+    "commonHint": "例如: 10",
+    "pleaseEnterQuantity": "请输入数量",
+    "quantityMustBeGreaterThanZero": "数量必须大于 0",
+    "mobile": "手机",
+    "orderNo": "订单号",
+    "dateAndTime": "日期 & 时间",
+    "items": "商品",
+    "totalAmount": "总金额",
+    "paidAmount": "已付金额",
+    "dueAmount": "应付金额",
+    "paymentType": "支付类型",
+    "thankYou": "谢谢您",
+    "developedBy": "由 ${domain: String} 开发",
+    "qty": "价格",
+    "amount": "金额",
+    "dashboard": "仪表盘",
+    "reports": "报告",
+    "home": "首页",
+    "parties": "往来单位",
+    "subscriptionPlan": "订阅计划",
+    "estimateList": "估算列表",
+    "purchaseList": "采购列表",
+    "dueList": "应付列表",
+    "lossOrProfit": "盈/亏",
+    "stocks": "库存",
+    "moneyInList": "收款列表",
+    "moneyOutList": "付款列表",
+    "transactionList": "交易列表",
+    "income": "收入",
+    "expense": "支出",
+    "quickView": "快速查看",
+    "to": "至",
+    "totalSales": "总销售额",
+    "totalPurchase": "总采购额",
+    "holdNumber": "保留订单",
+    "totalExpense": "总支出",
+    "loss": "亏损",
+    "profit": "利润",
+    "recentTransaction": "近期交易",
+    "invoice": "发票",
+    "moneyIn": "收款",
+    "moneyOut": "付款",
+    "paid": "已付",
+    "due": "应付",
+    "partial": "部分",
+    "print": "打印",
+    "addCategory": "添加分类",
+    "addExpense": "添加支出",
+    "search": "搜索...",
+    "viewDetails": "查看详情",
+    "title": "标题",
+    "date": "日期",
+    "note": "备注",
+    "phoneNumber": "电话号码",
+    "type": "类型",
+    "selectContactSType": "选择联系人类型",
+    "moreInfo": "更多信息",
+    "paymentReceived": "已收款",
+    "selectSupplier": "选择供应商",
+    "supplier": "供应商",
+    "received": "已收到",
+    "balanceDue": "应付余额",
+    "addPurchase": "添加采购",
+    "selectedItemWillBeCleared": "所选商品将被清除。",
+    "searchItemName": "搜索商品名称",
+    "billItems": "账单商品",
+    "addMoreItems": "添加更多商品",
+    "payAmount": "支付金额",
+    "salesReport": "销售报告",
+    "purchaseReport": "采购报告",
+    "stockReport": "库存报告",
+    "dueReport": "应付报告",
+    "dueCollectionReport": "应收款报告",
+    "transactionReport": "交易报告",
+    "incomeReport": "收入报告",
+    "dueCollectionList": "应收款列表",
+    "expenseReport": "支出报告",
+    "dueCollection": "应收款",
+    "myProfile": "我的个人资料",
+    "printingOption": "打印选项",
+    "currency": "货币",
+    "paymentMethod": "支付方式",
+    "rateUs": "给我们评分",
+    "termAndCondition": "条款与条件",
+    "tableList": "桌子列表",
+    "addTable": "添加桌子",
+    "vatRate": "增值税率 %",
+    "action": "操作",
+    "status": "状态",
+    "active": "激活",
+    "inActive": "未激活",
+    "subVats": "子增值税",
+    "add": "添加",
+    "taxRate": "税率 %",
+    "subTaxes": "子税",
+    "group": "组",
+    "VAT": "增值税",
+    "subTaxList": "子税列表",
+    "vatPercent": "增值税百分比",
+    "statusIsCannotInActive": "如果销售中存在增值税，则状态不能为未激活。",
+    "vatOnSales": "销售额中的增值税",
+    "transaction": "交易",
+    "version": "版本 ${version: String}",
+    "hold": "保留",
+    "empty": "空",
+    "appName": "Restaurant App",
+    "duePayment": "应付账款",
+    "orders": "订单",
+    "all": "全部",
+    "ingredient": "食材",
+    "menus": "菜单",
+    "modifierGroups": "修饰符组",
+    "itemModifiers": "商品修饰符",
+    "staff": "员工",
+    "coupon": "优惠券",
+    "pay": "支付",
+    "pendingOrders": "待处理订单",
+    "order": "订单",
+    "payNow": "立即支付",
+    "addStaff": "添加员工",
+    "designation": "职位",
+    "itemAdded": "商品已添加",
+    "noItemAdded": "未添加商品",
+    "saveNPrint": "保存并打印",
+    "allowMultiSelection": "允许多选",
+    "required": "必填",
+    "optional": "可选",
+    "allowMultiSelectionForSale": "销售允许多选",
+    "isRequired": "是否必填",
+    "modifier": "修饰符",
+    "fullPayment": "全额支付",
+    "payment": "支付",
+    "addTip": "添加小费",
+    "netPayable": "应付净额",
+    "receiveAmount": "实收金额",
+    "changeAmount": "找零金额",
+    "quotationList": "报价单列表",
+    "addQuotation": "添加报价单",
+    "convert": "转换",
+    "variations": "变体",
+    "instructions": "说明",
+    "unavailable": "不可用",
+    "tip": "提示",
+    "salesQuotationReport": "销售报价报告",
+    "orderType": "订单类型",
+    "deliveryCharge": "配送费",
+    "receiptNo": "收据编号",
+    "paidBy": "支付方",
+    "receivedBy": "接收方",
+    "paymentAmount": "付款金额",
+    "remainingDue": "剩余应付",
+    "roleNPermission": "角色与权限",
+    "sl": "序号",
+    "features": "功能",
+    "create": "创建",
+    "update": "更新",
+    "quotations": "报价",
+    "restaurant": "餐厅",
+    "printerProfile": "打印机配置文件",
+    "kitchenOrders": "厨房订单",
+    "kitchen(plural)": {
+      "one": "厨房",
+      "other": "厨房"
+    },
+    "allKOT": "所有 KOT",
+    "cancelKOT": "取消 KOT",
+    "selectCancelReason": "选择取消原因",
+    "additionalComment": "附加评论",
+    "enterComment": "输入评论",
+    "orderStatus": "订单状态",
+    "selectOrderStatus": "选择订单状态",
+    "kotReport": "KOT 报告",
+    "itemFoodType": "食物类型",
+    "selectItemFoodType": "选择 @:common.itemFoodType",
+    "markAllAsRead": "全部标记为已读",
+    "online": "Online",
+    "cancelledReason": "Cancelled Reason",
+    "hrm": "HRM",
+    "notAvailable": "N/A"
+  },
+  "exceptions": {
+    "somethingWentWrong": "发生了一些错误，请重试",
+    "noCategoryFound": "未找到分类！\n 请尝试添加一个分类。",
+    "doYouWantToDeleteThisCategory": "您确定要删除此分类吗？",
+    "noBrandFound": "未找到品牌！\n 请尝试添加一个品牌。",
+    "doYouWantToDeleteThisBrand": "您确定要删除此品牌吗？",
+    "noItemStockFound": "未找到商品库存！\n 请尝试添加一个商品。",
+    "noUnitFound": "未找到单位！\n 请尝试添加一个单位。",
+    "doYouDeleteThisUnit": "您确定要删除此单位吗？",
+    "noSaleFoundPleaseSAddProduct": "未找到销售记录！\n 请尝试添加一个销售记录。",
+    "doYouWantToDeleteThisSale": "您确定要删除此销售记录吗？",
+    "pleaseAddItemToTheCartFirst": "请先将商品添加到购物车",
+    "noItemAdded": "未添加任何商品",
+    "cannotEditOthersTable": "无法编辑其他桌子。",
+    "tableIsAlreadyBlocked": "桌子已被预订。",
+    "failedToGetCustomerDetails": "获取客户详细信息失败。",
+    "noTableFoundPleaseTryAgain": "未找到桌子！\n 请尝试添加一个桌子。",
+    "noDueCollectionFound": "未找到应收账款！\n 您可以在有应收账款时查看。",
+    "noExpenseFoundPleaseTryAddingExpense": "未找到支出记录！\n 请尝试添加一个支出记录。",
+    "doYouWantToDeleteThisExpense": "您确定要删除此支出记录吗？",
+    "noExpenseCategoryFound": "未找到支出类别！\n 请尝试添加一个支出类别。",
+    "noTransactionFound": "未找到任何交易记录，请稍后再试！",
+    "pleaseSelectACategory": "请选择一个分类",
+    "noIncomeFound": "未找到收入记录！\n 请尝试添加一个收入记录",
+    "doYouWantToDeleteThisIncome": "您确定要删除此收入记录吗？",
+    "noIncomeCategoryFoundAddingAIncome": "未找到收入类别！\n 请尝试添加一个收入类别。",
+    "noItemFoundPleaseTryAddingItem": "未找到商品！\n 请尝试添加一个商品。",
+    "noPartiesFound": "未找到往来单位",
+    "doYouWantToDeleteThisParty": "您确定要删除此往来单位吗？",
+    "noLedgerFound": "未找到账簿！\n 请尝试添加一个 ${transactionType: String}",
+    "areYouSureYouSureWantToDeleteThisTaxType": "您确定要删除此 ${taxType: String} 吗？",
+    "noItemFoundPleaseSTryAddingAnPurchase": "未找到商品！\n 请尝试添加一个采购记录。",
+    "doYouWantToDeleteThisPurchase": "您确定要删除此采购记录吗？",
+    "noTransactionFoundYouSeeTransactionHereWhenAvailable": "未找到任何交易记录！\n 您可以在有交易记录时在此查看。",
+    "noSaleFoundPleaseTryAddingSale": "未找到销售记录！\n 请尝试添加一个销售记录。",
+    "noPurchaseFoundPleaseTryAddingPurchase": "未找到采购记录！\n 请尝试添加一个采购记录。",
+    "noItemIncomeFound": "未找到商品收入记录！\n 您可以在有收入数据时查看。",
+    "noItemExpenseFound": "未找到商品支出记录！\n 您可以在有支出数据时查看。",
+    "noItemDueInvoiceFound": "未找到商品应付发票！\n 您可以在有应付发票时查看。",
+    "noItemDueCollectionInvoiceFound": "'未找到商品应收账款发票！\n 您可以在有应收账款发票时查看。",
+    "doYouWantToDeleteThisTable": "您确定要删除此桌子吗？'",
+    "thisVatIsBeingUsedOnSales": "此增值税正用于销售！",
+    "noPaymentMethodFoundPleaseTryAddingAPaymentMethod": "未找到支付方式！\n 请尝试添加一个支付方式。",
+    "pleaseSelectACustomerFirst": "请先选择客户。",
+    "pleaseSelectATableToCreateAKot": "请选择桌子以创建厨房订单。",
+    "noStaffFound": "未找到员工！\\n 请尝试添加员工。",
+    "noIngredientFound": "未找到食材！\\n 请尝试添加食材。",
+    "exceedsPaymentAmount": "实收金额不能大于应付金额",
+    "noItemModifierFound": "未找到商品修饰符！\\n 请尝试添加商品修饰符。",
+    "noModifierGroupFound": "未找到修饰符组！\\n 请尝试添加修饰符组。",
+    "noOptionsFound": "未找到选项！",
+    "maxImageCountLimit": "您最多只能选择5张图片。",
+    "noQuotationFound": "未找到报价单！\\n 请尝试添加报价单。",
+    "noPermittedUserFound": "未找到许可用户！\\n 请尝试添加用户。"
+  },
+  "prompt": {
+    "logout": {
+      "title": "@:common.logout",
+      "message": "您确定要登出吗？"
+    },
+    "unsavedWarning": {
+      "title": "您想返回吗？",
+      "message": "更改的字段可能不会被保存！"
+    },
+    "verify": {
+      "title": "验证您的电子邮件",
+      "description(rich)": "我们已发送一封验证码电子邮件${emailSpan}\n\n邮件可能已进入您的垃圾邮件文件夹。"
+    },
+    "subscriptionExpired": {
+      "title": "订阅已过期！",
+      "message": "请订阅以继续。",
+      "action": "订阅"
+    },
+    "items": {
+      "delete": {
+        "title": "您确定要删除此商品吗？"
+      },
+      "filter": {
+        "title": "筛选方式",
+        "extra": {
+          "lowToHigh": "价格从低到高",
+          "highToLow": "价格从高到低"
+        }
+      }
+    },
+    "checkInternet": {
+      "title": "无网络连接",
+      "message": "请检查您的 Wi-Fi 或移动网络连接，然后重试"
+    },
+    "back": {
+      "title": "再次按下返回键退出。"
+    },
+    "stockModelSheet": {
+      "title": "添加新库存"
+    },
+    "paymentMethod": {
+      "title": "您确定要删除此支付方式吗？"
+    },
+    "extMsg": {
+      "kotSavedSuccessfully": "厨房订单保存成功"
+    },
+    "deleteStaff": "您要删除此员工吗？",
+    "deleteIngredient": "您要删除此食材吗？",
+    "deleteItemModifier": "您要删除此商品修饰符吗？",
+    "deleteModifierGroup": "您要删除此修饰符组吗？",
+    "deleteQuotation": "您确定要删除此报价单吗？"
+  },
+  "form": {
+    "fullName": {
+      "label": "@:common.fullName",
+      "hint": "输入@:common.fullName",
+      "errors": {
+        "required": "请输入您的@:common.fullName"
+      }
+    },
+    "email": {
+      "label": "@:common.email",
+      "hint": "输入您的@:common.email",
+      "errors": {
+        "required": "请输入您的@:common.email地址",
+        "invalid": "⦸ 邮箱无效，请重试"
+      }
+    },
+    "password": {
+      "label": "@:common.password",
+      "hint": "* * * * * * * *",
+      "errors": {
+        "required": "请输入您的@:common.password",
+        "minLength": "密码长度至少为${count}个字符！"
+      }
+    },
+    "confirmPassword": {
+      "label": "确认密码",
+      "hint": "* * * * * * * *",
+      "errors": {
+        "required": "请输入您的@:common.password",
+        "invalid": "确认密码不匹配！"
+      }
+    },
+    "otp": {
+      "errors": {
+        "required": "请输入验证码",
+        "invalid": "请输入当前验证码"
+      }
+    },
+    "profile": {
+      "businessCategory": {
+        "label": "业务类别",
+        "hint": "选择业务类别",
+        "errors": {
+          "required": "请选择业务类别"
+        }
+      },
+      "shopOrStore": {
+        "label": "店铺/商店名称*",
+        "hint": "输入店铺或商店名称",
+        "errors": {
+          "required": "请输入您的店铺或商店名称"
+        }
+      },
+      "openingBalance": {
+        "label": "初始余额",
+        "hint": "输入初始余额"
+      },
+      "vatGstTitle": {
+        "label": "增值税/消费税标题",
+        "hint": "输入增值税/消费税"
+      },
+      "vatGstNumber": {
+        "label": "增值税/消费税编号",
+        "hint": "输入增值税/消费税编号"
+      }
+    },
+    "vat": {
+      "name": {
+        "label": "名称",
+        "hint": "输入增值税名称",
+        "error": {
+          "required": "请输入增值税名称"
+        }
+      },
+      "subVat": {
+        "label": "子增值税",
+        "hint": "选择子增值税",
+        "errors": {
+          "required": "请选择子增值税"
+        }
+      },
+      "rate": {
+        "label": "增值税率 %",
+        "hint": "输入增值税率",
+        "errors": {
+          "required": "请输入增值税率。"
+        }
+      }
+    },
+    "category": {
+      "label": "@:common.category",
+      "hint": "选择商品类别",
+      "error": {
+        "required": "请输入类别名称"
+      }
+    },
+    "items": {
+      "barcode": {
+        "label": "条形码",
+        "hint": "@:common.selectOne"
+      },
+      "itemName": {
+        "label": "商品名称",
+        "hint": "输入商品名称",
+        "extra": {
+          "required": "请输入商品名称"
+        }
+      },
+      "itemCategory": {
+        "label": "商品类别",
+        "hint": "商品类别",
+        "extra": {
+          "label": "选择类别",
+          "required": "请选择一个类别"
+        }
+      },
+      "brand": {
+        "label": "@:common.brand",
+        "hint": "@:common.selectOne",
+        "extra": {
+          "hint": "输入品牌名称",
+          "required": "请输入品牌名称"
+        }
+      },
+      "unit": {
+        "label": "@:common.unit",
+        "hint": "@:common.selectOne",
+        "error": {
+          "required": "请输入单位名称"
+        }
+      },
+      "stock": {
+        "label": "初始库存",
+        "hint": "@:common.commonHint",
+        "extra": {
+          "required": "请输入商品数量"
+        }
+      },
+      "lowStock": {
+        "label": "@:common.lowStock",
+        "hint": "例如：5"
+      },
+      "purchasePrice": {
+        "label": "@:common.purchasePrice",
+        "hint": "例如：\\$40",
+        "error": {
+          "required": "请输入采购价格"
+        }
+      },
+      "salePrice": {
+        "label": "销售价格",
+        "hint": "例如：\\$60",
+        "error": {
+          "required": "请输入销售价格"
+        }
+      },
+      "totalSalePrice": {
+        "label": "总销售价格",
+        "hint": "例如：\\$100"
+      },
+      "wholeSalePrice": {
+        "label": "@:common.wholeSalePrice",
+        "hint": "输入批发价格"
+      },
+      "dealerPrice": {
+        "label": "@:common.dealerPrice",
+        "hint": "输入经销商价格"
+      },
+      "discount": {
+        "label": "折扣(%)",
+        "hint": "@:common.commonHint"
+      },
+      "applicableTax": {
+        "label": "适用税率",
+        "hint": "@:common.selectOne"
+      },
+      "vatType": {
+        "label": "@:common.taxType",
+        "errorText": {
+          "required": "请选择增值税类型"
+        }
+      },
+      "menu": {
+        "label": "选择菜单",
+        "errors": {
+          "required": "请选择菜单。"
+        },
+        "hint": "选择一个菜单",
+        "extra": {
+          "selectNavLabel": "选择商品菜单"
+        }
+      },
+      "modifierItems": {
+        "label": "修饰符商品",
+        "hint": "选择修饰符商品"
+      },
+      "preparationTime": {
+        "label(rich)": "准备时间 ${minutes(分钟)}",
+        "hint": "例如：30"
+      },
+      "variation": {
+        "name": {
+          "label": "名称",
+          "hint": "输入变体",
+          "errors": {
+            "required": "请输入变体名称。"
+          }
+        },
+        "price": {
+          "errors": {
+            "required": "请输入价格。"
+          },
+          "label": "价格",
+          "hint": "例如：¥30"
+        }
+      }
+    },
+    "itemCart": {
+      "hint": "@:common.commonHint",
+      "error": {
+        "required": "@:common.pleaseEnterQuantity",
+        "noZero": "@:common.quantityMustBeGreaterThanZero"
+      }
+    },
+    "sales": {
+      "autoGenerateInvoice": {
+        "label": "账单编号",
+        "hint": "P-00001"
+      },
+      "date": {
+        "label": "日期"
+      },
+      "customer": {
+        "label": "客户",
+        "hint": "选择客户"
+      },
+      "phone": {
+        "label": "电话号码",
+        "hint": "输入电话号码"
+      },
+      "address": {
+        "label": "地址",
+        "hint": "输入地址"
+      },
+      "deliveryCharge": {
+        "label": "@:common.deliveryCharge",
+        "hint": "例如：\\$20",
+        "hint2": "费用 例如：¥10"
+      },
+      "table": {
+        "hint": "选择桌子"
+      },
+      "waiter": {
+        "hint": "选择服务员"
+      }
+    },
+    "bill": {
+      "label": "账单编号",
+      "hint": "P-00001"
+    },
+    "supplier": {
+      "label": "供应商",
+      "hint": "选择供应商",
+      "extra": {
+        "required": "请选择一个供应商"
+      }
+    },
+    "phone": {
+      "label": "电话号码",
+      "hint": "输入电话号码",
+      "errors": {
+        "required": "请输入电话号码"
+      }
+    },
+    "address": {
+      "label": "公司地址",
+      "hint": "输入公司地址"
+    },
+    "payment": {
+      "label": "名称",
+      "hint": "输入付款方式名称",
+      "error": {
+        "required": "请输入付款方式名称"
+      }
+    },
+    "expense": {
+      "label": "支出类别",
+      "hint": "选择支出类别",
+      "error": {
+        "required": "请输入支出类别"
+      }
+    },
+    "income": {
+      "label": "收入类别",
+      "hint": "输入类别名称",
+      "error": {
+        "required": "请输入类别名称"
+      },
+      "incomeTitle": {
+        "label": "收入标题",
+        "hint": "输入收入"
+      },
+      "incomeCategory": {
+        "label": "收入类别",
+        "hint": "选择类别"
+      },
+      "payment": {
+        "label": "付款",
+        "hint": "例如：\\$10"
+      }
+    },
+    "note": {
+      "label": "备注(可选)",
+      "hint": "输入文本"
+    },
+    "parties": {
+      "partyName": {
+        "label": "参与方名称",
+        "hint": "输入参与方名称",
+        "error": {
+          "required": "请输入参与方名称"
+        }
+      },
+      "partyPhone": {
+        "label": "电话号码",
+        "hint": "输入电话号码",
+        "error": {
+          "required": "请输入电话号码"
+        }
+      }
+    },
+    "table": {
+      "name": {
+        "label": "桌号",
+        "hint": "输入桌号",
+        "error": {
+          "required": "请输入桌号"
+        }
+      },
+      "capacity": {
+        "label": "容量",
+        "hint": "输入容量",
+        "error": {
+          "required": "请输入容量"
+        }
+      }
+    },
+    "designation": {
+      "label": "@:common.designation",
+      "hint": "选择一个职位",
+      "errors": {
+        "required": "请选择一个职位。"
+      }
+    },
+    "ingredientName": {
+      "label": "食材名称",
+      "hint": "输入食材名称",
+      "errors": {
+        "required": "请输入食材名称"
+      }
+    },
+    "item": {
+      "label": "商品",
+      "hint": "选择商品",
+      "errors": {
+        "required": "请选择一个商品。"
+      }
+    },
+    "modifierGroup": {
+      "label": "修饰符组",
+      "hint": "选择修饰符组",
+      "errors": {
+        "required": "请选择一个修饰符组。"
+      }
+    },
+    "description": {
+      "label": "描述",
+      "hint": "输入描述"
+    },
+    "staff": {
+      "label": "@:common.staff",
+      "hint": "选择员工",
+      "errors": {
+        "required": "请选择员工"
+      }
+    },
+    "loginUserName": {
+      "label": "登录用户名",
+      "hint": "输入用户名或邮箱地址",
+      "errors": {
+        "required": "请输入用户名或邮箱地址"
+      }
+    }
+  },
+  "action": {
+    "next": "下一步",
+    "getStarted": "开始使用",
+    "skip": "跳过",
+    "select": "选择",
+    "save": "保存",
+    "verify": "验证",
+    "signIn": "@:common.signIn",
+    "signUp": "@:common.signUp",
+    "continue": "继续",
+    "no": "否",
+    "yes": "是",
+    "okay": "好的",
+    "cancel": "取消",
+    "confirm": "确认",
+    "tryAgain": "重试",
+    "reset": "重置",
+    "apply": "应用",
+    "stockAdjust": "调整库存",
+    "addMoreItems": "添加更多商品",
+    "hold": "暂存",
+    "parcel": "@:common.parcel",
+    "buyNow": "立即购买",
+    "viewAll": "查看全部",
+    "viewLedger": "查看分类账",
+    "submit": "提交",
+    "selected": "已选择",
+    "addToCart": "添加到购物车",
+    "selectAll": "全选",
+    "update": "@:common.update",
+    "addRole": "添加角色"
+  },
+  "pages": {
+    "language": {
+      "appbarTitle": "@:action.select @:common.language"
+    },
+    "onboard": {
+      "onboardData": {
+        "data1": {
+          "title": "易于使用 @:common.appName",
+          "description": "无缝点餐，轻松预订\\n 助您的餐厅轻松运营！"
+        },
+        "data2": {
+          "title": "轻松管理订单",
+          "description": "通过我们直观的POS系统简化餐厅的点餐流程"
+        },
+        "data3": {
+          "title": "出色的分析与报告",
+          "description": "我们的分析仪表板提供实时销售和采购报告"
+        }
+      }
+    },
+    "signIn": {
+      "title": "欢迎回来",
+      "subtitle": "请输入您的详细信息",
+      "extra": {
+        "rememberMe": "记住我",
+        "signUpNavigator(rich)": "没有账号？${getStarted(@:action.getStarted)}",
+        "forgotPassword": "@:common.forgotPassword?"
+      }
+    },
+    "signUp": {
+      "title": "创建账户",
+      "subtitle": "请输入您的详细信息",
+      "extra": {
+        "signInNavigator(rich)": "已有账号？${signIn(@:action.signIn)}"
+      }
+    },
+    "forgotPassword": {
+      "title": "@:common.forgotPassword",
+      "subtitle": "输入您的邮箱地址以重置密码"
+    },
+    "otpVerification": {
+      "title": "验证",
+      "subtitle": "6位验证码已发送至您的邮箱",
+      "extra": {
+        "codeResend": {
+          "codeSendIn": "验证码已发送",
+          "resendCode": "重新发送验证码"
+        }
+      }
+    },
+    "resetPassword": {
+      "title": "重置密码",
+      "subtitle": "重置密码以恢复并登录您的账户",
+      "extra": {
+        "dialog": {
+          "title": "修改成功！",
+          "subtitle": "请使用新密码登录\n正在跳转到登录页面..."
+        }
+      }
+    },
+    "items": {
+      "itemList": {
+        "extra": {
+          "emptyItem": "未找到商品！\n请尝试添加商品"
+        }
+      },
+      "manageItems": {
+        "title": "添加新商品",
+        "title2": "编辑商品",
+        "extra": {
+          "maximum": "最多5个",
+          "wholeSaleAndDealerPrice": "批发与经销商价格",
+          "addDiscount": "添加折扣",
+          "addVat": "添加增值税"
+        }
+      },
+      "itemDetails": {
+        "title": "商品详情",
+        "extra": {
+          "noImageAvailable": "无可用图片！",
+          "preparationTime(rich)": "准备时间：${min: String} ${mins(mins)}",
+          "pleaseSelectVariation": "请选择一个变体",
+          "pleaseSelectOption": "请选择一个选项。",
+          "enterYourInstruction": "输入您的说明"
+        }
+      }
+    },
+    "category": {
+      "addNewCategory": "添加新类别",
+      "editCategory": "编辑类别"
+    },
+    "brand": {
+      "addNewBrand": "添加新品牌",
+      "editBrand": "编辑品牌"
+    },
+    "unit": {
+      "addNewUnit": "添加新单位",
+      "editUnit": "编辑单位"
+    },
+    "stock": {
+      "stockList": "库存列表"
+    },
+    "aboutUs": {
+      "title": "关于我们"
+    },
+    "privacyPolicy": {
+      "title": "隐私政策"
+    },
+    "termAndCondition": {
+      "title": "@:common.termAndCondition"
+    },
+    "orders": {
+      "manageOrders": {
+        "extra": {
+          "billItems": "账单项目",
+          "manageQuantity": "管理数量"
+        },
+        "title": {
+          "editOrder": "编辑订单",
+          "editKOT": "KOT 编辑"
+        }
+      }
+    },
+    "onlinePayment": {
+      "title": "在线支付"
+    },
+    "paymentStatus": {
+      "success": {
+        "title": "感谢！",
+        "message": "我们将在24小时内审核并批准付款",
+        "actionButtonText": "查看发票"
+      },
+      "fail": {
+        "title": "支付失败",
+        "message": "由于技术错误，您的交易失败",
+        "actionButtonText": "重试"
+      }
+    },
+    "confirmationDialog": {
+      "title": "退出登录",
+      "message": "确定要退出登录吗？",
+      "acceptationText": "取消",
+      "rejectionText": "退出"
+    },
+    "payment": {
+      "title": "@:common.paymentMethod",
+      "addPaymentMethod": "添加新支付方式",
+      "editPaymentMethod": "编辑支付方式",
+      "choseOnlinePayment": "选择在线支付",
+      "selectPaymentMethod": "选择支付方式",
+      "pleaseSelectAPaymentMethod": "请选择支付方式",
+      "methodStatus": {
+        "title": "状态",
+        "message": "如果启用了快速查看，状态不能为未激活！"
+      }
+    },
+    "subscriptionPlan": {
+      "title": "购买高级计划",
+      "extra": {
+        "actionButtonText": "返回",
+        "message": "订阅支付成功\n\n您现在可以访问订阅功能",
+        "mostPopular": "最受欢迎"
+      }
+    },
+    "invoicePreview": {
+      "title": "发票预览",
+      "message": "PDF预览即将推出"
+    },
+    "currency": {
+      "title": "@:common.currency"
+    },
+    "dashboard": {
+      "overview": "概览",
+      "dashboardPrivacy": "仪表板隐私",
+      "moneyInAndMoneyOut": "收入与支出",
+      "lossAndProfitOverView": "盈亏概览"
+    },
+    "due": {
+      "title": "@:common.dueList",
+      "collectionList": "收款列表",
+      "dueCollection": "应收款"
+    },
+    "expense": {
+      "title": "@:common.expense",
+      "editExpense": "编辑费用",
+      "addNewExpense": "添加新费用",
+      "editExpenseCategory": "编辑费用类别",
+      "addNewExpenseCategory": "添加新费用类别",
+      "payment": "支付",
+      "expenseCategory": "费用类别",
+      "selectCategory": "选择类别",
+      "allExpense": "所有费用",
+      "pleaseSelectACategory": "请选择一个类别",
+      "expenseTitle": {
+        "label": "费用标题",
+        "hint": "输入费用"
+      }
+    },
+    "lossProfit": {
+      "title": "损益表",
+      "noLossProfitFound": "未找到损益！\n请尝试创建销售记录。"
+    },
+    "income": {
+      "editIncomeCategory": "编辑收入类别",
+      "addNewIncomeCategory": "添加新收入类别",
+      "incomeCategory": "收入类别",
+      "allIncome": "所有收入",
+      "editIncome": "编辑收入",
+      "addNewIncome": "编辑收入",
+      "addIncome": "添加收入"
+    },
+    "moneyIn": {
+      "title": "收入列表",
+      "totalPaymentIn": "总收入"
+    },
+    "moneyOut": {
+      "title": "支出列表",
+      "totalMoneyOut": "总支出"
+    },
+    "profile": {
+      "title": "我的资料",
+      "editProfile": "编辑资料",
+      "businessInformation": "企业信息",
+      "profileInformation": "个人信息"
+    },
+    "parties": {
+      "title": "参与方列表",
+      "allParties": "所有参与方",
+      "customer": "客户",
+      "supplier": "供应商",
+      "addParties": "添加参与方",
+      "editParties": "编辑参与方",
+      "partiesDetails": "参与方详情",
+      "personalInfo": "个人信息"
+    },
+    "ledger": {
+      "subTitle": "分类账"
+    },
+    "purchase": {
+      "title": "添加新采购",
+      "editPurchase": "编辑采购"
+    },
+    "reports": {
+      "title": "报告"
+    },
+    "table": {
+      "title": "添加新桌位",
+      "editTable": "编辑桌位"
+    },
+    "tax": {
+      "title": "增值税率",
+      "buildHeaderTitle": "增值税率 - 管理您的增值税率",
+      "vatGroup": {
+        "title": "增值税组",
+        "subTitle": "增值税组 - 管理您的增值税组"
+      }
+    },
+    "vat": {
+      "addNewVat": "添加新增值税",
+      "editVat": "编辑增值税",
+      "addNewVatGroup": "添加新增值税组",
+      "editVatGroup": "编辑增值税组"
+    },
+    "orderList": {
+      "title": "订单列表",
+      "filters": {
+        "orderType": {
+          "label": "@:common.orderType",
+          "hint": "选择订单类型"
+        },
+        "paymentStatus": {
+          "hint": "选择支付状态",
+          "label": "支付状态"
+        }
+      }
+    },
+    "staffs": {
+      "staffList": {
+        "filters": {
+          "designation": {
+            "label": "职位",
+            "hint": "选择职位"
+          }
+        },
+        "title": "所有员工"
+      },
+      "manageStaff": {
+        "title1": "添加新员工",
+        "title2": "更新员工"
+      }
+    },
+    "ingredient": {
+      "ingredientList": {
+        "title1": "食材列表",
+        "title2": "选择食材"
+      },
+      "manageIngredient": {
+        "title1": "添加新食材",
+        "title2": "编辑食材"
+      }
+    },
+    "itemModifier": {
+      "itemModifierList": {
+        "title": "@:common.itemModifiers"
+      },
+      "manageItemModifier": {
+        "title1": "添加商品修饰符",
+        "title2": "编辑商品修饰符"
+      }
+    },
+    "quotation": {
+      "manageQuotation": {
+        "title": {
+          "add": "添加新报价单",
+          "edit": "编辑报价单",
+          "convert": "转换为销售"
+        }
+      }
+    },
+    "rolePermission": {
+      "rolePermissionList": {
+        "title": "角色与权限列表"
+      },
+      "manageRolePermission": {
+        "title1": "新增角色",
+        "title2": "编辑角色"
+      }
+    },
+    "printingOption": {
+      "title": "打印选项",
+      "form": {
+        "companyAddress": {
+          "label": "公司地址",
+          "hint": "输入公司地址"
+        },
+        "noteLabel": {
+          "label": "备注标签",
+          "hint": "输入备注标签。"
+        },
+        "note": {
+          "label": "备注",
+          "hint": "输入备注。"
+        },
+        "postSaleMessage": {
+          "label": "售后消息",
+          "hint": "输入售后消息"
+        },
+        "printingMethod": {
+          "label": "打印方法",
+          "hint": "选择打印方法"
+        },
+        "printerProfile": {
+          "label": "打印机配置文件",
+          "hint": "选择打印机配置文件"
+        },
+        "paperSize": {
+          "label": "热敏打印机纸张尺寸",
+          "hint": "选择打印机纸张尺寸"
+        },
+        "printerDpi": {
+          "label": "打印机 DPI",
+          "hint": "例: 203"
+        },
+        "printingMargin": {
+          "label": "打印边距",
+          "hint": "例: 2"
+        }
+      },
+      "tooltip": {
+        "printingMethod": {
+          "title": "带有选项的下拉菜单:",
+          "default": "• 默认（打印欧盟标准字符的原生方法）",
+          "image": "• 图像（推荐用于 Unicode 字符打印）"
+        }
+      },
+      "action": {
+        "save": "保存"
+      }
+    },
+    "kitchen": {
+      "list": {
+        "noKitchensFound": "未找到厨房。\n 请尝试添加一个。"
+      },
+      "manage": {
+        "addKitchen": "添加厨房",
+        "editKitchen": "编辑厨房",
+        "kitchenName": {
+          "label": "厨房名称",
+          "hint": "输入厨房名称",
+          "error": "请输入厨房名称。"
+        },
+        "description": {
+          "label": "描述",
+          "hint": "输入描述"
+        }
+      },
+      "manageItems": {
+        "title": "管理项目",
+        "addedItems": "已添加项目",
+        "selectItemsError": "请选择项目。",
+        "noItemsAdded": "尚未添加项目！\n请尝试添加项目。"
+      },
+      "card": {
+        "itemName": "项目名称",
+        "manageItems": "+ 管理项目",
+        "deleteItemConfirm": "您要删除此项目吗？",
+        "deleteKitchenConfirm": "您要删除此厨房吗？"
+      }
+    }
+  },
+  "enums": {
+    "dropdownDateFilter": {
+      "daily": "每日",
+      "weekly": "每周",
+      "monthly": "每月",
+      "yearly": "每年",
+      "custom": "自定义"
+    },
+    "orderTypes": {
+      "dineIn": "堂食",
+      "pickUp": "自取",
+      "delivery": "配送",
+      "reservation": "预订",
+      "quotation": "报价"
+    },
+    "paymentStatus": {
+      "paid": "已支付",
+      "unpaid": "未支付"
+    },
+    "staffTypes": {
+      "manager": "经理",
+      "waiter": "服务员",
+      "chef": "厨师",
+      "cleaner": "清洁工",
+      "driver": "司机",
+      "deliveryBoy": "配送员"
+    },
+    "itemFoodTypes": {
+      "veg": "素食",
+      "nonVeg": "非素食",
+      "egg": "蛋类",
+      "drink": "饮品",
+      "others": "其他"
+    },
+    "itemTypes": {
+      "single": "单一",
+      "variation": "变体"
+    },
+    "quotationStatus": {
+      "open": "开放",
+      "closed": "已关闭"
+    },
+    "tableStatus": {
+      "running": "使用中",
+      "available": "空闲"
+    },
+    "thermalPrinterPrintingMethod": {
+      "image": "图像",
+      "default": "默认"
+    },
+    "kotOrderStatus": {
+      "label": {
+        "pending": "待处理",
+        "preparing": "制作中",
+        "ready": "已出餐",
+        "served": "已上菜",
+        "cancelled": "已取消"
+      },
+      "pending": "待处理",
+      "preparing": "制作中",
+      "ready": "已出餐",
+      "served": "已上菜",
+      "cancelled": "已取消"
+    },
+    "kotItemStatus": {
+      "pending": "开始制作",
+      "start": "设为完成",
+      "ready": "完成"
+    }
+  },
+  "thermalPrint": {
+    "invoice": {
+      "purchaseInvoiceLabel": "采购发票: ${invoiceNumber: String}",
+      "saleInvoiceLabel": "订单号: ${invoiceNumber: String}",
+      "receiptNoLabel": "收据号: ${invoiceNumber: String}",
+      "orderNoKotLabel": "订单号: ${invoiceNumber: String}",
+      "nameLabel": "姓名: ${name: String}",
+      "mobileLabel": "手机: ${phone: String}",
+      "purchasedByLabel": "购买者: ${role: String}",
+      "salesByLabel": "销售员: ${role: String}",
+      "paidByLabel": "${label: String}: ${role: String}",
+      "paidToReceivedFromLabel": "${label: String}: ${name: String}",
+      "orderTypeLabel": "订单类型: ${orderType: String}",
+      "tableLabel": "桌号: ${tableName: String}",
+      "tableNoLabel": "桌号: ${tableName: String}",
+      "dateLabel": "日期: ${dateTime: String}",
+      "invoiceFlag": "发票",
+      "receiptFlag": "收据",
+      "paidBy": "付款人",
+      "receivedBy": "收款人",
+      "paidTo": "付款至",
+      "receivedFrom": "收款于",
+      "seller": "销售商: ${name: String}",
+      "address": "地址: ${addr: String}",
+      "vatNo": "税号",
+      "tel": "电话: ${phoneNumber: String}",
+      "timeLabel": "时间: ${dateTime: String}"
+    },
+    "tableHeaders": {
+      "sl": "序号",
+      "item": "商品",
+      "cost": "成本",
+      "qty": "数量",
+      "uPrice": "单价",
+      "amount": "金额",
+      "total": "总计",
+      "invoiceTable": "发票",
+      "dueTable": "欠款"
+    },
+    "summary": {
+      "subTotal": "小计:",
+      "discount": "折扣: ${percentFmt: String}",
+      "vat": "${vatName: String}: ${rateFmt: String}%",
+      "tip": "小费:",
+      "deliveryCharge": "配送费:",
+      "totalPayable": "应付总额:",
+      "paidAmount": "已付金额:",
+      "dueAmount": "欠款金额:",
+      "paymentType": "支付方式: ${method: String}",
+      "remainingDue": "剩余欠款:",
+      "paymentAmount": "支付金额:",
+      "itemsCount": "商品数量: ${count: int}",
+      "qtyTotal": "总数量: ${totalQty: int}"
+    },
+    "footer": {
+      "note": "${noteLabel: String}: ${note: String}",
+      "developedBy": "${developByLabel: String} ${developBy: String}"
+    }
+  },
+  "hrm": {
+    "department": "部门",
+    "designation": "职位",
+    "shift": "班次",
+    "employee": "员工",
+    "leave": "休假",
+    "leaveType": "休假类型",
+    "leaveRequest": "休假申请",
+    "holiday": "假期",
+    "attendance": "考勤",
+    "payroll": "工资单",
+    "pageTitles": {
+      "department": "部门",
+      "designation": "职位",
+      "shift": "班次",
+      "employee": "员工",
+      "leave": "休假",
+      "leaveType": "休假类型",
+      "holiday": "假期",
+      "attendance": "考勤",
+      "payroll": "工资单",
+      "leaveReports": "休假报告",
+      "payrollReports": "工资报告",
+      "attendanceReports": "考勤报告",
+      "addDepartment": "添加部门",
+      "editDepartment": "编辑部门",
+      "addDesignation": "添加职位",
+      "editDesignation": "编辑职位",
+      "addShift": "添加班次",
+      "editShift": "编辑班次",
+      "addEmployee": "添加员工",
+      "editEmployee": "编辑员工",
+      "addLeave": "添加休假",
+      "editLeave": "编辑休假",
+      "addLeaveType": "添加休假类型",
+      "editLeaveType": "编辑休假类型",
+      "addHoliday": "添加假期",
+      "editHoliday": "编辑假期",
+      "addAttendance": "添加考勤",
+      "editAttendance": "编辑考勤",
+      "addPayroll": "添加工资单",
+      "editPayroll": "编辑工资单"
+    },
+    "form": {
+      "labels": {
+        "department": "部门",
+        "designation": "职位",
+        "shift": "班次",
+        "employee": "员工",
+        "leaveType": "休假类型",
+        "leaveDuration": "休假时长",
+        "paymentYear": "支付年份",
+        "paymentType": "支付类型",
+        "breakStatus": "休息状态",
+        "startTime": "开始时间",
+        "endTime": "结束时间",
+        "startBreakTime": "休息开始",
+        "endBreakTime": "休息结束",
+        "breakTime": "休息时间",
+        "breakDuration": "休息时长",
+        "timeIn": "上班时间",
+        "timeOut": "下班时间",
+        "duration": "时长",
+        "country": "国家",
+        "salary": "薪资",
+        "gender": "性别",
+        "birthDate": "出生日期",
+        "joinDate": "入职日期",
+        "holidayName": "假期名称",
+        "startDate": "开始日期",
+        "endDate": "结束日期",
+        "month": "月份",
+        "year": "年份",
+        "status": "状态",
+        "description": "描述",
+        "amount": "金额",
+        "payment": "支付",
+        "departmentName": "部门名称",
+        "designationName": "职称名称",
+        "image": "图片",
+        "name": "名称"
+      },
+      "hints": {
+        "selectEmployee": "选择员工",
+        "selectDepartment": "选择部门",
+        "selectDesignation": "选择职位",
+        "selectShift": "选择班次",
+        "selectLeaveType": "选择休假类型",
+        "selectMonth": "选择月份",
+        "selectYear": "选择年份",
+        "selectDate": "选择日期",
+        "selectStartDate": "选择开始日期",
+        "selectEndDate": "选择结束日期",
+        "selectTimeIn": "选择上班时间",
+        "selectTimeOut": "选择下班时间",
+        "selectStartTime": "选择开始时间",
+        "selectEndTime": "选择结束时间",
+        "selectStatus": "选择状态",
+        "selectGender": "选择性别",
+        "selectPaymentType": "选择支付类型",
+        "enterFullName": "输入全名",
+        "enterEmail": "输入邮箱",
+        "enterPhone": "输入电话",
+        "enterCountry": "输入国家",
+        "enterSalary": "例如：500",
+        "enterHolidayName": "输入假期名称",
+        "enterDescription": "输入描述...",
+        "autoCalculated": "自动计算",
+        "selectDatesFirst": "先选择日期",
+        "allEmployee": "所有员工",
+        "selectEmployeeFirst": "先选择员工",
+        "enterDepartmentName": "输入部门名称",
+        "enterDesignationName": "输入职称名称",
+        "ex": "{value}",
+        "selectBirthDate": "选择出生日期",
+        "selectJoinDate": "选择入职日期",
+        "selectBreakStatus": "选择休息状态",
+        "enterLeaveTypeName": "输入请假类型名称"
+      }
+    },
+    "emptyStates": {
+      "noLeaves": "未找到休假记录",
+      "noPayrollRecords": "未找到工资单记录",
+      "noAttendanceRecords": "未找到考勤记录",
+      "noLeaveTypes": "未找到请假类型",
+      "noEmployees": "未找到员工",
+      "noHolidays": "未找到假期",
+      "noShifts": "未找到班次",
+      "noDesignations": "未找到职位",
+      "noDepartments": "未找到部门"
+    },
+    "confirmations": {
+      "deleteAttendance": "确定要删除此考勤记录吗？",
+      "deletePayroll": "确定要删除此工资单吗？",
+      "deleteLeave": "确定要删除此休假记录吗？",
+      "deleteLeaveType": "您要删除此请假类型吗？",
+      "deleteEmployee": "确定要删除此员工吗？",
+      "deleteHoliday": "确定要删除此假期吗？",
+      "deleteShift": "您要删除此班次吗？",
+      "deleteDesignation": "确定要删除此职位吗？",
+      "deleteDepartment": "确定要删除此部门吗？"
+    },
+    "validation": {
+      "selectEmployee": "请选择员工",
+      "selectMonth": "请选择月份",
+      "selectEndDate": "请选择结束日期",
+      "endDateAfterStart": "结束日期必须在开始日期之后",
+      "selectStatus": "请选择状态",
+      "selectLeaveType": "请选择休假类型",
+      "selectStartDate": "请选择开始日期",
+      "selectDate": "请选择日期",
+      "selectTimeIn": "请选择上班时间",
+      "selectTimeOut": "请选择下班时间",
+      "enterDepartmentName": "请输入部门名称",
+      "enterDesignationName": "请输入职称名称",
+      "enterName": "请输入名称",
+      "selectDesignation": "请选择职位",
+      "selectDepartment": "请选择部门",
+      "enterEmail": "请输入邮箱",
+      "enterValidEmail": "请输入有效的邮箱",
+      "enterPhoneNumber": "请输入电话",
+      "enterCountry": "请输入国家",
+      "enterSalary": "请输入薪资",
+      "selectGender": "请选择性别",
+      "selectShift": "请选择班次",
+      "selectBirthDate": "请选择出生日期",
+      "selectJoinDate": "请选择入职日期",
+      "enterHolidayName": "请输入假期名称",
+      "selectBreakStatus": "请选择休息状态",
+      "selectPaymentYear": "请选择付款年份",
+      "selectPaymentType": "请选择付款方式",
+      "enterAmount": "请输入金额",
+      "selectStartBreakTime": "请选择休息开始时间",
+      "selectEndBreakTime": "请选择休息结束时间",
+      "enterLeaveTypeName": "请输入请假类型名称",
+      "selectStartTime": "请选择开始时间",
+      "selectEndTime": "请选择结束时间"
+    },
+    "dropdowns": {
+      "addNew": "+ 新增",
+      "morning": "早班",
+      "day": "白班",
+      "evening": "晚班",
+      "night": "夜班",
+      "yes": "是",
+      "no": "否",
+      "approved": "已批准",
+      "rejected": "已拒绝",
+      "terminated": "已终止",
+      "suspended": "已暂停",
+      "male": "男",
+      "female": "女",
+      "pending": "待处理",
+      "active": "在职",
+      "inactive": "离职",
+      "paid": "已付",
+      "unpaid": "未付"
+    },
+    "units": {
+      "days": "天"
+    },
+    "fallbacks": {
+      "noNoteAvailable": "无备注",
+      "noDescriptionAvailable": "暂无描述",
+      "selectEmployeeFirst": "请先选择员工"
+    },
+    "success": {
+      "leaveDelete": "休假记录删除成功",
+      "attendanceDelete": "考勤记录删除成功",
+      "attendanceAdd": "考勤记录添加成功",
+      "attendanceUpdate": "考勤记录更新成功",
+      "leaveAdd": "休假记录添加成功",
+      "leaveUpdate": "休假记录更新成功",
+      "departmentDelete": "部门删除成功",
+      "departmentAdd": "部门添加成功",
+      "departmentUpdate": "部门更新成功",
+      "designationDelete": "职位删除成功",
+      "designationAdd": "职位添加成功",
+      "designationUpdate": "职位更新成功",
+      "employeeDelete": "员工删除成功",
+      "employeeAdd": "员工添加成功",
+      "employeeUpdate": "员工更新成功",
+      "holidayDelete": "假期删除成功",
+      "holidayAdd": "假期添加成功",
+      "holidayUpdate": "假期更新成功",
+      "leaveTypeDelete": "休假类型删除成功"
+    }
+  }
+}

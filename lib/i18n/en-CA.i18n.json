@@ -1,0 +1,1561 @@
+{
+  "@@meta": {
+    "languageCode": "en_CA",
+    "languageName": "English(Canada)",
+    "version": "1.0.0"
+  },
+  "common": {
+    "signIn": "Sign In",
+    "signUp": "Sign Up",
+    "verifyEmail": "Verify Email",
+    "customizeProfile": "Customize Profile",
+    "imageOrLogo": "Logo or Image",
+    "createNewPassword": "Create New Password",
+    "itemsList": "Items List",
+    "searchItemsName": "Search Items Name",
+    "categoryList": "Category List",
+    "brandList": "Brand List",
+    "unitList": "Unit List",
+    "itemDetails": "Item Details",
+    "addStock": "Add Stock",
+    "profile": "Profile",
+    "language": "Language",
+    "termsAndConditions": "Terms & Conditions",
+    "aboutUs": "About Us",
+    "logout": "Logout",
+    "editProfile": "Edit Profile",
+    "fullName": "Full Name",
+    "email": "Email",
+    "mobileNumber": "Mobile Number",
+    "address": "Address",
+    "password": "Password",
+    "forgotPassword": "Forgot password",
+    "edit": "Edit",
+    "delete": "Delete",
+    "addItems": "Add Items",
+    "stock": "Stock",
+    "currentStock": "Current Stock",
+    "value": "Value",
+    "sales": "Sales",
+    "purchase": "Purchase",
+    "price": "Price",
+    "image": "Image",
+    "upload": "Upload",
+    "addNew": "Add New",
+    "pricing": "Pricing",
+    "name": "Name",
+    "category(plural)": {
+      "one": "Category",
+      "other": "Categorys"
+    },
+    "areas": "Areas",
+    "brand": "Brand",
+    "lowStock": "Low Stock",
+    "unit": "Unit",
+    "vat": "Vat",
+    "taxType": "Tax type",
+    "purchasePrice": "Purchase Price",
+    "sellingPrice": "Selling Price",
+    "wholeSalePrice": "Whole Sale Price",
+    "dealerPrice": "Dealer Price",
+    "searchHere": "Search Here",
+    "totalItems": "Total Items",
+    "stockValue": "Stock Value",
+    "congratulation": "Congratulation",
+    "salesList": "Sales List",
+    "searchInvoiceNumber": "Search invoice no",
+    "view": "View",
+    "kFor": "For",
+    "total": "Total",
+    "subTotal": "Sub Total",
+    "insufficientStockAvailableStock": "Insufficient stock, available stock",
+    "discount": "Discount",
+    "selectOne": "Select one",
+    "allCategory": "All Category",
+    "details": "Details",
+    "parcel": "Parcel",
+    "kot": "KOT",
+    "table": "Table",
+    "holdTable": "Hold Table",
+    "capacity": "Capacity",
+    "commonHint": "Ex: 10",
+    "pleaseEnterQuantity": "Please enter quantity",
+    "quantityMustBeGreaterThanZero": "Quantity must be greater than 0",
+    "mobile": "Mobile",
+    "orderNo": "Order No",
+    "dateAndTime": "Date & Time",
+    "items": "Items",
+    "totalAmount": "Total Amount",
+    "paidAmount": "Paid Amount",
+    "dueAmount": "Due Amount",
+    "paymentType": "Payment Type",
+    "thankYou": "Thank you",
+    "developedBy": "Developed by ${domain: String}",
+    "qty": "Price",
+    "amount": "Amount",
+    "dashboard": "Dashboard",
+    "reports": "Reports",
+    "home": "Home",
+    "parties": "Parties",
+    "subscriptionPlan": "Subscription Plan",
+    "estimateList": "Estimate List",
+    "purchaseList": "Purchase List",
+    "dueList": "Due List",
+    "lossOrProfit": "Loss/Profit",
+    "stocks": "Stocks",
+    "moneyInList": "Money In List",
+    "moneyOutList": "Money Out List",
+    "transactionList": "Transaction List",
+    "income": "Income",
+    "expense": "Expense",
+    "quickView": "Quick View",
+    "to": "NEEDS_TRANSLATION: to (en-CA)",
+    "totalSales": "Total Sales",
+    "totalPurchase": "Total Purchase",
+    "holdNumber": "Hold Orders",
+    "totalExpense": "Total Expense",
+    "loss": "Loss",
+    "profit": "Profit",
+    "recentTransaction": "Recent Transactions",
+    "invoice": "Invoice",
+    "moneyIn": "Money In",
+    "moneyOut": "Money Out",
+    "paid": "Paid",
+    "due": "Due",
+    "partial": "Partial",
+    "print": "Print",
+    "addCategory": "Add Category",
+    "addExpense": "Add Expense",
+    "search": "Search...",
+    "viewDetails": "View Details",
+    "title": "Title",
+    "date": "Date",
+    "note": "Note",
+    "phoneNumber": "Phone Number",
+    "type": "Type",
+    "selectContactSType": "Select the contact type",
+    "moreInfo": "More info",
+    "paymentReceived": "Payment Received",
+    "selectSupplier": "Select supplier",
+    "supplier": "Supplier",
+    "received": "Received",
+    "balanceDue": "Balance Due",
+    "addPurchase": "Add Purchase",
+    "selectedItemWillBeCleared": "Selected items will be cleared.",
+    "searchItemName": "Search items name",
+    "billItems": "Bill Items",
+    "addMoreItems": "Add More Items",
+    "payAmount": "Pay Amount",
+    "salesReport": "Sales Report",
+    "purchaseReport": "Purchase Report",
+    "stockReport": "Stock Report",
+    "dueReport": "Due Report",
+    "dueCollectionReport": "Due Collection Report",
+    "transactionReport": "Transaction Report",
+    "incomeReport": "Income Report",
+    "dueCollectionList": "Due Collection List",
+    "expenseReport": "Expense Reports",
+    "dueCollection": "Due Collection",
+    "myProfile": "My Profile",
+    "printingOption": "Printing Option",
+    "currency": "Currency",
+    "paymentMethod": "Payment Method",
+    "rateUs": "Rate us",
+    "termAndCondition": "Terms & Conditions",
+    "tableList": "Table List",
+    "addTable": "Add Table",
+    "vatRate": "VAT rate %",
+    "action": "Action",
+    "status": "Status",
+    "active": "Active",
+    "inActive": "Inactive",
+    "subVats": "Sub VATs",
+    "add": "Add",
+    "taxRate": "Tax rate %",
+    "subTaxes": "Sub Taxes",
+    "group": "NEEDS_TRANSLATION: group (en-CA)",
+    "VAT": "NEEDS_TRANSLATION: VAT (en-CA)",
+    "subTaxList": "Sub Tax List",
+    "vatPercent": "VAT Percent",
+    "statusIsCannotInActive": "Status cannot be inactive if VAT is on sales.",
+    "vatOnSales": "VAT On Sales",
+    "transaction": "Transaction",
+    "version": "Version ${version: String}",
+    "hold": "Hold",
+    "empty": "Empty",
+    "appName": "Restaurant App",
+    "duePayment": "Due Payment",
+    "orders": "Orders",
+    "all": "All",
+    "ingredient": "Ingredient",
+    "menus": "Menus",
+    "modifierGroups": "Modifier Groups",
+    "itemModifiers": "Item Modifiers",
+    "staff": "Staff",
+    "coupon": "Coupon",
+    "pay": "Pay",
+    "pendingOrders": "Pending Orders",
+    "order": "Order",
+    "payNow": "Pay Now",
+    "addStaff": "Add Staff",
+    "designation": "Designation",
+    "itemAdded": "Item Added",
+    "noItemAdded": "No Item Added",
+    "saveNPrint": "Save & Print",
+    "allowMultiSelection": "Allow multiple section",
+    "required": "Required",
+    "optional": "Optional",
+    "allowMultiSelectionForSale": "Allow Multiple Selection For Sales",
+    "isRequired": "Is Required",
+    "modifier": "Modifier",
+    "fullPayment": "Full Payment",
+    "payment": "Payment",
+    "addTip": "Add Tip",
+    "netPayable": "Net Payable",
+    "receiveAmount": "Receive Amount",
+    "changeAmount": "Change Amount",
+    "quotationList": "Quotation List",
+    "addQuotation": "Add Quotation",
+    "convert": "Convert",
+    "variations": "Variations",
+    "instructions": "Instructions",
+    "unavailable": "Unavailable",
+    "tip": "Tip",
+    "salesQuotationReport": "Sales Quotation Report",
+    "orderType": "Order Type",
+    "deliveryCharge": "Delivery Charge",
+    "receiptNo": "Receipt No",
+    "paidBy": "Paid By",
+    "receivedBy": "Received By",
+    "paymentAmount": "Payment Amount",
+    "remainingDue": "Remaining Due",
+    "roleNPermission": "Role & Permission",
+    "sl": "SL",
+    "features": "Features",
+    "create": "Create",
+    "update": "Update",
+    "quotations": "Quotations",
+    "restaurant": "Restaurant",
+    "printerProfile": "Printer Profile",
+    "kitchenOrders": "Kitchen Orders",
+    "kitchen(plural)": {
+      "one": "Kitchen",
+      "other": "Kitchens"
+    },
+    "allKOT": "All KOT",
+    "cancelKOT": "Cancel KOT",
+    "selectCancelReason": "Select Cancel Reason",
+    "additionalComment": "Additional Comment",
+    "enterComment": "Enter comment",
+    "orderStatus": "Order Status",
+    "selectOrderStatus": "Select order status",
+    "kotReport": "KOT Report",
+    "itemFoodType": "Food Type",
+    "selectItemFoodType": "Select @:common.itemFoodType",
+    "markAllAsRead": "Mark All As Read",
+    "online": "Online",
+    "cancelledReason": "Cancelled Reason",
+    "hrm": "HRM",
+    "notAvailable": "N/A"
+  },
+  "exceptions": {
+    "somethingWentWrong": "Something went wrong, please try again",
+    "noCategoryFound": "No category found!\n Please try adding a category.",
+    "doYouWantToDeleteThisCategory": "Do you want to delete this category?",
+    "noBrandFound": "No brand found!\n Please try adding a brand.",
+    "doYouWantToDeleteThisBrand": "Do you want to delete this brand?",
+    "noItemStockFound": "No item stock found!\n Please try adding an item.",
+    "noUnitFound": "No unit found!\n Please try adding an unit.",
+    "doYouDeleteThisUnit": "Do you want to delete this unit?",
+    "noSaleFoundPleaseSAddProduct": "No sale found!\n Please try adding a sale.",
+    "doYouWantToDeleteThisSale": "Do you want to delete this sale?",
+    "pleaseAddItemToTheCartFirst": "Please add items to cart first",
+    "noItemAdded": "No Items Added",
+    "cannotEditOthersTable": "Cannot edit other table.",
+    "tableIsAlreadyBlocked": "Table is already booked.",
+    "failedToGetCustomerDetails": "Failed to get customer details.",
+    "noTableFoundPleaseTryAgain": "No Tables found!\n Please try adding a table.",
+    "noDueCollectionFound": "No due invoice found!\n You can see due invoices when available.",
+    "noExpenseFoundPleaseTryAddingExpense": "No expense found!\n Please try adding an expense.",
+    "doYouWantToDeleteThisExpense": "Do you want to delete this expense?",
+    "noExpenseCategoryFound": "No expense category found!\n Please try adding an expense category.",
+    "noTransactionFound": "No transactions found, please try again later!",
+    "pleaseSelectACategory": "Please select a category",
+    "noIncomeFound": "No income found!\n Please try adding an income",
+    "doYouWantToDeleteThisIncome": "Do you want to delete this income?",
+    "noIncomeCategoryFoundAddingAIncome": "No income category found!\n Please try adding an income category.",
+    "noItemFoundPleaseTryAddingItem": "No item found!\n Please try adding an item.",
+    "noPartiesFound": "No parties found",
+    "doYouWantToDeleteThisParty": "Do you want to delete this party",
+    "noLedgerFound": "No ledger found!\n Please try adding a ${transactionType: String}",
+    "areYouSureYouSureWantToDeleteThisTaxType": "Are you sure you want to delete this ${taxType: String}?",
+    "noItemFoundPleaseSTryAddingAnPurchase": "No item found!\n Please try adding an purchase.",
+    "doYouWantToDeleteThisPurchase": "Do you want to delete this purchase?",
+    "noTransactionFoundYouSeeTransactionHereWhenAvailable": "No transaction found!\n You see transactions here when available.",
+    "noSaleFoundPleaseTryAddingSale": "No sale found!\n Please try adding a sale.",
+    "noPurchaseFoundPleaseTryAddingPurchase": "No purchase found!\n Please try adding a purchase.",
+    "noItemIncomeFound": "No item income found!\n You can see income data when available.",
+    "noItemExpenseFound": "No item expense found!\n You can see expense data when available.",
+    "noItemDueInvoiceFound": "No item due invoice found!\n You can see due invoices when available.",
+    "noItemDueCollectionInvoiceFound": "'No item due collection invoice found!\n You can see due collection invoices when available.",
+    "doYouWantToDeleteThisTable": "Do you want to delete this table?'",
+    "thisVatIsBeingUsedOnSales": "This VAT is being used on sales!",
+    "noPaymentMethodFoundPleaseTryAddingAPaymentMethod": "No payment method found!\n Please try adding a payment method.",
+    "pleaseSelectACustomerFirst": "Please select a customer first.",
+    "pleaseSelectATableToCreateAKot": "Please select a table to create a kot.",
+    "noStaffFound": "No staff found!\\n Please try adding a staff",
+    "noIngredientFound": "No ingredient found!\\n Please try adding a ingredient.",
+    "exceedsPaymentAmount": "Received amount should not be greater than payable amount",
+    "noItemModifierFound": "No item modifier found!\\n Please try adding a item modifier.",
+    "noModifierGroupFound": "No modifier group found!\\n Please try adding a modifier group.",
+    "noOptionsFound": "No options found!",
+    "maxImageCountLimit": "You can only select up to 5 images.",
+    "noQuotationFound": "No quotation found!\\n Please try adding a quotation.",
+    "noPermittedUserFound": "No permitted user found!\\n Please try adding an user."
+  },
+  "prompt": {
+    "logout": {
+      "title": "@:common.logout",
+      "message": "Are you sure to logout?"
+    },
+    "unsavedWarning": {
+      "title": "Do you want to go back?",
+      "message": "Fields that are changed may not be saved!"
+    },
+    "verify": {
+      "title": "Verify Your Email",
+      "description(rich)": "We have sent a verification code email${emailSpan}\n\nIt may be that the mail ended up in your spam folder."
+    },
+    "subscriptionExpired": {
+      "title": "Subscription Expired!",
+      "message": "Please subscribe to continue.",
+      "action": "Subscribe"
+    },
+    "items": {
+      "delete": {
+        "title": "Do you want to delete this item?"
+      },
+      "filter": {
+        "title": "Filter By",
+        "extra": {
+          "lowToHigh": "Low to High @:common.price",
+          "highToLow": "High to Low @:common.price"
+        }
+      }
+    },
+    "checkInternet": {
+      "title": "No Internet Connection",
+      "message": "Please check your Wi-Fi mobile network connection and try again"
+    },
+    "back": {
+      "title": "Press back again to exit."
+    },
+    "stockModelSheet": {
+      "title": "Add New Stock"
+    },
+    "paymentMethod": {
+      "title": "Do you want to delete this payment method?"
+    },
+    "extMsg": {
+      "kotSavedSuccessfully": "KOT saved successfully"
+    },
+    "deleteStaff": "Do you want to delete this staff?",
+    "deleteIngredient": "Do you want to delete this ingredient?",
+    "deleteItemModifier": "Do you want to delete this item modifier?",
+    "deleteModifierGroup": "Do you want to delete this modifier group?",
+    "deleteQuotation": "Do you want to delete this quotation?"
+  },
+  "form": {
+    "fullName": {
+      "label": "@:common.fullName",
+      "hint": "Enter @:common.fullName",
+      "errors": {
+        "required": "Please enter your @:common.fullName"
+      }
+    },
+    "email": {
+      "label": "@:common.email",
+      "hint": "Enter your @:common.email",
+      "errors": {
+        "required": "Please enter your @:common.email address",
+        "invalid": "⦸ Invalid Email, Please Try Again"
+      }
+    },
+    "password": {
+      "label": "@:common.password",
+      "hint": "* * * * * * * *",
+      "errors": {
+        "required": "Please enter your @:common.password",
+        "minLength": "Password must be at least ${count} characters!"
+      }
+    },
+    "confirmPassword": {
+      "label": "Confirm Password",
+      "hint": "* * * * * * * *",
+      "errors": {
+        "required": "Please enter your @:common.password",
+        "invalid": "'Confirm password doesn't match!"
+      }
+    },
+    "otp": {
+      "errors": {
+        "required": "Please enter the otp.",
+        "invalid": "Please enter current otp."
+      }
+    },
+    "profile": {
+      "businessCategory": {
+        "label": "Business Category",
+        "hint": "Select business category",
+        "errors": {
+          "required": "Please select business category"
+        }
+      },
+      "shopOrStore": {
+        "label": "Shop/Store Name*",
+        "hint": "Enter shop or store name",
+        "errors": {
+          "required": "Please enter your shop or store name"
+        }
+      },
+      "openingBalance": {
+        "label": "Opening Balance",
+        "hint": "Enter opening balance"
+      },
+      "vatGstTitle": {
+        "label": "VAT/GST Title",
+        "hint": "Enter vat/gst"
+      },
+      "vatGstNumber": {
+        "label": "VAT/GST Number",
+        "hint": "Enter vat/gst number"
+      }
+    },
+    "vat": {
+      "name": {
+        "label": "Name",
+        "hint": "Enter VAT name",
+        "error": {
+          "required": "Please enter VAT name"
+        }
+      },
+      "subVat": {
+        "label": "Sub VAT",
+        "hint": "Select sub VAT",
+        "errors": {
+          "required": "Please select sub VAT"
+        }
+      },
+      "rate": {
+        "label": "VAT rate %",
+        "hint": "Enter VAT rate",
+        "errors": {
+          "required": "Please enter VAT rate."
+        }
+      }
+    },
+    "category": {
+      "label": "@:common.category",
+      "hint": "Select item category",
+      "error": {
+        "required": "Please enter category name"
+      }
+    },
+    "items": {
+      "barcode": {
+        "label": "Barcode",
+        "hint": "@:common.selectOne"
+      },
+      "itemName": {
+        "label": "Item Name",
+        "hint": "Enter item name",
+        "extra": {
+          "required": "Please enter item name"
+        }
+      },
+      "itemCategory": {
+        "label": "Item Category",
+        "hint": "Item Category",
+        "extra": {
+          "label": "Select category",
+          "required": "Please select a category"
+        }
+      },
+      "brand": {
+        "label": "@:common.brand",
+        "hint": "@:common.selectOne",
+        "extra": {
+          "hint": "Enter brand name",
+          "required": "Please enter brand name"
+        }
+      },
+      "unit": {
+        "label": "@:common.unit",
+        "hint": "@:common.selectOne",
+        "error": {
+          "required": "Please enter unit name"
+        }
+      },
+      "stock": {
+        "label": "Opening Stock",
+        "hint": "@:common.commonHint",
+        "extra": {
+          "required": "Please enter item quality."
+        }
+      },
+      "lowStock": {
+        "label": "@:common.lowStock",
+        "hint": "Ex: 5"
+      },
+      "purchasePrice": {
+        "label": "@:common.purchasePrice",
+        "hint": "Ex: \\$40",
+        "error": {
+          "required": "Please enter purchase price."
+        }
+      },
+      "salePrice": {
+        "label": "Sale Price",
+        "hint": "Ex: \\$60",
+        "error": {
+          "required": "Please enter sale price."
+        }
+      },
+      "totalSalePrice": {
+        "label": "Total Sale Price",
+        "hint": "Ex: \\$100"
+      },
+      "wholeSalePrice": {
+        "label": "@:common.wholeSalePrice",
+        "hint": "Enter wholesale price"
+      },
+      "dealerPrice": {
+        "label": "@:common.dealerPrice",
+        "hint": "Enter dealer price"
+      },
+      "discount": {
+        "label": "Discount (%)",
+        "hint": "@:common.commonHint"
+      },
+      "applicableTax": {
+        "label": "Applicable Tax",
+        "hint": "@:common.selectOne"
+      },
+      "vatType": {
+        "label": "@:common.taxType",
+        "errorText": {
+          "required": "Please select a VAT type"
+        }
+      },
+      "menu": {
+        "label": "Choose Menu",
+        "errors": {
+          "required": "Please select a menu."
+        },
+        "hint": "Select a menu",
+        "extra": {
+          "selectNavLabel": "Select Item Menu"
+        }
+      },
+      "modifierItems": {
+        "label": "Modifier Items",
+        "hint": "Select modifier items"
+      },
+      "preparationTime": {
+        "label(rich)": "Preparation Time ${minutes(Minutes)}",
+        "hint": "Ex: 30"
+      },
+      "variation": {
+        "name": {
+          "label": "Name",
+          "hint": "Enter variation",
+          "errors": {
+            "required": "Please enter variation name."
+          }
+        },
+        "price": {
+          "errors": {
+            "required": "Please enter price."
+          },
+          "label": "Price",
+          "hint": "Ex: \\$30"
+        }
+      }
+    },
+    "itemCart": {
+      "hint": "@:common.commonHint",
+      "error": {
+        "required": "@:common.pleaseEnterQuantity",
+        "noZero": "@:common.quantityMustBeGreaterThanZero"
+      }
+    },
+    "sales": {
+      "autoGenerateInvoice": {
+        "label": "Bill No",
+        "hint": "P-00001"
+      },
+      "date": {
+        "label": "Date"
+      },
+      "customer": {
+        "label": "Customer",
+        "hint": "Select Customer"
+      },
+      "phone": {
+        "label": "Phone Number",
+        "hint": "Enter phone number"
+      },
+      "address": {
+        "label": "Address",
+        "hint": "Enter address"
+      },
+      "deliveryCharge": {
+        "label": "@:common.deliveryCharge",
+        "hint": "Ex: \\$20",
+        "hint2": "Charge Ex: \\$10"
+      },
+      "table": {
+        "hint": "Select Table"
+      },
+      "waiter": {
+        "hint": "Select Waiter"
+      }
+    },
+    "bill": {
+      "label": "Bill No",
+      "hint": "P-00001"
+    },
+    "supplier": {
+      "label": "Supplier",
+      "hint": "Select Supplier",
+      "extra": {
+        "required": "Please select a supplier"
+      }
+    },
+    "phone": {
+      "label": "Phone Number",
+      "hint": "Enter phone number",
+      "errors": {
+        "required": "Please enter phone number."
+      }
+    },
+    "address": {
+      "label": "Address",
+      "hint": "Enter address"
+    },
+    "payment": {
+      "label": "Name",
+      "hint": "Enter payment name",
+      "error": {
+        "required": "Please enter a payment method name"
+      }
+    },
+    "expense": {
+      "label": "Expense Category",
+      "hint": "Select expense category",
+      "error": {
+        "required": "Please enter expense category"
+      }
+    },
+    "income": {
+      "label": "Income Category",
+      "hint": "Enter category name",
+      "error": {
+        "required": "Please enter category name"
+      },
+      "incomeTitle": {
+        "label": "Income Title",
+        "hint": "Enter income"
+      },
+      "incomeCategory": {
+        "label": "Income Category",
+        "hint": "Select category"
+      },
+      "payment": {
+        "label": "Payment",
+        "hint": "Ex: \\$10"
+      }
+    },
+    "note": {
+      "label": "Note (Optional)",
+      "hint": "Enter Text"
+    },
+    "parties": {
+      "partyName": {
+        "label": "Party Name",
+        "hint": "Enter party name",
+        "error": {
+          "required": "Please enter party name"
+        }
+      },
+      "partyPhone": {
+        "label": "Phone Number",
+        "hint": "Enter phone number",
+        "error": {
+          "required": "Please enter phone number"
+        }
+      }
+    },
+    "table": {
+      "name": {
+        "label": "Table Name",
+        "hint": "Enter table name",
+        "error": {
+          "required": "Please enter table name"
+        }
+      },
+      "capacity": {
+        "label": "Capacity",
+        "hint": "Enter capacity",
+        "error": {
+          "required": "Please enter capacity"
+        }
+      }
+    },
+    "designation": {
+      "label": "@:common.designation",
+      "hint": "Select a designation",
+      "errors": {
+        "required": "Please select a designation."
+      }
+    },
+    "ingredientName": {
+      "label": "Ingredient Name",
+      "hint": "Enter ingredient name",
+      "errors": {
+        "required": "Please enter ingredient name"
+      }
+    },
+    "item": {
+      "label": "Item",
+      "hint": "Select item",
+      "errors": {
+        "required": "Please select an item."
+      }
+    },
+    "modifierGroup": {
+      "label": "Modifier Group",
+      "hint": "Select modifier group",
+      "errors": {
+        "required": "Please select a modifier group."
+      }
+    },
+    "description": {
+      "label": "Description",
+      "hint": "Enter description"
+    },
+    "staff": {
+      "label": "@:common.staff",
+      "hint": "Select a staff",
+      "errors": {
+        "required": "Please select a staff"
+      }
+    },
+    "loginUserName": {
+      "label": "Login User Name",
+      "hint": "Enter user name or email address",
+      "errors": {
+        "required": "Please enter user name or email address"
+      }
+    }
+  },
+  "action": {
+    "next": "Next",
+    "getStarted": "Get Started",
+    "skip": "Skip",
+    "select": "Select",
+    "save": "Save",
+    "verify": "Verify",
+    "signIn": "@:common.signIn",
+    "signUp": "@:common.signUp",
+    "continue": "Continue",
+    "no": "No",
+    "yes": "Yes",
+    "okay": "Okay",
+    "cancel": "Cancel",
+    "confirm": "Confirm",
+    "tryAgain": "Try Again",
+    "reset": "Reset",
+    "apply": "Apply",
+    "stockAdjust": "Adjust Stock",
+    "addMoreItems": "Add More Items",
+    "hold": "Hold",
+    "parcel": "@:common.parcel",
+    "buyNow": "Buy Now",
+    "viewAll": "View All",
+    "viewLedger": "View ledger",
+    "submit": "Submit",
+    "selected": "Selected",
+    "addToCart": "Add to Cart",
+    "selectAll": "Select All",
+    "update": "@:common.update",
+    "addRole": "Add Role"
+  },
+  "pages": {
+    "language": {
+      "appbarTitle": "@:action.select @:common.language"
+    },
+    "onboard": {
+      "onboardData": {
+        "data1": {
+          "title": "Easy to use @:common.appName",
+          "description": "Seamless Orders, Effortless Bookings\\n Power Your Restaurant with Ease!"
+        },
+        "data2": {
+          "title": "Effortless Order Management",
+          "description": "Streamline your restaurant's order-taking process with our intuitive POS system."
+        },
+        "data3": {
+          "title": "Excellent Analytics & Reporting",
+          "description": "Our analytics dashboard provides real-time sales & purchase  reports"
+        }
+      }
+    },
+    "signIn": {
+      "title": "Welcome Back",
+      "subtitle": "Please enter your details.",
+      "extra": {
+        "rememberMe": "Remember Me",
+        "signUpNavigator(rich)": "Don't have a account? ${getStarted(@:action.getStarted)}",
+        "forgotPassword": "@:common.forgotPassword?"
+      }
+    },
+    "signUp": {
+      "title": "Create An Account",
+      "subtitle": "Please enter your details",
+      "extra": {
+        "signInNavigator(rich)": "Already have an account? ${signIn(@:action.signIn)}"
+      }
+    },
+    "forgotPassword": {
+      "title": "@:common.forgotPassword",
+      "subtitle": "Enter your email Address to recover your password."
+    },
+    "otpVerification": {
+      "title": "Verification",
+      "subtitle": "6 digits pin has been sent to your email address",
+      "extra": {
+        "codeResend": {
+          "codeSendIn": "Code send in",
+          "resendCode": "Resend code"
+        }
+      }
+    },
+    "resetPassword": {
+      "title": "Reset password",
+      "subtitle": "Reset your password to recovery and log in your account",
+      "extra": {
+        "dialog": {
+          "title": "Changed successfully!",
+          "subtitle": "Sign in with your new password.\n Redirecting you to Sign In..."
+        }
+      }
+    },
+    "items": {
+      "itemList": {
+        "extra": {
+          "emptyItem": "No item found!\n Please try adding an item."
+        }
+      },
+      "manageItems": {
+        "title": "Add New Item",
+        "title2": "Edit Item",
+        "extra": {
+          "maximum": "Maximum 5",
+          "wholeSaleAndDealerPrice": "Wholesale & Dealer Price",
+          "addDiscount": "Add Discount",
+          "addVat": "Add VAT"
+        }
+      },
+      "itemDetails": {
+        "title": "Item Details",
+        "extra": {
+          "noImageAvailable": "No image available!",
+          "preparationTime(rich)": "Preparation Time: ${min: String} ${mins(mins)}",
+          "pleaseSelectVariation": "Please select a variation",
+          "pleaseSelectOption": "Please select an option.",
+          "enterYourInstruction": "Enter your instructions"
+        }
+      }
+    },
+    "category": {
+      "addNewCategory": "Add New Category",
+      "editCategory": "Edit Category"
+    },
+    "brand": {
+      "addNewBrand": "Add New Brand",
+      "editBrand": "Edit Brand"
+    },
+    "unit": {
+      "addNewUnit": "Add New Unit",
+      "editUnit": "Edit Unit"
+    },
+    "stock": {
+      "stockList": "Stock List"
+    },
+    "aboutUs": {
+      "title": "About Us"
+    },
+    "privacyPolicy": {
+      "title": "Privacy Policy"
+    },
+    "termAndCondition": {
+      "title": "@:common.termAndCondition"
+    },
+    "orders": {
+      "manageOrders": {
+        "extra": {
+          "billItems": "Bill Items",
+          "manageQuantity": "Manage Quantity"
+        },
+        "title": {
+          "editOrder": "Edit Order",
+          "editKOT": "KOT Edit"
+        }
+      }
+    },
+    "onlinePayment": {
+      "title": "Online Payment"
+    },
+    "paymentStatus": {
+      "success": {
+        "title": "Thank You!",
+        "message": "We will review the payment & approve it within 24 hours.",
+        "actionButtonText": "View Invoice"
+      },
+      "fail": {
+        "title": "Oops! Payment Failed",
+        "message": "Your transaction has failed due to some technical error.",
+        "actionButtonText": "Try Again"
+      }
+    },
+    "confirmationDialog": {
+      "title": "Log out",
+      "message": "Are you sure to logout?",
+      "acceptationText": "No",
+      "rejectionText": "Log Out"
+    },
+    "payment": {
+      "title": "@:common.paymentMethod",
+      "addPaymentMethod": "Add New Payment Method",
+      "editPaymentMethod": "Edit Payment Method",
+      "choseOnlinePayment": "Choose Online Payment",
+      "selectPaymentMethod": "Select Payment Method",
+      "pleaseSelectAPaymentMethod": "lease select a payment method.",
+      "methodStatus": {
+        "title": "Status",
+        "message": "Status cannot be inactive if Quick View is enabled!."
+      }
+    },
+    "subscriptionPlan": {
+      "title": "Purchase Premium Plan",
+      "extra": {
+        "actionButtonText": "Go Back",
+        "message": "Subscription payment successfully.\n\nYou can access the subscribed features now.",
+        "mostPopular": "Most Popular"
+      }
+    },
+    "invoicePreview": {
+      "title": "Invoice Preview",
+      "message": "PDF Preview Coming Soon"
+    },
+    "currency": {
+      "title": "@:common.currency"
+    },
+    "dashboard": {
+      "overview": "Overview",
+      "dashboardPrivacy": "Dashboard Privacy",
+      "moneyInAndMoneyOut": "Money In & Money Out",
+      "lossAndProfitOverView": "Profit & Loss Overview"
+    },
+    "due": {
+      "title": "@:common.dueList",
+      "collectionList": "Collection List",
+      "dueCollection": "Due Collection"
+    },
+    "expense": {
+      "title": "@:common.expense",
+      "editExpense": "Edit Expense",
+      "addNewExpense": "Add New Expense",
+      "editExpenseCategory": "Edit Expense Category",
+      "addNewExpenseCategory": "Add New Expense Category",
+      "payment": "Payment",
+      "expenseCategory": "Expense Category",
+      "selectCategory": "Select Category",
+      "allExpense": "All Expense",
+      "pleaseSelectACategory": "Please select a category",
+      "expenseTitle": {
+        "label": "Expense Title",
+        "hint": "Enter expense"
+      }
+    },
+    "lossProfit": {
+      "title": "Loss/Profit List",
+      "noLossProfitFound": "No loss/profit found!\n Please try creating some sales."
+    },
+    "income": {
+      "editIncomeCategory": "Edit Income Category",
+      "addNewIncomeCategory": "Add New Income Category",
+      "incomeCategory": "Income Category",
+      "allIncome": "All Income",
+      "editIncome": "Edit Income",
+      "addNewIncome": "Edit Income",
+      "addIncome": "Add Income"
+    },
+    "moneyIn": {
+      "title": "Money In List",
+      "totalPaymentIn": "Total Money In"
+    },
+    "moneyOut": {
+      "title": "Money Out List",
+      "totalMoneyOut": "Total Money Out"
+    },
+    "profile": {
+      "title": "My Profile",
+      "editProfile": "Edit Profile",
+      "businessInformation": "Business Information",
+      "profileInformation": "Profile Information"
+    },
+    "parties": {
+      "title": "Parties List",
+      "allParties": "All Parties",
+      "customer": "Customer",
+      "supplier": "Supplier",
+      "addParties": "Add Parties",
+      "editParties": "Edit Parties",
+      "partiesDetails": "Parties Details",
+      "personalInfo": "Personal Info"
+    },
+    "ledger": {
+      "subTitle": "Ledger"
+    },
+    "purchase": {
+      "title": "Add New Purchase",
+      "editPurchase": "Edit Purchase"
+    },
+    "reports": {
+      "title": "Reports"
+    },
+    "table": {
+      "title": "Add New Table",
+      "editTable": "Edit Table"
+    },
+    "tax": {
+      "title": "VAT Rates",
+      "buildHeaderTitle": "VAT rates - Manage your VAT rates",
+      "vatGroup": {
+        "title": "VAT Group",
+        "subTitle": "VAT Group - Manage your VAT group"
+      }
+    },
+    "vat": {
+      "addNewVat": "Add New Vat",
+      "editVat": "Edit VAT",
+      "addNewVatGroup": "Add New VAT Group",
+      "editVatGroup": "Edit VAT Group"
+    },
+    "orderList": {
+      "title": "Order List",
+      "filters": {
+        "orderType": {
+          "label": "@:common.orderType",
+          "hint": "Select Order Type"
+        },
+        "paymentStatus": {
+          "hint": "Select Payment Status",
+          "label": "Payment Status"
+        }
+      }
+    },
+    "staffs": {
+      "staffList": {
+        "filters": {
+          "designation": {
+            "label": "Designation",
+            "hint": "Select Designation"
+          }
+        },
+        "title": "All Staff"
+      },
+      "manageStaff": {
+        "title1": "Add New Staff",
+        "title2": "Update Staff"
+      }
+    },
+    "ingredient": {
+      "ingredientList": {
+        "title1": "Ingredient List",
+        "title2": "Select Ingredient"
+      },
+      "manageIngredient": {
+        "title1": "Add New Ingredient",
+        "title2": "Edit Ingredient"
+      }
+    },
+    "itemModifier": {
+      "itemModifierList": {
+        "title": "@:common.itemModifiers"
+      },
+      "manageItemModifier": {
+        "title1": "Add Item Modifiers",
+        "title2": "Edit Item Modifiers"
+      }
+    },
+    "quotation": {
+      "manageQuotation": {
+        "title": {
+          "add": "Add New Quotation",
+          "edit": "Edit Quotation",
+          "convert": "Convert to Sale"
+        }
+      }
+    },
+    "rolePermission": {
+      "rolePermissionList": {
+        "title": "Role & Permission List"
+      },
+      "manageRolePermission": {
+        "title1": "Add New Role",
+        "title2": "Edit Role"
+      }
+    },
+    "printingOption": {
+      "title": "Printing Option",
+      "form": {
+        "companyAddress": {
+          "label": "Company Address",
+          "hint": "Enter company address"
+        },
+        "noteLabel": {
+          "label": "Note Label",
+          "hint": "Enter note label."
+        },
+        "note": {
+          "label": "Note",
+          "hint": "Enter note."
+        },
+        "postSaleMessage": {
+          "label": "Post Sale Message",
+          "hint": "Enter post sale message"
+        },
+        "printingMethod": {
+          "label": "Printing Method",
+          "hint": "Select Printing Method"
+        },
+        "printerProfile": {
+          "label": "Printer Profile",
+          "hint": "Select printer profile"
+        },
+        "paperSize": {
+          "label": "Thermal Printer Paper Size",
+          "hint": "Select printer paper size"
+        },
+        "printerDpi": {
+          "label": "Printer DPI",
+          "hint": "Ex: 203"
+        },
+        "printingMargin": {
+          "label": "Printing Margin",
+          "hint": "Ex: 2"
+        }
+      },
+      "tooltip": {
+        "printingMethod": {
+          "title": "Dropdown with options:",
+          "default": "• Default (Native method to print EU Standard Characters)",
+          "image": "• Image (Recommended for Unicode Characters Printing)"
+        }
+      },
+      "action": {
+        "save": "Save"
+      }
+    },
+    "kitchen": {
+      "list": {
+        "noKitchensFound": "No kitchens found.\n Please try adding one."
+      },
+      "manage": {
+        "addKitchen": "Add Kitchen",
+        "editKitchen": "Edit Kitchen",
+        "kitchenName": {
+          "label": "Kitchen Name",
+          "hint": "Enter kitchen name",
+          "error": "Please enter kitchen name."
+        },
+        "description": {
+          "label": "Description",
+          "hint": "Enter description"
+        }
+      },
+      "manageItems": {
+        "title": "Manage Items",
+        "addedItems": "Added Items",
+        "selectItemsError": "Please select items.",
+        "noItemsAdded": "No items added yet!\nPlease try adding items."
+      },
+      "card": {
+        "itemName": "Item Name",
+        "manageItems": "+ Manage Items",
+        "deleteItemConfirm": "Do you want to delete this item?",
+        "deleteKitchenConfirm": "Do you want to delete this kitchen?"
+      }
+    }
+  },
+  "enums": {
+    "dropdownDateFilter": {
+      "daily": "Daily",
+      "weekly": "Weekly",
+      "monthly": "Monthly",
+      "yearly": "Yearly",
+      "custom": "Custom"
+    },
+    "orderTypes": {
+      "dineIn": "Dine-in",
+      "pickUp": "Pick-up",
+      "delivery": "Delivery",
+      "reservation": "Reservation",
+      "quotation": "Quotation"
+    },
+    "paymentStatus": {
+      "paid": "Paid",
+      "unpaid": "Unpaid"
+    },
+    "staffTypes": {
+      "manager": "Manager",
+      "waiter": "Waiter",
+      "chef": "Chef",
+      "cleaner": "Cleaner",
+      "driver": "Driver",
+      "deliveryBoy": "Delivery Boy"
+    },
+    "itemFoodTypes": {
+      "veg": "Veg",
+      "nonVeg": "Non Veg",
+      "egg": "Egg",
+      "drink": "Drink",
+      "others": "Others"
+    },
+    "itemTypes": {
+      "single": "Single",
+      "variation": "Variation"
+    },
+    "quotationStatus": {
+      "open": "Open",
+      "closed": "Closed"
+    },
+    "tableStatus": {
+      "running": "Running",
+      "available": "Available"
+    },
+    "thermalPrinterPrintingMethod": {
+      "image": "Image",
+      "default": "Default"
+    },
+    "kotOrderStatus": {
+      "label": {
+        "pending": "Pending",
+        "preparing": "Preparing",
+        "ready": "Food is Ready",
+        "served": "Food is Served",
+        "cancelled": "Cancelled"
+      },
+      "pending": "Pending",
+      "preparing": "Preparing",
+      "ready": "Food is Ready",
+      "served": "Food is Served",
+      "cancelled": "Cancelled"
+    },
+    "kotItemStatus": {
+      "pending": "Start Cooking",
+      "start": "Mark Ready",
+      "ready": "Ready"
+    }
+  },
+  "thermalPrint": {
+    "invoice": {
+      "purchaseInvoiceLabel": "Purchase Invoice: ${invoiceNumber: String}",
+      "saleInvoiceLabel": "Order No: ${invoiceNumber: String}",
+      "receiptNoLabel": "Receipt No: ${invoiceNumber: String}",
+      "orderNoKotLabel": "Order NO: ${invoiceNumber: String}",
+      "nameLabel": "Name: ${name: String}",
+      "mobileLabel": "Mobile: ${phone: String}",
+      "purchasedByLabel": "Purchased By: ${role: String}",
+      "salesByLabel": "Sales By: ${role: String}",
+      "paidByLabel": "${label: String}: ${role: String}",
+      "paidToReceivedFromLabel": "${label: String}: ${name: String}",
+      "orderTypeLabel": "Order Type: ${orderType: String}",
+      "tableLabel": "Table: ${tableName: String}",
+      "tableNoLabel": "Table No: ${tableName: String}",
+      "dateLabel": "Date: ${dateTime: String}",
+      "invoiceFlag": "INVOICE",
+      "receiptFlag": "RECEIPT",
+      "paidBy": "Paid By",
+      "receivedBy": "Received By",
+      "paidTo": "Paid To",
+      "receivedFrom": "Received From",
+      "seller": "Seller: ${name: String}",
+      "address": "Address: ${addr: String}",
+      "vatNo": "Vat No",
+      "tel": "Tel: ${phoneNumber: String}",
+      "timeLabel": "Time: ${dateTime: String}"
+    },
+    "tableHeaders": {
+      "sl": "SL",
+      "item": "Item",
+      "cost": "Cost",
+      "qty": "Qty",
+      "uPrice": "U.Price",
+      "amount": "Amount",
+      "total": "Total",
+      "invoiceTable": "Invoice",
+      "dueTable": "Due"
+    },
+    "summary": {
+      "subTotal": "Sub Total:",
+      "discount": "Discount: ${percentFmt: String}",
+      "vat": "${vatName: String}: ${rateFmt: String}%",
+      "tip": "Tip:",
+      "deliveryCharge": "Delivery Charge:",
+      "totalPayable": "Total Payable:",
+      "paidAmount": "Paid Amount:",
+      "dueAmount": "Due Amount:",
+      "paymentType": "Payment Type: ${method: String}",
+      "remainingDue": "Remaining Due:",
+      "paymentAmount": "Payment Amount:",
+      "itemsCount": "Items: ${count: int}",
+      "qtyTotal": "Qty: ${totalQty: int}"
+    },
+    "footer": {
+      "note": "${noteLabel: String}: ${note: String}",
+      "developedBy": "${developByLabel: String} ${developBy: String}"
+    }
+  },
+  "hrm": {
+    "department": "Department",
+    "designation": "Designation",
+    "shift": "Shift",
+    "employee": "Employee",
+    "leave": "Leave",
+    "leaveType": "Leave Type",
+    "leaveRequest": "Leave Request",
+    "holiday": "Holiday",
+    "attendance": "Attendance",
+    "payroll": "Payroll",
+    "pageTitles": {
+      "department": "Department",
+      "designation": "Designation",
+      "shift": "Shift",
+      "employee": "Employee",
+      "leave": "Leave",
+      "leaveType": "Leave Type",
+      "holiday": "Holiday",
+      "attendance": "Attendance",
+      "payroll": "Payroll",
+      "leaveReports": "Leave Reports",
+      "payrollReports": "Payroll Reports",
+      "attendanceReports": "Attendance Reports",
+      "addDepartment": "Add Department",
+      "editDepartment": "Edit Department",
+      "addDesignation": "Add Designation",
+      "editDesignation": "Edit Designation",
+      "addShift": "Add Shift",
+      "editShift": "Edit Shift",
+      "addEmployee": "Add Employee",
+      "editEmployee": "Edit Employee",
+      "addLeave": "Add Leave",
+      "editLeave": "Edit Leave",
+      "addLeaveType": "Add Leave Type",
+      "editLeaveType": "Edit Leave Type",
+      "addHoliday": "Add New Holiday",
+      "editHoliday": "Edit Holiday",
+      "addAttendance": "Add New Attendance",
+      "editAttendance": "Edit Attendance",
+      "addPayroll": "Add Payroll",
+      "editPayroll": "Edit Payroll"
+    },
+    "form": {
+      "labels": {
+        "department": "Department",
+        "designation": "Designation",
+        "shift": "Shift",
+        "employee": "Employee",
+        "leaveType": "Leave Type",
+        "leaveDuration": "Leave Duration",
+        "paymentYear": "Payment Year",
+        "paymentType": "Payment Type",
+        "breakStatus": "Break Status",
+        "startTime": "Start Time",
+        "endTime": "End Time",
+        "startBreakTime": "Start Break Time",
+        "endBreakTime": "End Break Time",
+        "breakTime": "Break Time",
+        "breakDuration": "Break Duration",
+        "timeIn": "Time In",
+        "timeOut": "Time Out",
+        "duration": "Duration",
+        "country": "Country",
+        "salary": "Salary",
+        "gender": "Gender",
+        "birthDate": "Birth Date",
+        "joinDate": "Join Date",
+        "holidayName": "Holiday Name",
+        "startDate": "Start Date",
+        "endDate": "End Date",
+        "month": "Month",
+        "year": "Year",
+        "status": "Status",
+        "description": "Description",
+        "amount": "Amount",
+        "payment": "Payment",
+        "departmentName": "Department Name",
+        "designationName": "Designation Name",
+        "image": "Image",
+        "name": "Name"
+      },
+      "hints": {
+        "selectEmployee": "Select Employee",
+        "selectDepartment": "Select Department",
+        "selectDesignation": "Select Designation",
+        "selectShift": "Select Shift",
+        "selectLeaveType": "Select Leave Type",
+        "selectMonth": "Select Month",
+        "selectYear": "Select Year",
+        "selectDate": "Select Date",
+        "selectStartDate": "Select Start Date",
+        "selectEndDate": "Select End Date",
+        "selectTimeIn": "Select Time In",
+        "selectTimeOut": "Select Time Out",
+        "selectStartTime": "Select Start Time",
+        "selectEndTime": "Select End Time",
+        "selectStatus": "Select Status",
+        "selectGender": "Select Gender",
+        "selectPaymentType": "Select Payment Type",
+        "enterFullName": "Enter full name",
+        "enterEmail": "Enter your email",
+        "enterPhone": "Enter your phone",
+        "enterCountry": "Enter your country",
+        "enterSalary": "Ex: 500",
+        "enterHolidayName": "Enter holiday name",
+        "enterDescription": "Enter description..",
+        "autoCalculated": "Auto-calculated",
+        "selectDatesFirst": "Select dates first",
+        "allEmployee": "All Employee",
+        "selectEmployeeFirst": "Select Employee First",
+        "enterDepartmentName": "Enter Department Name",
+        "enterDesignationName": "Enter designation name",
+        "ex": "{value}",
+        "selectBirthDate": "Select birth date",
+        "selectJoinDate": "Select join date",
+        "selectBreakStatus": "Select Break Status",
+        "enterLeaveTypeName": "Enter leave type name"
+      }
+    },
+    "emptyStates": {
+      "noLeaves": "No leaves found",
+      "noPayrollRecords": "No payroll records found",
+      "noAttendanceRecords": "No attendance found",
+      "noLeaveTypes": "No leave types found",
+      "noEmployees": "No employees found",
+      "noHolidays": "No holidays found",
+      "noShifts": "No shifts found",
+      "noDesignations": "No designations found",
+      "noDepartments": "No departments found"
+    },
+    "confirmations": {
+      "deleteAttendance": "Do you want to delete this attendance record?",
+      "deletePayroll": "Do you want to delete this payroll record?",
+      "deleteLeave": "Do you want to delete this leave record?",
+      "deleteLeaveType": "Do you want to delete this leave type?",
+      "deleteEmployee": "Do you want to delete this employee?",
+      "deleteHoliday": "Do you want to delete this holiday?",
+      "deleteShift": "Do you want to delete this shift?",
+      "deleteDesignation": "Do you want to delete this designation?",
+      "deleteDepartment": "Do you want to delete this department?"
+    },
+    "validation": {
+      "selectEmployee": "Please select employee",
+      "selectMonth": "Please select month",
+      "selectEndDate": "Please select end date",
+      "endDateAfterStart": "End date must be after start date",
+      "selectStatus": "Please select status",
+      "selectLeaveType": "Please select leave type",
+      "selectStartDate": "Please select start date",
+      "selectDate": "Please select date",
+      "selectTimeIn": "Please select time in",
+      "selectTimeOut": "Please select time out",
+      "enterDepartmentName": "Please enter department name",
+      "enterDesignationName": "Please enter designation name",
+      "enterName": "Please enter name",
+      "selectDesignation": "Please select designation",
+      "selectDepartment": "Please select department",
+      "enterEmail": "Please enter email",
+      "enterValidEmail": "Please enter a valid email",
+      "enterPhoneNumber": "Please enter phone number",
+      "enterCountry": "Please enter country",
+      "enterSalary": "Please enter salary",
+      "selectGender": "Please select gender",
+      "selectShift": "Please select shift",
+      "selectBirthDate": "Please select birth date",
+      "selectJoinDate": "Please select join date",
+      "enterHolidayName": "Please enter holiday name",
+      "selectBreakStatus": "Please select break status",
+      "selectPaymentYear": "Please select payment year",
+      "selectPaymentType": "Please select payment type",
+      "enterAmount": "Please enter amount",
+      "selectStartBreakTime": "Please select start break time",
+      "selectEndBreakTime": "Please select end break time",
+      "enterLeaveTypeName": "Please enter leave type name",
+      "selectStartTime": "Please select start time",
+      "selectEndTime": "Please select end time"
+    },
+    "dropdowns": {
+      "addNew": "+ Add New",
+      "morning": "Morning",
+      "day": "Day",
+      "evening": "Evening",
+      "night": "Night",
+      "yes": "Yes",
+      "no": "No",
+      "approved": "Approved",
+      "rejected": "Rejected",
+      "terminated": "Terminated",
+      "suspended": "Suspended",
+      "male": "Male",
+      "female": "Female",
+      "pending": "Pending",
+      "active": "Active",
+      "inactive": "Inactive",
+      "paid": "Paid",
+      "unpaid": "Unpaid"
+    },
+    "units": {
+      "days": "days"
+    },
+    "fallbacks": {
+      "noNoteAvailable": "No note available",
+      "noDescriptionAvailable": "No description available",
+      "selectEmployeeFirst": "Select Employee First"
+    },
+    "success": {
+      "leaveDelete": "Leave deleted successfully",
+      "attendanceDelete": "Attendance deleted successfully",
+      "attendanceAdd": "Attendance added successfully",
+      "attendanceUpdate": "Attendance updated successfully",
+      "leaveAdd": "Leave added successfully",
+      "leaveUpdate": "Leave updated successfully",
+      "departmentDelete": "Department deleted successfully",
+      "departmentAdd": "Department added successfully",
+      "departmentUpdate": "Department updated successfully",
+      "designationDelete": "Designation deleted successfully",
+      "designationAdd": "Designation added successfully",
+      "designationUpdate": "Designation updated successfully",
+      "employeeDelete": "Employee deleted successfully",
+      "employeeAdd": "Employee added successfully",
+      "employeeUpdate": "Employee updated successfully",
+      "holidayDelete": "Holiday deleted successfully",
+      "holidayAdd": "Holiday added successfully",
+      "holidayUpdate": "Holiday updated successfully",
+      "leaveTypeDelete": "Leave type deleted successfully"
+    }
+  }
+}

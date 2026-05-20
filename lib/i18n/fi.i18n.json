@@ -1,0 +1,1561 @@
+{
+  "@@meta": {
+    "languageCode": "fi_FI",
+    "languageName": "Finnish",
+    "version": "1.0.0"
+  },
+  "common": {
+    "signIn": "Kirjaudu sisään",
+    "signUp": "Rekisteröidy",
+    "verifyEmail": "Vahvista sähköposti",
+    "customizeProfile": "Mukauta profiilia",
+    "imageOrLogo": "Logo tai kuva",
+    "createNewPassword": "Luo uusi salasana",
+    "itemsList": "Tuoteluettelo",
+    "searchItemsName": "Etsi tuotteen nimeä",
+    "categoryList": "Kategorialuettelo",
+    "brandList": "Tuotemerkkiluettelo",
+    "unitList": "Yksikköluettelo",
+    "itemDetails": "Tuotteen tiedot",
+    "addStock": "Lisää varastoa",
+    "profile": "Profiili",
+    "language": "Kieli",
+    "termsAndConditions": "Käyttöehdot",
+    "aboutUs": "Meistä",
+    "logout": "Kirjaudu ulos",
+    "editProfile": "Muokkaa profiilia",
+    "fullName": "Koko nimi",
+    "email": "Sähköposti",
+    "mobileNumber": "Puhelinnumero",
+    "address": "Osoite",
+    "password": "Salasana",
+    "forgotPassword": "Unohtuiko salasana?",
+    "edit": "Muokkaa",
+    "delete": "Poista",
+    "addItems": "Lisää tuotteita",
+    "stock": "Varasto",
+    "currentStock": "Nykyinen varasto",
+    "value": "Arvo",
+    "sales": "Myynti",
+    "purchase": "Osto",
+    "price": "Hinta",
+    "image": "Kuva",
+    "upload": "Lataa",
+    "addNew": "Lisää uusi",
+    "pricing": "Hinnoittelu",
+    "name": "Nimi",
+    "category(plural)": {
+      "one": "Kategoria",
+      "other": "Kategorias"
+    },
+    "areas": "Areas",
+    "brand": "Tuotemerkki",
+    "lowStock": "Vähäinen varasto",
+    "unit": "Yksikkö",
+    "vat": "ALV",
+    "taxType": "Verotyyppi",
+    "purchasePrice": "Ostohinta",
+    "sellingPrice": "Myyntihinta",
+    "wholeSalePrice": "Tukkuhinta",
+    "dealerPrice": "Jälleenmyyjän hinta",
+    "searchHere": "Etsi täältä",
+    "totalItems": "Tuotteita yhteensä",
+    "stockValue": "Varaston arvo",
+    "congratulation": "Onnittelut",
+    "salesList": "Myyntiluettelo",
+    "searchInvoiceNumber": "Etsi laskun numeroa",
+    "view": "Näytä",
+    "kFor": "Varten",
+    "total": "Yhteensä",
+    "subTotal": "Välisumma",
+    "insufficientStockAvailableStock": "Riittämätön varasto, saatavilla oleva varasto",
+    "discount": "Alennus",
+    "selectOne": "Valitse yksi",
+    "allCategory": "Kaikki kategoriat",
+    "details": "Tiedot",
+    "parcel": "Paketti",
+    "kot": "KOT",
+    "table": "Pöytä",
+    "holdTable": "Varaa pöytä",
+    "capacity": "Kapasiteetti",
+    "commonHint": "Esim: 10",
+    "pleaseEnterQuantity": "Syötä määrä",
+    "quantityMustBeGreaterThanZero": "Määrän on oltava suurempi kuin 0",
+    "mobile": "Mobiili",
+    "orderNo": "Tilausnro",
+    "dateAndTime": "Päivämäärä ja aika",
+    "items": "Tuotteet",
+    "totalAmount": "Kokonaissumma",
+    "paidAmount": "Maksettu summa",
+    "dueAmount": "Erääntyvä summa",
+    "paymentType": "Maksutapa",
+    "thankYou": "Kiitos",
+    "developedBy": "Kehittänyt ${domain: String}",
+    "qty": "Hinta",
+    "amount": "Summa",
+    "dashboard": "Hallintapaneeli",
+    "reports": "Raportit",
+    "home": "Etusivu",
+    "parties": "Osapuolet",
+    "subscriptionPlan": "Tilaussuunnitelma",
+    "estimateList": "Tarjousluettelo",
+    "purchaseList": "Ostoluettelo",
+    "dueList": "Erääntyvien luettelo",
+    "lossOrProfit": "Tappio/Voitto",
+    "stocks": "Varastot",
+    "moneyInList": "Saapuneet maksut",
+    "moneyOutList": "Lähteneet maksut",
+    "transactionList": "Tapahtumaluettelo",
+    "income": "Tulot",
+    "expense": "Kulut",
+    "quickView": "Pikakatselu",
+    "to": "saakka",
+    "totalSales": "Kokonaismyynti",
+    "totalPurchase": "Kokonaisostot",
+    "holdNumber": "Pidetyt tilaukset",
+    "totalExpense": "Kokonaiskulut",
+    "loss": "Tappio",
+    "profit": "Voitto",
+    "recentTransaction": "Viimeisimmät tapahtumat",
+    "invoice": "Lasku",
+    "moneyIn": "Saapuneet maksut",
+    "moneyOut": "Lähteneet maksut",
+    "paid": "Maksettu",
+    "due": "Erääntynyt",
+    "partial": "Osittain",
+    "print": "Tulosta",
+    "addCategory": "Lisää kategoria",
+    "addExpense": "Lisää kulu",
+    "search": "Etsi...",
+    "viewDetails": "Näytä tiedot",
+    "title": "Otsikko",
+    "date": "Päivämäärä",
+    "note": "Huomautus",
+    "phoneNumber": "Puhelinnumero",
+    "type": "Tyyppi",
+    "selectContactSType": "Valitse yhteystyyppi",
+    "moreInfo": "Lisätietoja",
+    "paymentReceived": "Maksu vastaanotettu",
+    "selectSupplier": "Valitse toimittaja",
+    "supplier": "Toimittaja",
+    "received": "Vastaanotettu",
+    "balanceDue": "Erääntyvä saldo",
+    "addPurchase": "Lisää osto",
+    "selectedItemWillBeCleared": "Valitut tuotteet poistetaan.",
+    "searchItemName": "Etsi tuotteen nimeä",
+    "billItems": "Laskun tuotteet",
+    "addMoreItems": "Lisää tuotteita",
+    "payAmount": "Maksettava summa",
+    "salesReport": "Myyntiraportti",
+    "purchaseReport": "Ostoraportti",
+    "stockReport": "Varastoraportti",
+    "dueReport": "Erääntyvien raportti",
+    "dueCollectionReport": "Erääntyvien perintäraportti",
+    "transactionReport": "Tapahtumaraportti",
+    "incomeReport": "Tuloraportti",
+    "dueCollectionList": "Erääntyvien perintäluettelo",
+    "expenseReport": "Kuluraportit",
+    "dueCollection": "Erääntyvien perintä",
+    "myProfile": "Oma profiili",
+    "printingOption": "Tulostusasetukset",
+    "currency": "Valuutta",
+    "paymentMethod": "Maksutapa",
+    "rateUs": "Arvostele meidät",
+    "termAndCondition": "Käyttöehdot",
+    "tableList": "Pöytäluettelo",
+    "addTable": "Lisää pöytä",
+    "vatRate": "ALV-prosentti %",
+    "action": "Toiminto",
+    "status": "Tila",
+    "active": "Aktiivinen",
+    "inActive": "Ei aktiivinen",
+    "subVats": "ALV-alaryhmät",
+    "add": "Lisää",
+    "taxRate": "Veroaste %",
+    "subTaxes": "Alaverot",
+    "group": "ryhmä",
+    "VAT": "ALV",
+    "subTaxList": "Alaveroluettelo",
+    "vatPercent": "ALV-prosentti",
+    "statusIsCannotInActive": "Tila ei voi olla ei aktiivinen, jos ALV on käytössä myynnissä.",
+    "vatOnSales": "ALV myynnissä",
+    "transaction": "Tapahtuma",
+    "version": "Versio ${version: String}",
+    "hold": "Pidä",
+    "empty": "Tyhjä",
+    "appName": "Ravintolasovellus",
+    "duePayment": "Erääntynyt maksu",
+    "orders": "Tilaukset",
+    "all": "Kaikki",
+    "ingredient": "Ainesosa",
+    "menus": "Menut",
+    "modifierGroups": "Muokkaajaryhmät",
+    "itemModifiers": "Tuotteen Muokkaajat",
+    "staff": "Henkilökunta",
+    "coupon": "Kuponki",
+    "pay": "Maksa",
+    "pendingOrders": "Odottaa tilaukset",
+    "order": "Tilaus",
+    "payNow": "Maksa nyt",
+    "addStaff": "Lisää henkilökuntaa",
+    "designation": "Nimike",
+    "itemAdded": "Tuote lisätty",
+    "noItemAdded": "Ei tuotetta lisätty",
+    "saveNPrint": "Tallenna ja tulosta",
+    "allowMultiSelection": "Salli useampi valinta",
+    "required": "Pakollinen",
+    "optional": "Valinnainen",
+    "allowMultiSelectionForSale": "Salli useampi valinta myyntiin",
+    "isRequired": "On pakollinen",
+    "modifier": "Muokkaaja",
+    "fullPayment": "Täysi maksu",
+    "payment": "Maksu",
+    "addTip": "Lisää juomaraha",
+    "netPayable": "Maksettava netto",
+    "receiveAmount": "Vastaanotettu summa",
+    "changeAmount": "Vaihtoraha",
+    "quotationList": "Tarjouslista",
+    "addQuotation": "Lisää tarjous",
+    "convert": "Muunna",
+    "variations": "Muunnelmat",
+    "instructions": "Ohjeet",
+    "unavailable": "Ei saatavilla",
+    "tip": "Vinkki",
+    "salesQuotationReport": "Myyntitarjousraportti",
+    "orderType": "Tilaustyyppi",
+    "deliveryCharge": "Toimituskulu",
+    "receiptNo": "Kuitin Nro",
+    "paidBy": "Maksaja",
+    "receivedBy": "Vastaanottaja",
+    "paymentAmount": "Maksettu summa",
+    "remainingDue": "Jäljellä oleva summa",
+    "roleNPermission": "Rooli ja käyttöoikeus",
+    "sl": "SL",
+    "features": "Ominaisuudet",
+    "create": "Luo",
+    "update": "Päivitä",
+    "quotations": "Tarjoukset",
+    "restaurant": "Ravintola",
+    "printerProfile": "Tulostimen profiili",
+    "kitchenOrders": "Keittiötilaukset",
+    "kitchen(plural)": {
+      "one": "Keittiö",
+      "other": "Keittiöt"
+    },
+    "allKOT": "Kaikki KOT",
+    "cancelKOT": "Peruuta KOT",
+    "selectCancelReason": "Valitse peruutuksen syy",
+    "additionalComment": "Lisäkommentti",
+    "enterComment": "Kirjoita kommentti",
+    "orderStatus": "Tilauksen tila",
+    "selectOrderStatus": "Valitse tilauksen tila",
+    "kotReport": "KOT-raportti",
+    "itemFoodType": "Ruokatyyppi",
+    "selectItemFoodType": "Valitse @:common.itemFoodType",
+    "markAllAsRead": "Merkitse kaikki luetuiksi",
+    "online": "Verkossa",
+    "cancelledReason": "Peruutuksen syy",
+    "hrm": "HRM",
+    "notAvailable": "N/A"
+  },
+  "exceptions": {
+    "somethingWentWrong": "Jotain meni pieleen, yritä uudelleen",
+    "noCategoryFound": "Kategoriaa ei löytynyt!\n Yritä lisätä kategoria.",
+    "doYouWantToDeleteThisCategory": "Haluatko poistaa tämän kategorian?",
+    "noBrandFound": "Tuotemerkkiä ei löytynyt!\n Yritä lisätä tuotemerkki.",
+    "doYouWantToDeleteThisBrand": "Haluatko poistaa tämän tuotemerkin?",
+    "noItemStockFound": "Tuotevarastoa ei löytynyt!\n Yritä lisätä tuote.",
+    "noUnitFound": "Yksikköä ei löytynyt!\n Yritä lisätä yksikkö.",
+    "doYouDeleteThisUnit": "Haluatko poistaa tämän yksikön?",
+    "noSaleFoundPleaseSAddProduct": "Myyntiä ei löytynyt!\n Yritä lisätä myynti.",
+    "doYouWantToDeleteThisSale": "Haluatko poistaa tämän myynnin?",
+    "pleaseAddItemToTheCartFirst": "Lisää ensin tuotteita ostoskoriin",
+    "noItemAdded": "Tuotteita ei ole lisätty",
+    "cannotEditOthersTable": "Toisen pöytää ei voi muokata.",
+    "tableIsAlreadyBlocked": "Pöytä on jo varattu.",
+    "failedToGetCustomerDetails": "Asiakkaan tietojen noutaminen epäonnistui.",
+    "noTableFoundPleaseTryAgain": "Pöytiä ei löytynyt!\n Yritä lisätä pöytä.",
+    "noDueCollectionFound": "Erääntyneitä laskuja ei löytynyt!\n Näet erääntyneet laskut, kun niitä on saatavilla.",
+    "noExpenseFoundPleaseTryAddingExpense": "Kuluja ei löytynyt!\n Yritä lisätä kulu.",
+    "doYouWantToDeleteThisExpense": "Haluatko poistaa tämän kulun?",
+    "noExpenseCategoryFound": "Kululuokkaa ei löytynyt!\n Yritä lisätä kululuokka.",
+    "noTransactionFound": "Tapahtumia ei löytynyt, yritä myöhemmin uudelleen!",
+    "pleaseSelectACategory": "Valitse kategoria",
+    "noIncomeFound": "Tuloja ei löytynyt!\n Yritä lisätä tuloja",
+    "doYouWantToDeleteThisIncome": "Haluatko poistaa tämän tulon?",
+    "noIncomeCategoryFoundAddingAIncome": "Tuloluokkaa ei löytynyt!\n Yritä lisätä tuloluokka.",
+    "noItemFoundPleaseTryAddingItem": "Tuotetta ei löytynyt!\n Yritä lisätä tuote.",
+    "noPartiesFound": "Osapuolia ei löytynyt",
+    "doYouWantToDeleteThisParty": "Haluatko poistaa tämän osapuolen?",
+    "noLedgerFound": "Kirjanpitoa ei löytynyt!\n Yritä lisätä ${transactionType: String}",
+    "areYouSureYouSureWantToDeleteThisTaxType": "Oletko varma, että haluat poistaa tämän ${taxType: String}?",
+    "noItemFoundPleaseSTryAddingAnPurchase": "Tuotetta ei löytynyt!\n Yritä lisätä osto.",
+    "doYouWantToDeleteThisPurchase": "Haluatko poistaa tämän oston?",
+    "noTransactionFoundYouSeeTransactionHereWhenAvailable": "Tapahtumia ei löytynyt!\n Näet tapahtumat täällä, kun niitä on saatavilla.",
+    "noSaleFoundPleaseTryAddingSale": "Myyntiä ei löytynyt!\n Yritä lisätä myynti.",
+    "noPurchaseFoundPleaseTryAddingPurchase": "Ostoja ei löytynyt!\n Yritä lisätä osto.",
+    "noItemIncomeFound": "Tuotetuloja ei löytynyt!\n Näet tulotiedot, kun niitä on saatavilla.",
+    "noItemExpenseFound": "Tuotekuluja ei löytynyt!\n Näet kulutiedot, kun niitä on saatavilla.",
+    "noItemDueInvoiceFound": "Erääntyneitä tuotelaskuja ei löytynyt!\n Näet erääntyneet laskut, kun niitä on saatavilla.",
+    "noItemDueCollectionInvoiceFound": "'Erääntyneitä tuotelaskujen perintälaskuja ei löytynyt!\n Näet erääntyneiden perintälaskut, kun niitä on saatavilla.",
+    "doYouWantToDeleteThisTable": "Haluatko poistaa tämän pöydän?'",
+    "thisVatIsBeingUsedOnSales": "Tätä ALV:tä käytetään myynnissä!",
+    "noPaymentMethodFoundPleaseTryAddingAPaymentMethod": "Maksutapaa ei löytynyt!\n Yritä lisätä maksutapa.",
+    "pleaseSelectACustomerFirst": "Valitse ensin asiakas.",
+    "pleaseSelectATableToCreateAKot": "Valitse pöytä luodaksesi KOTin.",
+    "noStaffFound": "Henkilökuntaa ei löytynyt!\\n Yritä lisätä henkilökuntaa.",
+    "noIngredientFound": "Ainesosaa ei löytynyt!\\n Yritä lisätä ainesosa.",
+    "exceedsPaymentAmount": "Vastaanotettu summa ei saa olla suurempi kuin maksettava summa",
+    "noItemModifierFound": "Tuotteen muokkaajaa ei löytynyt!\\n Yritä lisätä tuotteen muokkaaja.",
+    "noModifierGroupFound": "Muokkaajaryhmää ei löytynyt!\\n Yritä lisätä muokkaajaryhmä.",
+    "noOptionsFound": "Vaihtoehtoja ei löytynyt!",
+    "maxImageCountLimit": "Voit valita enintään 5 kuvaa.",
+    "noQuotationFound": "Tarjousta ei löytynyt!\\n Yritä lisätä tarjous.",
+    "noPermittedUserFound": "Oikeutettua käyttäjää ei löytynyt!\\n Yritä lisätä käyttäjä."
+  },
+  "prompt": {
+    "logout": {
+      "title": "@:common.logout",
+      "message": "Oletko varma, että haluat kirjautua ulos?"
+    },
+    "unsavedWarning": {
+      "title": "Haluatko palata takaisin?",
+      "message": "Muutettuja kenttiä ei ehkä tallenneta!"
+    },
+    "verify": {
+      "title": "Vahvista sähköpostiosoitteesi",
+      "description(rich)": "Olemme lähettäneet vahvistuskoodisähköpostin${emailSpan}\n\nOn mahdollista, että viesti päätyi roskapostikansioosi."
+    },
+    "subscriptionExpired": {
+      "title": "Tilaus on vanhentunut!",
+      "message": "Jatka tilaamalla.",
+      "action": "Tilaa"
+    },
+    "items": {
+      "delete": {
+        "title": "Haluatko poistaa tämän tuotteen?"
+      },
+      "filter": {
+        "title": "Suodata",
+        "extra": {
+          "lowToHigh": "Halvimmasta kalleimpaan @:common.price",
+          "highToLow": "Kalleimmasta halvimpaan @:common.price"
+        }
+      }
+    },
+    "checkInternet": {
+      "title": "Ei internet-yhteyttä",
+      "message": "Tarkista Wi-Fi- tai mobiiliverkkoyhteytesi ja yritä uudelleen"
+    },
+    "back": {
+      "title": "Paina uudelleen takaisin poistuaksesi."
+    },
+    "stockModelSheet": {
+      "title": "Lisää uusi varasto"
+    },
+    "paymentMethod": {
+      "title": "Haluatko poistaa tämän maksutavan?"
+    },
+    "extMsg": {
+      "kotSavedSuccessfully": "KOT tallennettu onnistuneesti"
+    },
+    "deleteStaff": "Haluatko poistaa tämän työntekijän?",
+    "deleteIngredient": "Haluatko poistaa tämän ainesosan?",
+    "deleteItemModifier": "Haluatko poistaa tämän tuotteen muokkaajan?",
+    "deleteModifierGroup": "Haluatko poistaa tämän muokkaajaryhmän?",
+    "deleteQuotation": "Haluatko poistaa tämän tarjouksen?"
+  },
+  "form": {
+    "fullName": {
+      "label": "@:common.fullName",
+      "hint": "Syötä @:common.fullName",
+      "errors": {
+        "required": "Syötä koko nimesi"
+      }
+    },
+    "email": {
+      "label": "@:common.email",
+      "hint": "Syötä sähköpostiosoitteesi",
+      "errors": {
+        "required": "Syötä sähköpostiosoitteesi",
+        "invalid": "⦸ Virheellinen sähköposti, yritä uudelleen"
+      }
+    },
+    "password": {
+      "label": "@:common.password",
+      "hint": "* * * * * * * *",
+      "errors": {
+        "required": "Syötä salasanasi",
+        "minLength": "Salasanan on oltava vähintään ${count} merkkiä pitkä!"
+      }
+    },
+    "confirmPassword": {
+      "label": "Vahvista salasana",
+      "hint": "* * * * * * * *",
+      "errors": {
+        "required": "Syötä salasanasi",
+        "invalid": "'Vahvistettu salasana ei täsmää!"
+      }
+    },
+    "otp": {
+      "errors": {
+        "required": "Syötä OTP.",
+        "invalid": "Syötä nykyinen OTP."
+      }
+    },
+    "profile": {
+      "businessCategory": {
+        "label": "Liiketoimintaluokka",
+        "hint": "Valitse liiketoimintaluokka",
+        "errors": {
+          "required": "Valitse liiketoimintaluokka"
+        }
+      },
+      "shopOrStore": {
+        "label": "Kaupan/myymälän nimi*",
+        "hint": "Syötä kaupan tai myymälän nimi",
+        "errors": {
+          "required": "Syötä kaupan tai myymälän nimi"
+        }
+      },
+      "openingBalance": {
+        "label": "Aloitussaldo",
+        "hint": "Syötä aloitussaldo"
+      },
+      "vatGstTitle": {
+        "label": "ALV/GST-nimike",
+        "hint": "Syötä ALV/GST"
+      },
+      "vatGstNumber": {
+        "label": "ALV/GST-numero",
+        "hint": "Syötä ALV/GST-numero"
+      }
+    },
+    "vat": {
+      "name": {
+        "label": "Nimi",
+        "hint": "Syötä ALV:n nimi",
+        "error": {
+          "required": "Syötä ALV:n nimi"
+        }
+      },
+      "subVat": {
+        "label": "ALV-alaryhmä",
+        "hint": "Valitse ALV-alaryhmä",
+        "errors": {
+          "required": "Valitse ALV-alaryhmä"
+        }
+      },
+      "rate": {
+        "label": "ALV-prosentti %",
+        "hint": "Anna ALV-prosentti",
+        "errors": {
+          "required": "Anna ALV-prosentti."
+        }
+      }
+    },
+    "category": {
+      "label": "@:common.category",
+      "hint": "Valitse tuoteryhmä",
+      "error": {
+        "required": "Syötä luokan nimi"
+      }
+    },
+    "items": {
+      "barcode": {
+        "label": "Viivakoodi",
+        "hint": "@:common.selectOne"
+      },
+      "itemName": {
+        "label": "Tuotteen nimi",
+        "hint": "Syötä tuotteen nimi",
+        "extra": {
+          "required": "Syötä tuotteen nimi"
+        }
+      },
+      "itemCategory": {
+        "label": "Tuoteryhmä",
+        "hint": "Tuoteryhmä",
+        "extra": {
+          "label": "Valitse kategoria",
+          "required": "Valitse kategoria"
+        }
+      },
+      "brand": {
+        "label": "@:common.brand",
+        "hint": "@:common.selectOne",
+        "extra": {
+          "hint": "Syötä tuotemerkin nimi",
+          "required": "Syötä tuotemerkin nimi"
+        }
+      },
+      "unit": {
+        "label": "@:common.unit",
+        "hint": "@:common.selectOne",
+        "error": {
+          "required": "Syötä yksikön nimi"
+        }
+      },
+      "stock": {
+        "label": "Aloitusvarasto",
+        "hint": "@:common.commonHint",
+        "extra": {
+          "required": "Syötä tuotteen määrä."
+        }
+      },
+      "lowStock": {
+        "label": "@:common.lowStock",
+        "hint": "Esim: 5"
+      },
+      "purchasePrice": {
+        "label": "@:common.purchasePrice",
+        "hint": "Esim: \\$40",
+        "error": {
+          "required": "Syötä ostohinta."
+        }
+      },
+      "salePrice": {
+        "label": "Myyntihinta",
+        "hint": "Esim: \\$60",
+        "error": {
+          "required": "Syötä myyntihinta."
+        }
+      },
+      "totalSalePrice": {
+        "label": "Kokonaismyyntihinta",
+        "hint": "Esim: \\$100"
+      },
+      "wholeSalePrice": {
+        "label": "@:common.wholeSalePrice",
+        "hint": "Syötä tukkuhinta"
+      },
+      "dealerPrice": {
+        "label": "@:common.dealerPrice",
+        "hint": "Syötä jälleenmyyjän hinta"
+      },
+      "discount": {
+        "label": "Alennus (%)",
+        "hint": "@:common.commonHint"
+      },
+      "applicableTax": {
+        "label": "Soveltuva vero",
+        "hint": "@:common.selectOne"
+      },
+      "vatType": {
+        "label": "@:common.taxType",
+        "errorText": {
+          "required": "Valitse ALV-tyyppi"
+        }
+      },
+      "menu": {
+        "label": "Valitse menu",
+        "errors": {
+          "required": "Valitse menu."
+        },
+        "hint": "Valitse menu",
+        "extra": {
+          "selectNavLabel": "Valitse Tuotemenu"
+        }
+      },
+      "modifierItems": {
+        "label": "Muokkaajatuotteet",
+        "hint": "Valitse muokkaajatuotteet"
+      },
+      "preparationTime": {
+        "label(rich)": "Valmistusaika ${minutes(Minutes)}",
+        "hint": "Esim: 30"
+      },
+      "variation": {
+        "name": {
+          "label": "Nimi",
+          "hint": "Anna variaatio",
+          "errors": {
+            "required": "Anna variaation nimi."
+          }
+        },
+        "price": {
+          "errors": {
+            "required": "Anna hinta."
+          },
+          "label": "Hinta",
+          "hint": "Esim: 30 €"
+        }
+      }
+    },
+    "itemCart": {
+      "hint": "@:common.commonHint",
+      "error": {
+        "required": "@:common.pleaseEnterQuantity",
+        "noZero": "@:common.quantityMustBeGreaterThanZero"
+      }
+    },
+    "sales": {
+      "autoGenerateInvoice": {
+        "label": "Laskun numero",
+        "hint": "P-00001"
+      },
+      "date": {
+        "label": "Päivämäärä"
+      },
+      "customer": {
+        "label": "Asiakas",
+        "hint": "Valitse asiakas"
+      },
+      "phone": {
+        "label": "Puhelinnumero",
+        "hint": "Syötä puhelinnumero"
+      },
+      "address": {
+        "label": "Osoite",
+        "hint": "Syötä osoite"
+      },
+      "deliveryCharge": {
+        "label": "@:common.deliveryCharge",
+        "hint": "Esim: \\$20",
+        "hint2": "Kuljetusmaksu Esim: 10 €"
+      },
+      "table": {
+        "hint": "Valitse pöytä"
+      },
+      "waiter": {
+        "hint": "Valitse tarjoilija"
+      }
+    },
+    "bill": {
+      "label": "Laskun numero",
+      "hint": "P-00001"
+    },
+    "supplier": {
+      "label": "Toimittaja",
+      "hint": "Valitse toimittaja",
+      "extra": {
+        "required": "Valitse toimittaja"
+      }
+    },
+    "phone": {
+      "label": "Puhelinnumero",
+      "hint": "Syötä puhelinnumero",
+      "errors": {
+        "required": "Syötä puhelinnumero."
+      }
+    },
+    "address": {
+      "label": "Osoite",
+      "hint": "Syötä osoite"
+    },
+    "payment": {
+      "label": "Nimi",
+      "hint": "Syötä maksun nimi",
+      "error": {
+        "required": "Syötä maksutavan nimi"
+      }
+    },
+    "expense": {
+      "label": "Kululuokka",
+      "hint": "Valitse kululuokka",
+      "error": {
+        "required": "Syötä kululuokka"
+      }
+    },
+    "income": {
+      "label": "Tuloluokka",
+      "hint": "Syötä luokan nimi",
+      "error": {
+        "required": "Syötä luokan nimi"
+      },
+      "incomeTitle": {
+        "label": "Tulon otsikko",
+        "hint": "Syötä tulo"
+      },
+      "incomeCategory": {
+        "label": "Tuloluokka",
+        "hint": "Valitse luokka"
+      },
+      "payment": {
+        "label": "Maksu",
+        "hint": "Esim: \\$10"
+      }
+    },
+    "note": {
+      "label": "Huomautus (valinnainen)",
+      "hint": "Syötä teksti"
+    },
+    "parties": {
+      "partyName": {
+        "label": "Osapuolen nimi",
+        "hint": "Syötä osapuolen nimi",
+        "error": {
+          "required": "Syötä osapuolen nimi"
+        }
+      },
+      "partyPhone": {
+        "label": "Puhelinnumero",
+        "hint": "Syötä puhelinnumero",
+        "error": {
+          "required": "Syötä puhelinnumero"
+        }
+      }
+    },
+    "table": {
+      "name": {
+        "label": "Pöydän nimi",
+        "hint": "Syötä pöydän nimi",
+        "error": {
+          "required": "Syötä pöydän nimi"
+        }
+      },
+      "capacity": {
+        "label": "Kapasiteetti",
+        "hint": "Syötä kapasiteetti",
+        "error": {
+          "required": "Syötä kapasiteetti"
+        }
+      }
+    },
+    "designation": {
+      "label": "@:common.designation",
+      "hint": "Valitse nimike",
+      "errors": {
+        "required": "Valitse nimike."
+      }
+    },
+    "ingredientName": {
+      "label": "Ainesosan nimi",
+      "hint": "Anna ainesosan nimi",
+      "errors": {
+        "required": "Anna ainesosan nimi"
+      }
+    },
+    "item": {
+      "label": "Tuote",
+      "hint": "Valitse tuote",
+      "errors": {
+        "required": "Valitse tuote."
+      }
+    },
+    "modifierGroup": {
+      "label": "Muokkaajaryhmä",
+      "hint": "Valitse muokkaajaryhmä",
+      "errors": {
+        "required": "Valitse muokkaajaryhmä."
+      }
+    },
+    "description": {
+      "label": "Kuvaus",
+      "hint": "Anna kuvaus"
+    },
+    "staff": {
+      "label": "@:common.staff",
+      "hint": "Valitse henkilöstö",
+      "errors": {
+        "required": "Valitse henkilöstö"
+      }
+    },
+    "loginUserName": {
+      "label": "Kirjautumiskäyttäjänimi",
+      "hint": "Syötä käyttäjänimi tai sähköpostiosoite",
+      "errors": {
+        "required": "Syötä käyttäjänimi tai sähköpostiosoite"
+      }
+    }
+  },
+  "action": {
+    "next": "Seuraava",
+    "getStarted": "Aloita",
+    "skip": "Ohita",
+    "select": "Valitse",
+    "save": "Tallenna",
+    "verify": "Vahvista",
+    "signIn": "@:common.signIn",
+    "signUp": "@:common.signUp",
+    "continue": "Jatka",
+    "no": "Ei",
+    "yes": "Kyllä",
+    "okay": "Ok",
+    "cancel": "Peruuta",
+    "confirm": "Vahvista",
+    "tryAgain": "Yritä uudelleen",
+    "reset": "Nollaa",
+    "apply": "Käytä",
+    "stockAdjust": "Säädä varastoa",
+    "addMoreItems": "Lisää tuotteita",
+    "hold": "Pidä",
+    "parcel": "@:common.parcel",
+    "buyNow": "Osta nyt",
+    "viewAll": "Näytä kaikki",
+    "viewLedger": "Näytä kirjanpito",
+    "submit": "Lähetä",
+    "selected": "Valittu",
+    "addToCart": "Lisää ostoskoriin",
+    "selectAll": "Valitse kaikki",
+    "update": "@:common.update",
+    "addRole": "Lisää rooli"
+  },
+  "pages": {
+    "language": {
+      "appbarTitle": "@:action.select @:common.language"
+    },
+    "onboard": {
+      "onboardData": {
+        "data1": {
+          "title": "Helppokäyttöinen @:common.appName",
+          "description": "Saumattomat tilaukset, vaivattomat varaukset\\nVoimaa ravintolaasi vaivattomasti!"
+        },
+        "data2": {
+          "title": "Vaivaton tilausten hallinta",
+          "description": "Virtaviivaista ravintolasi tilausten vastaanottoprosessia intuitiivisella kassajärjestelmällämme."
+        },
+        "data3": {
+          "title": "Erinomainen analytiikka ja raportointi",
+          "description": "Analyysinäkymämme tarjoaa reaaliaikaiset myynti- ja ostoraportit"
+        }
+      }
+    },
+    "signIn": {
+      "title": "Tervetuloa takaisin",
+      "subtitle": "Syötä tietosi.",
+      "extra": {
+        "rememberMe": "Muista minut",
+        "signUpNavigator(rich)": "Eikö sinulla ole tiliä? ${getStarted(@:action.getStarted)}",
+        "forgotPassword": "@:common.forgotPassword?"
+      }
+    },
+    "signUp": {
+      "title": "Luo tili",
+      "subtitle": "Syötä tietosi",
+      "extra": {
+        "signInNavigator(rich)": "Onko sinulla jo tili? ${signIn(@:action.signIn)}"
+      }
+    },
+    "forgotPassword": {
+      "title": "@:common.forgotPassword",
+      "subtitle": "Syötä sähköpostiosoitteesi salasanasi palauttamiseksi."
+    },
+    "otpVerification": {
+      "title": "Vahvistus",
+      "subtitle": "6-numeroinen PIN-koodi on lähetetty sähköpostiosoitteeseesi",
+      "extra": {
+        "codeResend": {
+          "codeSendIn": "Koodi lähetetään",
+          "resendCode": "Lähetä koodi uudelleen"
+        }
+      }
+    },
+    "resetPassword": {
+      "title": "Nollaa salasana",
+      "subtitle": "Nollaa salasanasi palautusta ja tilillesi kirjautumista varten",
+      "extra": {
+        "dialog": {
+          "title": "Muutettu onnistuneesti!",
+          "subtitle": "Kirjaudu sisään uudella salasanallasi.\nSinut ohjataan kirjautumissivulle..."
+        }
+      }
+    },
+    "items": {
+      "itemList": {
+        "extra": {
+          "emptyItem": "Tuotetta ei löytynyt!\nYritä lisätä tuote."
+        }
+      },
+      "manageItems": {
+        "title": "Lisää uusi tuote",
+        "title2": "Muokkaa tuotetta",
+        "extra": {
+          "maximum": "Enintään 5",
+          "wholeSaleAndDealerPrice": "Tukku- ja jälleenmyyjän hinta",
+          "addDiscount": "Lisää alennus",
+          "addVat": "Lisää ALV"
+        }
+      },
+      "itemDetails": {
+        "title": "Tuotteen tiedot",
+        "extra": {
+          "noImageAvailable": "Kuvaa ei saatavilla!",
+          "preparationTime(rich)": "Valmistusaika: ${min: String} ${mins(mins)}",
+          "pleaseSelectVariation": "Valitse muunnelma",
+          "pleaseSelectOption": "Valitse vaihtoehto.",
+          "enterYourInstruction": "Kirjoita ohjeesi"
+        }
+      }
+    },
+    "category": {
+      "addNewCategory": "Lisää uusi kategoria",
+      "editCategory": "Muokkaa kategoriaa"
+    },
+    "brand": {
+      "addNewBrand": "Lisää uusi tuotemerkki",
+      "editBrand": "Muokkaa tuotemerkkiä"
+    },
+    "unit": {
+      "addNewUnit": "Lisää uusi yksikkö",
+      "editUnit": "Muokkaa yksikköä"
+    },
+    "stock": {
+      "stockList": "Varastoluettelo"
+    },
+    "aboutUs": {
+      "title": "Meistä"
+    },
+    "privacyPolicy": {
+      "title": "Tietosuojakäytäntö"
+    },
+    "termAndCondition": {
+      "title": "@:common.termAndCondition"
+    },
+    "orders": {
+      "manageOrders": {
+        "extra": {
+          "billItems": "Laskun tuotteet",
+          "manageQuantity": "Hallitse määrää"
+        },
+        "title": {
+          "editOrder": "Muokkaa tilausta",
+          "editKOT": "KOT Muokkaus"
+        }
+      }
+    },
+    "onlinePayment": {
+      "title": "Verkkomaksu"
+    },
+    "paymentStatus": {
+      "success": {
+        "title": "Kiitos!",
+        "message": "Tarkistamme maksun ja hyväksymme sen 24 tunnin kuluessa.",
+        "actionButtonText": "Näytä lasku"
+      },
+      "fail": {
+        "title": "Oho! Maksu epäonnistui",
+        "message": "Tapahtumasi epäonnistui teknisen virheen vuoksi.",
+        "actionButtonText": "Yritä uudelleen"
+      }
+    },
+    "confirmationDialog": {
+      "title": "Kirjaudu ulos",
+      "message": "Oletko varma, että haluat kirjautua ulos?",
+      "acceptationText": "Ei",
+      "rejectionText": "Kirjaudu ulos"
+    },
+    "payment": {
+      "title": "@:common.paymentMethod",
+      "addPaymentMethod": "Lisää uusi maksutapa",
+      "editPaymentMethod": "Muokkaa maksutapaa",
+      "choseOnlinePayment": "Valitse verkkomaksu",
+      "selectPaymentMethod": "Valitse maksutapa",
+      "pleaseSelectAPaymentMethod": "Valitse maksutapa.",
+      "methodStatus": {
+        "title": "Tila",
+        "message": "Tila ei voi olla ei aktiivinen, jos pikakatselu on käytössä!."
+      }
+    },
+    "subscriptionPlan": {
+      "title": "Osta Premium-tilaus",
+      "extra": {
+        "actionButtonText": "Mene takaisin",
+        "message": "Tilausmaksu onnistui.\n\nVoit nyt käyttää tilattuja ominaisuuksia.",
+        "mostPopular": "Suosituin"
+      }
+    },
+    "invoicePreview": {
+      "title": "Laskun esikatselu",
+      "message": "PDF-esikatselu tulossa pian"
+    },
+    "currency": {
+      "title": "@:common.currency"
+    },
+    "dashboard": {
+      "overview": "Yleiskatsaus",
+      "dashboardPrivacy": "Hallintapaneelin yksityisyys",
+      "moneyInAndMoneyOut": "Saapuneet ja lähteneet maksut",
+      "lossAndProfitOverView": "Tappio- ja voitto-yleiskatsaus"
+    },
+    "due": {
+      "title": "@:common.dueList",
+      "collectionList": "Perintäluettelo",
+      "dueCollection": "Erääntyneiden perintä"
+    },
+    "expense": {
+      "title": "@:common.expense",
+      "editExpense": "Muokkaa kulua",
+      "addNewExpense": "Lisää uusi kulu",
+      "editExpenseCategory": "Muokkaa kulukategoriaa",
+      "addNewExpenseCategory": "Lisää uusi kulukategoria",
+      "payment": "Maksu",
+      "expenseCategory": "Kulukategoria",
+      "selectCategory": "Valitse kategoria",
+      "allExpense": "Kaikki kulut",
+      "pleaseSelectACategory": "Valitse kategoria",
+      "expenseTitle": {
+        "label": "Kulun otsikko",
+        "hint": "Syötä kulu"
+      }
+    },
+    "lossProfit": {
+      "title": "Tappio/Voitto -lista",
+      "noLossProfitFound": "Tappiota/voittoa ei löytynyt!\nOle hyvä ja yritä luoda myyntejä."
+    },
+    "income": {
+      "editIncomeCategory": "Muokkaa tuloluokkaa",
+      "addNewIncomeCategory": "Lisää uusi tuloluokka",
+      "incomeCategory": "Tuloluokka",
+      "allIncome": "Kaikki tulot",
+      "editIncome": "Muokkaa tuloja",
+      "addNewIncome": "Muokkaa tuloja",
+      "addIncome": "Lisää tuloja"
+    },
+    "moneyIn": {
+      "title": "Saapuneet maksut",
+      "totalPaymentIn": "Saapuneet maksut yhteensä"
+    },
+    "moneyOut": {
+      "title": "Lähteneet maksut",
+      "totalMoneyOut": "Lähteneet maksut yhteensä"
+    },
+    "profile": {
+      "title": "Oma profiili",
+      "editProfile": "Muokkaa profiilia",
+      "businessInformation": "Yrityksen tiedot",
+      "profileInformation": "Profiilin tiedot"
+    },
+    "parties": {
+      "title": "Osapuoliluettelo",
+      "allParties": "Kaikki osapuolet",
+      "customer": "Asiakas",
+      "supplier": "Toimittaja",
+      "addParties": "Lisää osapuolia",
+      "editParties": "Muokkaa osapuolia",
+      "partiesDetails": "Osapuolen tiedot",
+      "personalInfo": "Henkilötiedot"
+    },
+    "ledger": {
+      "subTitle": "Kirjanpito"
+    },
+    "purchase": {
+      "title": "Lisää uusi osto",
+      "editPurchase": "Muokkaa ostoa"
+    },
+    "reports": {
+      "title": "Raportit"
+    },
+    "table": {
+      "title": "Lisää uusi pöytä",
+      "editTable": "Muokkaa pöytää"
+    },
+    "tax": {
+      "title": "ALV-prosentit",
+      "buildHeaderTitle": "ALV-prosentit - Hallitse ALV-prosenttejasi",
+      "vatGroup": {
+        "title": "ALV-ryhmä",
+        "subTitle": "ALV-ryhmä - Hallitse ALV-ryhmääsi"
+      }
+    },
+    "vat": {
+      "addNewVat": "Lisää uusi ALV",
+      "editVat": "Muokkaa ALV:tä",
+      "addNewVatGroup": "Lisää uusi ALV-ryhmä",
+      "editVatGroup": "Muokkaa ALV-ryhmää"
+    },
+    "orderList": {
+      "title": "Tilauslista",
+      "filters": {
+        "orderType": {
+          "label": "@:common.orderType",
+          "hint": "Valitse tilaustyyppi"
+        },
+        "paymentStatus": {
+          "hint": "Valitse maksun tila",
+          "label": "Maksun tila"
+        }
+      }
+    },
+    "staffs": {
+      "staffList": {
+        "filters": {
+          "designation": {
+            "label": "Nimike",
+            "hint": "Valitse nimike"
+          }
+        },
+        "title": "Kaikki henkilökunta"
+      },
+      "manageStaff": {
+        "title1": "Lisää uusi työntekijä",
+        "title2": "Päivitä työntekijä"
+      }
+    },
+    "ingredient": {
+      "ingredientList": {
+        "title1": "Ainesosaluettelo",
+        "title2": "Valitse ainesosa"
+      },
+      "manageIngredient": {
+        "title1": "Lisää uusi ainesosa",
+        "title2": "Muokkaa ainesosaa"
+      }
+    },
+    "itemModifier": {
+      "itemModifierList": {
+        "title": "@:common.itemModifiers"
+      },
+      "manageItemModifier": {
+        "title1": "Lisää tuotemuokkaajia",
+        "title2": "Muokkaa tuotemuokkaajia"
+      }
+    },
+    "quotation": {
+      "manageQuotation": {
+        "title": {
+          "add": "Lisää uusi tarjous",
+          "edit": "Muokkaa tarjousta",
+          "convert": "Muunna myynniksi"
+        }
+      }
+    },
+    "rolePermission": {
+      "rolePermissionList": {
+        "title": "Roolien ja käyttöoikeuksien luettelo"
+      },
+      "manageRolePermission": {
+        "title1": "Lisää uusi rooli",
+        "title2": "Muokkaa roolia"
+      }
+    },
+    "printingOption": {
+      "title": "Tulostusvaihtoehto",
+      "form": {
+        "companyAddress": {
+          "label": "Yrityksen osoite",
+          "hint": "Syötä yrityksen osoite"
+        },
+        "noteLabel": {
+          "label": "Huomautuksen tunniste",
+          "hint": "Syötä huomautuksen tunniste."
+        },
+        "note": {
+          "label": "Huomautus",
+          "hint": "Syötä huomautus."
+        },
+        "postSaleMessage": {
+          "label": "Myynnin jälkeinen viesti",
+          "hint": "Syötä myynnin jälkeinen viesti"
+        },
+        "printingMethod": {
+          "label": "Tulostusmenetelmä",
+          "hint": "Valitse tulostusmenetelmä"
+        },
+        "printerProfile": {
+          "label": "Tulostimen profiili",
+          "hint": "Valitse tulostimen profiili"
+        },
+        "paperSize": {
+          "label": "Termisen tulostimen paperikoko",
+          "hint": "Valitse tulostimen paperikoko"
+        },
+        "printerDpi": {
+          "label": "Tulostimen DPI",
+          "hint": "Es: 203"
+        },
+        "printingMargin": {
+          "label": "Tulostusmarginaali",
+          "hint": "Es: 2"
+        }
+      },
+      "tooltip": {
+        "printingMethod": {
+          "title": "Pudotusvalikko vaihtoehdoilla:",
+          "default": "• Oletus (Alkuperäinen menetelmä EU-standardimerkkien tulostamiseen)",
+          "image": "• Kuva (Suositeltava Unicode-merkkien tulostamiseen)"
+        }
+      },
+      "action": {
+        "save": "Tallenna"
+      }
+    },
+    "kitchen": {
+      "list": {
+        "noKitchensFound": "Keittiöitä ei löytynyt.\n Yritä lisätä yksi."
+      },
+      "manage": {
+        "addKitchen": "Lisää keittiö",
+        "editKitchen": "Muokkaa keittiötä",
+        "kitchenName": {
+          "label": "Keittiön nimi",
+          "hint": "Syötä keittiön nimi",
+          "error": "Syötä keittiön nimi."
+        },
+        "description": {
+          "label": "Kuvaus",
+          "hint": "Syötä kuvaus"
+        }
+      },
+      "manageItems": {
+        "title": "Hallitse tuotteita",
+        "addedItems": "Lisätyt tuotteet",
+        "selectItemsError": "Valitse tuotteita.",
+        "noItemsAdded": "Tuotteita ei ole vielä lisätty!\nYritä lisätä tuotteita."
+      },
+      "card": {
+        "itemName": "Tuotteen nimi",
+        "manageItems": "+ Hallitse tuotteita",
+        "deleteItemConfirm": "Haluatko poistaa tämän tuotteen?",
+        "deleteKitchenConfirm": "Haluatko poistaa tämän keittiön?"
+      }
+    }
+  },
+  "enums": {
+    "dropdownDateFilter": {
+      "daily": "Päivittäin",
+      "weekly": "Viikoittain",
+      "monthly": "Kuukausittain",
+      "yearly": "Vuosittain",
+      "custom": "Mukautettu"
+    },
+    "orderTypes": {
+      "dineIn": "Paikan päällä",
+      "pickUp": "Nouto",
+      "delivery": "Toimitus",
+      "reservation": "Varaus",
+      "quotation": "Tarjous"
+    },
+    "paymentStatus": {
+      "paid": "Maksettu",
+      "unpaid": "Maksamaton"
+    },
+    "staffTypes": {
+      "manager": "Esimies",
+      "waiter": "Tarjoilija",
+      "chef": "Kokki",
+      "cleaner": "Siivooja",
+      "driver": "Kuljettaja",
+      "deliveryBoy": "Jakelija"
+    },
+    "itemFoodTypes": {
+      "veg": "Kasvis",
+      "nonVeg": "Ei-kasvis",
+      "egg": "Muna",
+      "drink": "Juoma",
+      "others": "Muut"
+    },
+    "itemTypes": {
+      "single": "Yksittäinen",
+      "variation": "Variaatio"
+    },
+    "quotationStatus": {
+      "open": "Avoin",
+      "closed": "Suljettu"
+    },
+    "tableStatus": {
+      "running": "Varattu",
+      "available": "Vapaa"
+    },
+    "thermalPrinterPrintingMethod": {
+      "image": "Kuva",
+      "default": "Oletus"
+    },
+    "kotOrderStatus": {
+      "label": {
+        "pending": "Odottaa",
+        "preparing": "Valmistetaan",
+        "ready": "Ruoka on valmis",
+        "served": "Tarjoiltu",
+        "cancelled": "Peruttu"
+      },
+      "pending": "Odottaa",
+      "preparing": "Valmistetaan",
+      "ready": "Ruoka on valmis",
+      "served": "Tarjoiltu",
+      "cancelled": "Peruttu"
+    },
+    "kotItemStatus": {
+      "pending": "Aloita valmistus",
+      "start": "Merkitse valmiiksi",
+      "ready": "Valmis"
+    }
+  },
+  "thermalPrint": {
+    "invoice": {
+      "purchaseInvoiceLabel": "Osto lasku: ${invoiceNumber: String}",
+      "saleInvoiceLabel": "Tilausnro: ${invoiceNumber: String}",
+      "receiptNoLabel": "Kuitin nro: ${invoiceNumber: String}",
+      "orderNoKotLabel": "Tilausnro: ${invoiceNumber: String}",
+      "nameLabel": "Nimi: ${name: String}",
+      "mobileLabel": "Matkapuhelin: ${phone: String}",
+      "purchasedByLabel": "Ostaja: ${role: String}",
+      "salesByLabel": "Myyjä: ${role: String}",
+      "paidByLabel": "${label: String}: ${role: String}",
+      "paidToReceivedFromLabel": "${label: String}: ${name: String}",
+      "orderTypeLabel": "Tilaustyyppi: ${orderType: String}",
+      "tableLabel": "Pöytä: ${tableName: String}",
+      "tableNoLabel": "Pöydän nro: ${tableName: String}",
+      "dateLabel": "Päivämäärä: ${dateTime: String}",
+      "invoiceFlag": "LASKU",
+      "receiptFlag": "KUITTI",
+      "paidBy": "Maksaja",
+      "receivedBy": "Vastaanottaja",
+      "paidTo": "Maksettu vastaanottajalle",
+      "receivedFrom": "Vastaanotettu lähettäjältä",
+      "seller": "Myyjä: ${name: String}",
+      "address": "Osoite: ${addr: String}",
+      "vatNo": "ALV-nro",
+      "tel": "Puh: ${phoneNumber: String}",
+      "timeLabel": "Aika: ${dateTime: String}"
+    },
+    "tableHeaders": {
+      "sl": "Nro",
+      "item": "Tuote",
+      "cost": "Kustannus",
+      "qty": "Kpl",
+      "uPrice": "Yks. hinta",
+      "amount": "Määrä",
+      "total": "Yhteensä",
+      "invoiceTable": "Lasku",
+      "dueTable": "Erääntynyt"
+    },
+    "summary": {
+      "subTotal": "Välisumma:",
+      "discount": "Alennus: ${percentFmt: String}",
+      "vat": "${vatName: String}: ${rateFmt: String}%",
+      "tip": "Juomaraha:",
+      "deliveryCharge": "Toimitusmaksu:",
+      "totalPayable": "Maksettava yhteensä:",
+      "paidAmount": "Maksettu summa:",
+      "dueAmount": "Erääntynyt summa:",
+      "paymentType": "Maksutapa: ${method: String}",
+      "remainingDue": "Jäljellä oleva erääntynyt:",
+      "paymentAmount": "Maksun summa:",
+      "itemsCount": "Tuotteet: ${count: int}",
+      "qtyTotal": "Kpl: ${totalQty: int}"
+    },
+    "footer": {
+      "note": "${noteLabel: String}: ${note: String}",
+      "developedBy": "${developByLabel: String} ${developBy: String}"
+    }
+  },
+  "hrm": {
+    "department": "Osasto",
+    "designation": "Nimike",
+    "shift": "Vuoro",
+    "employee": "Työntekijä",
+    "leave": "Loma",
+    "leaveType": "Lomatyyppi",
+    "leaveRequest": "Lomapyyntö",
+    "holiday": "Juhlapäivä",
+    "attendance": "Läsnäolo",
+    "payroll": "Palkkahallinto",
+    "pageTitles": {
+      "department": "Osasto",
+      "designation": "Nimike",
+      "shift": "Vuoro",
+      "employee": "Työntekijä",
+      "leave": "Loma",
+      "leaveType": "Lomatyyppi",
+      "holiday": "Juhlapäivä",
+      "attendance": "Läsnäolo",
+      "payroll": "Palkkahallinto",
+      "leaveReports": "Lomaraportit",
+      "payrollReports": "Palkkaraportit",
+      "attendanceReports": "Läsnäoloraportit",
+      "addDepartment": "Lisää osasto",
+      "editDepartment": "Muokkaa osastoa",
+      "addDesignation": "Lisää nimike",
+      "editDesignation": "Muokkaa nimikettä",
+      "addShift": "Lisää vuoro",
+      "editShift": "Muokkaa vuoroa",
+      "addEmployee": "Lisää työntekijä",
+      "editEmployee": "Muokkaa työntekijää",
+      "addLeave": "Lisää loma",
+      "editLeave": "Muokkaa lomaa",
+      "addLeaveType": "Lisää lomatyyppi",
+      "editLeaveType": "Muokkaa lomatyyppiä",
+      "addHoliday": "Lisää juhlapäivä",
+      "editHoliday": "Muokkaa juhlapäivää",
+      "addAttendance": "Lisää läsnäolo",
+      "editAttendance": "Muokkaa läsnäoloa",
+      "addPayroll": "Lisää palkka",
+      "editPayroll": "Muokkaa palkkaa"
+    },
+    "form": {
+      "labels": {
+        "department": "Osasto",
+        "designation": "Nimike",
+        "shift": "Vuoro",
+        "employee": "Työntekijä",
+        "leaveType": "Lomatyyppi",
+        "leaveDuration": "Loman kesto",
+        "paymentYear": "Maksuvuosi",
+        "paymentType": "Maksutyyppi",
+        "breakStatus": "Tauon tila",
+        "startTime": "Aloitusaika",
+        "endTime": "Lopetusaika",
+        "startBreakTime": "Tauon alku",
+        "endBreakTime": "Tauon loppu",
+        "breakTime": "Taukoaika",
+        "breakDuration": "Tauon kesto",
+        "timeIn": "Sisäänkirjaus",
+        "timeOut": "Uloskirjaus",
+        "duration": "Kesto",
+        "country": "Maa",
+        "salary": "Palkka",
+        "gender": "Sukupuoli",
+        "birthDate": "Syntymäaika",
+        "joinDate": "Liittymispäivä",
+        "holidayName": "Juhlapäivän nimi",
+        "startDate": "Aloituspäivä",
+        "endDate": "Lopetuspäivä",
+        "month": "Kuukausi",
+        "year": "Vuosi",
+        "status": "Tila",
+        "description": "Kuvaus",
+        "amount": "Määrä",
+        "payment": "Maksu",
+        "departmentName": "Osaston nimi",
+        "designationName": "Nimikkeen nimi",
+        "image": "Kuva",
+        "name": "Nimi"
+      },
+      "hints": {
+        "selectEmployee": "Valitse työntekijä",
+        "selectDepartment": "Valitse osasto",
+        "selectDesignation": "Valitse nimike",
+        "selectShift": "Valitse vuoro",
+        "selectLeaveType": "Valitse lomatyyppi",
+        "selectMonth": "Valitse kuukausi",
+        "selectYear": "Valitse vuosi",
+        "selectDate": "Valitse päivämäärä",
+        "selectStartDate": "Valitse aloituspäivä",
+        "selectEndDate": "Valitse lopetuspäivä",
+        "selectTimeIn": "Valitse sisäänkirjaus",
+        "selectTimeOut": "Valitse uloskirjaus",
+        "selectStartTime": "Valitse aloitusaika",
+        "selectEndTime": "Valitse lopetusaika",
+        "selectStatus": "Valitse tila",
+        "selectGender": "Valitse sukupuoli",
+        "selectPaymentType": "Valitse maksutyyppi",
+        "enterFullName": "Kirjoita koko nimi",
+        "enterEmail": "Kirjoita sähköposti",
+        "enterPhone": "Kirjoita puhelinnumero",
+        "enterCountry": "Kirjoita maa",
+        "enterSalary": "Esim: 500",
+        "enterHolidayName": "Kirjoita juhlapäivän nimi",
+        "enterDescription": "Kirjoita kuvaus...",
+        "autoCalculated": "Automaattisesti laskettu",
+        "selectDatesFirst": "Valitse päivämäärät ensin",
+        "allEmployee": "Kaikki työntekijät",
+        "selectEmployeeFirst": "Valitse työntekijä ensin",
+        "enterDepartmentName": "Kirjoita osaston nimi",
+        "enterDesignationName": "Syötä nimikkeen nimi",
+        "ex": "{value}",
+        "selectBirthDate": "Valitse syntymäaika",
+        "selectJoinDate": "Valitse liittymispäivä",
+        "selectBreakStatus": "Valitse tauon tila",
+        "enterLeaveTypeName": "Syötä poissaolotyypin nimi"
+      }
+    },
+    "emptyStates": {
+      "noLeaves": "Lomia ei löytynyt",
+      "noPayrollRecords": "Palkkatietoja ei löytynyt",
+      "noAttendanceRecords": "Läsnäolotietoja ei löytynyt",
+      "noLeaveTypes": "Poissaolotyyppejä ei löytynyt",
+      "noEmployees": "Työntekijöitä ei löytynyt",
+      "noHolidays": "Juhlapäiviä ei löytynyt",
+      "noShifts": "Vuoroja ei löytynyt",
+      "noDesignations": "Nimikkeitä ei löytynyt",
+      "noDepartments": "Osastoja ei löytynyt"
+    },
+    "confirmations": {
+      "deleteAttendance": "Haluatko varmasti poistaa tämän läsnäolon?",
+      "deletePayroll": "Haluatko varmasti poistaa tämän palkan?",
+      "deleteLeave": "Haluatko varmasti poistaa tämän loman?",
+      "deleteLeaveType": "Haluatko poistaa tämän poissaolotyypin?",
+      "deleteEmployee": "Haluatko varmasti poistaa tämän työntekijän?",
+      "deleteHoliday": "Haluatko varmasti poistaa tämän juhlapäivän?",
+      "deleteShift": "Haluatko poistaa tämän vuoron?",
+      "deleteDesignation": "Haluatko varmasti poistaa tämän nimikkeen?",
+      "deleteDepartment": "Haluatko varmasti poistaa tämän osaston?"
+    },
+    "validation": {
+      "selectEmployee": "Valitse työntekijä",
+      "selectMonth": "Valitse kuukausi",
+      "selectEndDate": "Valitse lopetuspäivä",
+      "endDateAfterStart": "Lopetuspäivän on oltava aloituspäivän jälkeen",
+      "selectStatus": "Valitse tila",
+      "selectLeaveType": "Valitse lomatyyppi",
+      "selectStartDate": "Valitse aloituspäivä",
+      "selectDate": "Valitse päivämäärä",
+      "selectTimeIn": "Valitse saapumisaika",
+      "selectTimeOut": "Valitse lähtöaika",
+      "enterDepartmentName": "Kirjoita osaston nimi",
+      "enterDesignationName": "Syötä nimikkeen nimi",
+      "enterName": "Kirjoita nimi",
+      "selectDesignation": "Valitse nimike",
+      "selectDepartment": "Valitse osasto",
+      "enterEmail": "Kirjoita sähköposti",
+      "enterValidEmail": "Kirjoita kelvollinen sähköposti",
+      "enterPhoneNumber": "Kirjoita puhelinnumero",
+      "enterCountry": "Kirjoita maa",
+      "enterSalary": "Kirjoita palkka",
+      "selectGender": "Valitse sukupuoli",
+      "selectShift": "Valitse vuoro",
+      "selectBirthDate": "Valitse syntymäaika",
+      "selectJoinDate": "Valitse liittymispäivä",
+      "enterHolidayName": "Kirjoita juhlapäivän nimi",
+      "selectBreakStatus": "Valitse tauon tila",
+      "selectPaymentYear": "Valitse maksun vuosi",
+      "selectPaymentType": "Valitse maksutapa",
+      "enterAmount": "Syötä määrä",
+      "selectStartBreakTime": "Valitse tauon alkamisaika",
+      "selectEndBreakTime": "Valitse tauon päättymisaika",
+      "enterLeaveTypeName": "Syötä poissaolotyypin nimi",
+      "selectStartTime": "Valitse alkamisaika",
+      "selectEndTime": "Valitse päättymisaika"
+    },
+    "dropdowns": {
+      "addNew": "+ Lisää uusi",
+      "morning": "Aamu",
+      "day": "Päivä",
+      "evening": "Ilta",
+      "night": "Yö",
+      "yes": "Kyllä",
+      "no": "Ei",
+      "approved": "Hyväksytty",
+      "rejected": "Hylätty",
+      "terminated": "Päätetty",
+      "suspended": "Keskeytetty",
+      "male": "Mies",
+      "female": "Nainen",
+      "pending": "Odottaa",
+      "active": "Aktiivinen",
+      "inactive": "Epäaktiivinen",
+      "paid": "Maksettu",
+      "unpaid": "Maksamaton"
+    },
+    "units": {
+      "days": "päivää"
+    },
+    "fallbacks": {
+      "noNoteAvailable": "Ei muistiinpanoa",
+      "noDescriptionAvailable": "Kuvausta ei saatavilla",
+      "selectEmployeeFirst": "Valitse työntekijä ensin"
+    },
+    "success": {
+      "leaveDelete": "Loma poistettu onnistuneesti",
+      "attendanceDelete": "Läsnäolo poistettu onnistuneesti",
+      "attendanceAdd": "Läsnäolo lisätty onnistuneesti",
+      "attendanceUpdate": "Läsnäolo päivitetty onnistuneesti",
+      "leaveAdd": "Loma lisätty onnistuneesti",
+      "leaveUpdate": "Loma päivitetty onnistuneesti",
+      "departmentDelete": "Osasto poistettu onnistuneesti",
+      "departmentAdd": "Osasto lisätty onnistuneesti",
+      "departmentUpdate": "Osasto päivitetty onnistuneesti",
+      "designationDelete": "Nimike poistettu onnistuneesti",
+      "designationAdd": "Nimike lisätty onnistuneesti",
+      "designationUpdate": "Nimike päivitetty onnistuneesti",
+      "employeeDelete": "Työntekijä poistettu onnistuneesti",
+      "employeeAdd": "Työntekijä lisätty onnistuneesti",
+      "employeeUpdate": "Työntekijä päivitetty onnistuneesti",
+      "holidayDelete": "Juhlapäivä poistettu onnistuneesti",
+      "holidayAdd": "Juhlapäivä lisätty onnistuneesti",
+      "holidayUpdate": "Juhlapäivä päivitetty onnistuneesti",
+      "leaveTypeDelete": "Lomatyyppi poistettu onnistuneesti"
+    }
+  }
+}

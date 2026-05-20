@@ -1,0 +1,1561 @@
+{
+  "@@meta": {
+    "languageCode": "no_NO",
+    "languageName": "Norwegian",
+    "version": "1.0.0"
+  },
+  "common": {
+    "signIn": "Logg inn",
+    "signUp": "Registrer deg",
+    "verifyEmail": "Bekreft e-post",
+    "customizeProfile": "Tilpass profil",
+    "imageOrLogo": "Logo eller bilde",
+    "createNewPassword": "Opprett nytt passord",
+    "itemsList": "Vareliste",
+    "searchItemsName": "Søk etter varenavn",
+    "categoryList": "Kategoriliste",
+    "brandList": "Merkeliste",
+    "unitList": "Enhetsliste",
+    "itemDetails": "Varedetaljer",
+    "addStock": "Legg til lager",
+    "profile": "Profil",
+    "language": "Språk",
+    "termsAndConditions": "Vilkår og betingelser",
+    "aboutUs": "Om oss",
+    "logout": "Logg ut",
+    "editProfile": "Rediger profil",
+    "fullName": "Fullt navn",
+    "email": "E-post",
+    "mobileNumber": "Mobilnummer",
+    "address": "Adresse",
+    "password": "Passord",
+    "forgotPassword": "Glemt passord",
+    "edit": "Rediger",
+    "delete": "Slett",
+    "addItems": "Legg til varer",
+    "stock": "Lager",
+    "currentStock": "Nåværende lager",
+    "value": "Verdi",
+    "sales": "Salg",
+    "purchase": "Kjøp",
+    "price": "Pris",
+    "image": "Bilde",
+    "upload": "Last opp",
+    "addNew": "Legg til ny",
+    "pricing": "Prissetting",
+    "name": "Navn",
+    "category(plural)": {
+      "one": "Kategori",
+      "other": "Kategoris"
+    },
+    "areas": "Areas",
+    "brand": "Merke",
+    "lowStock": "Lavt lager",
+    "unit": "Enhet",
+    "vat": "Mva",
+    "taxType": "Skatte type",
+    "purchasePrice": "Innkjøpspris",
+    "sellingPrice": "Salgspris",
+    "wholeSalePrice": "Engrospris",
+    "dealerPrice": "Forhandlerpris",
+    "searchHere": "Søk her",
+    "totalItems": "Totalt antall varer",
+    "stockValue": "Lagerverdi",
+    "congratulation": "Gratulerer",
+    "salesList": "Salgsoversikt",
+    "searchInvoiceNumber": "Søk fakturanummer",
+    "view": "Vis",
+    "kFor": "Til",
+    "total": "Totalt",
+    "subTotal": "Subtotal",
+    "insufficientStockAvailableStock": "Utilstrekkelig lager, tilgjengelig lager",
+    "discount": "Rabatt",
+    "selectOne": "Velg en",
+    "allCategory": "Alle kategorier",
+    "details": "Detaljer",
+    "parcel": "Pakke",
+    "kot": "KOT",
+    "table": "Bord",
+    "holdTable": "Hold bord",
+    "capacity": "Kapasitet",
+    "commonHint": "Eks: 10",
+    "pleaseEnterQuantity": "Vennligst angi antall",
+    "quantityMustBeGreaterThanZero": "Antall må være større enn 0",
+    "mobile": "Mobil",
+    "orderNo": "Ordrenr.",
+    "dateAndTime": "Dato og tid",
+    "items": "Varer",
+    "totalAmount": "Totalbeløp",
+    "paidAmount": "Betalt beløp",
+    "dueAmount": "Utestående beløp",
+    "paymentType": "Betalingstype",
+    "thankYou": "Takk",
+    "developedBy": "Utviklet av ${domain: String}",
+    "qty": "Pris",
+    "amount": "Beløp",
+    "dashboard": "Dashbord",
+    "reports": "Rapporter",
+    "home": "Hjem",
+    "parties": "Parter",
+    "subscriptionPlan": "Abonnementsplan",
+    "estimateList": "Oversikt over estimater",
+    "purchaseList": "Innkjøpsliste",
+    "dueList": "Utestående liste",
+    "lossOrProfit": "Tap/Fortjeneste",
+    "stocks": "Lagerbeholdning",
+    "moneyInList": "Oversikt over innbetalinger",
+    "moneyOutList": "Oversikt over utbetalinger",
+    "transactionList": "Transaksjonsoversikt",
+    "income": "Inntekter",
+    "expense": "Utgifter",
+    "quickView": "Hurtigvisning",
+    "to": "til",
+    "totalSales": "Totalt salg",
+    "totalPurchase": "Totalt kjøp",
+    "holdNumber": "Holdte ordre",
+    "totalExpense": "Totale utgifter",
+    "loss": "Tap",
+    "profit": "Fortjeneste",
+    "recentTransaction": "Nylige transaksjoner",
+    "invoice": "Faktura",
+    "moneyIn": "Innbetalinger",
+    "moneyOut": "Utbetalinger",
+    "paid": "Betalt",
+    "due": "Utestående",
+    "partial": "Delvis",
+    "print": "Skriv ut",
+    "addCategory": "Legg til kategori",
+    "addExpense": "Legg til utgift",
+    "search": "Søk...",
+    "viewDetails": "Vis detaljer",
+    "title": "Tittel",
+    "date": "Dato",
+    "note": "Notat",
+    "phoneNumber": "Telefonnummer",
+    "type": "Type",
+    "selectContactSType": "Velg kontakttype",
+    "moreInfo": "Mer info",
+    "paymentReceived": "Betaling mottatt",
+    "selectSupplier": "Velg leverandør",
+    "supplier": "Leverandør",
+    "received": "Mottatt",
+    "balanceDue": "Utestående saldo",
+    "addPurchase": "Legg til innkjøp",
+    "selectedItemWillBeCleared": "Valgte varer vil bli fjernet.",
+    "searchItemName": "Søk etter varenavn",
+    "billItems": "Fakturerte varer",
+    "addMoreItems": "Legg til flere varer",
+    "payAmount": "Betal beløp",
+    "salesReport": "Salgsrapport",
+    "purchaseReport": "Innkjøpsrapport",
+    "stockReport": "Lagerrapport",
+    "dueReport": "Utestående rapport",
+    "dueCollectionReport": "Rapport for utestående innbetalinger",
+    "transactionReport": "Transaksjonsrapport",
+    "incomeReport": "Inntektsrapport",
+    "dueCollectionList": "Oversikt over utestående innbetalinger",
+    "expenseReport": "Utgiftsrapporter",
+    "dueCollection": "Utestående innbetalinger",
+    "myProfile": "Min profil",
+    "printingOption": "Utskriftsalternativ",
+    "currency": "Valuta",
+    "paymentMethod": "Betalingsmetode",
+    "rateUs": "Gi oss en vurdering",
+    "termAndCondition": "Vilkår og betingelser",
+    "tableList": "Bordliste",
+    "addTable": "Legg til bord",
+    "vatRate": "Mva-sats %",
+    "action": "Handling",
+    "status": "Status",
+    "active": "Aktiv",
+    "inActive": "Inaktiv",
+    "subVats": "Under-mva",
+    "add": "Legg til",
+    "taxRate": "Skatteprosent %",
+    "subTaxes": "Subskatter",
+    "group": "gruppe",
+    "VAT": "MVA",
+    "subTaxList": "Liste over subskatter",
+    "vatPercent": "Mva-prosent",
+    "statusIsCannotInActive": "Status kan ikke være inaktiv hvis MVA er på salg.",
+    "vatOnSales": "MVA på salg",
+    "transaction": "Transaksjon",
+    "version": "Versjon ${version: String}",
+    "hold": "Vent",
+    "empty": "Tom",
+    "appName": "Restaurant App",
+    "duePayment": "Forfalt betaling",
+    "orders": "Bestillinger",
+    "all": "Alle",
+    "ingredient": "Ingrediens",
+    "menus": "Menyer",
+    "modifierGroups": "Modifikatorgrupper",
+    "itemModifiers": "Varemodifikatorer",
+    "staff": "Ansatte",
+    "coupon": "Kupong",
+    "pay": "Betal",
+    "pendingOrders": "Ventende bestillinger",
+    "order": "Bestilling",
+    "payNow": "Betal nå",
+    "addStaff": "Legg til ansatt",
+    "designation": "Stilling",
+    "itemAdded": "Vare lagt til",
+    "noItemAdded": "Ingen vare lagt til",
+    "saveNPrint": "Lagre og skriv ut",
+    "allowMultiSelection": "Tillat flervalg",
+    "required": "Påkrevd",
+    "optional": "Valgfri",
+    "allowMultiSelectionForSale": "Tillat flervalg for salg",
+    "isRequired": "Er påkrevd",
+    "modifier": "Modifikator",
+    "fullPayment": "Full betaling",
+    "payment": "Betaling",
+    "addTip": "Legg til tips",
+    "netPayable": "Nettobeløp å betale",
+    "receiveAmount": "Mottatt beløp",
+    "changeAmount": "Vekselpenger",
+    "quotationList": "Tilbudsliste",
+    "addQuotation": "Legg til tilbud",
+    "convert": "Konverter",
+    "variations": "Variasjoner",
+    "instructions": "Instruksjoner",
+    "unavailable": "Utilgjengelig",
+    "tip": "Tips",
+    "salesQuotationReport": "Salgstilbudsrapport",
+    "orderType": "Bestillingstype",
+    "deliveryCharge": "Leveringsgebyr",
+    "receiptNo": "Kvitteringsnummer",
+    "paidBy": "Betalt av",
+    "receivedBy": "Mottatt av",
+    "paymentAmount": "Betalingsbeløp",
+    "remainingDue": "Gjenstående beløp",
+    "roleNPermission": "Rolle og tillatelse",
+    "sl": "SL",
+    "features": "Funksjoner",
+    "create": "Opprett",
+    "update": "Oppdater",
+    "quotations": "Tilbud",
+    "restaurant": "Restaurant",
+    "printerProfile": "Skriverprofil",
+    "kitchenOrders": "Kjøkkenordrer",
+    "kitchen(plural)": {
+      "one": "Kjøkken",
+      "other": "Kjøkken"
+    },
+    "allKOT": "Alle KOT",
+    "cancelKOT": "Avbryt KOT",
+    "selectCancelReason": "Velg avbruddsårsak",
+    "additionalComment": "Tilleggskommentar",
+    "enterComment": "Skriv inn kommentar",
+    "orderStatus": "Ordrestatus",
+    "selectOrderStatus": "Velg ordrestatus",
+    "kotReport": "KOT-rapport",
+    "itemFoodType": "Matvaretype",
+    "selectItemFoodType": "Velg @:common.itemFoodType",
+    "markAllAsRead": "Merk alt som lest",
+    "online": "Online",
+    "cancelledReason": "Cancelled Reason",
+    "hrm": "HRM",
+    "notAvailable": "N/A"
+  },
+  "exceptions": {
+    "somethingWentWrong": "Noe gikk galt, vennligst prøv igjen",
+    "noCategoryFound": "Ingen kategori funnet!\n Vennligst prøv å legge til en kategori.",
+    "doYouWantToDeleteThisCategory": "Vil du slette denne kategorien?",
+    "noBrandFound": "Ingen merkevare funnet!\n Vennligst prøv å legge til en merkevare.",
+    "doYouWantToDeleteThisBrand": "Vil du slette denne merkevaren?",
+    "noItemStockFound": "Ingen varebeholdning funnet!\n Vennligst prøv å legge til en vare.",
+    "noUnitFound": "Ingen enhet funnet!\n Vennligst prøv å legge til en enhet.",
+    "doYouDeleteThisUnit": "Vil du slette denne enheten?",
+    "noSaleFoundPleaseSAddProduct": "Ingen salg funnet!\n Vennligst prøv å legge til et salg.",
+    "doYouWantToDeleteThisSale": "Vil du slette dette salget?",
+    "pleaseAddItemToTheCartFirst": "Vennligst legg til varer i handlekurven først",
+    "noItemAdded": "Ingen varer lagt til",
+    "cannotEditOthersTable": "Kan ikke redigere andres bord.",
+    "tableIsAlreadyBlocked": "Bordet er allerede reservert.",
+    "failedToGetCustomerDetails": "Kunne ikke hente kundeinformasjon.",
+    "noTableFoundPleaseTryAgain": "Ingen bord funnet!\n Vennligst prøv å legge til et bord.",
+    "noDueCollectionFound": "Ingen utestående fakturaer funnet!\n Du vil se utestående fakturaer når de er tilgjengelige.",
+    "noExpenseFoundPleaseTryAddingExpense": "Ingen utgift funnet!\n Vennligst prøv å legge til en utgift.",
+    "doYouWantToDeleteThisExpense": "Vil du slette denne utgiften?",
+    "noExpenseCategoryFound": "Ingen utgiftskategori funnet!\n Vennligst prøv å legge til en utgiftskategori.",
+    "noTransactionFound": "Ingen transaksjoner funnet, vennligst prøv igjen senere!",
+    "pleaseSelectACategory": "Vennligst velg en kategori",
+    "noIncomeFound": "Ingen inntekt funnet!\n Vennligst prøv å legge til en inntekt",
+    "doYouWantToDeleteThisIncome": "Vil du slette denne inntekten?",
+    "noIncomeCategoryFoundAddingAIncome": "Ingen inntektskategori funnet!\n Vennligst prøv å legge til en inntektskategori.",
+    "noItemFoundPleaseTryAddingItem": "Ingen vare funnet!\n Vennligst prøv å legge til en vare.",
+    "noPartiesFound": "Ingen parter funnet",
+    "doYouWantToDeleteThisParty": "Vil du slette denne parten?",
+    "noLedgerFound": "Ingen hovedbok funnet!\n Vennligst prøv å legge til en ${transactionType: String}",
+    "areYouSureYouSureWantToDeleteThisTaxType": "Er du sikker på at du vil slette denne ${taxType: String}?",
+    "noItemFoundPleaseSTryAddingAnPurchase": "Ingen vare funnet!\n Vennligst prøv å legge til et kjøp.",
+    "doYouWantToDeleteThisPurchase": "Vil du slette dette kjøpet?",
+    "noTransactionFoundYouSeeTransactionHereWhenAvailable": "Ingen transaksjon funnet!\n Du vil se transaksjoner her når de er tilgjengelige.",
+    "noSaleFoundPleaseTryAddingSale": "Ingen salg funnet!\n Vennligst prøv å legge til et salg.",
+    "noPurchaseFoundPleaseTryAddingPurchase": "Ingen kjøp funnet!\n Vennligst prøv å legge til et kjøp.",
+    "noItemIncomeFound": "Ingen vareinntekt funnet!\n Du vil se inntektsdata når de er tilgjengelige.",
+    "noItemExpenseFound": "Ingen vareutgift funnet!\n Du vil se utgiftsdata når de er tilgjengelige.",
+    "noItemDueInvoiceFound": "Ingen utestående varefaktura funnet!\n Du vil se utestående fakturaer når de er tilgjengelige.",
+    "noItemDueCollectionInvoiceFound": "'Ingen utestående vareinnkrevingsfaktura funnet!\n Du vil se utestående innkrevingsfakturaer når de er tilgjengelige.",
+    "doYouWantToDeleteThisTable": "Vil du slette dette bordet?'",
+    "thisVatIsBeingUsedOnSales": "Denne momsen brukes på salg!",
+    "noPaymentMethodFoundPleaseTryAddingAPaymentMethod": "Ingen betalingsmetode funnet!\n Vennligst prøv å legge til en betalingsmetode.",
+    "pleaseSelectACustomerFirst": "Vennligst velg en kunde først.",
+    "pleaseSelectATableToCreateAKot": "Vennligst velg et bord for å opprette en KOT.",
+    "noStaffFound": "Ingen ansatte funnet!\\n Vennligst prøv å legge til en ansatt.",
+    "noIngredientFound": "Ingen ingrediens funnet!\\n Vennligst prøv å legge til en ingrediens.",
+    "exceedsPaymentAmount": "Mottatt beløp kan ikke være større enn beløpet som skal betales.",
+    "noItemModifierFound": "Ingen varemodifikator funnet!\\n Vennligst prøv å legge til en varemodifikator.",
+    "noModifierGroupFound": "Ingen modifikatorgruppe funnet!\\n Vennligst prøv å legge til en modifikatorgruppe.",
+    "noOptionsFound": "Ingen alternativer funnet!",
+    "maxImageCountLimit": "Du kan kun velge opptil 5 bilder.",
+    "noQuotationFound": "Ingen tilbud funnet!\\n Vennligst prøv å legge til et tilbud.",
+    "noPermittedUserFound": "Ingen tillatt bruker funnet!\\n Vennligst prøv å legge til en bruker."
+  },
+  "prompt": {
+    "logout": {
+      "title": "@:common.logout",
+      "message": "Er du sikker på at du vil logge ut?"
+    },
+    "unsavedWarning": {
+      "title": "Vil du gå tilbake?",
+      "message": "Felt som er endret kan hende ikke blir lagret!"
+    },
+    "verify": {
+      "title": "Verifiser din e-post",
+      "description(rich)": "Vi har sendt en e-post med verifiseringskode${emailSpan}\n\nDet kan hende at e-posten havnet i søppelpostmappen din."
+    },
+    "subscriptionExpired": {
+      "title": "Abonnement utløpt!",
+      "message": "Vennligst abonner for å fortsette.",
+      "action": "Abonner"
+    },
+    "items": {
+      "delete": {
+        "title": "Vil du slette dette elementet?"
+      },
+      "filter": {
+        "title": "Filtrer etter",
+        "extra": {
+          "lowToHigh": "Lav til høy @:common.price",
+          "highToLow": "Høy til lav @:common.price"
+        }
+      }
+    },
+    "checkInternet": {
+      "title": "Ingen internettforbindelse",
+      "message": "Vennligst sjekk din Wi-Fi eller mobilnettverksforbindelse og prøv igjen"
+    },
+    "back": {
+      "title": "Trykk tilbake igjen for å avslutte."
+    },
+    "stockModelSheet": {
+      "title": "Legg til nytt lager"
+    },
+    "paymentMethod": {
+      "title": "Vil du slette denne betalingsmåten?"
+    },
+    "extMsg": {
+      "kotSavedSuccessfully": "KOT lagret vellykket"
+    },
+    "deleteStaff": "Vil du slette denne ansatte?",
+    "deleteIngredient": "Vil du slette denne ingrediensen?",
+    "deleteItemModifier": "Vil du slette denne varemodifikatoren?",
+    "deleteModifierGroup": "Vil du slette denne modifikatorgruppen?",
+    "deleteQuotation": "Vil du slette dette tilbudet?"
+  },
+  "form": {
+    "fullName": {
+      "label": "@:common.fullName",
+      "hint": "Skriv inn @:common.fullName",
+      "errors": {
+        "required": "Vennligst skriv inn ditt @:common.fullName"
+      }
+    },
+    "email": {
+      "label": "@:common.email",
+      "hint": "Skriv inn din @:common.email",
+      "errors": {
+        "required": "Vennligst skriv inn din @:common.email adresse",
+        "invalid": "⦸ Ugyldig e-post, vennligst prøv igjen"
+      }
+    },
+    "password": {
+      "label": "@:common.password",
+      "hint": "* * * * * * * *",
+      "errors": {
+        "required": "Vennligst skriv inn ditt @:common.password",
+        "minLength": "Passord må ha minst ${count} tegn!"
+      }
+    },
+    "confirmPassword": {
+      "label": "Bekreft passord",
+      "hint": "* * * * * * * *",
+      "errors": {
+        "required": "Vennligst skriv inn ditt @:common.password",
+        "invalid": "Bekreft passord stemmer ikke overens!"
+      }
+    },
+    "otp": {
+      "errors": {
+        "required": "Vennligst skriv inn OTP-koden.",
+        "invalid": "Vennligst skriv inn gjeldende OTP-kode."
+      }
+    },
+    "profile": {
+      "businessCategory": {
+        "label": "Forretningskategori",
+        "hint": "Velg forretningskategori",
+        "errors": {
+          "required": "Vennligst velg forretningskategori"
+        }
+      },
+      "shopOrStore": {
+        "label": "Butikk/Butikknavn*",
+        "hint": "Skriv inn butikk- eller butikknavn",
+        "errors": {
+          "required": "Vennligst skriv inn din butikk- eller butikknavn"
+        }
+      },
+      "openingBalance": {
+        "label": "Åpningssaldo",
+        "hint": "Skriv inn åpningssaldo"
+      },
+      "vatGstTitle": {
+        "label": "MVA/GST tittel",
+        "hint": "Skriv inn mva/gst"
+      },
+      "vatGstNumber": {
+        "label": "MVA/GST nummer",
+        "hint": "Skriv inn mva/gst nummer"
+      }
+    },
+    "vat": {
+      "name": {
+        "label": "Navn",
+        "hint": "Skriv inn MVA-navn",
+        "error": {
+          "required": "Vennligst skriv inn MVA-navn"
+        }
+      },
+      "subVat": {
+        "label": "Under-MVA",
+        "hint": "Velg under-MVA",
+        "errors": {
+          "required": "Vennligst velg en under-mva"
+        }
+      },
+      "rate": {
+        "label": "Mva-sats %",
+        "hint": "Angi MVA-sats",
+        "errors": {
+          "required": "Vennligst angi MVA-sats."
+        }
+      }
+    },
+    "category": {
+      "label": "@:common.category",
+      "hint": "Velg varekategori",
+      "error": {
+        "required": "Vennligst skriv inn kategorinavn"
+      }
+    },
+    "items": {
+      "barcode": {
+        "label": "Strekkode",
+        "hint": "@:common.selectOne"
+      },
+      "itemName": {
+        "label": "Varenavn",
+        "hint": "Skriv inn varenavn",
+        "extra": {
+          "required": "Vennligst skriv inn varenavn"
+        }
+      },
+      "itemCategory": {
+        "label": "Varekategori",
+        "hint": "Varekategori",
+        "extra": {
+          "label": "Velg kategori",
+          "required": "Vennligst velg en kategori"
+        }
+      },
+      "brand": {
+        "label": "@:common.brand",
+        "hint": "@:common.selectOne",
+        "extra": {
+          "hint": "Skriv inn merkenavn",
+          "required": "Vennligst skriv inn merkenavn"
+        }
+      },
+      "unit": {
+        "label": "@:common.unit",
+        "hint": "@:common.selectOne",
+        "error": {
+          "required": "Vennligst skriv inn enhetsnavn"
+        }
+      },
+      "stock": {
+        "label": "Åpningslager",
+        "hint": "@:common.commonHint",
+        "extra": {
+          "required": "Vennligst skriv inn varekvalitet."
+        }
+      },
+      "lowStock": {
+        "label": "@:common.lowStock",
+        "hint": "Eks: 5"
+      },
+      "purchasePrice": {
+        "label": "@:common.purchasePrice",
+        "hint": "Eks: \\$40",
+        "error": {
+          "required": "Vennligst skriv inn innkjøpspris."
+        }
+      },
+      "salePrice": {
+        "label": "Salgspris",
+        "hint": "Eks: \\$60",
+        "error": {
+          "required": "Vennligst skriv inn salgspris."
+        }
+      },
+      "totalSalePrice": {
+        "label": "Total salgspris",
+        "hint": "Eks: \\$100"
+      },
+      "wholeSalePrice": {
+        "label": "@:common.wholeSalePrice",
+        "hint": "Skriv inn engrospris"
+      },
+      "dealerPrice": {
+        "label": "@:common.dealerPrice",
+        "hint": "Skriv inn forhandlerpris"
+      },
+      "discount": {
+        "label": "Rabatt (%)",
+        "hint": "@:common.commonHint"
+      },
+      "applicableTax": {
+        "label": "Gjeldende skatt",
+        "hint": "@:common.selectOne"
+      },
+      "vatType": {
+        "label": "@:common.taxType",
+        "errorText": {
+          "required": "Vennligst velg en MVA-type"
+        }
+      },
+      "menu": {
+        "label": "Velg meny",
+        "errors": {
+          "required": "Vennligst velg en meny."
+        },
+        "hint": "Velg en meny",
+        "extra": {
+          "selectNavLabel": "Velg varemeny"
+        }
+      },
+      "modifierItems": {
+        "label": "Modifikatorvarer",
+        "hint": "Velg modifikatorvarer"
+      },
+      "preparationTime": {
+        "label(rich)": "Forberedelsestid ${minutes(minutter)}",
+        "hint": "F.eks.: 30"
+      },
+      "variation": {
+        "name": {
+          "label": "Navn",
+          "hint": "Skriv inn variant",
+          "errors": {
+            "required": "Vennligst skriv inn variantnavn."
+          }
+        },
+        "price": {
+          "errors": {
+            "required": "Vennligst skriv inn pris."
+          },
+          "label": "Pris",
+          "hint": "F.eks.: \\$30"
+        }
+      }
+    },
+    "itemCart": {
+      "hint": "@:common.commonHint",
+      "error": {
+        "required": "@:common.pleaseEnterQuantity",
+        "noZero": "@:common.quantityMustBeGreaterThanZero"
+      }
+    },
+    "sales": {
+      "autoGenerateInvoice": {
+        "label": "Fakturanr.",
+        "hint": "P-00001"
+      },
+      "date": {
+        "label": "Dato"
+      },
+      "customer": {
+        "label": "Kunde",
+        "hint": "Velg kunde"
+      },
+      "phone": {
+        "label": "Telefonnummer",
+        "hint": "Skriv inn telefonnummer"
+      },
+      "address": {
+        "label": "Adresse",
+        "hint": "Skriv inn adresse"
+      },
+      "deliveryCharge": {
+        "label": "@:common.deliveryCharge",
+        "hint": "Eks: \\$20",
+        "hint2": "Avgift F.eks.: \\$10"
+      },
+      "table": {
+        "hint": "Velg bord"
+      },
+      "waiter": {
+        "hint": "Velg servitør"
+      }
+    },
+    "bill": {
+      "label": "Fakturanr.",
+      "hint": "P-00001"
+    },
+    "supplier": {
+      "label": "Leverandør",
+      "hint": "Velg leverandør",
+      "extra": {
+        "required": "Vennligst velg en leverandør"
+      }
+    },
+    "phone": {
+      "label": "Telefonnummer",
+      "hint": "Skriv inn telefonnummer",
+      "errors": {
+        "required": "Vennligst skriv inn telefonnummer."
+      }
+    },
+    "address": {
+      "label": "Firmaadresse",
+      "hint": "Skriv inn firmaadresse"
+    },
+    "payment": {
+      "label": "Navn",
+      "hint": "Skriv inn betalingsnavn",
+      "error": {
+        "required": "Vennligst skriv inn et betalingsmåtenavn"
+      }
+    },
+    "expense": {
+      "label": "Utgiftskategori",
+      "hint": "Velg utgiftskategori",
+      "error": {
+        "required": "Vennligst skriv inn utgiftskategori"
+      }
+    },
+    "income": {
+      "label": "Inntektskategori",
+      "hint": "Skriv inn kategorinavn",
+      "error": {
+        "required": "Vennligst skriv inn kategorinavn"
+      },
+      "incomeTitle": {
+        "label": "Inntektstittel",
+        "hint": "Skriv inn inntekt"
+      },
+      "incomeCategory": {
+        "label": "Inntektskategori",
+        "hint": "Velg kategori"
+      },
+      "payment": {
+        "label": "Betaling",
+        "hint": "Eks: \\$10"
+      }
+    },
+    "note": {
+      "label": "Merknad (valgfritt)",
+      "hint": "Skriv inn tekst"
+    },
+    "parties": {
+      "partyName": {
+        "label": "Partnavn",
+        "hint": "Skriv inn partnavn",
+        "error": {
+          "required": "Vennligst skriv inn partnavn"
+        }
+      },
+      "partyPhone": {
+        "label": "Telefonnummer",
+        "hint": "Skriv inn telefonnummer",
+        "error": {
+          "required": "Vennligst skriv inn telefonnummer"
+        }
+      }
+    },
+    "table": {
+      "name": {
+        "label": "Bordnavn",
+        "hint": "Skriv inn bordnavn",
+        "error": {
+          "required": "Vennligst skriv inn bordnavn"
+        }
+      },
+      "capacity": {
+        "label": "Kapasitet",
+        "hint": "Skriv inn kapasitet",
+        "error": {
+          "required": "Vennligst skriv inn kapasitet"
+        }
+      }
+    },
+    "designation": {
+      "label": "@:common.designation",
+      "hint": "Velg en stilling",
+      "errors": {
+        "required": "Vennligst velg en stilling."
+      }
+    },
+    "ingredientName": {
+      "label": "Ingrediensnavn",
+      "hint": "Skriv inn ingrediensnavn",
+      "errors": {
+        "required": "Vennligst skriv inn ingrediensnavn"
+      }
+    },
+    "item": {
+      "label": "Vare",
+      "hint": "Velg vare",
+      "errors": {
+        "required": "Vennligst velg en vare."
+      }
+    },
+    "modifierGroup": {
+      "label": "Modifikatorgruppe",
+      "hint": "Velg modifikatorgruppe",
+      "errors": {
+        "required": "Vennligst velg en modifikatorgruppe."
+      }
+    },
+    "description": {
+      "label": "Beskrivelse",
+      "hint": "Skriv inn beskrivelse"
+    },
+    "staff": {
+      "label": "@:common.staff",
+      "hint": "Velg en ansatt",
+      "errors": {
+        "required": "Vennligst velg en ansatt"
+      }
+    },
+    "loginUserName": {
+      "label": "Påloggingsbrukernavn",
+      "hint": "Skriv inn brukernavn eller e-postadresse",
+      "errors": {
+        "required": "Vennligst skriv inn brukernavn eller e-postadresse"
+      }
+    }
+  },
+  "action": {
+    "next": "Neste",
+    "getStarted": "Kom i gang",
+    "skip": "Hopp over",
+    "select": "Velg",
+    "save": "Lagre",
+    "verify": "Bekreft",
+    "signIn": "@:common.signIn",
+    "signUp": "@:common.signUp",
+    "continue": "Fortsett",
+    "no": "Nei",
+    "yes": "Ja",
+    "okay": "OK",
+    "cancel": "Avbryt",
+    "confirm": "Bekreft",
+    "tryAgain": "Prøv igjen",
+    "reset": "Tilbakestill",
+    "apply": "Bruk",
+    "stockAdjust": "Juster lager",
+    "addMoreItems": "Legg til flere varer",
+    "hold": "Sett på vent",
+    "parcel": "@:common.parcel",
+    "buyNow": "Kjøp nå",
+    "viewAll": "Se alle",
+    "viewLedger": "Se reskontro",
+    "submit": "Send inn",
+    "selected": "Valgt",
+    "addToCart": "Legg i handlekurv",
+    "selectAll": "Velg alle",
+    "update": "@:common.update",
+    "addRole": "Legg til rolle"
+  },
+  "pages": {
+    "language": {
+      "appbarTitle": "@:action.select @:common.language"
+    },
+    "onboard": {
+      "onboardData": {
+        "data1": {
+          "title": "Enkel å bruke @:common.appName",
+          "description": "Sømløse bestillinger, problemfrie reservasjoner\\nGi restauranten din kraft med letthet!"
+        },
+        "data2": {
+          "title": "Enkel bestillingshåndtering",
+          "description": "Effektiviser restaurantens bestillingsprosess med vårt intuitive POS-system."
+        },
+        "data3": {
+          "title": "Utmerket analyse og rapportering",
+          "description": "Vårt analysedashbord gir sanntids salgs- og innkjøpsrapporter"
+        }
+      }
+    },
+    "signIn": {
+      "title": "Velkommen tilbake",
+      "subtitle": "Vennligst skriv inn dine opplysninger.",
+      "extra": {
+        "rememberMe": "Husk meg",
+        "signUpNavigator(rich)": "Har du ikke en konto? ${getStarted(@:action.getStarted)}",
+        "forgotPassword": "@:common.forgotPassword?"
+      }
+    },
+    "signUp": {
+      "title": "Opprett en konto",
+      "subtitle": "Vennligst skriv inn dine opplysninger",
+      "extra": {
+        "signInNavigator(rich)": "Har du allerede en konto? ${signIn(@:action.signIn)}"
+      }
+    },
+    "forgotPassword": {
+      "title": "@:common.forgotPassword",
+      "subtitle": "Skriv inn din e-postadresse for å gjenopprette passordet ditt."
+    },
+    "otpVerification": {
+      "title": "Verifisering",
+      "subtitle": "6-sifret PIN er sendt til din e-postadresse",
+      "extra": {
+        "codeResend": {
+          "codeSendIn": "Kode sendt om",
+          "resendCode": "Send kode på nytt"
+        }
+      }
+    },
+    "resetPassword": {
+      "title": "Tilbakestill passord",
+      "subtitle": "Tilbakestill passordet ditt for å gjenopprette og logge inn på kontoen din",
+      "extra": {
+        "dialog": {
+          "title": "Endret vellykket!",
+          "subtitle": "Logg inn med ditt nye passord.\n Omdirigerer deg til pålogging..."
+        }
+      }
+    },
+    "items": {
+      "itemList": {
+        "extra": {
+          "emptyItem": "Ingen vare funnet!\n Vennligst prøv å legge til en vare."
+        }
+      },
+      "manageItems": {
+        "title": "Legg til ny vare",
+        "title2": "Rediger vare",
+        "extra": {
+          "maximum": "Maksimum 5",
+          "wholeSaleAndDealerPrice": "Engros- og forhandlerpris",
+          "addDiscount": "Legg til rabatt",
+          "addVat": "Legg til MVA"
+        }
+      },
+      "itemDetails": {
+        "title": "Varedetaljer",
+        "extra": {
+          "noImageAvailable": "Ingen bilde tilgjengelig!",
+          "preparationTime(rich)": "Forberedelsestid: ${min: String} ${mins(mins)}",
+          "pleaseSelectVariation": "Vennligst velg en variasjon",
+          "pleaseSelectOption": "Vennligst velg et alternativ.",
+          "enterYourInstruction": "Skriv inn dine instruksjoner"
+        }
+      }
+    },
+    "category": {
+      "addNewCategory": "Legg til ny kategori",
+      "editCategory": "Rediger kategori"
+    },
+    "brand": {
+      "addNewBrand": "Legg til nytt merke",
+      "editBrand": "Rediger merke"
+    },
+    "unit": {
+      "addNewUnit": "Legg til ny enhet",
+      "editUnit": "Rediger enhet"
+    },
+    "stock": {
+      "stockList": "Lagerliste"
+    },
+    "aboutUs": {
+      "title": "Om oss"
+    },
+    "privacyPolicy": {
+      "title": "Personvernpolicy"
+    },
+    "termAndCondition": {
+      "title": "@:common.termAndCondition"
+    },
+    "orders": {
+      "manageOrders": {
+        "extra": {
+          "billItems": "Fakturavarer",
+          "manageQuantity": "Håndter antall"
+        },
+        "title": {
+          "editOrder": "Rediger ordre",
+          "editKOT": "Rediger KOT"
+        }
+      }
+    },
+    "onlinePayment": {
+      "title": "Online betaling"
+    },
+    "paymentStatus": {
+      "success": {
+        "title": "Takk!",
+        "message": "Vi vil gjennomgå betalingen og godkjenne den innen 24 timer.",
+        "actionButtonText": "Vis faktura"
+      },
+      "fail": {
+        "title": "Oops! Betaling mislyktes",
+        "message": "Transaksjonen din mislyktes på grunn av en teknisk feil.",
+        "actionButtonText": "Prøv igjen"
+      }
+    },
+    "confirmationDialog": {
+      "title": "Logg ut",
+      "message": "Er du sikker på at du vil logge ut?",
+      "acceptationText": "Nei",
+      "rejectionText": "Logg ut"
+    },
+    "payment": {
+      "title": "@:common.paymentMethod",
+      "addPaymentMethod": "Legg til ny betalingsmåte",
+      "editPaymentMethod": "Rediger betalingsmåte",
+      "choseOnlinePayment": "Velg online betaling",
+      "selectPaymentMethod": "Velg betalingsmåte",
+      "pleaseSelectAPaymentMethod": "Vennligst velg en betalingsmåte.",
+      "methodStatus": {
+        "title": "Status",
+        "message": "Status kan ikke være inaktiv hvis hurtigvisning er aktivert!."
+      }
+    },
+    "subscriptionPlan": {
+      "title": "Kjøp premium-plan",
+      "extra": {
+        "actionButtonText": "Gå tilbake",
+        "message": "Abonnementsbetaling vellykket.\n\nDu kan nå få tilgang til de abonnerte funksjonene.",
+        "mostPopular": "Mest populær"
+      }
+    },
+    "invoicePreview": {
+      "title": "Fakturaforhåndsvisning",
+      "message": "PDF-forhåndsvisning kommer snart"
+    },
+    "currency": {
+      "title": "@:common.currency"
+    },
+    "dashboard": {
+      "overview": "Oversikt",
+      "dashboardPrivacy": "Dashboard-personvern",
+      "moneyInAndMoneyOut": "Penger inn og penger ut",
+      "lossAndProfitOverView": "Fortjeneste- og tapsoversikt"
+    },
+    "due": {
+      "title": "@:common.dueList",
+      "collectionList": "Innkrevingsliste",
+      "dueCollection": "Forfalt innkreving"
+    },
+    "expense": {
+      "title": "@:common.expense",
+      "editExpense": "Rediger utgift",
+      "addNewExpense": "Legg til ny utgift",
+      "editExpenseCategory": "Rediger utgiftskategori",
+      "addNewExpenseCategory": "Legg til ny utgiftskategori",
+      "payment": "Betaling",
+      "expenseCategory": "Utgiftskategori",
+      "selectCategory": "Velg kategori",
+      "allExpense": "Alle utgifter",
+      "pleaseSelectACategory": "Velg en kategori",
+      "expenseTitle": {
+        "label": "Utgiftstittel",
+        "hint": "Skriv inn utgift"
+      }
+    },
+    "lossProfit": {
+      "title": "Tap/fortjeneste-liste",
+      "noLossProfitFound": "Ingen tap/fortjeneste funnet!\nVennligst prøv å opprette salg."
+    },
+    "income": {
+      "editIncomeCategory": "Rediger inntektskategori",
+      "addNewIncomeCategory": "Legg til ny inntektskategori",
+      "incomeCategory": "Inntektskategori",
+      "allIncome": "All inntekt",
+      "editIncome": "Rediger inntekt",
+      "addNewIncome": "Rediger inntekt",
+      "addIncome": "Legg til inntekt"
+    },
+    "moneyIn": {
+      "title": "Penger inn-liste",
+      "totalPaymentIn": "Totalt penger inn"
+    },
+    "moneyOut": {
+      "title": "Penger ut-liste",
+      "totalMoneyOut": "Totalt penger ut"
+    },
+    "profile": {
+      "title": "Min profil",
+      "editProfile": "Rediger profil",
+      "businessInformation": "Forretningsinformasjon",
+      "profileInformation": "Profilinformasjon"
+    },
+    "parties": {
+      "title": "Parter-liste",
+      "allParties": "Alle parter",
+      "customer": "Kunde",
+      "supplier": "Leverandør",
+      "addParties": "Legg til parter",
+      "editParties": "Rediger parter",
+      "partiesDetails": "Parter-detaljer",
+      "personalInfo": "Personlig info"
+    },
+    "ledger": {
+      "subTitle": "Reskontro"
+    },
+    "purchase": {
+      "title": "Legg til nytt innkjøp",
+      "editPurchase": "Rediger innkjøp"
+    },
+    "reports": {
+      "title": "Rapporter"
+    },
+    "table": {
+      "title": "Legg til nytt bord",
+      "editTable": "Rediger bord"
+    },
+    "tax": {
+      "title": "MVA-satser",
+      "buildHeaderTitle": "MVA-satser - Håndter dine MVA-satser",
+      "vatGroup": {
+        "title": "MVA-gruppe",
+        "subTitle": "MVA-gruppe - Håndter din MVA-gruppe"
+      }
+    },
+    "vat": {
+      "addNewVat": "Legg til ny MVA",
+      "editVat": "Rediger MVA",
+      "addNewVatGroup": "Legg til ny MVA-gruppe",
+      "editVatGroup": "Rediger MVA-gruppe"
+    },
+    "orderList": {
+      "title": "Bestillingsliste",
+      "filters": {
+        "orderType": {
+          "label": "@:common.orderType",
+          "hint": "Velg bestillingstype"
+        },
+        "paymentStatus": {
+          "hint": "Velg betalingsstatus",
+          "label": "Betalingsstatus"
+        }
+      }
+    },
+    "staffs": {
+      "staffList": {
+        "filters": {
+          "designation": {
+            "label": "Stilling",
+            "hint": "Velg stilling"
+          }
+        },
+        "title": "Alle ansatte"
+      },
+      "manageStaff": {
+        "title1": "Legg til ny ansatt",
+        "title2": "Oppdater ansatt"
+      }
+    },
+    "ingredient": {
+      "ingredientList": {
+        "title1": "Ingrediensliste",
+        "title2": "Velg ingrediens"
+      },
+      "manageIngredient": {
+        "title1": "Legg til ny ingrediens",
+        "title2": "Rediger ingrediens"
+      }
+    },
+    "itemModifier": {
+      "itemModifierList": {
+        "title": "@:common.itemModifiers"
+      },
+      "manageItemModifier": {
+        "title1": "Legg til varemodifikatorer",
+        "title2": "Rediger varemodifikatorer"
+      }
+    },
+    "quotation": {
+      "manageQuotation": {
+        "title": {
+          "add": "Legg til nytt tilbud",
+          "edit": "Rediger tilbud",
+          "convert": "Konverter til salg"
+        }
+      }
+    },
+    "rolePermission": {
+      "rolePermissionList": {
+        "title": "Rolle- og tillatelsesliste"
+      },
+      "manageRolePermission": {
+        "title1": "Legg til ny rolle",
+        "title2": "Rediger rolle"
+      }
+    },
+    "printingOption": {
+      "title": "Utskriftsalternativ",
+      "form": {
+        "companyAddress": {
+          "label": "Firmaadresse",
+          "hint": "Skriv inn firmaadresse"
+        },
+        "noteLabel": {
+          "label": "Merkelapp for notat",
+          "hint": "Skriv inn merkelapp for notat."
+        },
+        "note": {
+          "label": "Notat",
+          "hint": "Skriv inn notat."
+        },
+        "postSaleMessage": {
+          "label": "Melding etter salg",
+          "hint": "Skriv inn melding etter salg"
+        },
+        "printingMethod": {
+          "label": "Utskriftsmetode",
+          "hint": "Velg utskriftsmetode"
+        },
+        "printerProfile": {
+          "label": "Skriverprofil",
+          "hint": "Velg skriverprofil"
+        },
+        "paperSize": {
+          "label": "Papirstørrelse for termisk skriver",
+          "hint": "Velg papirstørrelse for skriver"
+        },
+        "printerDpi": {
+          "label": "Skriver DPI",
+          "hint": "Eks: 203"
+        },
+        "printingMargin": {
+          "label": "Utskriftsmarg",
+          "hint": "Eks: 2"
+        }
+      },
+      "tooltip": {
+        "printingMethod": {
+          "title": "Nedtrekksmeny med alternativer:",
+          "default": "• Standard (Naturlig metode for å skrive ut EU-standardtegn)",
+          "image": "• Bilde (Anbefalt for utskrift av Unicode-tegn)"
+        }
+      },
+      "action": {
+        "save": "Lagre"
+      }
+    },
+    "kitchen": {
+      "list": {
+        "noKitchensFound": "Ingen kjøkken funnet.\n Vennligst prøv å legge til et."
+      },
+      "manage": {
+        "addKitchen": "Legg til kjøkken",
+        "editKitchen": "Rediger kjøkken",
+        "kitchenName": {
+          "label": "Kjøkken navn",
+          "hint": "Skriv inn kjøkken navn",
+          "error": "Vennligst skriv inn kjøkken navn."
+        },
+        "description": {
+          "label": "Beskrivelse",
+          "hint": "Skriv inn beskrivelse"
+        }
+      },
+      "manageItems": {
+        "title": "Administrer varer",
+        "addedItems": "Lagt til varer",
+        "selectItemsError": "Vennligst velg varer.",
+        "noItemsAdded": "Ingen varer lagt til ennå!\nVennligst prøv å legge til varer."
+      },
+      "card": {
+        "itemName": "Varenavn",
+        "manageItems": "+ Administrer varer",
+        "deleteItemConfirm": "Vil du slette denne varen?",
+        "deleteKitchenConfirm": "Vil du slette dette kjøkkenet?"
+      }
+    }
+  },
+  "enums": {
+    "dropdownDateFilter": {
+      "daily": "Daglig",
+      "weekly": "Ukentlig",
+      "monthly": "Månedlig",
+      "yearly": "Årlig",
+      "custom": "Tilpasset"
+    },
+    "orderTypes": {
+      "dineIn": "Spisested",
+      "pickUp": "Hent selv",
+      "delivery": "Levering",
+      "reservation": "Reservasjon",
+      "quotation": "Tilbud"
+    },
+    "paymentStatus": {
+      "paid": "Betalt",
+      "unpaid": "Ubetalt"
+    },
+    "staffTypes": {
+      "manager": "Leder",
+      "waiter": "Servitør",
+      "chef": "Kokk",
+      "cleaner": "Renholder",
+      "driver": "Sjåfør",
+      "deliveryBoy": "Bud"
+    },
+    "itemFoodTypes": {
+      "veg": "Vegetar",
+      "nonVeg": "Ikke-vegetar",
+      "egg": "Egg",
+      "drink": "Drikke",
+      "others": "Andre"
+    },
+    "itemTypes": {
+      "single": "Enkel",
+      "variation": "Variant"
+    },
+    "quotationStatus": {
+      "open": "Åpen",
+      "closed": "Lukket"
+    },
+    "tableStatus": {
+      "running": "Opptatt",
+      "available": "Ledig"
+    },
+    "thermalPrinterPrintingMethod": {
+      "image": "Bilde",
+      "default": "Standard"
+    },
+    "kotOrderStatus": {
+      "label": {
+        "pending": "Venter",
+        "preparing": "Tilberedes",
+        "ready": "Maten er klar",
+        "served": "Servert",
+        "cancelled": "Kansellert"
+      },
+      "pending": "Venter",
+      "preparing": "Tilberedes",
+      "ready": "Maten er klar",
+      "served": "Servert",
+      "cancelled": "Kansellert"
+    },
+    "kotItemStatus": {
+      "pending": "Start tilberedning",
+      "start": "Marker som klar",
+      "ready": "Klar"
+    }
+  },
+  "thermalPrint": {
+    "invoice": {
+      "purchaseInvoiceLabel": "Kjøpsfaktura: ${invoiceNumber: String}",
+      "saleInvoiceLabel": "Ordrenr.: ${invoiceNumber: String}",
+      "receiptNoLabel": "Kvittonr.: ${invoiceNumber: String}",
+      "orderNoKotLabel": "Ordrenr.: ${invoiceNumber: String}",
+      "nameLabel": "Navn: ${name: String}",
+      "mobileLabel": "Mobil: ${phone: String}",
+      "purchasedByLabel": "Kjøpt av: ${role: String}",
+      "salesByLabel": "Solgt av: ${role: String}",
+      "paidByLabel": "${label: String}: ${role: String}",
+      "paidToReceivedFromLabel": "${label: String}: ${name: String}",
+      "orderTypeLabel": "Ordretype: ${orderType: String}",
+      "tableLabel": "Bord: ${tableName: String}",
+      "tableNoLabel": "Bordnr.: ${tableName: String}",
+      "dateLabel": "Dato: ${dateTime: String}",
+      "invoiceFlag": "FAKTURA",
+      "receiptFlag": "KVITTERING",
+      "paidBy": "Betalt av",
+      "receivedBy": "Mottatt av",
+      "paidTo": "Betalt til",
+      "receivedFrom": "Mottatt fra",
+      "seller": "Selger: ${name: String}",
+      "address": "Adresse: ${addr: String}",
+      "vatNo": "Org.nr.",
+      "tel": "Tlf: ${phoneNumber: String}",
+      "timeLabel": "Tid: ${dateTime: String}"
+    },
+    "tableHeaders": {
+      "sl": "Nr.",
+      "item": "Vare",
+      "cost": "Kostnad",
+      "qty": "Antall",
+      "uPrice": "Pris/enhet",
+      "amount": "Beløp",
+      "total": "Totalt",
+      "invoiceTable": "Faktura",
+      "dueTable": "Skyldig"
+    },
+    "summary": {
+      "subTotal": "Delsum:",
+      "discount": "Rabatt: ${percentFmt: String}",
+      "vat": "${vatName: String}: ${rateFmt: String}%",
+      "tip": "Tips:",
+      "deliveryCharge": "Leveringsgebyr:",
+      "totalPayable": "Totalt til betaling:",
+      "paidAmount": "Betalt beløp:",
+      "dueAmount": "Skyldig beløp:",
+      "paymentType": "Betalingstype: ${method: String}",
+      "remainingDue": "Gjenstående skyldig:",
+      "paymentAmount": "Betalingsbeløp:",
+      "itemsCount": "Varer: ${count: int}",
+      "qtyTotal": "Antall: ${totalQty: int}"
+    },
+    "footer": {
+      "note": "${noteLabel: String}: ${note: String}",
+      "developedBy": "${developByLabel: String} ${developBy: String}"
+    }
+  },
+  "hrm": {
+    "department": "Department",
+    "designation": "Designation",
+    "shift": "Shift",
+    "employee": "Employee",
+    "leave": "Leave",
+    "leaveType": "Leave Type",
+    "leaveRequest": "Leave Request",
+    "holiday": "Holiday",
+    "attendance": "Attendance",
+    "payroll": "Payroll",
+    "pageTitles": {
+      "department": "Department",
+      "designation": "Designation",
+      "shift": "Shift",
+      "employee": "Employee",
+      "leave": "Leave",
+      "leaveType": "Leave Type",
+      "holiday": "Holiday",
+      "attendance": "Attendance",
+      "payroll": "Payroll",
+      "leaveReports": "Leave Reports",
+      "payrollReports": "Payroll Reports",
+      "attendanceReports": "Attendance Reports",
+      "addDepartment": "Add Department",
+      "editDepartment": "Edit Department",
+      "addDesignation": "Add Designation",
+      "editDesignation": "Edit Designation",
+      "addShift": "Legg til skift",
+      "editShift": "Rediger skift",
+      "addEmployee": "Add Employee",
+      "editEmployee": "Edit Employee",
+      "addLeave": "Add Leave",
+      "editLeave": "Edit Leave",
+      "addLeaveType": "Add Leave Type",
+      "editLeaveType": "Edit Leave Type",
+      "addHoliday": "Add New Holiday",
+      "editHoliday": "Edit Holiday",
+      "addAttendance": "Add New Attendance",
+      "editAttendance": "Edit Attendance",
+      "addPayroll": "Add Payroll",
+      "editPayroll": "Edit Payroll"
+    },
+    "form": {
+      "labels": {
+        "department": "Department",
+        "designation": "Designation",
+        "shift": "Skift",
+        "employee": "Employee",
+        "leaveType": "Leave Type",
+        "leaveDuration": "Leave Duration",
+        "paymentYear": "Payment Year",
+        "paymentType": "Payment Type",
+        "breakStatus": "Break Status",
+        "startTime": "Start Time",
+        "endTime": "End Time",
+        "startBreakTime": "Start Break Time",
+        "endBreakTime": "End Break Time",
+        "breakTime": "Pausetid",
+        "breakDuration": "Pausevarighet",
+        "timeIn": "Time In",
+        "timeOut": "Time Out",
+        "duration": "Duration",
+        "country": "Country",
+        "salary": "Salary",
+        "gender": "Gender",
+        "birthDate": "Birth Date",
+        "joinDate": "Join Date",
+        "holidayName": "Holiday Name",
+        "startDate": "Start Date",
+        "endDate": "End Date",
+        "month": "Month",
+        "year": "Year",
+        "status": "Status",
+        "description": "Description",
+        "amount": "Amount",
+        "payment": "Payment",
+        "departmentName": "Department Name",
+        "designationName": "Stillingsnavn",
+        "image": "Image",
+        "name": "Name"
+      },
+      "hints": {
+        "selectEmployee": "Select Employee",
+        "selectDepartment": "Select Department",
+        "selectDesignation": "Select Designation",
+        "selectShift": "Select Shift",
+        "selectLeaveType": "Select Leave Type",
+        "selectMonth": "Select Month",
+        "selectYear": "Select Year",
+        "selectDate": "Select Date",
+        "selectStartDate": "Select Start Date",
+        "selectEndDate": "Select End Date",
+        "selectTimeIn": "Select Time In",
+        "selectTimeOut": "Select Time Out",
+        "selectStartTime": "Select Start Time",
+        "selectEndTime": "Select End Time",
+        "selectStatus": "Select Status",
+        "selectGender": "Select Gender",
+        "selectPaymentType": "Select Payment Type",
+        "enterFullName": "Enter full name",
+        "enterEmail": "Enter your email",
+        "enterPhone": "Enter your phone",
+        "enterCountry": "Enter your country",
+        "enterSalary": "Ex: 500",
+        "enterHolidayName": "Enter holiday name",
+        "enterDescription": "Enter description..",
+        "autoCalculated": "Auto-calculated",
+        "selectDatesFirst": "Select dates first",
+        "allEmployee": "All Employee",
+        "selectEmployeeFirst": "Select Employee First",
+        "enterDepartmentName": "Enter Department Name",
+        "enterDesignationName": "Skriv inn stillingsnavn",
+        "ex": "{value}",
+        "selectBirthDate": "Select birth date",
+        "selectJoinDate": "Select join date",
+        "selectBreakStatus": "Velg pausestatus",
+        "enterLeaveTypeName": "Skriv inn navn på fraværstype"
+      }
+    },
+    "emptyStates": {
+      "noLeaves": "No leaves found",
+      "noPayrollRecords": "No payroll records found",
+      "noAttendanceRecords": "No attendance found",
+      "noLeaveTypes": "Ingen fraværstyper funnet",
+      "noEmployees": "No employees found",
+      "noHolidays": "No holidays found",
+      "noShifts": "Ingen skift funnet",
+      "noDesignations": "No designations found",
+      "noDepartments": "No departments found"
+    },
+    "confirmations": {
+      "deleteAttendance": "Do you want to delete this attendance record?",
+      "deletePayroll": "Do you want to delete this payroll record?",
+      "deleteLeave": "Do you want to delete this leave record?",
+      "deleteLeaveType": "Vil du slette denne fraværstypen?",
+      "deleteEmployee": "Do you want to delete this employee?",
+      "deleteHoliday": "Do you want to delete this holiday?",
+      "deleteShift": "Vil du slette dette skiftet?",
+      "deleteDesignation": "Do you want to delete this designation?",
+      "deleteDepartment": "Do you want to delete this department?"
+    },
+    "validation": {
+      "selectEmployee": "Please select employee",
+      "selectMonth": "Please select month",
+      "selectEndDate": "Please select end date",
+      "endDateAfterStart": "End date must be after start date",
+      "selectStatus": "Vennligst velg status",
+      "selectLeaveType": "Please select leave type",
+      "selectStartDate": "Please select start date",
+      "selectDate": "Please select date",
+      "selectTimeIn": "Vennligst velg innsjekkingstid",
+      "selectTimeOut": "Vennligst velg utsjekkingstid",
+      "enterDepartmentName": "Please enter department name",
+      "enterDesignationName": "Vennligst skriv inn stillingsnavn",
+      "enterName": "Please enter name",
+      "selectDesignation": "Please select designation",
+      "selectDepartment": "Please select department",
+      "enterEmail": "Please enter email",
+      "enterValidEmail": "Please enter a valid email",
+      "enterPhoneNumber": "Please enter phone number",
+      "enterCountry": "Please enter country",
+      "enterSalary": "Please enter salary",
+      "selectGender": "Please select gender",
+      "selectShift": "Please select shift",
+      "selectBirthDate": "Please select birth date",
+      "selectJoinDate": "Please select join date",
+      "enterHolidayName": "Please enter holiday name",
+      "selectBreakStatus": "Vennligst velg pausestatus",
+      "selectPaymentYear": "Vennligst velg betalingsår",
+      "selectPaymentType": "Vennligst velg betalingstype",
+      "enterAmount": "Vennligst skriv inn beløp",
+      "selectStartBreakTime": "Vennligst velg starttid for pause",
+      "selectEndBreakTime": "Vennligst velg slutttid for pause",
+      "enterLeaveTypeName": "Vennligst skriv inn navn på fraværstype",
+      "selectStartTime": "Vennligst velg starttid",
+      "selectEndTime": "Vennligst velg slutttid"
+    },
+    "dropdowns": {
+      "addNew": "+ Add New",
+      "morning": "Morning",
+      "day": "Day",
+      "evening": "Evening",
+      "night": "Night",
+      "yes": "Yes",
+      "no": "No",
+      "approved": "Approved",
+      "rejected": "Rejected",
+      "terminated": "Terminated",
+      "suspended": "Suspended",
+      "male": "Male",
+      "female": "Female",
+      "pending": "Pending",
+      "active": "Active",
+      "inactive": "Inactive",
+      "paid": "Paid",
+      "unpaid": "Unpaid"
+    },
+    "units": {
+      "days": "days"
+    },
+    "fallbacks": {
+      "noNoteAvailable": "No note available",
+      "noDescriptionAvailable": "Ingen beskrivelse tilgjengelig",
+      "selectEmployeeFirst": "Select Employee First"
+    },
+    "success": {
+      "leaveDelete": "Leave deleted successfully",
+      "attendanceDelete": "Attendance deleted successfully",
+      "attendanceAdd": "Attendance added successfully",
+      "attendanceUpdate": "Attendance updated successfully",
+      "leaveAdd": "Leave added successfully",
+      "leaveUpdate": "Leave updated successfully",
+      "departmentDelete": "Department deleted successfully",
+      "departmentAdd": "Department added successfully",
+      "departmentUpdate": "Department updated successfully",
+      "designationDelete": "Designation deleted successfully",
+      "designationAdd": "Designation added successfully",
+      "designationUpdate": "Designation updated successfully",
+      "employeeDelete": "Employee deleted successfully",
+      "employeeAdd": "Employee added successfully",
+      "employeeUpdate": "Employee updated successfully",
+      "holidayDelete": "Holiday deleted successfully",
+      "holidayAdd": "Holiday added successfully",
+      "holidayUpdate": "Holiday updated successfully",
+      "leaveTypeDelete": "Leave type deleted successfully"
+    }
+  }
+}

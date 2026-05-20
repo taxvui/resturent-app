@@ -1,0 +1,1561 @@
+{
+  "@@meta": {
+    "languageCode": "lt_LT",
+    "languageName": "Lithuanian",
+    "version": "1.0.0"
+  },
+  "common": {
+    "signIn": "Prisijungti",
+    "signUp": "Registruotis",
+    "verifyEmail": "Patvirtinti el. paštą",
+    "customizeProfile": "Tinkinti profilį",
+    "imageOrLogo": "Logotipas arba paveikslėlis",
+    "createNewPassword": "Sukurti naują slaptažodį",
+    "itemsList": "Prekių sąrašas",
+    "searchItemsName": "Ieškoti prekės pavadinimo",
+    "categoryList": "Kategorijų sąrašas",
+    "brandList": "Prekių ženklų sąrašas",
+    "unitList": "Vienetų sąrašas",
+    "itemDetails": "Prekės informacija",
+    "addStock": "Pridėti atsargų",
+    "profile": "Profilis",
+    "language": "Kalba",
+    "termsAndConditions": "Taisyklės ir sąlygos",
+    "aboutUs": "Apie mus",
+    "logout": "Atsijungti",
+    "editProfile": "Redaguoti profilį",
+    "fullName": "Pilnas vardas",
+    "email": "El. paštas",
+    "mobileNumber": "Mobiliojo telefono numeris",
+    "address": "Adresas",
+    "password": "Slaptažodis",
+    "forgotPassword": "Pamiršote slaptažodį?",
+    "edit": "Redaguoti",
+    "delete": "Ištrinti",
+    "addItems": "Pridėti prekių",
+    "stock": "Atsargos",
+    "currentStock": "Esamos atsargos",
+    "value": "Vertė",
+    "sales": "Pardavimai",
+    "purchase": "Pirkimai",
+    "price": "Kaina",
+    "image": "Paveikslėlis",
+    "upload": "Įkelti",
+    "addNew": "Pridėti naują",
+    "pricing": "Kainos",
+    "name": "Pavadinimas",
+    "category(plural)": {
+      "one": "Kategorija",
+      "other": "Kategorijas"
+    },
+    "areas": "Areas",
+    "brand": "Prekės ženklas",
+    "lowStock": "Mažas likutis",
+    "unit": "Vienetas",
+    "vat": "PVM",
+    "taxType": "Mokesčio tipas",
+    "purchasePrice": "Pirkimo kaina",
+    "sellingPrice": "Pardavimo kaina",
+    "wholeSalePrice": "Didmeninė kaina",
+    "dealerPrice": "Platintojo kaina",
+    "searchHere": "Ieškoti čia",
+    "totalItems": "Viso prekių",
+    "stockValue": "Atsargų vertė",
+    "congratulation": "Sveikiname",
+    "salesList": "Pardavimų sąrašas",
+    "searchInvoiceNumber": "Ieškoti sąskaitos faktūros nr.",
+    "view": "Žiūrėti",
+    "kFor": "Skirta",
+    "total": "Viso",
+    "subTotal": "Tarpinė suma",
+    "insufficientStockAvailableStock": "Nepakankamas likutis, esamas likutis",
+    "discount": "Nuolaida",
+    "selectOne": "Pasirinkti vieną",
+    "allCategory": "Visos kategorijos",
+    "details": "Informacija",
+    "parcel": "Siuntinys",
+    "kot": "KOT",
+    "table": "Stalas",
+    "holdTable": "Laikyti stalą",
+    "capacity": "Talpa",
+    "commonHint": "Pvz.: 10",
+    "pleaseEnterQuantity": "Įveskite kiekį",
+    "quantityMustBeGreaterThanZero": "Kiekis turi būti didesnis nei 0",
+    "mobile": "Mobilusis",
+    "orderNo": "Užsakymo Nr.",
+    "dateAndTime": "Data ir laikas",
+    "items": "Prekės",
+    "totalAmount": "Visa suma",
+    "paidAmount": "Sumokėta suma",
+    "dueAmount": "Nesumokėta suma",
+    "paymentType": "Mokėjimo būdas",
+    "thankYou": "Ačiū",
+    "developedBy": "Sukurta ${domain: String}",
+    "qty": "Kaina",
+    "amount": "Suma",
+    "dashboard": "Informacijos suvestinė",
+    "reports": "Ataskaitos",
+    "home": "Pagrindinis",
+    "parties": "Šalys",
+    "subscriptionPlan": "Prenumeratos planas",
+    "estimateList": "Sąmatų sąrašas",
+    "purchaseList": "Pirkimų sąrašas",
+    "dueList": "Nesumokėtų sumų sąrašas",
+    "lossOrProfit": "Nuostolis/Pelnas",
+    "stocks": "Atsargos",
+    "moneyInList": "Įplaukų sąrašas",
+    "moneyOutList": "Išlaidų sąrašas",
+    "transactionList": "Operacijų sąrašas",
+    "income": "Pajamos",
+    "expense": "Išlaidos",
+    "quickView": "Greita peržiūra",
+    "to": "iki",
+    "totalSales": "Viso pardavimų",
+    "totalPurchase": "Viso pirkimų",
+    "holdNumber": "Laikomi užsakymai",
+    "totalExpense": "Viso išlaidų",
+    "loss": "Nuostolis",
+    "profit": "Pelnas",
+    "recentTransaction": "Paskutinės operacijos",
+    "invoice": "Sąskaita faktūra",
+    "moneyIn": "Įplaukos",
+    "moneyOut": "Išlaidos",
+    "paid": "Sumokėta",
+    "due": "Nesumokėta",
+    "partial": "Dalinis",
+    "print": "Spausdinti",
+    "addCategory": "Pridėti kategoriją",
+    "addExpense": "Pridėti išlaidų",
+    "search": "Ieškoti...",
+    "viewDetails": "Žiūrėti detales",
+    "title": "Pavadinimas",
+    "date": "Data",
+    "note": "Pastaba",
+    "phoneNumber": "Telefono numeris",
+    "type": "Tipas",
+    "selectContactSType": "Pasirinkite kontakto tipą",
+    "moreInfo": "Daugiau informacijos",
+    "paymentReceived": "Gautas mokėjimas",
+    "selectSupplier": "Pasirinkite tiekėją",
+    "supplier": "Tiekėjas",
+    "received": "Gauta",
+    "balanceDue": "Nesumokėtas likutis",
+    "addPurchase": "Pridėti pirkimą",
+    "selectedItemWillBeCleared": "Pasirinktos prekės bus pašalintos.",
+    "searchItemName": "Ieškoti prekės pavadinimo",
+    "billItems": "Sąskaitos prekės",
+    "addMoreItems": "Pridėti daugiau prekių",
+    "payAmount": "Mokėti sumą",
+    "salesReport": "Pardavimų ataskaita",
+    "purchaseReport": "Pirkimų ataskaita",
+    "stockReport": "Atsargų ataskaita",
+    "dueReport": "Nesumokėtų sumų ataskaita",
+    "dueCollectionReport": "Nesumokėtų sumų surinkimo ataskaita",
+    "transactionReport": "Operacijų ataskaita",
+    "incomeReport": "Pajamų ataskaita",
+    "dueCollectionList": "Nesumokėtų sumų surinkimo sąrašas",
+    "expenseReport": "Išlaidų ataskaitos",
+    "dueCollection": "Nesumokėtų sumų surinkimas",
+    "myProfile": "Mano profilis",
+    "printingOption": "Spausdinimo parinktys",
+    "currency": "Valiuta",
+    "paymentMethod": "Mokėjimo būdas",
+    "rateUs": "Įvertinkite mus",
+    "termAndCondition": "Taisyklės ir sąlygos",
+    "tableList": "Stalų sąrašas",
+    "addTable": "Pridėti stalą",
+    "vatRate": "PVM tarifas %",
+    "action": "Veiksmas",
+    "status": "Būsena",
+    "active": "Aktyvus",
+    "inActive": "Neaktyvus",
+    "subVats": "Papildomi PVM tarifai",
+    "add": "Pridėti",
+    "taxRate": "Mokesčio tarifas %",
+    "subTaxes": "Papildomi mokesčiai",
+    "group": "grupė",
+    "VAT": "PVM",
+    "subTaxList": "Papildomų mokesčių sąrašas",
+    "vatPercent": "PVM procentas",
+    "statusIsCannotInActive": "Būsena negali būti neaktyvi, jei PVM taikomas pardavimams.",
+    "vatOnSales": "PVM pardavimams",
+    "transaction": "Operacija",
+    "version": "Versija ${version: String}",
+    "hold": "Laikyti",
+    "empty": "Tuščias",
+    "appName": "Restorano programėlė",
+    "duePayment": "Mokėjimas pagal terminą",
+    "orders": "Užsakymai",
+    "all": "Visi",
+    "ingredient": "Ingredientas",
+    "menus": "Meniu",
+    "modifierGroups": "Modifikatorių grupės",
+    "itemModifiers": "Prekių modifikatoriai",
+    "staff": "Personalas",
+    "coupon": "Kuponas",
+    "pay": "Mokėti",
+    "pendingOrders": "Laukiantys užsakymai",
+    "order": "Užsakymas",
+    "payNow": "Mokėti dabar",
+    "addStaff": "Pridėti darbuotoją",
+    "designation": "Pareigos",
+    "itemAdded": "Prekė pridėta",
+    "noItemAdded": "Prekė nepridėta",
+    "saveNPrint": "Išsaugoti ir spausdinti",
+    "allowMultiSelection": "Leisti kelis pasirinkimus",
+    "required": "Privaloma",
+    "optional": "Neprivaloma",
+    "allowMultiSelectionForSale": "Leisti kelis pasirinkimus pardavimui",
+    "isRequired": "Privaloma",
+    "modifier": "Modifikatorius",
+    "fullPayment": "Visas mokėjimas",
+    "payment": "Mokėjimas",
+    "addTip": "Pridėti arbatpinigių",
+    "netPayable": "Bendras mokėtinas",
+    "receiveAmount": "Gauta suma",
+    "changeAmount": "Grąža",
+    "quotationList": "Pasiūlymų sąrašas",
+    "addQuotation": "Pridėti pasiūlymą",
+    "convert": "Konvertuoti",
+    "variations": "Variacijos",
+    "instructions": "Instrukcijos",
+    "unavailable": "Nepasiekiamas",
+    "tip": "Patarimas",
+    "salesQuotationReport": "Pardavimų pasiūlymų ataskaita",
+    "orderType": "Užsakymo tipas",
+    "deliveryCharge": "Pristatymo mokestis",
+    "receiptNo": "Kvito Nr.",
+    "paidBy": "Mokėjo",
+    "receivedBy": "Gavo",
+    "paymentAmount": "Mokėjimo suma",
+    "remainingDue": "Likutis mokėti",
+    "roleNPermission": "Rolė ir leidimas",
+    "sl": "SL",
+    "features": "Savybės",
+    "create": "Sukurti",
+    "update": "Atnaujinti",
+    "quotations": "Pasiūlymai",
+    "restaurant": "Restoranas",
+    "printerProfile": "Spausdintuvo profilis",
+    "kitchenOrders": "Virtuvės užsakymai",
+    "kitchen(plural)": {
+      "one": "Virtuvė",
+      "other": "Virtuvės"
+    },
+    "allKOT": "Visi KOT",
+    "cancelKOT": "Atšaukti KOT",
+    "selectCancelReason": "Pasirinkite atšaukimo priežastį",
+    "additionalComment": "Papildomas komentaras",
+    "enterComment": "Įveskite komentarą",
+    "orderStatus": "Užsakymo būsena",
+    "selectOrderStatus": "Pasirinkite užsakymo būseną",
+    "kotReport": "KOT ataskaita",
+    "itemFoodType": "Maisto tipas",
+    "selectItemFoodType": "Pasirinkite @:common.itemFoodType",
+    "markAllAsRead": "Pažymėti viską kaip perskaitytą",
+    "online": "Internete",
+    "cancelledReason": "Atšaukimo priežastis",
+    "hrm": "HRM",
+    "notAvailable": "N/A"
+  },
+  "exceptions": {
+    "somethingWentWrong": "Įvyko klaida, bandykite dar kartą",
+    "noCategoryFound": "Nerasta kategorijų!\nBandykite pridėti kategoriją.",
+    "doYouWantToDeleteThisCategory": "Ar norite ištrinti šią kategoriją?",
+    "noBrandFound": "Nerasta prekių ženklų!\nBandykite pridėti prekių ženklą.",
+    "doYouWantToDeleteThisBrand": "Ar norite ištrinti šį prekių ženklą?",
+    "noItemStockFound": "Nerasta prekių atsargų!\nBandykite pridėti prekę.",
+    "noUnitFound": "Nerasta vienetų!\nBandykite pridėti vienetą.",
+    "doYouDeleteThisUnit": "Ar norite ištrinti šį vienetą?",
+    "noSaleFoundPleaseSAddProduct": "Nerasta pardavimų!\nBandykite pridėti pardavimą.",
+    "doYouWantToDeleteThisSale": "Ar norite ištrinti šį pardavimą?",
+    "pleaseAddItemToTheCartFirst": "Pirmiausia pridėkite prekių į krepšelį",
+    "noItemAdded": "Prekių nepridėta",
+    "cannotEditOthersTable": "Negalima redaguoti kito stalo.",
+    "tableIsAlreadyBlocked": "Stalas jau rezervuotas.",
+    "failedToGetCustomerDetails": "Nepavyko gauti kliento duomenų.",
+    "noTableFoundPleaseTryAgain": "Nerasta stalų!\nBandykite pridėti stalą.",
+    "noDueCollectionFound": "Nerasta nesumokėtų sąskaitų faktūrų!\nNesumokėtas sąskaitas faktūras galėsite matyti, kai jos bus prieinamos.",
+    "noExpenseFoundPleaseTryAddingExpense": "Nerasta išlaidų!\nBandykite pridėti išlaidų.",
+    "doYouWantToDeleteThisExpense": "Ar norite ištrinti šias išlaidas?",
+    "noExpenseCategoryFound": "Nerasta išlaidų kategorijų!\nBandykite pridėti išlaidų kategoriją.",
+    "noTransactionFound": "Nerasta operacijų, bandykite dar kartą vėliau!",
+    "pleaseSelectACategory": "Pasirinkite kategoriją",
+    "noIncomeFound": "Nerasta pajamų!\nBandykite pridėti pajamų",
+    "doYouWantToDeleteThisIncome": "Ar norite ištrinti šias pajamas?",
+    "noIncomeCategoryFoundAddingAIncome": "Nerasta pajamų kategorijų!\nBandykite pridėti pajamų kategoriją.",
+    "noItemFoundPleaseTryAddingItem": "Nerasta prekių!\nBandykite pridėti prekę.",
+    "noPartiesFound": "Nerasta šalių",
+    "doYouWantToDeleteThisParty": "Ar norite ištrinti šią šalį?",
+    "noLedgerFound": "Nerasta knygos!\nBandykite pridėti ${transactionType: String}",
+    "areYouSureYouSureWantToDeleteThisTaxType": "Ar tikrai norite ištrinti šį ${taxType: String}?",
+    "noItemFoundPleaseSTryAddingAnPurchase": "Nerasta prekių!\nBandykite pridėti pirkimą.",
+    "doYouWantToDeleteThisPurchase": "Ar norite ištrinti šį pirkimą?",
+    "noTransactionFoundYouSeeTransactionHereWhenAvailable": "Nerasta operacijų!\nOperacijas galėsite matyti čia, kai jos bus prieinamos.",
+    "noSaleFoundPleaseTryAddingSale": "Nerasta pardavimų!\nBandykite pridėti pardavimą.",
+    "noPurchaseFoundPleaseTryAddingPurchase": "Nerasta pirkimų!\nBandykite pridėti pirkimą.",
+    "noItemIncomeFound": "Nerasta prekių pajamų!\nPajamų duomenis galėsite matyti, kai jie bus prieinami.",
+    "noItemExpenseFound": "Nerasta prekių išlaidų!\nIšlaidų duomenis galėsite matyti, kai jie bus prieinami.",
+    "noItemDueInvoiceFound": "Nerasta nesumokėtų prekių sąskaitų faktūrų!\nNesumokėtas sąskaitas faktūras galėsite matyti, kai jos bus prieinamos.",
+    "noItemDueCollectionInvoiceFound": "'Nerasta nesumokėtų prekių surinkimo sąskaitų faktūrų!\nNesumokėtas surinkimo sąskaitas faktūras galėsite matyti, kai jos bus prieinamos.",
+    "doYouWantToDeleteThisTable": "Ar norite ištrinti šį stalą?'",
+    "thisVatIsBeingUsedOnSales": "Šis PVM naudojamas pardavimams!",
+    "noPaymentMethodFoundPleaseTryAddingAPaymentMethod": "Nerasta mokėjimo būdų!\nBandykite pridėti mokėjimo būdą.",
+    "pleaseSelectACustomerFirst": "Pirmiausia pasirinkite klientą.",
+    "pleaseSelectATableToCreateAKot": "Pasirinkite stalą, kad sukurtumėte KOT.",
+    "noStaffFound": "Darbuotojų nerasta!\\n Pabandykite pridėti darbuotoją.",
+    "noIngredientFound": "Ingredientų nerasta!\\n Pabandykite pridėti ingredientą.",
+    "exceedsPaymentAmount": "Gauta suma neturi būti didesnė už mokėtiną sumą.",
+    "noItemModifierFound": "Prekės modifikatorių nerasta!\\n Pabandykite pridėti prekės modifikatorių.",
+    "noModifierGroupFound": "Modifikatorių grupės nerasta!\\n Pabandykite pridėti modifikatorių grupę.",
+    "noOptionsFound": "Parinkčių nerasta!",
+    "maxImageCountLimit": "Galite pasirinkti iki 5 nuotraukų.",
+    "noQuotationFound": "Pasiūlymų nerasta!\n Pabandykite pridėti pasiūlymą.",
+    "noPermittedUserFound": "Nerasta leidžiamo naudotojo!\n Prašome pabandyti pridėti naudotoją."
+  },
+  "prompt": {
+    "logout": {
+      "title": "@:common.logout",
+      "message": "Ar tikrai norite atsijungti?"
+    },
+    "unsavedWarning": {
+      "title": "Vuoi tornare indietro?",
+      "message": "I campi modificati potrebbero non essere salvati!"
+    },
+    "verify": {
+      "title": "Verifica la tua email",
+      "description(rich)": "Abbiamo inviato un'email con un codice di verifica${emailSpan}\n\nÈ possibile che l'email sia finita nella cartella spam."
+    },
+    "subscriptionExpired": {
+      "title": "Prenumerata baigėsi!",
+      "message": "Norėdami tęsti, prašome prenumeruoti.",
+      "action": "Prenumeruoti"
+    },
+    "items": {
+      "delete": {
+        "title": "Ar norite ištrinti šią prekę?"
+      },
+      "filter": {
+        "title": "Filtruoti pagal",
+        "extra": {
+          "lowToHigh": "Nuo mažiausios iki didžiausios @:common.price",
+          "highToLow": "Nuo didžiausios iki mažiausios @:common.price"
+        }
+      }
+    },
+    "checkInternet": {
+      "title": "Nėra interneto ryšio",
+      "message": "Prašome patikrinti savo Wi-Fi arba mobiliojo tinklo ryšį ir bandyti dar kartą"
+    },
+    "back": {
+      "title": "Norėdami išeiti, spauskite atgal dar kartą."
+    },
+    "stockModelSheet": {
+      "title": "Pridėti naujų atsargų"
+    },
+    "paymentMethod": {
+      "title": "Ar norite ištrinti šį mokėjimo būdą?"
+    },
+    "extMsg": {
+      "kotSavedSuccessfully": "KOT sėkmingai išsaugotas"
+    },
+    "deleteStaff": "Ar norite ištrinti šį darbuotoją?",
+    "deleteIngredient": "Ar norite ištrinti šį ingredientą?",
+    "deleteItemModifier": "Ar norite ištrinti šį prekės modifikatorių?",
+    "deleteModifierGroup": "Ar norite ištrinti šią modifikatorių grupę?",
+    "deleteQuotation": "Ar norite ištrinti šį pasiūlymą?"
+  },
+  "form": {
+    "fullName": {
+      "label": "@:common.fullName",
+      "hint": "Įveskite @:common.fullName",
+      "errors": {
+        "required": "Įveskite savo @:common.fullName"
+      }
+    },
+    "email": {
+      "label": "@:common.email",
+      "hint": "Įveskite savo @:common.email",
+      "errors": {
+        "required": "Įveskite savo @:common.email adresą",
+        "invalid": "⦸ Neteisingas el. paštas, bandykite dar kartą"
+      }
+    },
+    "password": {
+      "label": "@:common.password",
+      "hint": "* * * * * * * *",
+      "errors": {
+        "required": "Įveskite savo @:common.password",
+        "minLength": "Slaptažodis turi būti bent ${count} simbolių!"
+      }
+    },
+    "confirmPassword": {
+      "label": "Patvirtinti slaptažodį",
+      "hint": "* * * * * * * *",
+      "errors": {
+        "required": "Įveskite savo @:common.password",
+        "invalid": "'Patvirtinimo slaptažodis nesutampa!'"
+      }
+    },
+    "otp": {
+      "errors": {
+        "required": "Įveskite OTP kodą.",
+        "invalid": "Įveskite dabartinį OTP kodą."
+      }
+    },
+    "profile": {
+      "businessCategory": {
+        "label": "Verslo kategorija",
+        "hint": "Pasirinkite verslo kategoriją",
+        "errors": {
+          "required": "Pasirinkite verslo kategoriją"
+        }
+      },
+      "shopOrStore": {
+        "label": "Parduotuvės pavadinimas*",
+        "hint": "Įveskite parduotuvės pavadinimą",
+        "errors": {
+          "required": "Įveskite savo parduotuvės pavadinimą"
+        }
+      },
+      "openingBalance": {
+        "label": "Pradinis likutis",
+        "hint": "Įveskite pradinį likutį"
+      },
+      "vatGstTitle": {
+        "label": "PVM/GST pavadinimas",
+        "hint": "Įveskite PVM/GST"
+      },
+      "vatGstNumber": {
+        "label": "PVM/GST numeris",
+        "hint": "Įveskite PVM/GST numerį"
+      }
+    },
+    "vat": {
+      "name": {
+        "label": "Pavadinimas",
+        "hint": "Įveskite PVM pavadinimą",
+        "error": {
+          "required": "Įveskite PVM pavadinimą"
+        }
+      },
+      "subVat": {
+        "label": "Papildomas PVM",
+        "hint": "Pasirinkite papildomą PVM",
+        "errors": {
+          "required": "Pasirinkite papildomą PVM tarifą"
+        }
+      },
+      "rate": {
+        "label": "PVM tarifas %",
+        "hint": "Įveskite PVM tarifą",
+        "errors": {
+          "required": "Prašome įvesti PVM tarifą."
+        }
+      }
+    },
+    "category": {
+      "label": "@:common.category",
+      "hint": "Pasirinkite prekės kategoriją",
+      "error": {
+        "required": "Įveskite kategorijos pavadinimą"
+      }
+    },
+    "items": {
+      "barcode": {
+        "label": "Brūkšninis kodas",
+        "hint": "@:common.selectOne"
+      },
+      "itemName": {
+        "label": "Prekės pavadinimas",
+        "hint": "Įveskite prekės pavadinimą",
+        "extra": {
+          "required": "Įveskite prekės pavadinimą"
+        }
+      },
+      "itemCategory": {
+        "label": "Prekės kategorija",
+        "hint": "Prekės kategorija",
+        "extra": {
+          "label": "Pasirinkite kategoriją",
+          "required": "Pasirinkite kategoriją"
+        }
+      },
+      "brand": {
+        "label": "@:common.brand",
+        "hint": "@:common.selectOne",
+        "extra": {
+          "hint": "Įveskite prekės ženklo pavadinimą",
+          "required": "Įveskite prekės ženklo pavadinimą"
+        }
+      },
+      "unit": {
+        "label": "@:common.unit",
+        "hint": "@:common.selectOne",
+        "error": {
+          "required": "Įveskite vieneto pavadinimą"
+        }
+      },
+      "stock": {
+        "label": "Pradinės atsargos",
+        "hint": "@:common.commonHint",
+        "extra": {
+          "required": "Įveskite prekės kiekį."
+        }
+      },
+      "lowStock": {
+        "label": "@:common.lowStock",
+        "hint": "Pvz.: 5"
+      },
+      "purchasePrice": {
+        "label": "@:common.purchasePrice",
+        "hint": "Pvz.: \\$40",
+        "error": {
+          "required": "Įveskite pirkimo kainą."
+        }
+      },
+      "salePrice": {
+        "label": "Pardavimo kaina",
+        "hint": "Pvz.: \\$60",
+        "error": {
+          "required": "Įveskite pardavimo kainą."
+        }
+      },
+      "totalSalePrice": {
+        "label": "Visa pardavimo kaina",
+        "hint": "Pvz.: \\$100"
+      },
+      "wholeSalePrice": {
+        "label": "@:common.wholeSalePrice",
+        "hint": "Įveskite didmeninę kainą"
+      },
+      "dealerPrice": {
+        "label": "@:common.dealerPrice",
+        "hint": "Įveskite platintojo kainą"
+      },
+      "discount": {
+        "label": "Nuolaida (%)",
+        "hint": "@:common.commonHint"
+      },
+      "applicableTax": {
+        "label": "Taikomas mokestis",
+        "hint": "@:common.selectOne"
+      },
+      "vatType": {
+        "label": "@:common.taxType",
+        "errorText": {
+          "required": "Pasirinkite PVM tipą"
+        }
+      },
+      "menu": {
+        "label": "Pasirinkite meniu",
+        "errors": {
+          "required": "Prašome pasirinkti meniu."
+        },
+        "hint": "Pasirinkite meniu",
+        "extra": {
+          "selectNavLabel": "Pasirinkite prekės meniu"
+        }
+      },
+      "modifierItems": {
+        "label": "Modifikatoriai",
+        "hint": "Pasirinkite modifikatorius"
+      },
+      "preparationTime": {
+        "label(rich)": "Paruošimo laikas ${minutes(Minutės)}",
+        "hint": "Pvz.: 30"
+      },
+      "variation": {
+        "name": {
+          "label": "Pavadinimas",
+          "hint": "Įveskite variaciją",
+          "errors": {
+            "required": "Prašome įvesti variacijos pavadinimą."
+          }
+        },
+        "price": {
+          "errors": {
+            "required": "Prašome įvesti kainą."
+          },
+          "label": "Kaina",
+          "hint": "Pvz.: \\$30"
+        }
+      }
+    },
+    "itemCart": {
+      "hint": "@:common.commonHint",
+      "error": {
+        "required": "@:common.pleaseEnterQuantity",
+        "noZero": "@:common.quantityMustBeGreaterThanZero"
+      }
+    },
+    "sales": {
+      "autoGenerateInvoice": {
+        "label": "Sąskaitos Nr.",
+        "hint": "P-00001"
+      },
+      "date": {
+        "label": "Data"
+      },
+      "customer": {
+        "label": "Klientas",
+        "hint": "Pasirinkite klientą"
+      },
+      "phone": {
+        "label": "Telefono numeris",
+        "hint": "Įveskite telefono numerį"
+      },
+      "address": {
+        "label": "Adresas",
+        "hint": "Įveskite adresą"
+      },
+      "deliveryCharge": {
+        "label": "@:common.deliveryCharge",
+        "hint": "Pvz.: \\$20",
+        "hint2": "Mokestis, pvz.: \\$10"
+      },
+      "table": {
+        "hint": "Pasirinkite stalą"
+      },
+      "waiter": {
+        "hint": "Pasirinkite padavėją"
+      }
+    },
+    "bill": {
+      "label": "Sąskaitos Nr.",
+      "hint": "P-00001"
+    },
+    "supplier": {
+      "label": "Tiekėjas",
+      "hint": "Pasirinkite tiekėją",
+      "extra": {
+        "required": "Pasirinkite tiekėją"
+      }
+    },
+    "phone": {
+      "label": "Telefono numeris",
+      "hint": "Įveskite telefono numerį",
+      "errors": {
+        "required": "Įveskite telefono numerį."
+      }
+    },
+    "address": {
+      "label": "Įmonės adresas",
+      "hint": "Įveskite įmonės adresą"
+    },
+    "payment": {
+      "label": "Pavadinimas",
+      "hint": "Įveskite mokėjimo pavadinimą",
+      "error": {
+        "required": "Įveskite mokėjimo būdo pavadinimą"
+      }
+    },
+    "expense": {
+      "label": "Išlaidų kategorija",
+      "hint": "Pasirinkite išlaidų kategoriją",
+      "error": {
+        "required": "Įveskite išlaidų kategoriją"
+      }
+    },
+    "income": {
+      "label": "Pajamų kategorija",
+      "hint": "Įveskite kategorijos pavadinimą",
+      "error": {
+        "required": "Įveskite kategorijos pavadinimą"
+      },
+      "incomeTitle": {
+        "label": "Pajamų pavadinimas",
+        "hint": "Įveskite pajamas"
+      },
+      "incomeCategory": {
+        "label": "Pajamų kategorija",
+        "hint": "Pasirinkite kategoriją"
+      },
+      "payment": {
+        "label": "Mokėjimas",
+        "hint": "Pvz.: \\$10"
+      }
+    },
+    "note": {
+      "label": "Pastaba (neprivaloma)",
+      "hint": "Įveskite tekstą"
+    },
+    "parties": {
+      "partyName": {
+        "label": "Šalies pavadinimas",
+        "hint": "Įveskite šalies pavadinimą",
+        "error": {
+          "required": "Įveskite šalies pavadinimą"
+        }
+      },
+      "partyPhone": {
+        "label": "Telefono numeris",
+        "hint": "Įveskite telefono numerį",
+        "error": {
+          "required": "Įveskite telefono numerį"
+        }
+      }
+    },
+    "table": {
+      "name": {
+        "label": "Stalo pavadinimas",
+        "hint": "Įveskite stalo pavadinimą",
+        "error": {
+          "required": "Įveskite stalo pavadinimą"
+        }
+      },
+      "capacity": {
+        "label": "Talpa",
+        "hint": "Įveskite talpą",
+        "error": {
+          "required": "Įveskite talpą"
+        }
+      }
+    },
+    "designation": {
+      "label": "@:common.designation",
+      "hint": "Pasirinkite pareigas",
+      "errors": {
+        "required": "Prašome pasirinkti pareigas."
+      }
+    },
+    "ingredientName": {
+      "label": "Ingrediento pavadinimas",
+      "hint": "Įveskite ingrediento pavadinimą",
+      "errors": {
+        "required": "Prašome įvesti ingrediento pavadinimą"
+      }
+    },
+    "item": {
+      "label": "Prekė",
+      "hint": "Pasirinkite prekę",
+      "errors": {
+        "required": "Prašome pasirinkti prekę."
+      }
+    },
+    "modifierGroup": {
+      "label": "Modifikatorių grupė",
+      "hint": "Pasirinkite modifikatorių grupę",
+      "errors": {
+        "required": "Prašome pasirinkti modifikatorių grupę."
+      }
+    },
+    "description": {
+      "label": "Aprašymas",
+      "hint": "Įveskite aprašymą"
+    },
+    "staff": {
+      "label": "@:common.staff",
+      "hint": "Pasirinkite darbuotoją",
+      "errors": {
+        "required": "Prašome pasirinkti darbuotoją"
+      }
+    },
+    "loginUserName": {
+      "label": "Prisijungimo vartotojo vardas",
+      "hint": "Įveskite vartotojo vardą arba el. pašto adresą",
+      "errors": {
+        "required": "Prašome įvesti vartotojo vardą arba el. pašto adresą"
+      }
+    }
+  },
+  "action": {
+    "next": "Kitas",
+    "getStarted": "Pradėti",
+    "skip": "Praleisti",
+    "select": "Pasirinkti",
+    "save": "Išsaugoti",
+    "verify": "Patvirtinti",
+    "signIn": "@:common.signIn",
+    "signUp": "@:common.signUp",
+    "continue": "Tęsti",
+    "no": "Ne",
+    "yes": "Taip",
+    "okay": "Gerai",
+    "cancel": "Atšaukti",
+    "confirm": "Patvirtinti",
+    "tryAgain": "Bandyti dar kartą",
+    "reset": "Atkurti",
+    "apply": "Taikyti",
+    "stockAdjust": "Koreguoti atsargas",
+    "addMoreItems": "Pridėti daugiau prekių",
+    "hold": "Laikyti",
+    "parcel": "@:common.parcel",
+    "buyNow": "Pirkti dabar",
+    "viewAll": "Žiūrėti visus",
+    "viewLedger": "Žiūrėti knygą",
+    "submit": "Pateikti",
+    "selected": "Pasirinkta",
+    "addToCart": "Pridėti į krepšelį",
+    "selectAll": "Pasirinkti visus",
+    "update": "@:common.update",
+    "addRole": "Pridėti vaidmenį"
+  },
+  "pages": {
+    "language": {
+      "appbarTitle": "@:action.select @:common.language"
+    },
+    "onboard": {
+      "onboardData": {
+        "data1": {
+          "title": "Lengva naudoti @:common.appName",
+          "description": "Sklandūs užsakymai, lengvas rezervavimas\\nLengvai valdykite savo restoraną!"
+        },
+        "data2": {
+          "title": "Lengvas užsakymų valdymas",
+          "description": "Supaprastinkite savo restorano užsakymų priėmimo procesą naudodami mūsų intuityvią POS sistemą."
+        },
+        "data3": {
+          "title": "Puiki analizė ir ataskaitų teikimas",
+          "description": "Mūsų analizės informacijos suvestinė teikia realaus laiko pardavimų ir pirkimų ataskaitas"
+        }
+      }
+    },
+    "signIn": {
+      "title": "Sveiki sugrįžę",
+      "subtitle": "Prašome įvesti savo duomenis.",
+      "extra": {
+        "rememberMe": "Prisiminti mane",
+        "signUpNavigator(rich)": "Neturite paskyros? ${getStarted(@:action.getStarted)}",
+        "forgotPassword": "@:common.forgotPassword?"
+      }
+    },
+    "signUp": {
+      "title": "Sukurti paskyrą",
+      "subtitle": "Prašome įvesti savo duomenis",
+      "extra": {
+        "signInNavigator(rich)": "Jau turite paskyrą? ${signIn(@:action.signIn)}"
+      }
+    },
+    "forgotPassword": {
+      "title": "@:common.forgotPassword",
+      "subtitle": "Įveskite savo el. pašto adresą, kad atkurtumėte slaptažodį."
+    },
+    "otpVerification": {
+      "title": "Patvirtinimas",
+      "subtitle": "6 skaitmenų PIN kodas išsiųstas jūsų el. pašto adresu",
+      "extra": {
+        "codeResend": {
+          "codeSendIn": "Kodas išsiųstas per",
+          "resendCode": "Siųsti kodą iš naujo"
+        }
+      }
+    },
+    "resetPassword": {
+      "title": "Atkurti slaptažodį",
+      "subtitle": "Atkurkite slaptažodį, kad galėtumėte prisijungti prie savo paskyros",
+      "extra": {
+        "dialog": {
+          "title": "Sėkmingai pakeista!",
+          "subtitle": "Prisijunkite naudodami naują slaptažodį.\nBūsite nukreipti į prisijungimo puslapį..."
+        }
+      }
+    },
+    "items": {
+      "itemList": {
+        "extra": {
+          "emptyItem": "Prekių nerasta!\nBandykite pridėti prekę."
+        }
+      },
+      "manageItems": {
+        "title": "Pridėti naują prekę",
+        "title2": "Redaguoti prekę",
+        "extra": {
+          "maximum": "Maksimumas 5",
+          "wholeSaleAndDealerPrice": "Didmeninė ir platintojo kaina",
+          "addDiscount": "Pridėti nuolaidą",
+          "addVat": "Pridėti PVM"
+        }
+      },
+      "itemDetails": {
+        "title": "Prekės informacija",
+        "extra": {
+          "noImageAvailable": "Paveikslėlio nėra!",
+          "preparationTime(rich)": "Paruošimo laikas: ${min: String} ${mins(mins)}",
+          "pleaseSelectVariation": "Prašome pasirinkti variaciją",
+          "pleaseSelectOption": "Prašome pasirinkti parinktį.",
+          "enterYourInstruction": "Įveskite savo nurodymus"
+        }
+      }
+    },
+    "category": {
+      "addNewCategory": "Pridėti naują kategoriją",
+      "editCategory": "Redaguoti kategoriją"
+    },
+    "brand": {
+      "addNewBrand": "Pridėti naują prekių ženklą",
+      "editBrand": "Redaguoti prekių ženklą"
+    },
+    "unit": {
+      "addNewUnit": "Pridėti naują vienetą",
+      "editUnit": "Redaguoti vienetą"
+    },
+    "stock": {
+      "stockList": "Atsargų sąrašas"
+    },
+    "aboutUs": {
+      "title": "Apie mus"
+    },
+    "privacyPolicy": {
+      "title": "Privatumo politika"
+    },
+    "termAndCondition": {
+      "title": "@:common.termAndCondition"
+    },
+    "orders": {
+      "manageOrders": {
+        "extra": {
+          "billItems": "Sąskaitos prekės",
+          "manageQuantity": "Valdyti kiekį"
+        },
+        "title": {
+          "editOrder": "Redaguoti užsakymą",
+          "editKOT": "KOT redagavimas"
+        }
+      }
+    },
+    "onlinePayment": {
+      "title": "Mokėjimas internetu"
+    },
+    "paymentStatus": {
+      "success": {
+        "title": "Ačiū!",
+        "message": "Mes peržiūrėsime mokėjimą ir patvirtinsime jį per 24 valandas.",
+        "actionButtonText": "Žiūrėti sąskaitą faktūrą"
+      },
+      "fail": {
+        "title": "Oi! Mokėjimas nepavyko",
+        "message": "Jūsų operacija nepavyko dėl techninės klaidos.",
+        "actionButtonText": "Bandyti dar kartą"
+      }
+    },
+    "confirmationDialog": {
+      "title": "Atsijungti",
+      "message": "Ar tikrai norite atsijungti?",
+      "acceptationText": "Ne",
+      "rejectionText": "Atsijungti"
+    },
+    "payment": {
+      "title": "@:common.paymentMethod",
+      "addPaymentMethod": "Pridėti naują mokėjimo būdą",
+      "editPaymentMethod": "Redaguoti mokėjimo būdą",
+      "choseOnlinePayment": "Pasirinkti mokėjimą internetu",
+      "selectPaymentMethod": "Pasirinkite mokėjimo būdą",
+      "pleaseSelectAPaymentMethod": "Prašome pasirinkti mokėjimo būdą.",
+      "methodStatus": {
+        "title": "Būsena",
+        "message": "Būsena negali būti neaktyvi, jei įjungta greita peržiūra!."
+      }
+    },
+    "subscriptionPlan": {
+      "title": "Įsigyti „Premium“ planą",
+      "extra": {
+        "actionButtonText": "Grįžti",
+        "message": "Prenumeratos mokėjimas sėkmingas.\n\nDabar galite naudotis prenumeratos funkcijomis.",
+        "mostPopular": "Populiariausias"
+      }
+    },
+    "invoicePreview": {
+      "title": "Sąskaitos faktūros peržiūra",
+      "message": "PDF peržiūra netrukus pasirodys"
+    },
+    "currency": {
+      "title": "@:common.currency"
+    },
+    "dashboard": {
+      "overview": "Apžvalga",
+      "dashboardPrivacy": "Informacijos suvestinės privatumas",
+      "moneyInAndMoneyOut": "Įplaukos ir išlaidos",
+      "lossAndProfitOverView": "Pelno ir nuostolių apžvalga"
+    },
+    "due": {
+      "title": "@:common.dueList",
+      "collectionList": "Surinkimo sąrašas",
+      "dueCollection": "Nesumokėtų sumų surinkimas"
+    },
+    "expense": {
+      "title": "@:common.expense",
+      "editExpense": "Modifica spesa",
+      "addNewExpense": "Aggiungi nuova spesa",
+      "editExpenseCategory": "Modifica categoria di spesa",
+      "addNewExpenseCategory": "Aggiungi nuova categoria di spesa",
+      "payment": "Pagamento",
+      "expenseCategory": "Categoria di spesa",
+      "selectCategory": "Seleziona categoria",
+      "allExpense": "Tutte le spese",
+      "pleaseSelectACategory": "Seleziona una categoria",
+      "expenseTitle": {
+        "label": "Titolo della spesa",
+        "hint": "Inserisci la spesa"
+      }
+    },
+    "lossProfit": {
+      "title": "Elenco perdite/profitti",
+      "noLossProfitFound": "Nessuna perdita/profitto trovato!\nPer favore, prova a creare delle vendite."
+    },
+    "income": {
+      "editIncomeCategory": "Redaguoti pajamų kategoriją",
+      "addNewIncomeCategory": "Pridėti naują pajamų kategoriją",
+      "incomeCategory": "Pajamų kategorija",
+      "allIncome": "Visos pajamos",
+      "editIncome": "Redaguoti pajamas",
+      "addNewIncome": "Redaguoti pajamas",
+      "addIncome": "Pridėti pajamas"
+    },
+    "moneyIn": {
+      "title": "Įplaukų sąrašas",
+      "totalPaymentIn": "Visos įplaukos"
+    },
+    "moneyOut": {
+      "title": "Išlaidų sąrašas",
+      "totalMoneyOut": "Visos išlaidos"
+    },
+    "profile": {
+      "title": "Mano profilis",
+      "editProfile": "Redaguoti profilį",
+      "businessInformation": "Įmonės informacija",
+      "profileInformation": "Profilio informacija"
+    },
+    "parties": {
+      "title": "Šalių sąrašas",
+      "allParties": "Visos šalys",
+      "customer": "Klientas",
+      "supplier": "Tiekėjas",
+      "addParties": "Pridėti šalis",
+      "editParties": "Redaguoti šalis",
+      "partiesDetails": "Šalių informacija",
+      "personalInfo": "Asmeninė informacija"
+    },
+    "ledger": {
+      "subTitle": "Knyga"
+    },
+    "purchase": {
+      "title": "Pridėti naują pirkimą",
+      "editPurchase": "Redaguoti pirkimą"
+    },
+    "reports": {
+      "title": "Ataskaitos"
+    },
+    "table": {
+      "title": "Pridėti naują stalą",
+      "editTable": "Redaguoti stalą"
+    },
+    "tax": {
+      "title": "PVM tarifai",
+      "buildHeaderTitle": "PVM tarifai – valdykite savo PVM tarifus",
+      "vatGroup": {
+        "title": "PVM grupė",
+        "subTitle": "PVM grupė – valdykite savo PVM grupę"
+      }
+    },
+    "vat": {
+      "addNewVat": "Pridėti naują PVM tarifą",
+      "editVat": "Redaguoti PVM tarifą",
+      "addNewVatGroup": "Pridėti naują PVM grupę",
+      "editVatGroup": "Redaguoti PVM grupę"
+    },
+    "orderList": {
+      "title": "Užsakymų sąrašas",
+      "filters": {
+        "orderType": {
+          "label": "@:common.orderType",
+          "hint": "Pasirinkite užsakymo tipą"
+        },
+        "paymentStatus": {
+          "hint": "Pasirinkite mokėjimo būseną",
+          "label": "Mokėjimo būsena"
+        }
+      }
+    },
+    "staffs": {
+      "staffList": {
+        "filters": {
+          "designation": {
+            "label": "Pareigos",
+            "hint": "Pasirinkite pareigas"
+          }
+        },
+        "title": "Visi darbuotojai"
+      },
+      "manageStaff": {
+        "title1": "Pridėti naują darbuotoją",
+        "title2": "Atnaujinti darbuotoją"
+      }
+    },
+    "ingredient": {
+      "ingredientList": {
+        "title1": "Ingredientų sąrašas",
+        "title2": "Pasirinkite ingredientą"
+      },
+      "manageIngredient": {
+        "title1": "Pridėti naują ingredientą",
+        "title2": "Redaguoti ingredientą"
+      }
+    },
+    "itemModifier": {
+      "itemModifierList": {
+        "title": "@:common.itemModifiers"
+      },
+      "manageItemModifier": {
+        "title1": "Pridėti prekių modifikatorius",
+        "title2": "Redaguoti prekių modifikatorius"
+      }
+    },
+    "quotation": {
+      "manageQuotation": {
+        "title": {
+          "add": "Pridėti naują pasiūlymą",
+          "edit": "Redaguoti pasiūlymą",
+          "convert": "Konvertuoti į pardavimą"
+        }
+      }
+    },
+    "rolePermission": {
+      "rolePermissionList": {
+        "title": "Rolių ir leidimų sąrašas"
+      },
+      "manageRolePermission": {
+        "title1": "Pridėti naują rolę",
+        "title2": "Redaguoti rolę"
+      }
+    },
+    "printingOption": {
+      "title": "Spausdinimo parinktis",
+      "form": {
+        "companyAddress": {
+          "label": "Įmonės adresas",
+          "hint": "Įveskite įmonės adresą"
+        },
+        "noteLabel": {
+          "label": "Pastabos etiketė",
+          "hint": "Įveskite pastabos etiketę."
+        },
+        "note": {
+          "label": "Pastaba",
+          "hint": "Įveskite pastabą."
+        },
+        "postSaleMessage": {
+          "label": "Pranešimas po pardavimo",
+          "hint": "Įveskite pranešimą po pardavimo"
+        },
+        "printingMethod": {
+          "label": "Spausdinimo metodas",
+          "hint": "Pasirinkite spausdinimo metodą"
+        },
+        "printerProfile": {
+          "label": "Spausdintuvo profilis",
+          "hint": "Pasirinkite spausdintuvo profilį"
+        },
+        "paperSize": {
+          "label": "Terminio spausdintuvo popieriaus dydis",
+          "hint": "Pasirinkite spausdintuvo popieriaus dydį"
+        },
+        "printerDpi": {
+          "label": "Spausdintuvo DPI",
+          "hint": "Pvz: 203"
+        },
+        "printingMargin": {
+          "label": "Spausdinimo paraštė",
+          "hint": "Pvz: 2"
+        }
+      },
+      "tooltip": {
+        "printingMethod": {
+          "title": "Išskleidžiamasis sąrašas su parinktimis:",
+          "default": "• Numatytoji (Gimtoji ES standartinių simbolių spausdinimo metodas)",
+          "image": "• Vaizdas (Rekomenduojama Unicode simbolių spausdinimui)"
+        }
+      },
+      "action": {
+        "save": "Išsaugoti"
+      }
+    },
+    "kitchen": {
+      "list": {
+        "noKitchensFound": "Virtuvių nerasta.\n Bandykite pridėti vieną."
+      },
+      "manage": {
+        "addKitchen": "Pridėti virtuvę",
+        "editKitchen": "Redaguoti virtuvę",
+        "kitchenName": {
+          "label": "Virtuvės pavadinimas",
+          "hint": "Įveskite virtuvės pavadinimą",
+          "error": "Įveskite virtuvės pavadinimą."
+        },
+        "description": {
+          "label": "Aprašymas",
+          "hint": "Įveskite aprašymą"
+        }
+      },
+      "manageItems": {
+        "title": "Valdyti prekes",
+        "addedItems": "Pridėtos prekės",
+        "selectItemsError": "Pasirinkite prekes.",
+        "noItemsAdded": "Prekių dar nepridėta!\nBandykite pridėti prekių."
+      },
+      "card": {
+        "itemName": "Prekės pavadinimas",
+        "manageItems": "+ Valdyti prekes",
+        "deleteItemConfirm": "Ar norite ištrinti šią prekę?",
+        "deleteKitchenConfirm": "Ar norite ištrinti šią virtuvę?"
+      }
+    }
+  },
+  "enums": {
+    "dropdownDateFilter": {
+      "daily": "Kasdien",
+      "weekly": "Kas savaitę",
+      "monthly": "Kas mėnesį",
+      "yearly": "Kasmet",
+      "custom": "Pasirinktinis"
+    },
+    "orderTypes": {
+      "dineIn": "Valgymas vietoje",
+      "pickUp": "Atsiėmimas",
+      "delivery": "Pristatymas",
+      "reservation": "Rezervacija",
+      "quotation": "Pasiūlymas"
+    },
+    "paymentStatus": {
+      "paid": "Sumokėta",
+      "unpaid": "Nesumokėta"
+    },
+    "staffTypes": {
+      "manager": "Vadybininkas",
+      "waiter": "Padavėjas",
+      "chef": "Virėjas",
+      "cleaner": "Valytojas",
+      "driver": "Vairuotojas",
+      "deliveryBoy": "Pristatytojas"
+    },
+    "itemFoodTypes": {
+      "veg": "Vegetariškas",
+      "nonVeg": "Nevariškas",
+      "egg": "Su kiaušiniais",
+      "drink": "Gėrimas",
+      "others": "Kita"
+    },
+    "itemTypes": {
+      "single": "Vienetas",
+      "variation": "Variacija"
+    },
+    "quotationStatus": {
+      "open": "Atidaryta",
+      "closed": "Uždaryta"
+    },
+    "tableStatus": {
+      "running": "Užimta",
+      "available": "Laisva"
+    },
+    "thermalPrinterPrintingMethod": {
+      "image": "Paveikslėlis",
+      "default": "numatytasis"
+    },
+    "kotOrderStatus": {
+      "label": {
+        "pending": "Laukiama",
+        "preparing": "Ruošiama",
+        "ready": "Maistas paruoštas",
+        "served": "Pateikta",
+        "cancelled": "Atšaukta"
+      },
+      "pending": "Laukiama",
+      "preparing": "Ruošiama",
+      "ready": "Maistas paruoštas",
+      "served": "Pateikta",
+      "cancelled": "Atšaukta"
+    },
+    "kotItemStatus": {
+      "pending": "Pradėti gaminti",
+      "start": "Pažymėti kaip paruoštą",
+      "ready": "Paruošta"
+    }
+  },
+  "thermalPrint": {
+    "invoice": {
+      "purchaseInvoiceLabel": "Pirkimo sąskaita: ${invoiceNumber: String}",
+      "saleInvoiceLabel": "Užsakymo Nr.: ${invoiceNumber: String}",
+      "receiptNoLabel": "Kvito Nr.: ${invoiceNumber: String}",
+      "orderNoKotLabel": "Užsakymo Nr.: ${invoiceNumber: String}",
+      "nameLabel": "Pavadinimas: ${name: String}",
+      "mobileLabel": "Mobilus: ${phone: String}",
+      "purchasedByLabel": "Pirkėjas: ${role: String}",
+      "salesByLabel": "Pardavėjas: ${role: String}",
+      "paidByLabel": "${label: String}: ${role: String}",
+      "paidToReceivedFromLabel": "${label: String}: ${name: String}",
+      "orderTypeLabel": "Užsakymo tipas: ${orderType: String}",
+      "tableLabel": "Stalas: ${tableName: String}",
+      "tableNoLabel": "Stalo Nr.: ${tableName: String}",
+      "dateLabel": "Data: ${dateTime: String}",
+      "invoiceFlag": "SĄSKAITA",
+      "receiptFlag": "KVITAS",
+      "paidBy": "Apmokėjo",
+      "receivedBy": "Gavo",
+      "paidTo": "Apmokėta",
+      "receivedFrom": "Gauta iš",
+      "seller": "Pardavėjas: ${name: String}",
+      "address": "Adresas: ${addr: String}",
+      "vatNo": "PVM mok. k.",
+      "tel": "Tel: ${phoneNumber: String}",
+      "timeLabel": "Laikas: ${dateTime: String}"
+    },
+    "tableHeaders": {
+      "sl": "Eil. Nr.",
+      "item": "Prekė",
+      "cost": "Kaina",
+      "qty": "Kiekis",
+      "uPrice": "Vnt. kaina",
+      "amount": "Suma",
+      "total": "Iš viso",
+      "invoiceTable": "Sąskaita",
+      "dueTable": "Skola"
+    },
+    "summary": {
+      "subTotal": "Tarpinė suma:",
+      "discount": "Nuolaida: ${percentFmt: String}",
+      "vat": "${vatName: String}: ${rateFmt: String}%",
+      "tip": "Arbatpinigiai:",
+      "deliveryCharge": "Pristatymo mokestis:",
+      "totalPayable": "Bendra mokėtina suma:",
+      "paidAmount": "Sumokėta suma:",
+      "dueAmount": "Skolos suma:",
+      "paymentType": "Mokėjimo tipas: ${method: String}",
+      "remainingDue": "Likusios skolos suma:",
+      "paymentAmount": "Mokėjimo suma:",
+      "itemsCount": "Prekės: ${count: int}",
+      "qtyTotal": "Kiekis: ${totalQty: int}"
+    },
+    "footer": {
+      "note": "${noteLabel: String}: ${note: String}",
+      "developedBy": "${developByLabel: String} ${developBy: String}"
+    }
+  },
+  "hrm": {
+    "department": "Skyrius",
+    "designation": "Pareigos",
+    "shift": "Pamaina",
+    "employee": "Darbuotojas",
+    "leave": "Atostogos",
+    "leaveType": "Atostogų tipas",
+    "leaveRequest": "Atostogų prašymas",
+    "holiday": "Šventė",
+    "attendance": "Lankomumas",
+    "payroll": "Darbo užmokestis",
+    "pageTitles": {
+      "department": "Skyrius",
+      "designation": "Pareigos",
+      "shift": "Pamaina",
+      "employee": "Darbuotojas",
+      "leave": "Atostogos",
+      "leaveType": "Atostogų tipas",
+      "holiday": "Šventė",
+      "attendance": "Lankomumas",
+      "payroll": "Darbo užmokestis",
+      "leaveReports": "Atostogų ataskaitos",
+      "payrollReports": "Darbo užmokesčio ataskaitos",
+      "attendanceReports": "Lankomumo ataskaitos",
+      "addDepartment": "Pridėti skyrių",
+      "editDepartment": "Redaguoti skyrių",
+      "addDesignation": "Pridėti pareigas",
+      "editDesignation": "Redaguoti pareigas",
+      "addShift": "Pridėti pamainą",
+      "editShift": "Redaguoti pamainą",
+      "addEmployee": "Pridėti darbuotoją",
+      "editEmployee": "Redaguoti darbuotoją",
+      "addLeave": "Pridėti atostogas",
+      "editLeave": "Redaguoti atostogas",
+      "addLeaveType": "Pridėti atostogų tipą",
+      "editLeaveType": "Redaguoti atostogų tipą",
+      "addHoliday": "Pridėti šventę",
+      "editHoliday": "Redaguoti šventę",
+      "addAttendance": "Pridėti lankomumą",
+      "editAttendance": "Redaguoti lankomumą",
+      "addPayroll": "Pridėti darbo užmokestį",
+      "editPayroll": "Redaguoti darbo užmokestį"
+    },
+    "form": {
+      "labels": {
+        "department": "Skyrius",
+        "designation": "Pareigos",
+        "shift": "Pamaina",
+        "employee": "Darbuotojas",
+        "leaveType": "Atostogų tipas",
+        "leaveDuration": "Atostogų trukmė",
+        "paymentYear": "Mokėjimo metai",
+        "paymentType": "Mokėjimo tipas",
+        "breakStatus": "Pertraukos būsena",
+        "startTime": "Pradčios laikas",
+        "endTime": "Pabaigos laikas",
+        "startBreakTime": "Pertraukos pradžia",
+        "endBreakTime": "Pertraukos pabaiga",
+        "breakTime": "Pertraukos laikas",
+        "breakDuration": "Pertraukos trukmė",
+        "timeIn": "Atvykimo laikas",
+        "timeOut": "Išvykimo laikas",
+        "duration": "Trukmė",
+        "country": "Šalis",
+        "salary": "Atlyginimas",
+        "gender": "Lytis",
+        "birthDate": "Gimimo data",
+        "joinDate": "Įsidarbinimo data",
+        "holidayName": "Šventės pavadinimas",
+        "startDate": "Pradžios data",
+        "endDate": "Pabaigos data",
+        "month": "Mėnuo",
+        "year": "Metai",
+        "status": "Būsena",
+        "description": "Aprašymas",
+        "amount": "Suma",
+        "payment": "Mokėjimas",
+        "departmentName": "Skyriaus pavadinimas",
+        "designationName": "Pareigų pavadinimas",
+        "image": "Nuotrauka",
+        "name": "Vardas"
+      },
+      "hints": {
+        "selectEmployee": "Pasirinkite darbuotoją",
+        "selectDepartment": "Pasirinkite skyrių",
+        "selectDesignation": "Pasirinkite pareigas",
+        "selectShift": "Pasirinkite pamainą",
+        "selectLeaveType": "Pasirinkite atostogų tipą",
+        "selectMonth": "Pasirinkite mėnesį",
+        "selectYear": "Pasirinkite metus",
+        "selectDate": "Pasirinkite datą",
+        "selectStartDate": "Pasirinkite pradžios datą",
+        "selectEndDate": "Pasirinkite pabaigos datą",
+        "selectTimeIn": "Pasirinkite atvykimo laiką",
+        "selectTimeOut": "Pasirinkite išvykimo laiką",
+        "selectStartTime": "Pasirinkite pradžios laiką",
+        "selectEndTime": "Pasirinkite pabaigos laiką",
+        "selectStatus": "Pasirinkite būseną",
+        "selectGender": "Pasirinkite lytį",
+        "selectPaymentType": "Pasirinkite mokėjimo tipą",
+        "enterFullName": "Įveskite pilną vardą",
+        "enterEmail": "Įveskite el. paštą",
+        "enterPhone": "Įveskite telefoną",
+        "enterCountry": "Įveskite šalį",
+        "enterSalary": "Pvz.: 500",
+        "enterHolidayName": "Įveskite šventės pavadinimą",
+        "enterDescription": "Įveskite aprašymą...",
+        "autoCalculated": "Automatiškai apskaičiuota",
+        "selectDatesFirst": "Pirmiausia pasirinkite datas",
+        "allEmployee": "Visi darbuotojai",
+        "selectEmployeeFirst": "Pirmiausia pasirinkite darbuotoją",
+        "enterDepartmentName": "Įveskite skyriaus pavadinimą",
+        "enterDesignationName": "Įveskite pareigų pavadinimą",
+        "ex": "{value}",
+        "selectBirthDate": "Pasirinkite gimimo datą",
+        "selectJoinDate": "Pasirinkite įsidarbinimo datą",
+        "selectBreakStatus": "Pasirinkti pertraukos būseną",
+        "enterLeaveTypeName": "Įveskite atostogų rūšies pavadinimą"
+      }
+    },
+    "emptyStates": {
+      "noLeaves": "Atostogų nerasta",
+      "noPayrollRecords": "Darbo užmokesčio įrašų nerasta",
+      "noAttendanceRecords": "Lankomumo įrašų nerasta",
+      "noLeaveTypes": "Atostogų rūšių nerasta",
+      "noEmployees": "Darbuotojų nerasta",
+      "noHolidays": "Švenčių nerasta",
+      "noShifts": "Pamainų nerasta",
+      "noDesignations": "Pareigų nerasta",
+      "noDepartments": "Skyrių nerasta"
+    },
+    "confirmations": {
+      "deleteAttendance": "Ar tikrai norite ištrinti šį lankomumą?",
+      "deletePayroll": "Ar tikrai norite ištrinti šį darbo užmokestį?",
+      "deleteLeave": "Ar tikrai norite ištrinti šias atostogas?",
+      "deleteLeaveType": "Ar norite ištrinti šią atostogų rūšį?",
+      "deleteEmployee": "Ar tikrai norite ištrinti šį darbuotoją?",
+      "deleteHoliday": "Ar tikrai norite ištrinti šią šventę?",
+      "deleteShift": "Ar norite ištrinti šią pamainą?",
+      "deleteDesignation": "Ar tikrai norite ištrinti šias pareigas?",
+      "deleteDepartment": "Ar tikrai norite ištrinti šį skyrių?"
+    },
+    "validation": {
+      "selectEmployee": "Prašome pasirinkti darbuotoją",
+      "selectMonth": "Prašome pasirinkti mėnesį",
+      "selectEndDate": "Prašome pasirinkti pabaigos datą",
+      "endDateAfterStart": "Pabaigos data turi būti po pradžios datos",
+      "selectStatus": "Pasirinkite būseną",
+      "selectLeaveType": "Prašome pasirinkti atostogų tipą",
+      "selectStartDate": "Prašome pasirinkti pradžios datą",
+      "selectDate": "Prašome pasirinkti datą",
+      "selectTimeIn": "Pasirinkite atvykimo laiką",
+      "selectTimeOut": "Pasirinkite išvykimo laiką",
+      "enterDepartmentName": "Prašome įvesti skyriaus pavadinimą",
+      "enterDesignationName": "Įveskite pareigų pavadinimą",
+      "enterName": "Prašome įvesti vardą",
+      "selectDesignation": "Prašome pasirinkti pareigas",
+      "selectDepartment": "Prašome pasirinkti skyrių",
+      "enterEmail": "Prašome įvesti el. paštą",
+      "enterValidEmail": "Prašome įvesti galiojantį el. paštą",
+      "enterPhoneNumber": "Prašome įvesti telefono numerį",
+      "enterCountry": "Prašome įvesti šalį",
+      "enterSalary": "Prašome įvesti atlyginimą",
+      "selectGender": "Prašome pasirinkti lytį",
+      "selectShift": "Prašome pasirinkti pamainą",
+      "selectBirthDate": "Prašome pasirinkti gimimo datą",
+      "selectJoinDate": "Prašome pasirinkti įsidarbinimo datą",
+      "enterHolidayName": "Prašome įvesti šventės pavadinimą",
+      "selectBreakStatus": "Pasirinkite pertraukos būseną",
+      "selectPaymentYear": "Pasirinkite mokėjimo metus",
+      "selectPaymentType": "Pasirinkite mokėjimo būdą",
+      "enterAmount": "Įveskite sumą",
+      "selectStartBreakTime": "Pasirinkite pertraukos pradžios laiką",
+      "selectEndBreakTime": "Pasirinkite pertraukos pabaigos laiką",
+      "enterLeaveTypeName": "Įveskite atostogų rūšies pavadinimą",
+      "selectStartTime": "Pasirinkite pradžios laiką",
+      "selectEndTime": "Pasirinkite pabaigos laiką"
+    },
+    "dropdowns": {
+      "addNew": "+ Pridėti naują",
+      "morning": "Rytas",
+      "day": "Diena",
+      "evening": "Vakaras",
+      "night": "Naktis",
+      "yes": "Taip",
+      "no": "Ne",
+      "approved": "Patvirtinta",
+      "rejected": "Atmesta",
+      "terminated": "Nutraukta",
+      "suspended": "Sustabdyta",
+      "male": "Vyras",
+      "female": "Moteris",
+      "pending": "Laukiama",
+      "active": "Aktyvus",
+      "inactive": "Neaktyvus",
+      "paid": "Apmokėta",
+      "unpaid": "Neapmokėta"
+    },
+    "units": {
+      "days": "dienos"
+    },
+    "fallbacks": {
+      "noNoteAvailable": "Nėra pastabų",
+      "noDescriptionAvailable": "Aprašymo nėra",
+      "selectEmployeeFirst": "Pirmiausia pasirinkite darbuotoją"
+    },
+    "success": {
+      "leaveDelete": "Atostogos sėkmingai ištrintos",
+      "attendanceDelete": "Lankomumas sėkmingai ištrintas",
+      "attendanceAdd": "Lankomumas sėkmingai pridėtas",
+      "attendanceUpdate": "Lankomumas sėkmingai atnaujintas",
+      "leaveAdd": "Atostogos sėkmingai pridėtos",
+      "leaveUpdate": "Atostogos sėkmingai atnaujintos",
+      "departmentDelete": "Skyrius sėkmingai ištrintas",
+      "departmentAdd": "Skyrius sėkmingai pridėtas",
+      "departmentUpdate": "Skyrius sėkmingai atnaujintas",
+      "designationDelete": "Pareigos sėkmingai ištrintos",
+      "designationAdd": "Pareigos sėkmingai pridėtos",
+      "designationUpdate": "Pareigos sėkmingai atnaujintos",
+      "employeeDelete": "Darbuotojas sėkmingai ištrintas",
+      "employeeAdd": "Darbuotojas sėkmingai pridėtas",
+      "employeeUpdate": "Darbuotojas sėkmingai atnaujintas",
+      "holidayDelete": "Šventė sėkmingai ištrinta",
+      "holidayAdd": "Šventė sėkmingai pridėta",
+      "holidayUpdate": "Šventė sėkmingai atnaujinta",
+      "leaveTypeDelete": "Atostogų tipas sėkmingai ištrintas"
+    }
+  }
+}

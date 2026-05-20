@@ -1,0 +1,1561 @@
+{
+  "@@meta": {
+    "languageCode": "uk_UA",
+    "languageName": "Ukrainian",
+    "version": "1.0.0"
+  },
+  "common": {
+    "signIn": "Увійти",
+    "signUp": "Зареєструватися",
+    "verifyEmail": "Підтвердити email",
+    "customizeProfile": "Налаштувати профіль",
+    "imageOrLogo": "Логотип або зображення",
+    "createNewPassword": "Створити новий пароль",
+    "itemsList": "Список товарів",
+    "searchItemsName": "Пошук товарів за назвою",
+    "categoryList": "Список категорій",
+    "brandList": "Список брендів",
+    "unitList": "Список одиниць виміру",
+    "itemDetails": "Деталі товару",
+    "addStock": "Додати на склад",
+    "profile": "Профіль",
+    "language": "Мова",
+    "termsAndConditions": "Умови та положення",
+    "aboutUs": "Про нас",
+    "logout": "Вийти",
+    "editProfile": "Редагувати профіль",
+    "fullName": "ПІБ",
+    "email": "Електронна пошта",
+    "mobileNumber": "Мобільний номер",
+    "address": "Адреса",
+    "password": "Пароль",
+    "forgotPassword": "Забули пароль",
+    "edit": "Редагувати",
+    "delete": "Видалити",
+    "addItems": "Додати товари",
+    "stock": "Склад",
+    "currentStock": "Поточний залишок",
+    "value": "Значення",
+    "sales": "Продажі",
+    "purchase": "Покупка",
+    "price": "Ціна",
+    "image": "Зображення",
+    "upload": "Завантажити",
+    "addNew": "Додати новий",
+    "pricing": "Ціни",
+    "name": "Назва",
+    "category(plural)": {
+      "one": "Категорія",
+      "other": "Категоріяs"
+    },
+    "areas": "Areas",
+    "brand": "Бренд",
+    "lowStock": "Низький залишок",
+    "unit": "Одиниця виміру",
+    "vat": "ПДВ",
+    "taxType": "Тип податку",
+    "purchasePrice": "Закупівельна ціна",
+    "sellingPrice": "Ціна продажу",
+    "wholeSalePrice": "Оптова ціна",
+    "dealerPrice": "Дилерська ціна",
+    "searchHere": "Шукати тут",
+    "totalItems": "Загальна кількість товарів",
+    "stockValue": "Вартість залишків",
+    "congratulation": "Вітаємо",
+    "salesList": "Список продажів",
+    "searchInvoiceNumber": "Пошук № рахунку",
+    "view": "Перегляд",
+    "kFor": "Для",
+    "total": "Загалом",
+    "subTotal": "Проміжний підсумок",
+    "insufficientStockAvailableStock": "Недостатньо товару, доступно на складі",
+    "discount": "Знижка",
+    "selectOne": "Виберіть один",
+    "allCategory": "Усі категорії",
+    "details": "Деталі",
+    "parcel": "Посилка",
+    "kot": "КІТ",
+    "table": "Стіл",
+    "holdTable": "Забронювати стіл",
+    "capacity": "Місткість",
+    "commonHint": "Наприклад: 10",
+    "pleaseEnterQuantity": "Будь ласка, введіть кількість",
+    "quantityMustBeGreaterThanZero": "Кількість має бути більше нуля",
+    "mobile": "Мобільний",
+    "orderNo": "№ замовлення",
+    "dateAndTime": "Дата і час",
+    "items": "Товари",
+    "totalAmount": "Загальна сума",
+    "paidAmount": "Сплачена сума",
+    "dueAmount": "Сума до оплати",
+    "paymentType": "Тип оплати",
+    "thankYou": "Дякуємо",
+    "developedBy": "Розроблено ${domain: String}",
+    "qty": "Кількість",
+    "amount": "Сума",
+    "dashboard": "Панель управління",
+    "reports": "Звіти",
+    "home": "Головна",
+    "parties": "Контрагенти",
+    "subscriptionPlan": "План підписки",
+    "estimateList": "Список оцінок",
+    "purchaseList": "Список покупок",
+    "dueList": "Список заборгованостей",
+    "lossOrProfit": "Збиток/Прибуток",
+    "stocks": "Склад",
+    "moneyInList": "Список надходжень",
+    "moneyOutList": "Список витрат",
+    "transactionList": "Список транзакцій",
+    "income": "Дохід",
+    "expense": "Витрата",
+    "quickView": "Швидкий перегляд",
+    "to": "до",
+    "totalSales": "Загальні продажі",
+    "totalPurchase": "Загальні покупки",
+    "holdNumber": "Заброньовані замовлення",
+    "totalExpense": "Загальні витрати",
+    "loss": "Збиток",
+    "profit": "Прибуток",
+    "recentTransaction": "Останні транзакції",
+    "invoice": "Рахунок-фактура",
+    "moneyIn": "Гроші надійшли",
+    "moneyOut": "Гроші витрачені",
+    "paid": "Оплачено",
+    "due": "Борг",
+    "partial": "Частково",
+    "print": "Друк",
+    "addCategory": "Додати категорію",
+    "addExpense": "Додати витрату",
+    "search": "Пошук...",
+    "viewDetails": "Переглянути деталі",
+    "title": "Назва",
+    "date": "Дата",
+    "note": "Примітка",
+    "phoneNumber": "Номер телефону",
+    "type": "Тип",
+    "selectContactSType": "Виберіть тип контакту",
+    "moreInfo": "Додаткова інформація",
+    "paymentReceived": "Отримано оплату",
+    "selectSupplier": "Виберіть постачальника",
+    "supplier": "Постачальник",
+    "received": "Отримано",
+    "balanceDue": "Залишок боргу",
+    "addPurchase": "Додати покупку",
+    "selectedItemWillBeCleared": "Вибрані елементи будуть очищені.",
+    "searchItemName": "Пошук товарів за назвою",
+    "billItems": "Пункти рахунку",
+    "addMoreItems": "Додати ще товарів",
+    "payAmount": "Сума до сплати",
+    "salesReport": "Звіт по продажам",
+    "purchaseReport": "Звіт по закупівлях",
+    "stockReport": "Звіт по складу",
+    "dueReport": "Звіт по заборгованостям",
+    "dueCollectionReport": "Звіт по стягненню боргу",
+    "transactionReport": "Звіт по транзакціях",
+    "incomeReport": "Звіт по доходам",
+    "dueCollectionList": "Список стягнення боргу",
+    "expenseReport": "Звіти про витрати",
+    "dueCollection": "Стягнення боргу",
+    "myProfile": "Мій профіль",
+    "printingOption": "Налаштування друку",
+    "currency": "Валюта",
+    "paymentMethod": "Спосіб оплати",
+    "rateUs": "Оцініть нас",
+    "termAndCondition": "Умови та положення",
+    "tableList": "Список столів",
+    "addTable": "Додати стіл",
+    "vatRate": "Ставка ПДВ %",
+    "action": "Дія",
+    "status": "Статус",
+    "active": "Активний",
+    "inActive": "Неактивний",
+    "subVats": "Суб ПДВ",
+    "add": "Додати",
+    "taxRate": "Ставка податку %",
+    "subTaxes": "Субподатки",
+    "group": "група",
+    "VAT": "ПДВ",
+    "subTaxList": "Список субподатків",
+    "vatPercent": "Відсоток ПДВ",
+    "statusIsCannotInActive": "Статус не може бути неактивним, якщо ПДВ включений при продажу.",
+    "vatOnSales": "ПДВ на продажі",
+    "transaction": "Транзакція",
+    "version": "Версія ${version: String}",
+    "hold": "Затримати",
+    "empty": "Порожній",
+    "appName": "Restaurant App",
+    "duePayment": "Залишок до сплати",
+    "orders": "Замовлення",
+    "all": "Всі",
+    "ingredient": "Інгредієнт",
+    "menus": "Меню",
+    "modifierGroups": "Групи модифікаторів",
+    "itemModifiers": "Модифікатори товару",
+    "staff": "Персонал",
+    "coupon": "Купон",
+    "pay": "Сплатити",
+    "pendingOrders": "Незавершені замовлення",
+    "order": "Замовлення",
+    "payNow": "Сплатити зараз",
+    "addStaff": "Додати співробітника",
+    "designation": "Посада",
+    "itemAdded": "Товар додано",
+    "noItemAdded": "Товар не додано",
+    "saveNPrint": "Зберегти та роздрукувати",
+    "allowMultiSelection": "Дозволити множинний вибір",
+    "required": "Обов'язково",
+    "optional": "Додатково",
+    "allowMultiSelectionForSale": "Дозволити множинний вибір для продажу",
+    "isRequired": "Обов'язковий",
+    "modifier": "Модифікатор",
+    "fullPayment": "Повна оплата",
+    "payment": "Оплата",
+    "addTip": "Додати чайові",
+    "netPayable": "До сплати",
+    "receiveAmount": "Отримана сума",
+    "changeAmount": "Здача",
+    "quotationList": "Список комерційних пропозицій",
+    "addQuotation": "Додати комерційну пропозицію",
+    "convert": "Конвертувати",
+    "variations": "Варіації",
+    "instructions": "Інструкції",
+    "unavailable": "Недоступно",
+    "tip": "Підказка",
+    "salesQuotationReport": "Звіт про комерційну пропозицію",
+    "orderType": "Тип замовлення",
+    "deliveryCharge": "Вартість доставки",
+    "receiptNo": "Номер квитанції",
+    "paidBy": "Платник",
+    "receivedBy": "Отримувач",
+    "paymentAmount": "Сума платежу",
+    "remainingDue": "Залишок до сплати",
+    "roleNPermission": "Ролі та дозволи",
+    "sl": "Серійний номер",
+    "features": "Функції",
+    "create": "Створити",
+    "update": "Оновити",
+    "quotations": "Комерційні пропозиції",
+    "restaurant": "Ресторан",
+    "printerProfile": "Профіль принтера",
+    "kitchenOrders": "Замовлення на кухню",
+    "kitchen(plural)": {
+      "one": "Кухня",
+      "other": "Кухні"
+    },
+    "allKOT": "Всі KOT",
+    "cancelKOT": "Скасувати KOT",
+    "selectCancelReason": "Виберіть причину скасування",
+    "additionalComment": "Додатковий коментар",
+    "enterComment": "Введіть коментар",
+    "orderStatus": "Статус замовлення",
+    "selectOrderStatus": "Виберіть статус замовлення",
+    "kotReport": "Звіт KOT",
+    "itemFoodType": "Тип їжі",
+    "selectItemFoodType": "Виберіть @:common.itemFoodType",
+    "markAllAsRead": "Позначити все як прочитане",
+    "online": "Online",
+    "cancelledReason": "Cancelled Reason",
+    "hrm": "HRM",
+    "notAvailable": "N/A"
+  },
+  "exceptions": {
+    "somethingWentWrong": "Щось пішло не так, будь ласка, спробуйте ще раз",
+    "noCategoryFound": "Категорія не знайдена!\nБудь ласка, спробуйте додати категорію.",
+    "doYouWantToDeleteThisCategory": "Ви хочете видалити цю категорію?",
+    "noBrandFound": "Бренд не знайдений!\nБудь ласка, спробуйте додати бренд.",
+    "doYouWantToDeleteThisBrand": "Ви хочете видалити цей бренд?",
+    "noItemStockFound": "Товар не знайдений на складі!\nБудь ласка, спробуйте додати товар.",
+    "noUnitFound": "Одиниця виміру не знайдена!\nБудь ласка, спробуйте додати одиницю виміру.",
+    "doYouDeleteThisUnit": "Ви хочете видалити цю одиницю виміру?",
+    "noSaleFoundPleaseSAddProduct": "Продажі не знайдені!\nБудь ласка, спробуйте додати продаж.",
+    "doYouWantToDeleteThisSale": "Ви хочете видалити цей продаж?",
+    "pleaseAddItemToTheCartFirst": "Будь ласка, спочатку додайте товари в кошик",
+    "noItemAdded": "Товари не додані",
+    "cannotEditOthersTable": "Неможливо редагувати чужий стіл.",
+    "tableIsAlreadyBlocked": "Стіл вже заброньований.",
+    "failedToGetCustomerDetails": "Не вдалося отримати дані клієнта.",
+    "noTableFoundPleaseTryAgain": "Столи не знайдені!\nБудь ласка, спробуйте додати стіл.",
+    "noDueCollectionFound": "Не знайдено рахунків з заборгованістю!\nВи можете побачити рахунки з заборгованістю, коли вони з'являться.",
+    "noExpenseFoundPleaseTryAddingExpense": "Витрати не знайдені!\nБудь ласка, спробуйте додати витрату.",
+    "doYouWantToDeleteThisExpense": "Ви хочете видалити цю витрату?",
+    "noExpenseCategoryFound": "Категорія витрат не знайдена!\nБудь ласка, спробуйте додати категорію витрат.",
+    "noTransactionFound": "Транзакції не знайдені, будь ласка, спробуйте пізніше!",
+    "pleaseSelectACategory": "Будь ласка, виберіть категорію",
+    "noIncomeFound": "Дохід не знайдений!\nБудь ласка, спробуйте додати дохід",
+    "doYouWantToDeleteThisIncome": "Ви хочете видалити цей дохід?",
+    "noIncomeCategoryFoundAddingAIncome": "Категорія доходу не знайдена!\nБудь ласка, спробуйте додати категорію доходу.",
+    "noItemFoundPleaseTryAddingItem": "Товар не знайдений!\nБудь ласка, спробуйте додати товар.",
+    "noPartiesFound": "Контрагенти не знайдені",
+    "doYouWantToDeleteThisParty": "Ви хочете видалити цього контрагента",
+    "noLedgerFound": "Журнал операцій не знайдений!\nБудь ласка, спробуйте додати ${transactionType: String}",
+    "areYouSureYouSureWantToDeleteThisTaxType": "Ви впевнені, що хочете видалити цей ${taxType: String}?",
+    "noItemFoundPleaseSTryAddingAnPurchase": "Товар не знайдений!\nБудь ласка, спробуйте додати покупку.",
+    "doYouWantToDeleteThisPurchase": "Ви хочете видалити цю покупку?",
+    "noTransactionFoundYouSeeTransactionHereWhenAvailable": "Транзакція не знайдена!\nВи побачите транзакції тут, коли вони будуть доступні.",
+    "noSaleFoundPleaseTryAddingSale": "Продаж не знайдений!\nБудь ласка, спробуйте додати продаж.",
+    "noPurchaseFoundPleaseTryAddingPurchase": "Покупка не знайдена!\nБудь ласка, спробуйте додати покупку.",
+    "noItemIncomeFound": "Дохід по товару не знайдений!\nВи можете побачити дані доходу, коли вони будуть доступні.",
+    "noItemExpenseFound": "Витрата по товару не знайдена!\nВи можете побачити дані витрат, коли вони будуть доступні.",
+    "noItemDueInvoiceFound": "Рахунок-фактура по товару не знайдений!\nВи можете побачити рахунки-фактури, коли вони будуть доступні.",
+    "noItemDueCollectionInvoiceFound": "Не знайдено рахунку-фактури по стягненню заборгованості по товару!\nВи можете побачити рахунки-фактури по стягненню заборгованості, коли вони будуть доступні.",
+    "doYouWantToDeleteThisTable": "Ви хочете видалити цей стіл?'",
+    "thisVatIsBeingUsedOnSales": "Цей ПДВ використовується при продажу!",
+    "noPaymentMethodFoundPleaseTryAddingAPaymentMethod": "Спосіб оплати не знайдений!\nБудь ласка, спробуйте додати спосіб оплати.",
+    "pleaseSelectACustomerFirst": "Будь ласка, спочатку виберіть клієнта.",
+    "pleaseSelectATableToCreateAKot": "Будь ласка, виберіть стіл, щоб створити KOT.",
+    "noStaffFound": "Співробітників не знайдено!\\n Будь ласка, спробуйте додати співробітника.",
+    "noIngredientFound": "Інгредієнтів не знайдено!\\n Будь ласка, спробуйте додати інгредієнт.",
+    "exceedsPaymentAmount": "Отримана сума не повинна бути більшою за суму до сплати.",
+    "noItemModifierFound": "Модифікаторів товару не знайдено!\\n Будь ласка, спробуйте додати модифікатор товару.",
+    "noModifierGroupFound": "Груп модифікаторів не знайдено!\\n Будь ласка, спробуйте додати групу модифікаторів.",
+    "noOptionsFound": "Параметрів не знайдено!",
+    "maxImageCountLimit": "Ви можете вибрати лише до 5 зображень.",
+    "noQuotationFound": "Комерційних пропозицій не знайдено!\nБудь ласка, спробуйте додати пропозицію.",
+    "noPermittedUserFound": "Не знайдено дозволеного користувача!\\n Будь ласка, спробуйте додати користувача."
+  },
+  "prompt": {
+    "logout": {
+      "title": "@:common.logout",
+      "message": "Ви впевнені, що хочете вийти?"
+    },
+    "unsavedWarning": {
+      "title": "Бажаєте повернутися?",
+      "message": "Змінені поля можуть бути не збережені!"
+    },
+    "verify": {
+      "title": "Підтвердьте свою електронну пошту",
+      "description(rich)": "Ми надіслали електронний лист з кодом підтвердження${emailSpan}\n\nМожливо, лист потрапив у папку зі спамом."
+    },
+    "subscriptionExpired": {
+      "title": "Підписка закінчилась!",
+      "message": "Будь ласка, оформіть підписку для продовження.",
+      "action": "Підписатися"
+    },
+    "items": {
+      "delete": {
+        "title": "Ви хочете видалити цей товар?"
+      },
+      "filter": {
+        "title": "Фільтр за",
+        "extra": {
+          "lowToHigh": "Від низької до високої @:common.price",
+          "highToLow": "Від високої до низької @:common.price"
+        }
+      }
+    },
+    "checkInternet": {
+      "title": "Немає підключення до Інтернету",
+      "message": "Будь ласка, перевірте підключення Wi-Fi або мобільної мережі та повторіть спробу"
+    },
+    "back": {
+      "title": "Натисніть назад ще раз, щоб вийти."
+    },
+    "stockModelSheet": {
+      "title": "Додати новий склад"
+    },
+    "paymentMethod": {
+      "title": "Ви хочете видалити цей метод оплати?"
+    },
+    "extMsg": {
+      "kotSavedSuccessfully": "KOT успішно збережено"
+    },
+    "deleteStaff": "Бажаєте видалити цього співробітника?",
+    "deleteIngredient": "Бажаєте видалити цей інгредієнт?",
+    "deleteItemModifier": "Бажаєте видалити цей модифікатор товару?",
+    "deleteModifierGroup": "Бажаєте видалити цю групу модифікаторів?",
+    "deleteQuotation": "Ви бажаєте видалити цю комерційну пропозицію?"
+  },
+  "form": {
+    "fullName": {
+      "label": "@:common.fullName",
+      "hint": "Введіть @:common.fullName",
+      "errors": {
+        "required": "Будь ласка, введіть ваше @:common.fullName"
+      }
+    },
+    "email": {
+      "label": "@:common.email",
+      "hint": "Введіть вашу @:common.email адресу",
+      "errors": {
+        "required": "Будь ласка, введіть вашу @:common.email адресу",
+        "invalid": "⦸ Неправильна електронна пошта, будь ласка, спробуйте ще раз"
+      }
+    },
+    "password": {
+      "label": "@:common.password",
+      "hint": "* * * * * * * *",
+      "errors": {
+        "required": "Будь ласка, введіть ваш @:common.password",
+        "minLength": "Пароль має містити принаймні ${count} символів!"
+      }
+    },
+    "confirmPassword": {
+      "label": "Підтвердити пароль",
+      "hint": "* * * * * * * *",
+      "errors": {
+        "required": "Будь ласка, введіть ваш пароль",
+        "invalid": "'Підтвердження пароля не збігається!"
+      }
+    },
+    "otp": {
+      "errors": {
+        "required": "Будь ласка, введіть код OTP",
+        "invalid": "Будь ласка, введіть поточний код OTP"
+      }
+    },
+    "profile": {
+      "businessCategory": {
+        "label": "Категорія бізнесу",
+        "hint": "Виберіть категорію бізнесу",
+        "errors": {
+          "required": "Будь ласка, виберіть категорію бізнесу"
+        }
+      },
+      "shopOrStore": {
+        "label": "Назва магазину/підприємства*",
+        "hint": "Введіть назву магазину або підприємства",
+        "errors": {
+          "required": "Будь ласка, введіть назву вашого магазину або підприємства"
+        }
+      },
+      "openingBalance": {
+        "label": "Початковий баланс",
+        "hint": "Введіть початковий баланс"
+      },
+      "vatGstTitle": {
+        "label": "Назва ПДВ/ПДВ",
+        "hint": "Введіть ПДВ/ПДВ"
+      },
+      "vatGstNumber": {
+        "label": "Реєстраційний номер ПДВ",
+        "hint": "Введіть реєстраційний номер ПДВ"
+      }
+    },
+    "vat": {
+      "name": {
+        "label": "Назва",
+        "hint": "Введіть назву ПДВ",
+        "error": {
+          "required": "Будь ласка, введіть назву ПДВ"
+        }
+      },
+      "subVat": {
+        "label": "Суб ПДВ",
+        "hint": "Виберіть суб ПДВ",
+        "errors": {
+          "required": "Будь ласка, виберіть суб ПДВ"
+        }
+      },
+      "rate": {
+        "label": "Ставка ПДВ %",
+        "hint": "Введіть ставку ПДВ",
+        "errors": {
+          "required": "Будь ласка, введіть ставку ПДВ."
+        }
+      }
+    },
+    "category": {
+      "label": "@:common.category",
+      "hint": "Виберіть категорію товару",
+      "error": {
+        "required": "Будь ласка, введіть назву категорії"
+      }
+    },
+    "items": {
+      "barcode": {
+        "label": "Штрих-код",
+        "hint": "@:common.selectOne"
+      },
+      "itemName": {
+        "label": "Назва товару",
+        "hint": "Введіть назву товару",
+        "extra": {
+          "required": "Будь ласка, введіть назву товару"
+        }
+      },
+      "itemCategory": {
+        "label": "Категорія товару",
+        "hint": "Категорія товару",
+        "extra": {
+          "label": "Виберіть категорію",
+          "required": "Будь ласка, виберіть категорію"
+        }
+      },
+      "brand": {
+        "label": "@:common.brand",
+        "hint": "@:common.selectOne",
+        "extra": {
+          "hint": "Введіть назву бренду",
+          "required": "Будь ласка, введіть назву бренду"
+        }
+      },
+      "unit": {
+        "label": "@:common.unit",
+        "hint": "@:common.selectOne",
+        "error": {
+          "required": "Будь ласка, введіть назву одиниці виміру"
+        }
+      },
+      "stock": {
+        "label": "Початковий залишок",
+        "hint": "@:common.commonHint",
+        "extra": {
+          "required": "Будь ласка, введіть кількість товару."
+        }
+      },
+      "lowStock": {
+        "label": "@:common.lowStock",
+        "hint": "Наприклад: 5"
+      },
+      "purchasePrice": {
+        "label": "@:common.purchasePrice",
+        "hint": "Наприклад: \\$40",
+        "error": {
+          "required": "Будь ласка, введіть закупівельну ціну."
+        }
+      },
+      "salePrice": {
+        "label": "Ціна продажу",
+        "hint": "Наприклад: \\$60",
+        "error": {
+          "required": "Будь ласка, введіть ціну продажу."
+        }
+      },
+      "totalSalePrice": {
+        "label": "Загальна ціна продажу",
+        "hint": "Наприклад: \\$100"
+      },
+      "wholeSalePrice": {
+        "label": "@:common.wholeSalePrice",
+        "hint": "Введіть оптову ціну"
+      },
+      "dealerPrice": {
+        "label": "@:common.dealerPrice",
+        "hint": "Введіть дилерську ціну"
+      },
+      "discount": {
+        "label": "Знижка (%)",
+        "hint": "@:common.commonHint"
+      },
+      "applicableTax": {
+        "label": "Застосовуваний податок",
+        "hint": "@:common.selectOne"
+      },
+      "vatType": {
+        "label": "@:common.taxType",
+        "errorText": {
+          "required": "Будь ласка, виберіть тип ПДВ"
+        }
+      },
+      "menu": {
+        "label": "Виберіть меню",
+        "errors": {
+          "required": "Будь ласка, виберіть меню."
+        },
+        "hint": "Виберіть меню",
+        "extra": {
+          "selectNavLabel": "Виберіть меню товару"
+        }
+      },
+      "modifierItems": {
+        "label": "Елементи модифікатора",
+        "hint": "Виберіть елементи модифікатора"
+      },
+      "preparationTime": {
+        "label(rich)": "Час приготування ${minutes(Minutes)}",
+        "hint": "Наприклад: 30"
+      },
+      "variation": {
+        "name": {
+          "label": "Назва",
+          "hint": "Введіть варіацію",
+          "errors": {
+            "required": "Будь ласка, введіть назву варіації."
+          }
+        },
+        "price": {
+          "errors": {
+            "required": "Будь ласка, введіть ціну."
+          },
+          "label": "Ціна",
+          "hint": "Наприклад: \\$30"
+        }
+      }
+    },
+    "itemCart": {
+      "hint": "@:common.commonHint",
+      "error": {
+        "required": "@:common.pleaseEnterQuantity",
+        "noZero": "@:common.quantityMustBeGreaterThanZero"
+      }
+    },
+    "sales": {
+      "autoGenerateInvoice": {
+        "label": "Номер рахунку",
+        "hint": "P-00001"
+      },
+      "date": {
+        "label": "Дата"
+      },
+      "customer": {
+        "label": "Клієнт",
+        "hint": "Виберіть клієнта"
+      },
+      "phone": {
+        "label": "Номер телефону",
+        "hint": "Введіть номер телефону"
+      },
+      "address": {
+        "label": "Адреса",
+        "hint": "Введіть адресу"
+      },
+      "deliveryCharge": {
+        "label": "@:common.deliveryCharge",
+        "hint": "Наприклад: \\$20",
+        "hint2": "Вартість: \\$10"
+      },
+      "table": {
+        "hint": "Виберіть стіл"
+      },
+      "waiter": {
+        "hint": "Виберіть офіціанта"
+      }
+    },
+    "bill": {
+      "label": "Номер рахунку",
+      "hint": "P-00001"
+    },
+    "supplier": {
+      "label": "Постачальник",
+      "hint": "Виберіть постачальника",
+      "extra": {
+        "required": "Будь ласка, виберіть постачальника"
+      }
+    },
+    "phone": {
+      "label": "Номер телефону",
+      "hint": "Введіть номер телефону",
+      "errors": {
+        "required": "Будь ласка, введіть номер телефону."
+      }
+    },
+    "address": {
+      "label": "Адреса компанії",
+      "hint": "Введіть адресу компанії"
+    },
+    "payment": {
+      "label": "Назва",
+      "hint": "Введіть назву способу оплати",
+      "error": {
+        "required": "Будь ласка, введіть назву способу оплати"
+      }
+    },
+    "expense": {
+      "label": "Категорія витрат",
+      "hint": "Виберіть категорію витрат",
+      "error": {
+        "required": "Будь ласка, введіть категорію витрат"
+      }
+    },
+    "income": {
+      "label": "Категорія доходу",
+      "hint": "Введіть назву категорії",
+      "error": {
+        "required": "Будь ласка, введіть назву категорії"
+      },
+      "incomeTitle": {
+        "label": "Назва доходу",
+        "hint": "Введіть дохід"
+      },
+      "incomeCategory": {
+        "label": "Категорія доходу",
+        "hint": "Виберіть категорію"
+      },
+      "payment": {
+        "label": "Оплата",
+        "hint": "Наприклад: \\$10"
+      }
+    },
+    "note": {
+      "label": "Примітка (не обов'язково)",
+      "hint": "Введіть текст"
+    },
+    "parties": {
+      "partyName": {
+        "label": "Назва сторони",
+        "hint": "Введіть назву сторони",
+        "error": {
+          "required": "Будь ласка, введіть назву сторони"
+        }
+      },
+      "partyPhone": {
+        "label": "Номер телефону",
+        "hint": "Введіть номер телефону",
+        "error": {
+          "required": "Будь ласка, введіть номер телефону"
+        }
+      }
+    },
+    "table": {
+      "name": {
+        "label": "Назва столу",
+        "hint": "Введіть назву столу",
+        "error": {
+          "required": "Будь ласка, введіть назву столу"
+        }
+      },
+      "capacity": {
+        "label": "Місткість",
+        "hint": "Введіть місткість",
+        "error": {
+          "required": "Будь ласка, введіть місткість"
+        }
+      }
+    },
+    "designation": {
+      "label": "@:common.designation",
+      "hint": "Виберіть посаду",
+      "errors": {
+        "required": "Будь ласка, виберіть посаду."
+      }
+    },
+    "ingredientName": {
+      "label": "Назва інгредієнта",
+      "hint": "Введіть назву інгредієнта",
+      "errors": {
+        "required": "Будь ласка, введіть назву інгредієнта"
+      }
+    },
+    "item": {
+      "label": "Товар",
+      "hint": "Виберіть товар",
+      "errors": {
+        "required": "Будь ласка, виберіть товар."
+      }
+    },
+    "modifierGroup": {
+      "label": "Група модифікаторів",
+      "hint": "Виберіть групу модифікаторів",
+      "errors": {
+        "required": "Будь ласка, виберіть групу модифікаторів."
+      }
+    },
+    "description": {
+      "label": "Опис",
+      "hint": "Введіть опис"
+    },
+    "staff": {
+      "label": "@:common.staff",
+      "hint": "Оберіть співробітника",
+      "errors": {
+        "required": "Будь ласка, оберіть співробітника"
+      }
+    },
+    "loginUserName": {
+      "label": "Логін користувача",
+      "hint": "Введіть ім'я користувача або адресу електронної пошти",
+      "errors": {
+        "required": "Будь ласка, введіть ім'я користувача або адресу електронної пошти"
+      }
+    }
+  },
+  "action": {
+    "next": "Далі",
+    "getStarted": "Розпочати",
+    "skip": "Пропустити",
+    "select": "Вибрати",
+    "save": "Зберегти",
+    "verify": "Підтвердити",
+    "signIn": "@:common.signIn",
+    "signUp": "@:common.signUp",
+    "continue": "Продовжити",
+    "no": "Ні",
+    "yes": "Так",
+    "okay": "Гаразд",
+    "cancel": "Скасувати",
+    "confirm": "Підтвердити",
+    "tryAgain": "Спробуйте ще раз",
+    "reset": "Скинути",
+    "apply": "Застосувати",
+    "stockAdjust": "Коригувати склад",
+    "addMoreItems": "Додати ще товарів",
+    "hold": "Затримати",
+    "parcel": "@:common.parcel",
+    "buyNow": "Купити зараз",
+    "viewAll": "Переглянути все",
+    "viewLedger": "Переглянути журнал",
+    "submit": "Надіслати",
+    "selected": "Вибрано",
+    "addToCart": "Додати до кошика",
+    "selectAll": "Вибрати все",
+    "update": "@:common.update",
+    "addRole": "Додати роль"
+  },
+  "pages": {
+    "language": {
+      "appbarTitle": "@:action.select @:common.language"
+    },
+    "onboard": {
+      "onboardData": {
+        "data1": {
+          "title": "Простий у використанні @:common.appName",
+          "description": "Зручні замовлення, легке бронювання\\n Розширте можливості свого ресторану з легкістю!"
+        },
+        "data2": {
+          "title": "Автоматизація управління замовленнями",
+          "description": "Наша система POS допоможе спростити процес прийому замовлень у вашому ресторані"
+        },
+        "data3": {
+          "title": "Відмінна аналітика та звітність",
+          "description": "Наша панель аналітики надає звіти по продажам та покупкам в режимі реального часу"
+        }
+      }
+    },
+    "signIn": {
+      "title": "Ласкаво просимо назад",
+      "subtitle": "Будь ласка, введіть свої дані",
+      "extra": {
+        "rememberMe": "Запам'ятати мене",
+        "signUpNavigator(rich)": "Немає облікового запису? ${getStarted(@:action.getStarted)}",
+        "forgotPassword": "@:common.forgotPassword?"
+      }
+    },
+    "signUp": {
+      "title": "Створити обліковий запис",
+      "subtitle": "Будь ласка, введіть свої дані",
+      "extra": {
+        "signInNavigator(rich)": "Вже маєте обліковий запис? ${signIn(@:action.signIn)}"
+      }
+    },
+    "forgotPassword": {
+      "title": "@:common.forgotPassword",
+      "subtitle": "Введіть свою адресу електронної пошти, щоб відновити свій пароль"
+    },
+    "otpVerification": {
+      "title": "Підтвердження",
+      "subtitle": "6-значний код відправлено на вашу електронну пошту",
+      "extra": {
+        "codeResend": {
+          "codeSendIn": "Код відправлений через",
+          "resendCode": "Відправити код ще раз"
+        }
+      }
+    },
+    "resetPassword": {
+      "title": "Скинути пароль",
+      "subtitle": "Скиньте свій пароль, щоб відновити та увійти в обліковий запис",
+      "extra": {
+        "dialog": {
+          "title": "Успішно змінено!",
+          "subtitle": "Увійдіть з новим паролем.\nНаправляємо вас на сторінку входу..."
+        }
+      }
+    },
+    "items": {
+      "itemList": {
+        "extra": {
+          "emptyItem": "Товари не знайдені!\nБудь ласка, спробуйте додати товар."
+        }
+      },
+      "manageItems": {
+        "title": "Додати новий товар",
+        "title2": "Редагувати товар",
+        "extra": {
+          "maximum": "Максимум 5",
+          "wholeSaleAndDealerPrice": "Оптова та дилерська ціна",
+          "addDiscount": "Додати знижку",
+          "addVat": "Додати ПДВ"
+        }
+      },
+      "itemDetails": {
+        "title": "Деталі товару",
+        "extra": {
+          "noImageAvailable": "Зображення недоступне!",
+          "preparationTime(rich)": "Час приготування: ${min: String} ${mins(mins)}",
+          "pleaseSelectVariation": "Будь ласка, виберіть варіацію",
+          "pleaseSelectOption": "Будь ласка, виберіть опцію.",
+          "enterYourInstruction": "Введіть ваші інструкції"
+        }
+      }
+    },
+    "category": {
+      "addNewCategory": "Додати нову категорію",
+      "editCategory": "Редагувати категорію"
+    },
+    "brand": {
+      "addNewBrand": "Додати новий бренд",
+      "editBrand": "Редагувати бренд"
+    },
+    "unit": {
+      "addNewUnit": "Додати нову одиницю виміру",
+      "editUnit": "Редагувати одиницю виміру"
+    },
+    "stock": {
+      "stockList": "Список складу"
+    },
+    "aboutUs": {
+      "title": "Про нас"
+    },
+    "privacyPolicy": {
+      "title": "Політика конфіденційності"
+    },
+    "termAndCondition": {
+      "title": "@:common.termAndCondition"
+    },
+    "orders": {
+      "manageOrders": {
+        "extra": {
+          "billItems": "Пункти рахунку",
+          "manageQuantity": "Керування кількістю"
+        },
+        "title": {
+          "editOrder": "Редагувати замовлення",
+          "editKOT": "Редагувати KOT"
+        }
+      }
+    },
+    "onlinePayment": {
+      "title": "Оплата онлайн"
+    },
+    "paymentStatus": {
+      "success": {
+        "title": "Дякуємо!",
+        "message": "Ми розглянемо оплату та затвердимо протягом 24 годин.",
+        "actionButtonText": "Переглянути рахунок"
+      },
+      "fail": {
+        "title": "Упс! Оплата не пройшла",
+        "message": "Транзакція не виконана через технічну помилку.",
+        "actionButtonText": "Спробувати ще раз"
+      }
+    },
+    "confirmationDialog": {
+      "title": "Вихід",
+      "message": "Ви впевнені, що хочете вийти?",
+      "acceptationText": "Ні",
+      "rejectionText": "Вийти"
+    },
+    "payment": {
+      "title": "@:common.paymentMethod",
+      "addPaymentMethod": "Додати новий спосіб оплати",
+      "editPaymentMethod": "Редагувати спосіб оплати",
+      "choseOnlinePayment": "Оберіть оплату онлайн",
+      "selectPaymentMethod": "Виберіть спосіб оплати",
+      "pleaseSelectAPaymentMethod": "Будь ласка, виберіть спосіб оплати.",
+      "methodStatus": {
+        "title": "Статус",
+        "message": "Статус не може бути неактивним, якщо активовано швидке переглядання!"
+      }
+    },
+    "subscriptionPlan": {
+      "title": "Купити преміум план",
+      "extra": {
+        "actionButtonText": "Повернутися",
+        "message": "Підписка успішно оплачена.\nТепер ви можете скористатися підписаними функціями.",
+        "mostPopular": "Найпопулярніший"
+      }
+    },
+    "invoicePreview": {
+      "title": "Попередній перегляд рахунку",
+      "message": "PDF-перегляд з'явиться найближчим часом"
+    },
+    "currency": {
+      "title": "@:common.currency"
+    },
+    "dashboard": {
+      "overview": "Огляд",
+      "dashboardPrivacy": "Приватність панелі",
+      "moneyInAndMoneyOut": "Гроші надійшли та витрачені",
+      "lossAndProfitOverView": "Огляд прибутку та збитку"
+    },
+    "due": {
+      "title": "@:common.dueList",
+      "collectionList": "Список платежів",
+      "dueCollection": "Стягнення заборгованості"
+    },
+    "expense": {
+      "title": "@:common.expense",
+      "editExpense": "Редагувати витрату",
+      "addNewExpense": "Додати нову витрату",
+      "editExpenseCategory": "Редагувати категорію витрат",
+      "addNewExpenseCategory": "Додати нову категорію витрат",
+      "payment": "Оплата",
+      "expenseCategory": "Категорія витрат",
+      "selectCategory": "Вибрати категорію",
+      "allExpense": "Усі витрати",
+      "pleaseSelectACategory": "Будь ласка, виберіть категорію",
+      "expenseTitle": {
+        "label": "Назва витрати",
+        "hint": "Введіть витрату"
+      }
+    },
+    "lossProfit": {
+      "title": "Список збитків/прибутків",
+      "noLossProfitFound": "Збитків/прибутків не знайдено!\nБудь ласка, спробуйте створити продажі."
+    },
+    "income": {
+      "editIncomeCategory": "Редагувати категорію доходу",
+      "addNewIncomeCategory": "Додати нову категорію доходу",
+      "incomeCategory": "Категорія доходу",
+      "allIncome": "Усі доходи",
+      "editIncome": "Редагувати дохід",
+      "addNewIncome": "Редагувати дохід",
+      "addIncome": "Додати дохід"
+    },
+    "moneyIn": {
+      "title": "Список надходжень",
+      "totalPaymentIn": "Загальна сума надходжень"
+    },
+    "moneyOut": {
+      "title": "Список витрат",
+      "totalMoneyOut": "Загальна сума витрат"
+    },
+    "profile": {
+      "title": "Мій профіль",
+      "editProfile": "Редагувати профіль",
+      "businessInformation": "Інформація про бізнес",
+      "profileInformation": "Інформація профілю"
+    },
+    "parties": {
+      "title": "Список контрагентів",
+      "allParties": "Усі сторони",
+      "customer": "Клієнт",
+      "supplier": "Постачальник",
+      "addParties": "Додати сторони",
+      "editParties": "Редагувати сторони",
+      "partiesDetails": "Деталі сторін",
+      "personalInfo": "Особиста інформація"
+    },
+    "ledger": {
+      "subTitle": "Журнал операцій"
+    },
+    "purchase": {
+      "title": "Додати нову покупку",
+      "editPurchase": "Редагувати покупку"
+    },
+    "reports": {
+      "title": "Звіти"
+    },
+    "table": {
+      "title": "Додати новий стіл",
+      "editTable": "Редагувати стіл"
+    },
+    "tax": {
+      "title": "Ставки ПДВ",
+      "buildHeaderTitle": "Ставки ПДВ - Керуйте своїми ставками ПДВ",
+      "vatGroup": {
+        "title": "Група ПДВ",
+        "subTitle": "Група ПДВ - Керуйте своєю групою ПДВ"
+      }
+    },
+    "vat": {
+      "addNewVat": "Додати новий ПДВ",
+      "editVat": "Редагувати ПДВ",
+      "addNewVatGroup": "Додати нову групу ПДВ",
+      "editVatGroup": "Редагувати групу ПДВ"
+    },
+    "orderList": {
+      "title": "Список замовлень",
+      "filters": {
+        "orderType": {
+          "label": "@:common.orderType",
+          "hint": "Виберіть тип замовлення"
+        },
+        "paymentStatus": {
+          "hint": "Виберіть статус оплати",
+          "label": "Статус оплати"
+        }
+      }
+    },
+    "staffs": {
+      "staffList": {
+        "filters": {
+          "designation": {
+            "label": "Посада",
+            "hint": "Виберіть посаду"
+          }
+        },
+        "title": "Весь персонал"
+      },
+      "manageStaff": {
+        "title1": "Додати нового співробітника",
+        "title2": "Оновити співробітника"
+      }
+    },
+    "ingredient": {
+      "ingredientList": {
+        "title1": "Список інгредієнтів",
+        "title2": "Вибрати інгредієнт"
+      },
+      "manageIngredient": {
+        "title1": "Додати новий інгредієнт",
+        "title2": "Редагувати інгредієнт"
+      }
+    },
+    "itemModifier": {
+      "itemModifierList": {
+        "title": "@:common.itemModifiers"
+      },
+      "manageItemModifier": {
+        "title1": "Додати модифікатори товару",
+        "title2": "Редагувати модифікатори товару"
+      }
+    },
+    "quotation": {
+      "manageQuotation": {
+        "title": {
+          "add": "Додати нову комерційну пропозицію",
+          "edit": "Редагувати комерційну пропозицію",
+          "convert": "Конвертувати в продаж"
+        }
+      }
+    },
+    "rolePermission": {
+      "rolePermissionList": {
+        "title": "Список ролей та дозволів"
+      },
+      "manageRolePermission": {
+        "title1": "Додати нову роль",
+        "title2": "Редагувати роль"
+      }
+    },
+    "printingOption": {
+      "title": "Варіант друку",
+      "form": {
+        "companyAddress": {
+          "label": "Адреса компанії",
+          "hint": "Введіть адресу компанії"
+        },
+        "noteLabel": {
+          "label": "Мітка нотатки",
+          "hint": "Введіть мітку нотатки."
+        },
+        "note": {
+          "label": "Нотатка",
+          "hint": "Введіть нотатку."
+        },
+        "postSaleMessage": {
+          "label": "Повідомлення після продажу",
+          "hint": "Введіть повідомлення після продажу"
+        },
+        "printingMethod": {
+          "label": "Метод друку",
+          "hint": "Виберіть метод друку"
+        },
+        "printerProfile": {
+          "label": "Профіль принтера",
+          "hint": "Виберіть профіль принтера"
+        },
+        "paperSize": {
+          "label": "Розмір паперу термопринтера",
+          "hint": "Виберіть розмір паперу принтера"
+        },
+        "printerDpi": {
+          "label": "DPI принтера",
+          "hint": "Прикл: 203"
+        },
+        "printingMargin": {
+          "label": "Поле друку",
+          "hint": "Прикл: 2"
+        }
+      },
+      "tooltip": {
+        "printingMethod": {
+          "title": "Випадаючий список з варіантами:",
+          "default": "• За замовчуванням (Рідний метод для друку стандартних символів ЄС)",
+          "image": "• Зображення (Рекомендовано для друку символів Unicode)"
+        }
+      },
+      "action": {
+        "save": "Зберегти"
+      }
+    },
+    "kitchen": {
+      "list": {
+        "noKitchensFound": "Кухні не знайдено.\n Будь ласка, спробуйте додати одну."
+      },
+      "manage": {
+        "addKitchen": "Додати кухню",
+        "editKitchen": "Редагувати кухню",
+        "kitchenName": {
+          "label": "Назва кухні",
+          "hint": "Введіть назву кухні",
+          "error": "Будь ласка, введіть назву кухні."
+        },
+        "description": {
+          "label": "Опис",
+          "hint": "Введіть опис"
+        }
+      },
+      "manageItems": {
+        "title": "Управління товарами",
+        "addedItems": "Додані товари",
+        "selectItemsError": "Будь ласка, виберіть товари.",
+        "noItemsAdded": "Товари ще не додані!\nБудь ласка, спробуйте додати товари."
+      },
+      "card": {
+        "itemName": "Назва товару",
+        "manageItems": "+ Управління товарами",
+        "deleteItemConfirm": "Ви хочете видалити цей товар?",
+        "deleteKitchenConfirm": "Ви хочете видалити цю кухню?"
+      }
+    }
+  },
+  "enums": {
+    "dropdownDateFilter": {
+      "daily": "Щоденно",
+      "weekly": "Щотижнево",
+      "monthly": "Щомісячно",
+      "yearly": "Щорічно",
+      "custom": "Користувацький"
+    },
+    "orderTypes": {
+      "dineIn": "У залі",
+      "pickUp": "Самовивіз",
+      "delivery": "Доставка",
+      "reservation": "Бронювання",
+      "quotation": "Котирування"
+    },
+    "paymentStatus": {
+      "paid": "Сплачено",
+      "unpaid": "Не сплачено"
+    },
+    "staffTypes": {
+      "manager": "Менеджер",
+      "waiter": "Офіціант",
+      "chef": "Кухар",
+      "cleaner": "Прибиральник",
+      "driver": "Водій",
+      "deliveryBoy": "Кур'єр"
+    },
+    "itemFoodTypes": {
+      "veg": "Вегетаріанське",
+      "nonVeg": "Невегетаріанське",
+      "egg": "Яєчне",
+      "drink": "Напій",
+      "others": "Інше"
+    },
+    "itemTypes": {
+      "single": "Одиночний",
+      "variation": "Варіація"
+    },
+    "quotationStatus": {
+      "open": "Відкрито",
+      "closed": "Закрито"
+    },
+    "tableStatus": {
+      "running": "Зайнято",
+      "available": "Вільно"
+    },
+    "thermalPrinterPrintingMethod": {
+      "image": "Зображення",
+      "default": "За замовчуванням"
+    },
+    "kotOrderStatus": {
+      "label": {
+        "pending": "Очікує",
+        "preparing": "Готується",
+        "ready": "Готово до видачі",
+        "served": "Подано",
+        "cancelled": "Скасовано"
+      },
+      "pending": "Очікує",
+      "preparing": "Готується",
+      "ready": "Готово до видачі",
+      "served": "Подано",
+      "cancelled": "Скасовано"
+    },
+    "kotItemStatus": {
+      "pending": "Почати готувати",
+      "start": "Позначити готовим",
+      "ready": "Готово"
+    }
+  },
+  "thermalPrint": {
+    "invoice": {
+      "purchaseInvoiceLabel": "Рахунок на покупку: ${invoiceNumber: String}",
+      "saleInvoiceLabel": "№ замовлення: ${invoiceNumber: String}",
+      "receiptNoLabel": "№ квитанції: ${invoiceNumber: String}",
+      "orderNoKotLabel": "№ замовлення: ${invoiceNumber: String}",
+      "nameLabel": "Ім'я: ${name: String}",
+      "mobileLabel": "Мобільний: ${phone: String}",
+      "purchasedByLabel": "Придбано: ${role: String}",
+      "salesByLabel": "Продано: ${role: String}",
+      "paidByLabel": "${label: String}: ${role: String}",
+      "paidToReceivedFromLabel": "${label: String}: ${name: String}",
+      "orderTypeLabel": "Тип замовлення: ${orderType: String}",
+      "tableLabel": "Стіл: ${tableName: String}",
+      "tableNoLabel": "№ столу: ${tableName: String}",
+      "dateLabel": "Дата: ${dateTime: String}",
+      "invoiceFlag": "РАХУНОК",
+      "receiptFlag": "КВИТАНЦІЯ",
+      "paidBy": "Сплатив",
+      "receivedBy": "Отримав",
+      "paidTo": "Сплачено кому",
+      "receivedFrom": "Отримано від",
+      "seller": "Продавець: ${name: String}",
+      "address": "Адреса: ${addr: String}",
+      "vatNo": "ІПН",
+      "tel": "Тел: ${phoneNumber: String}",
+      "timeLabel": "Час: ${dateTime: String}"
+    },
+    "tableHeaders": {
+      "sl": "№ з/п",
+      "item": "Товар",
+      "cost": "Вартість",
+      "qty": "Кільк.",
+      "uPrice": "Ціна/од.",
+      "amount": "Сума",
+      "total": "Всього",
+      "invoiceTable": "Рахунок",
+      "dueTable": "Заборгованість"
+    },
+    "summary": {
+      "subTotal": "Проміжна сума:",
+      "discount": "Знижка: ${percentFmt: String}",
+      "vat": "${vatName: String}: ${rateFmt: String}%",
+      "tip": "Чайові:",
+      "deliveryCharge": "Вартість доставки:",
+      "totalPayable": "Всього до сплати:",
+      "paidAmount": "Сплачена сума:",
+      "dueAmount": "Сума заборгованості:",
+      "paymentType": "Тип оплати: ${method: String}",
+      "remainingDue": "Залишок заборгованості:",
+      "paymentAmount": "Сума оплати:",
+      "itemsCount": "Товари: ${count: int}",
+      "qtyTotal": "Кільк.: ${totalQty: int}"
+    },
+    "footer": {
+      "note": "${noteLabel: String}: ${note: String}",
+      "developedBy": "${developByLabel: String} ${developBy: String}"
+    }
+  },
+  "hrm": {
+    "department": "Відділ",
+    "designation": "Посада",
+    "shift": "Зміна",
+    "employee": "Співробітник",
+    "leave": "Відпустка",
+    "leaveType": "Тип відпустки",
+    "leaveRequest": "Запит на відпустку",
+    "holiday": "Свято",
+    "attendance": "Відвідуваність",
+    "payroll": "Розрахункова відомість",
+    "pageTitles": {
+      "department": "Відділ",
+      "designation": "Посада",
+      "shift": "Зміна",
+      "employee": "Співробітник",
+      "leave": "Відпустка",
+      "leaveType": "Тип відпустки",
+      "holiday": "Свято",
+      "attendance": "Відвідуваність",
+      "payroll": "Розрахункова відомість",
+      "leaveReports": "Звіти про відпустки",
+      "payrollReports": "Звіти про зарплату",
+      "attendanceReports": "Звіти про відвідуваність",
+      "addDepartment": "Додати відділ",
+      "editDepartment": "Редагувати відділ",
+      "addDesignation": "Додати посаду",
+      "editDesignation": "Редагувати посаду",
+      "addShift": "Додати зміну",
+      "editShift": "Редагувати зміну",
+      "addEmployee": "Додати співробітника",
+      "editEmployee": "Редагувати співробітника",
+      "addLeave": "Додати відпустку",
+      "editLeave": "Редагувати відпустку",
+      "addLeaveType": "Додати тип відпустки",
+      "editLeaveType": "Редагувати тип відпустки",
+      "addHoliday": "Додати свято",
+      "editHoliday": "Редагувати свято",
+      "addAttendance": "Додати відвідування",
+      "editAttendance": "Редагувати відвідування",
+      "addPayroll": "Додати розрахункову відомість",
+      "editPayroll": "Редагувати розрахункову відомість"
+    },
+    "form": {
+      "labels": {
+        "department": "Відділ",
+        "designation": "Посада",
+        "shift": "Зміна",
+        "employee": "Співробітник",
+        "leaveType": "Тип відпустки",
+        "leaveDuration": "Тривалість відпустки",
+        "paymentYear": "Рік виплати",
+        "paymentType": "Тип виплати",
+        "breakStatus": "Статус перерви",
+        "startTime": "Час початку",
+        "endTime": "Час закінчення",
+        "startBreakTime": "Початок перерви",
+        "endBreakTime": "Кінець перерви",
+        "breakTime": "Час перерви",
+        "breakDuration": "Тривалість перерви",
+        "timeIn": "Час приходу",
+        "timeOut": "Час виходу",
+        "duration": "Тривалість",
+        "country": "Країна",
+        "salary": "Зарплата",
+        "gender": "Стать",
+        "birthDate": "Дата народження",
+        "joinDate": "Дата прийняття",
+        "holidayName": "Назва свята",
+        "startDate": "Дата початку",
+        "endDate": "Дата закінчення",
+        "month": "Місяць",
+        "year": "Рік",
+        "status": "Статус",
+        "description": "Опис",
+        "amount": "Сума",
+        "payment": "Оплата",
+        "departmentName": "Назва відділу",
+        "designationName": "Назва посади",
+        "image": "Зображення",
+        "name": "Ім'я"
+      },
+      "hints": {
+        "selectEmployee": "Виберіть співробітника",
+        "selectDepartment": "Виберіть відділ",
+        "selectDesignation": "Виберіть посаду",
+        "selectShift": "Виберіть зміну",
+        "selectLeaveType": "Виберіть тип відпустки",
+        "selectMonth": "Виберіть місяць",
+        "selectYear": "Виберіть рік",
+        "selectDate": "Виберіть дату",
+        "selectStartDate": "Виберіть дату початку",
+        "selectEndDate": "Виберіть дату закінчення",
+        "selectTimeIn": "Виберіть час приходу",
+        "selectTimeOut": "Виберіть час виходу",
+        "selectStartTime": "Виберіть час початку",
+        "selectEndTime": "Виберіть час закінчення",
+        "selectStatus": "Виберіть статус",
+        "selectGender": "Виберіть стать",
+        "selectPaymentType": "Виберіть тип виплати",
+        "enterFullName": "Введіть повне ім'я",
+        "enterEmail": "Введіть email",
+        "enterPhone": "Введіть телефон",
+        "enterCountry": "Введіть країну",
+        "enterSalary": "Напр.: 500",
+        "enterHolidayName": "Введіть назву свята",
+        "enterDescription": "Введіть опис...",
+        "autoCalculated": "Розраховується автоматично",
+        "selectDatesFirst": "Спочатку виберіть дати",
+        "allEmployee": "Всі співробітники",
+        "selectEmployeeFirst": "Спочатку виберіть співробітника",
+        "enterDepartmentName": "Введіть назву відділу",
+        "enterDesignationName": "Введіть назву посади",
+        "ex": "{value}",
+        "selectBirthDate": "Виберіть дату народження",
+        "selectJoinDate": "Виберіть дату прийняття",
+        "selectBreakStatus": "Виберіть статус перерви",
+        "enterLeaveTypeName": "Введіть назву типу відпустки"
+      }
+    },
+    "emptyStates": {
+      "noLeaves": "Відпусток не знайдено",
+      "noPayrollRecords": "Записів про зарплату не знайдено",
+      "noAttendanceRecords": "Записів про відвідуваність не знайдено",
+      "noLeaveTypes": "Типів відпусток не знайдено",
+      "noEmployees": "Співробітників не знайдено",
+      "noHolidays": "Свят не знайдено",
+      "noShifts": "Змін не знайдено",
+      "noDesignations": "Посад не знайдено",
+      "noDepartments": "Відділів не знайдено"
+    },
+    "confirmations": {
+      "deleteAttendance": "Ви впевнені, що хочете видалити цей запис про відвідуваність?",
+      "deletePayroll": "Ви впевнені, що хочете видалити цей запис про зарплату?",
+      "deleteLeave": "Ви впевнені, що хочете видалити цю відпустку?",
+      "deleteLeaveType": "Ви хочете видалити цей тип відпустки?",
+      "deleteEmployee": "Ви впевнені, що хочете видалити цього співробітника?",
+      "deleteHoliday": "Ви впевнені, що хочете видалити це свято?",
+      "deleteShift": "Ви хочете видалити цю зміну?",
+      "deleteDesignation": "Ви впевнені, що хочете видалити цю посаду?",
+      "deleteDepartment": "Ви впевнені, що хочете видалити цей відділ?"
+    },
+    "validation": {
+      "selectEmployee": "Будь ласка, виберіть співробітника",
+      "selectMonth": "Будь ласка, виберіть місяць",
+      "selectEndDate": "Будь ласка, виберіть дату закінчення",
+      "endDateAfterStart": "Дата закінчення має бути пізніше дати початку",
+      "selectStatus": "Будь ласка, виберіть статус",
+      "selectLeaveType": "Будь ласка, виберіть тип відпустки",
+      "selectStartDate": "Будь ласка, виберіть дату початку",
+      "selectDate": "Будь ласка, виберіть дату",
+      "selectTimeIn": "Будь ласка, виберіть час приходу",
+      "selectTimeOut": "Будь ласка, виберіть час виходу",
+      "enterDepartmentName": "Будь ласка, введіть назву відділу",
+      "enterDesignationName": "Будь ласка, введіть назву посади",
+      "enterName": "Будь ласка, введіть ім'я",
+      "selectDesignation": "Будь ласка, виберіть посаду",
+      "selectDepartment": "Будь ласка, виберіть відділ",
+      "enterEmail": "Будь ласка, введіть email",
+      "enterValidEmail": "Будь ласка, введіть коректний email",
+      "enterPhoneNumber": "Будь ласка, введіть номер телефону",
+      "enterCountry": "Будь ласка, введіть країну",
+      "enterSalary": "Будь ласка, введіть зарплату",
+      "selectGender": "Будь ласка, виберіть стать",
+      "selectShift": "Будь ласка, виберіть зміну",
+      "selectBirthDate": "Будь ласка, виберіть дату народження",
+      "selectJoinDate": "Будь ласка, виберіть дату прийняття",
+      "enterHolidayName": "Будь ласка, введіть назву свята",
+      "selectBreakStatus": "Будь ласка, виберіть статус перерви",
+      "selectPaymentYear": "Будь ласка, виберіть рік оплати",
+      "selectPaymentType": "Будь ласка, виберіть тип оплати",
+      "enterAmount": "Будь ласка, введіть суму",
+      "selectStartBreakTime": "Будь ласка, виберіть час початку перерви",
+      "selectEndBreakTime": "Будь ласка, виберіть час закінчення перерви",
+      "enterLeaveTypeName": "Будь ласка, введіть назву типу відпустки",
+      "selectStartTime": "Будь ласка, виберіть час початку",
+      "selectEndTime": "Будь ласка, виберіть час закінчення"
+    },
+    "dropdowns": {
+      "addNew": "+ Додати нове",
+      "morning": "Ранок",
+      "day": "День",
+      "evening": "Вечір",
+      "night": "Ніч",
+      "yes": "Так",
+      "no": "Ні",
+      "approved": "Схвалено",
+      "rejected": "Відхилено",
+      "terminated": "Звільнено",
+      "suspended": "Призупинено",
+      "male": "Чоловік",
+      "female": "Жінка",
+      "pending": "В очікуванні",
+      "active": "Активний",
+      "inactive": "Неактивний",
+      "paid": "Оплачено",
+      "unpaid": "Не оплачено"
+    },
+    "units": {
+      "days": "днів"
+    },
+    "fallbacks": {
+      "noNoteAvailable": "Примітка відсутня",
+      "noDescriptionAvailable": "Опис відсутній",
+      "selectEmployeeFirst": "Спочатку виберіть співробітника"
+    },
+    "success": {
+      "leaveDelete": "Відпустку успішно видалено",
+      "attendanceDelete": "Запис про відвідуваність успішно видалено",
+      "attendanceAdd": "Запис про відвідуваність успішно додано",
+      "attendanceUpdate": "Запис про відвідуваність успішно оновлено",
+      "leaveAdd": "Відпустку успішно додано",
+      "leaveUpdate": "Відпустку успішно оновлено",
+      "departmentDelete": "Відділ успішно видалено",
+      "departmentAdd": "Відділ успішно додано",
+      "departmentUpdate": "Відділ успішно оновлено",
+      "designationDelete": "Посаду успішно видалено",
+      "designationAdd": "Посаду успішно додано",
+      "designationUpdate": "Посаду успішно оновлено",
+      "employeeDelete": "Співробітника успішно видалено",
+      "employeeAdd": "Співробітника успішно додано",
+      "employeeUpdate": "Співробітника успішно оновлено",
+      "holidayDelete": "Свято успішно видалено",
+      "holidayAdd": "Свято успішно додано",
+      "holidayUpdate": "Свято успішно оновлено",
+      "leaveTypeDelete": "Тип відпустки успішно видалено"
+    }
+  }
+}

@@ -1,0 +1,1561 @@
+{
+  "@@meta": {
+    "languageCode": "vi_VI",
+    "languageName": "Vietnam",
+    "version": "1.0.0"
+  },
+  "common": {
+    "signIn": "Увійти",
+    "signUp": "Зареєструватися",
+    "verifyEmail": "Підтвердити email",
+    "customizeProfile": "Налаштувати профіль",
+    "imageOrLogo": "Логотип або зображення",
+    "createNewPassword": "Створити новий пароль",
+    "itemsList": "Список товарів",
+    "searchItemsName": "Пошук товарів за назвою",
+    "categoryList": "Список категорій",
+    "brandList": "Список брендів",
+    "unitList": "Список одиниць виміру",
+    "itemDetails": "Деталі товару",
+    "addStock": "Додати на склад",
+    "profile": "Профіль",
+    "language": "Мова",
+    "termsAndConditions": "Умови та положення",
+    "aboutUs": "Про нас",
+    "logout": "Вийти",
+    "editProfile": "Редагувати профіль",
+    "fullName": "ПІБ",
+    "email": "Електронна пошта",
+    "mobileNumber": "Мобільний номер",
+    "address": "Адреса",
+    "password": "Пароль",
+    "forgotPassword": "Забули пароль",
+    "edit": "Редагувати",
+    "delete": "Видалити",
+    "addItems": "Додати товари",
+    "stock": "Склад",
+    "currentStock": "Поточний залишок",
+    "value": "Значення",
+    "sales": "Продажі",
+    "purchase": "Покупка",
+    "price": "Ціна",
+    "image": "Зображення",
+    "upload": "Завантажити",
+    "addNew": "Додати новий",
+    "pricing": "Ціни",
+    "name": "Назва",
+    "category(plural)": {
+      "one": "Категорія",
+      "other": "Категоріяs"
+    },
+    "areas": "Areas",
+    "brand": "Бренд",
+    "lowStock": "Низький залишок",
+    "unit": "Одиниця виміру",
+    "vat": "ПДВ",
+    "taxType": "Тип податку",
+    "purchasePrice": "Закупівельна ціна",
+    "sellingPrice": "Ціна продажу",
+    "wholeSalePrice": "Оптова ціна",
+    "dealerPrice": "Дилерська ціна",
+    "searchHere": "Шукати тут",
+    "totalItems": "Загальна кількість товарів",
+    "stockValue": "Вартість залишків",
+    "congratulation": "Вітаємо",
+    "salesList": "Список продажів",
+    "searchInvoiceNumber": "Пошук № рахунку",
+    "view": "Перегляд",
+    "kFor": "Для",
+    "total": "Загалом",
+    "subTotal": "Проміжний підсумок",
+    "insufficientStockAvailableStock": "Недостатньо товару, доступно на складі",
+    "discount": "Знижка",
+    "selectOne": "Виберіть один",
+    "allCategory": "Усі категорії",
+    "details": "Деталі",
+    "parcel": "Посилка",
+    "kot": "KOT",
+    "table": "Стіл",
+    "holdTable": "Забронювати стіл",
+    "capacity": "Місткість",
+    "commonHint": "Наприклад: 10",
+    "pleaseEnterQuantity": "Будь ласка, введіть кількість",
+    "quantityMustBeGreaterThanZero": "Кількість має бути більше нуля",
+    "mobile": "Di động",
+    "orderNo": "Номер замовлення",
+    "dateAndTime": "Дата і час",
+    "items": "Товари",
+    "totalAmount": "Загальна сума",
+    "paidAmount": "Сплачена сума",
+    "dueAmount": "Сума до оплати",
+    "paymentType": "Тип оплати",
+    "thankYou": "Дякуємо",
+    "developedBy": "Phát triển bởi ${domain: String}",
+    "qty": "Ціна",
+    "amount": "Сума",
+    "dashboard": "Панель управління",
+    "reports": "Звіти",
+    "home": "Головна",
+    "parties": "Контрагенти",
+    "subscriptionPlan": "План підписки",
+    "estimateList": "Список оцінок",
+    "purchaseList": "Список покупок",
+    "dueList": "Список заборгованостей",
+    "lossOrProfit": "Збиток/Прибуток",
+    "stocks": "Склад",
+    "moneyInList": "Список надходжень",
+    "moneyOutList": "Список витрат",
+    "transactionList": "Список транзакцій",
+    "income": "Дохід",
+    "expense": "Витрата",
+    "quickView": "Швидкий перегляд",
+    "to": "до",
+    "totalSales": "Загальні продажі",
+    "totalPurchase": "Загальні покупки",
+    "holdNumber": "Замовлення у триманні",
+    "totalExpense": "Загальні витрати",
+    "loss": "Збиток",
+    "profit": "Прибуток",
+    "recentTransaction": "Останні транзакції",
+    "invoice": "Рахунок-фактура",
+    "moneyIn": "Гроші надійшли",
+    "moneyOut": "Гроші витрачені",
+    "paid": "Оплачено",
+    "due": "Борг",
+    "partial": "Частково",
+    "print": "Друк",
+    "addCategory": "Додати категорію",
+    "addExpense": "Додати витрату",
+    "search": "Пошук...",
+    "viewDetails": "Переглянути деталі",
+    "title": "Назва",
+    "date": "Дата",
+    "note": "Примітка",
+    "phoneNumber": "Номер телефону",
+    "type": "Тип",
+    "selectContactSType": "Виберіть тип контакту",
+    "moreInfo": "Додаткова інформація",
+    "paymentReceived": "Отримано оплату",
+    "selectSupplier": "Виберіть постачальника",
+    "supplier": "Постачальник",
+    "received": "Отримано",
+    "balanceDue": "Залишок боргу",
+    "addPurchase": "Додати покупку",
+    "selectedItemWillBeCleared": "Вибрані елементи будуть очищені.",
+    "searchItemName": "Пошук товарів за назвою",
+    "billItems": "Пункти рахунку",
+    "addMoreItems": "Додати ще товарів",
+    "payAmount": "Сума до сплати",
+    "salesReport": "Звіт по продажам",
+    "purchaseReport": "Звіт по закупівлях",
+    "stockReport": "Звіт по складу",
+    "dueReport": "Звіт по заборгованостям",
+    "dueCollectionReport": "Звіт по стягненню боргу",
+    "transactionReport": "Звіт по транзакціях",
+    "incomeReport": "Звіт по доходам",
+    "dueCollectionList": "Список стягнення боргу",
+    "expenseReport": "Звіти про витрати",
+    "dueCollection": "Стягнення боргу",
+    "myProfile": "Мій профіль",
+    "printingOption": "Налаштування друку",
+    "currency": "Валюта",
+    "paymentMethod": "Спосіб оплати",
+    "rateUs": "Оцініть нас",
+    "termAndCondition": "Умови та положення",
+    "tableList": "Список столів",
+    "addTable": "Додати стіл",
+    "vatRate": "Ставка ПДВ %",
+    "action": "Дія",
+    "status": "Статус",
+    "active": "Активний",
+    "inActive": "Неактивний",
+    "subVats": "Суб ПДВ",
+    "add": "Додати",
+    "taxRate": "Ставка податку %",
+    "subTaxes": "Субподатки",
+    "group": "група",
+    "VAT": "ПДВ",
+    "subTaxList": "Список субподатків",
+    "vatPercent": "Відсоток ПДВ",
+    "statusIsCannotInActive": "Статус не може бути неактивним, якщо ПДВ включений при продажу.",
+    "vatOnSales": "ПДВ при продажу",
+    "transaction": "Транзакція",
+    "version": "Версія ${version: String}",
+    "hold": "Затримати",
+    "empty": "Порожній",
+    "appName": "Restaurant App",
+    "duePayment": "Thanh toán đến hạn",
+    "orders": "Đơn hàng",
+    "all": "Tất cả",
+    "ingredient": "Nguyên liệu",
+    "menus": "Thực đơn",
+    "modifierGroups": "Nhóm bổ trợ",
+    "itemModifiers": "Bổ trợ món",
+    "staff": "Nhân viên",
+    "coupon": "Mã giảm giá",
+    "pay": "Thanh toán",
+    "pendingOrders": "Đơn hàng chờ",
+    "order": "Đơn hàng",
+    "payNow": "Thanh toán ngay",
+    "addStaff": "Thêm nhân viên",
+    "designation": "Chức danh",
+    "itemAdded": "Món đã thêm",
+    "noItemAdded": "Chưa có món nào được thêm",
+    "saveNPrint": "Lưu & In",
+    "allowMultiSelection": "Cho phép chọn nhiều mục",
+    "required": "Bắt buộc",
+    "optional": "Tùy chọn",
+    "allowMultiSelectionForSale": "Cho phép chọn nhiều cho bán hàng",
+    "isRequired": "Là bắt buộc",
+    "modifier": "Bổ trợ",
+    "fullPayment": "Thanh toán đủ",
+    "payment": "Thanh toán",
+    "addTip": "Thêm tiền boa",
+    "netPayable": "Tổng tiền phải trả",
+    "receiveAmount": "Số tiền nhận",
+    "changeAmount": "Số tiền thối lại",
+    "quotationList": "Danh sách Báo giá",
+    "addQuotation": "Thêm Báo giá",
+    "convert": "Chuyển đổi",
+    "variations": "Biến thể",
+    "instructions": "Hướng dẫn",
+    "unavailable": "Không có sẵn",
+    "tip": "Mẹo",
+    "salesQuotationReport": "Báo cáo Báo giá Bán hàng",
+    "orderType": "Loại đơn hàng",
+    "deliveryCharge": "Вартість доставки",
+    "receiptNo": "Số biên nhận",
+    "paidBy": "Người thanh toán",
+    "receivedBy": "Người nhận",
+    "paymentAmount": "Số tiền thanh toán",
+    "remainingDue": "Số tiền còn lại phải trả",
+    "roleNPermission": "Vai trò & Quyền hạn",
+    "sl": "SL",
+    "features": "Tính năng",
+    "create": "Tạo mới",
+    "update": "Оновити",
+    "quotations": "Báo giá",
+    "restaurant": "Nhà hàng",
+    "printerProfile": "Hồ sơ máy in",
+    "kitchenOrders": "Đơn hàng bếp",
+    "kitchen(plural)": {
+      "one": "Bếp",
+      "other": "Bếp"
+    },
+    "allKOT": "Tất cả KOT",
+    "cancelKOT": "Hủy KOT",
+    "selectCancelReason": "Chọn lý do hủy",
+    "additionalComment": "Bình luận thêm",
+    "enterComment": "Nhập bình luận",
+    "orderStatus": "Trạng thái đơn hàng",
+    "selectOrderStatus": "Chọn trạng thái đơn hàng",
+    "kotReport": "Báo cáo KOT",
+    "itemFoodType": "Loại thực phẩm",
+    "selectItemFoodType": "Chọn @:common.itemFoodType",
+    "markAllAsRead": "Đánh dấu tất cả là đã đọc",
+    "online": "Online",
+    "cancelledReason": "Cancelled Reason",
+    "hrm": "HRM",
+    "notAvailable": "N/A"
+  },
+  "exceptions": {
+    "somethingWentWrong": "Щось пішло не так, будь ласка, спробуйте ще раз",
+    "noCategoryFound": "Категорія не знайдена!\nБудь ласка, спробуйте додати категорію.",
+    "doYouWantToDeleteThisCategory": "Ви хочете видалити цю категорію?",
+    "noBrandFound": "Бренд не знайдений!\nБудь ласка, спробуйте додати бренд.",
+    "doYouWantToDeleteThisBrand": "Ви хочете видалити цей бренд?",
+    "noItemStockFound": "Товар не знайдений на складі!\nБудь ласка, спробуйте додати товар.",
+    "noUnitFound": "Одиниця виміру не знайдена!\nБудь ласка, спробуйте додати одиницю виміру.",
+    "doYouDeleteThisUnit": "Ви хочете видалити цю одиницю виміру?",
+    "noSaleFoundPleaseSAddProduct": "Продажі не знайдені!\nБудь ласка, спробуйте додати продаж.",
+    "doYouWantToDeleteThisSale": "Ви хочете видалити цей продаж?",
+    "pleaseAddItemToTheCartFirst": "Будь ласка, спочатку додайте товари в кошик",
+    "noItemAdded": "Товари не додані",
+    "cannotEditOthersTable": "Неможливо редагувати чужий стіл.",
+    "tableIsAlreadyBlocked": "Стіл вже заброньований.",
+    "failedToGetCustomerDetails": "Не вдалося отримати дані клієнта.",
+    "noTableFoundPleaseTryAgain": "Столи не знайдені!\nБудь ласка, спробуйте додати стіл.",
+    "noDueCollectionFound": "Не знайдено рахунок з заборгованістю!\nВи побачите рахунки з заборгованістю, коли вони будуть доступні.",
+    "noExpenseFoundPleaseTryAddingExpense": "Витрати не знайдені!\nБудь ласка, спробуйте додати витрату.",
+    "doYouWantToDeleteThisExpense": "Ви хочете видалити цю витрату?",
+    "noExpenseCategoryFound": "Категорія витрат не знайдена!\nБудь ласка, спробуйте додати категорію витрат.",
+    "noTransactionFound": "Транзакції не знайдені, будь ласка, спробуйте пізніше!",
+    "pleaseSelectACategory": "Будь ласка, виберіть категорію",
+    "noIncomeFound": "Дохід не знайдений!\nБудь ласка, спробуйте додати дохід",
+    "doYouWantToDeleteThisIncome": "Ви хочете видалити цей дохід?",
+    "noIncomeCategoryFoundAddingAIncome": "Категорія доходу не знайдена!\nБудь ласка, спробуйте додати категорію доходу.",
+    "noItemFoundPleaseTryAddingItem": "Товар не знайдений!\nБудь ласка, спробуйте додати товар.",
+    "noPartiesFound": "Контрагенти не знайдені",
+    "doYouWantToDeleteThisParty": "Ви хочете видалити цього контрагента",
+    "noLedgerFound": "Журнал операцій не знайдений!\nБудь ласка, спробуйте додати ${transactionType: String}",
+    "areYouSureYouSureWantToDeleteThisTaxType": "Ви впевнені, що хочете видалити цей ${taxType: String}?",
+    "noItemFoundPleaseSTryAddingAnPurchase": "Товар не знайдений!\nБудь ласка, спробуйте додати покупку.",
+    "doYouWantToDeleteThisPurchase": "Ви хочете видалити цю покупку?",
+    "noTransactionFoundYouSeeTransactionHereWhenAvailable": "Транзакція не знайдена!\nВи побачите транзакції тут, коли вони стануть доступними.",
+    "noSaleFoundPleaseTryAddingSale": "Продаж не знайдений!\nБудь ласка, спробуйте додати продаж.",
+    "noPurchaseFoundPleaseTryAddingPurchase": "Покупка не знайдена!\nБудь ласка, спробуйте додати покупку.",
+    "noItemIncomeFound": "Дохід по товару не знайдений!\nВи можете переглянути дані доходу, коли вони будуть доступні.",
+    "noItemExpenseFound": "Витрата по товару не знайдена!\nВи можете переглянути дані витрат, коли вони будуть доступні.",
+    "noItemDueInvoiceFound": "Рахунок-фактура по товару не знайдений!\nВи можете переглянути рахунки-фактури, коли вони будуть доступні.",
+    "noItemDueCollectionInvoiceFound": "Не знайдено рахунок-фактуру по стягненню заборгованості по товару!\nВи можете переглянути рахунки-фактури по стягненню заборгованості, коли вони будуть доступні.",
+    "doYouWantToDeleteThisTable": "Ви хочете видалити цей стіл?'",
+    "thisVatIsBeingUsedOnSales": "Цей ПДВ використовується при продажу!",
+    "noPaymentMethodFoundPleaseTryAddingAPaymentMethod": "Спосіб оплати не знайдений!\nБудь ласка, спробуйте додати спосіб оплати.",
+    "pleaseSelectACustomerFirst": "Vui lòng chọn khách hàng trước.",
+    "pleaseSelectATableToCreateAKot": "Vui lòng chọn bàn để tạo KOT.",
+    "noStaffFound": "Không tìm thấy nhân viên!\nVui lòng thử thêm nhân viên.",
+    "noIngredientFound": "Không tìm thấy nguyên liệu!\nVui lòng thử thêm nguyên liệu.",
+    "exceedsPaymentAmount": "Số tiền nhận không được lớn hơn số tiền phải trả",
+    "noItemModifierFound": "Không tìm thấy bổ trợ món!\nVui lòng thử thêm bổ trợ món.",
+    "noModifierGroupFound": "Không tìm thấy nhóm bổ trợ!\nVui lòng thử thêm nhóm bổ trợ.",
+    "noOptionsFound": "Không tìm thấy tùy chọn nào!",
+    "maxImageCountLimit": "Bạn chỉ có thể chọn tối đa 5 hình ảnh.",
+    "noQuotationFound": "Không tìm thấy báo giá nào!\nVui lòng thử thêm báo giá.",
+    "noPermittedUserFound": "Không tìm thấy người dùng được cấp quyền!\\nVui lòng thử thêm người dùng."
+  },
+  "prompt": {
+    "logout": {
+      "title": "@:common.logout",
+      "message": "Ви впевнені, що хочете вийти?"
+    },
+    "unsavedWarning": {
+      "title": "Bạn có muốn quay lại không?",
+      "message": "Các trường đã thay đổi có thể không được lưu!"
+    },
+    "verify": {
+      "title": "Xác minh Email của bạn",
+      "description(rich)": "Chúng tôi đã gửi một email mã xác minh${emailSpan}\n\nCó thể thư đã kết thúc trong thư mục spam của bạn."
+    },
+    "subscriptionExpired": {
+      "title": "Підписка закінчилась!",
+      "message": "Будь ласка, оформіть підписку для продовження.",
+      "action": "Підписатися"
+    },
+    "items": {
+      "delete": {
+        "title": "Ви хочете видалити цей елемент?"
+      },
+      "filter": {
+        "title": "Фільтрувати за",
+        "extra": {
+          "lowToHigh": "Від низької до високої @:common.price",
+          "highToLow": "Від високої до низької @:common.price"
+        }
+      }
+    },
+    "checkInternet": {
+      "title": "Немає підключення до Інтернету",
+      "message": "Будь ласка, перевірте підключення до Wi-Fi або мобільної мережі та повторіть спробу"
+    },
+    "back": {
+      "title": "Натисніть назад ще раз, щоб вийти."
+    },
+    "stockModelSheet": {
+      "title": "Додати новий склад"
+    },
+    "paymentMethod": {
+      "title": "Ви хочете видалити цей метод оплати?"
+    },
+    "extMsg": {
+      "kotSavedSuccessfully": "Lưu KOT thành công"
+    },
+    "deleteStaff": "Bạn có muốn xóa nhân viên này không?",
+    "deleteIngredient": "Bạn có muốn xóa nguyên liệu này không?",
+    "deleteItemModifier": "Bạn có muốn xóa bổ trợ món này không?",
+    "deleteModifierGroup": "Bạn có muốn xóa nhóm bổ trợ này không?",
+    "deleteQuotation": "Bạn có muốn xóa báo giá này không?"
+  },
+  "form": {
+    "fullName": {
+      "label": "@:common.fullName",
+      "hint": "Введіть @:common.fullName",
+      "errors": {
+        "required": "Будь ласка, введіть ваше @:common.fullName"
+      }
+    },
+    "email": {
+      "label": "@:common.email",
+      "hint": "Введіть вашу @:common.email адресу",
+      "errors": {
+        "required": "Будь ласка, введіть вашу @:common.email адресу",
+        "invalid": "⦸ Неправильна електронна пошта, будь ласка, спробуйте ще раз"
+      }
+    },
+    "password": {
+      "label": "@:common.password",
+      "hint": "* * * * * * * *",
+      "errors": {
+        "required": "Будь ласка, введіть ваш @:common.password",
+        "minLength": "Пароль повинен містити принаймні ${count} символів!"
+      }
+    },
+    "confirmPassword": {
+      "label": "Підтвердити пароль",
+      "hint": "* * * * * * * *",
+      "errors": {
+        "required": "Будь ласка, введіть ваш пароль",
+        "invalid": "'Підтвердження пароля не співпадає!"
+      }
+    },
+    "otp": {
+      "errors": {
+        "required": "Будь ласка, введіть код OTP",
+        "invalid": "Будь ласка, введіть поточний код OTP"
+      }
+    },
+    "profile": {
+      "businessCategory": {
+        "label": "Категорія бізнесу",
+        "hint": "Виберіть категорію бізнесу",
+        "errors": {
+          "required": "Будь ласка, виберіть категорію бізнесу"
+        }
+      },
+      "shopOrStore": {
+        "label": "Назва магазину/підприємства*",
+        "hint": "Введіть назву магазину або підприємства",
+        "errors": {
+          "required": "Будь ласка, введіть назву вашого магазину або підприємства"
+        }
+      },
+      "openingBalance": {
+        "label": "Початковий баланс",
+        "hint": "Введіть початковий баланс"
+      },
+      "vatGstTitle": {
+        "label": "Назва ПДВ/ПДВ",
+        "hint": "Введіть ПДВ/ПДВ"
+      },
+      "vatGstNumber": {
+        "label": "Реєстраційний номер ПДВ",
+        "hint": "Введіть реєстраційний номер ПДВ"
+      }
+    },
+    "vat": {
+      "name": {
+        "label": "Назва",
+        "hint": "Введіть назву ПДВ",
+        "error": {
+          "required": "Будь ласка, введіть назву ПДВ"
+        }
+      },
+      "subVat": {
+        "label": "Суб ПДВ",
+        "hint": "Виберіть суб ПДВ",
+        "errors": {
+          "required": "Будь ласка, виберіть суб ПДВ"
+        }
+      },
+      "rate": {
+        "label": "Ставка ПДВ %",
+        "hint": "Nhập tỷ lệ VAT",
+        "errors": {
+          "required": "Vui lòng nhập tỷ lệ VAT."
+        }
+      }
+    },
+    "category": {
+      "label": "@:common.category",
+      "hint": "Виберіть категорію товару",
+      "error": {
+        "required": "Будь ласка, введіть назву категорії"
+      }
+    },
+    "items": {
+      "barcode": {
+        "label": "Штрих-код",
+        "hint": "@:common.selectOne"
+      },
+      "itemName": {
+        "label": "Назва товару",
+        "hint": "Введіть назву товару",
+        "extra": {
+          "required": "Будь ласка, введіть назву товару"
+        }
+      },
+      "itemCategory": {
+        "label": "Категорія товару",
+        "hint": "Категорія товару",
+        "extra": {
+          "label": "Виберіть категорію",
+          "required": "Будь ласка, виберіть категорію"
+        }
+      },
+      "brand": {
+        "label": "@:common.brand",
+        "hint": "@:common.selectOne",
+        "extra": {
+          "hint": "Введіть назву бренду",
+          "required": "Будь ласка, введіть назву бренду"
+        }
+      },
+      "unit": {
+        "label": "@:common.unit",
+        "hint": "@:common.selectOne",
+        "error": {
+          "required": "Будь ласка, введіть назву одиниці виміру"
+        }
+      },
+      "stock": {
+        "label": "Початковий склад",
+        "hint": "@:common.commonHint",
+        "extra": {
+          "required": "Будь ласка, введіть якість товару."
+        }
+      },
+      "lowStock": {
+        "label": "@:common.lowStock",
+        "hint": "Наприклад: 5"
+      },
+      "purchasePrice": {
+        "label": "@:common.purchasePrice",
+        "hint": "Наприклад: \\$40",
+        "error": {
+          "required": "Будь ласка, введіть закупівельну ціну."
+        }
+      },
+      "salePrice": {
+        "label": "Ціна продажу",
+        "hint": "Наприклад: \\$60",
+        "error": {
+          "required": "Будь ласка, введіть ціну продажу."
+        }
+      },
+      "totalSalePrice": {
+        "label": "Загальна ціна продажу",
+        "hint": "Наприклад: \\$100"
+      },
+      "wholeSalePrice": {
+        "label": "@:common.wholeSalePrice",
+        "hint": "Введіть оптову ціну"
+      },
+      "dealerPrice": {
+        "label": "@:common.dealerPrice",
+        "hint": "Введіть дилерську ціну"
+      },
+      "discount": {
+        "label": "Знижка (%)",
+        "hint": "@:common.commonHint"
+      },
+      "applicableTax": {
+        "label": "Застосовуваний податок",
+        "hint": "@:common.selectOne"
+      },
+      "vatType": {
+        "label": "@:common.taxType",
+        "errorText": {
+          "required": "Будь ласка, виберіть тип ПДВ"
+        }
+      },
+      "menu": {
+        "label": "Chọn thực đơn",
+        "errors": {
+          "required": "Vui lòng chọn một thực đơn."
+        },
+        "hint": "Chọn một thực đơn",
+        "extra": {
+          "selectNavLabel": "Chọn thực đơn món"
+        }
+      },
+      "modifierItems": {
+        "label": "Mục bổ trợ",
+        "hint": "Chọn mục bổ trợ"
+      },
+      "preparationTime": {
+        "label(rich)": "Thời gian chuẩn bị ${minutes(phút)}",
+        "hint": "Ví dụ: 30"
+      },
+      "variation": {
+        "name": {
+          "label": "Tên",
+          "hint": "Nhập biến thể",
+          "errors": {
+            "required": "Vui lòng nhập tên biến thể."
+          }
+        },
+        "price": {
+          "errors": {
+            "required": "Vui lòng nhập giá."
+          },
+          "label": "Giá",
+          "hint": "Ví dụ: 30$"
+        }
+      }
+    },
+    "itemCart": {
+      "hint": "@:common.commonHint",
+      "error": {
+        "required": "@:common.pleaseEnterQuantity",
+        "noZero": "@:common.quantityMustBeGreaterThanZero"
+      }
+    },
+    "sales": {
+      "autoGenerateInvoice": {
+        "label": "Номер рахунку",
+        "hint": "P-00001"
+      },
+      "date": {
+        "label": "Дата"
+      },
+      "customer": {
+        "label": "Khách hàng",
+        "hint": "Chọn khách hàng"
+      },
+      "phone": {
+        "label": "Номер телефону",
+        "hint": "Введіть номер телефону"
+      },
+      "address": {
+        "label": "Адреса",
+        "hint": "Введіть адресу"
+      },
+      "deliveryCharge": {
+        "label": "@:common.deliveryCharge",
+        "hint": "Наприклад: \\$20",
+        "hint2": "Phí VD: 10$"
+      },
+      "table": {
+        "hint": "Chọn bàn"
+      },
+      "waiter": {
+        "hint": "Chọn phục vụ"
+      }
+    },
+    "bill": {
+      "label": "Номер рахунку",
+      "hint": "P-00001"
+    },
+    "supplier": {
+      "label": "Постачальник",
+      "hint": "Виберіть постачальника",
+      "extra": {
+        "required": "Будь ласка, виберіть постачальника"
+      }
+    },
+    "phone": {
+      "label": "Номер телефону",
+      "hint": "Введіть номер телефону",
+      "errors": {
+        "required": "Будь ласка, введіть номер телефону."
+      }
+    },
+    "address": {
+      "label": "Адреса компанії",
+      "hint": "Введіть адресу компанії"
+    },
+    "payment": {
+      "label": "Назва",
+      "hint": "Введіть назву способу оплати",
+      "error": {
+        "required": "Будь ласка, введіть назву способу оплати"
+      }
+    },
+    "expense": {
+      "label": "Категорія витрат",
+      "hint": "Виберіть категорію витрат",
+      "error": {
+        "required": "Будь ласка, введіть категорію витрат"
+      }
+    },
+    "income": {
+      "label": "Категорія доходу",
+      "hint": "Введіть назву категорії",
+      "error": {
+        "required": "Будь ласка, введіть назву категорії"
+      },
+      "incomeTitle": {
+        "label": "Назва доходу",
+        "hint": "Введіть дохід"
+      },
+      "incomeCategory": {
+        "label": "Категорія доходу",
+        "hint": "Виберіть категорію"
+      },
+      "payment": {
+        "label": "Оплата",
+        "hint": "Наприклад: \\$10"
+      }
+    },
+    "note": {
+      "label": "Примітка (не обов'язково)",
+      "hint": "Введіть текст"
+    },
+    "parties": {
+      "partyName": {
+        "label": "Назва сторони",
+        "hint": "Введіть назву сторони",
+        "error": {
+          "required": "Будь ласка, введіть назву сторони"
+        }
+      },
+      "partyPhone": {
+        "label": "Номер телефону",
+        "hint": "Введіть номер телефону",
+        "error": {
+          "required": "Будь ласка, введіть номер телефону"
+        }
+      }
+    },
+    "table": {
+      "name": {
+        "label": "Назва столу",
+        "hint": "Введіть назву столу",
+        "error": {
+          "required": "Будь ласка, введіть назву столу"
+        }
+      },
+      "capacity": {
+        "label": "Місткість",
+        "hint": "Введіть місткість",
+        "error": {
+          "required": "Будь ласка, введіть місткість"
+        }
+      }
+    },
+    "designation": {
+      "label": "@:common.designation",
+      "hint": "Chọn chức danh",
+      "errors": {
+        "required": "Vui lòng chọn một chức danh."
+      }
+    },
+    "ingredientName": {
+      "label": "Tên nguyên liệu",
+      "hint": "Nhập tên nguyên liệu",
+      "errors": {
+        "required": "Vui lòng nhập tên nguyên liệu"
+      }
+    },
+    "item": {
+      "label": "Món",
+      "hint": "Chọn món",
+      "errors": {
+        "required": "Vui lòng chọn một món."
+      }
+    },
+    "modifierGroup": {
+      "label": "Nhóm bổ trợ",
+      "hint": "Chọn nhóm bổ trợ",
+      "errors": {
+        "required": "Vui lòng chọn một nhóm bổ trợ."
+      }
+    },
+    "description": {
+      "label": "Mô tả",
+      "hint": "Nhập mô tả"
+    },
+    "staff": {
+      "label": "@:common.staff",
+      "hint": "Chọn nhân viên",
+      "errors": {
+        "required": "Vui lòng chọn nhân viên"
+      }
+    },
+    "loginUserName": {
+      "label": "Tên đăng nhập",
+      "hint": "Nhập tên người dùng hoặc địa chỉ email",
+      "errors": {
+        "required": "Vui lòng nhập tên người dùng hoặc địa chỉ email"
+      }
+    }
+  },
+  "action": {
+    "next": "Далі",
+    "getStarted": "Розпочати",
+    "skip": "Пропустити",
+    "select": "Вибрати",
+    "save": "Зберегти",
+    "verify": "Підтвердити",
+    "signIn": "@:common.signIn",
+    "signUp": "@:common.signUp",
+    "continue": "Продовжити",
+    "no": "Ні",
+    "yes": "Так",
+    "okay": "Гаразд",
+    "cancel": "Скасувати",
+    "confirm": "Підтвердити",
+    "tryAgain": "Спробуйте ще раз",
+    "reset": "Скинути",
+    "apply": "Застосувати",
+    "stockAdjust": "Коригувати склад",
+    "addMoreItems": "Додати ще товарів",
+    "hold": "Затримати",
+    "parcel": "@:common.parcel",
+    "buyNow": "Купити зараз",
+    "viewAll": "Переглянути все",
+    "viewLedger": "Переглянути журнал",
+    "submit": "Gửi",
+    "selected": "Đã chọn",
+    "addToCart": "Thêm vào giỏ hàng",
+    "selectAll": "Chọn tất cả",
+    "update": "@:common.update",
+    "addRole": "Thêm Vai trò"
+  },
+  "pages": {
+    "language": {
+      "appbarTitle": "@:action.select @:common.language"
+    },
+    "onboard": {
+      "onboardData": {
+        "data1": {
+          "title": "Dễ sử dụng @:common.appName",
+          "description": "Đặt món liền mạch, Đặt bàn dễ dàng\\n Phát triển nhà hàng của bạn thật dễ dàng!"
+        },
+        "data2": {
+          "title": "Автоматизація управління замовленнями",
+          "description": "Наша система POS допоможе спростити процес прийому замовлень у вашому ресторані"
+        },
+        "data3": {
+          "title": "Відмінна аналітика та звітність",
+          "description": "Наша панель аналітики надає звіти по продажам та покупкам в режимі реального часу"
+        }
+      }
+    },
+    "signIn": {
+      "title": "Ласкаво просимо назад",
+      "subtitle": "Будь ласка, введіть свої дані.",
+      "extra": {
+        "rememberMe": "Запам'ятати мене",
+        "signUpNavigator(rich)": "Немає облікового запису? ${getStarted(@:action.getStarted)}",
+        "forgotPassword": "@:common.forgotPassword?"
+      }
+    },
+    "signUp": {
+      "title": "Створити обліковий запис",
+      "subtitle": "Будь ласка, введіть свої дані",
+      "extra": {
+        "signInNavigator(rich)": "Вже маєте обліковий запис? ${signIn(@:action.signIn)}"
+      }
+    },
+    "forgotPassword": {
+      "title": "@:common.forgotPassword",
+      "subtitle": "Введіть свою адресу електронної пошти, щоб відновити свій пароль."
+    },
+    "otpVerification": {
+      "title": "Підтвердження",
+      "subtitle": "6-значний код відправлено на вашу електронну пошту",
+      "extra": {
+        "codeResend": {
+          "codeSendIn": "Код відправлений через",
+          "resendCode": "Відправити код ще раз"
+        }
+      }
+    },
+    "resetPassword": {
+      "title": "Скинути пароль",
+      "subtitle": "Скиньте свій пароль, щоб відновити та увійти в обліковий запис",
+      "extra": {
+        "dialog": {
+          "title": "Успішно змінено!",
+          "subtitle": "Увійдіть з новим паролем.\nНаправляємо вас на сторінку входу..."
+        }
+      }
+    },
+    "items": {
+      "itemList": {
+        "extra": {
+          "emptyItem": "Товари не знайдені!\nБудь ласка, спробуйте додати товар."
+        }
+      },
+      "manageItems": {
+        "title": "Додати новий товар",
+        "title2": "Редагувати товар",
+        "extra": {
+          "maximum": "Максимум 5",
+          "wholeSaleAndDealerPrice": "Оптова та дилерська ціна",
+          "addDiscount": "Додати знижку",
+          "addVat": "Додати ПДВ"
+        }
+      },
+      "itemDetails": {
+        "title": "Деталі товару",
+        "extra": {
+          "noImageAvailable": "Зображення недоступне!",
+          "preparationTime(rich)": "Thời gian chuẩn bị: ${min: String} ${mins(mins)}",
+          "pleaseSelectVariation": "Vui lòng chọn biến thể",
+          "pleaseSelectOption": "Vui lòng chọn tùy chọn.",
+          "enterYourInstruction": "Nhập hướng dẫn của bạn"
+        }
+      }
+    },
+    "category": {
+      "addNewCategory": "Додати нову категорію",
+      "editCategory": "Редагувати категорію"
+    },
+    "brand": {
+      "addNewBrand": "Додати новий бренд",
+      "editBrand": "Редагувати бренд"
+    },
+    "unit": {
+      "addNewUnit": "Додати нову одиницю виміру",
+      "editUnit": "Редагувати одиницю виміру"
+    },
+    "stock": {
+      "stockList": "Список складу"
+    },
+    "aboutUs": {
+      "title": "Про нас"
+    },
+    "privacyPolicy": {
+      "title": "Політика конфіденційності"
+    },
+    "termAndCondition": {
+      "title": "@:common.termAndCondition"
+    },
+    "orders": {
+      "manageOrders": {
+        "extra": {
+          "billItems": "Пункти рахунку",
+          "manageQuantity": "Керування кількістю"
+        },
+        "title": {
+          "editOrder": "Chỉnh sửa đơn hàng",
+          "editKOT": "Chỉnh sửa KOT"
+        }
+      }
+    },
+    "onlinePayment": {
+      "title": "Оплата онлайн"
+    },
+    "paymentStatus": {
+      "success": {
+        "title": "Дякуємо!",
+        "message": "Ми розглянемо оплату та затвердимо протягом 24 годин.",
+        "actionButtonText": "Переглянути рахунок"
+      },
+      "fail": {
+        "title": "Упс! Оплата не пройшла",
+        "message": "Транзакція не виконана через технічну помилку.",
+        "actionButtonText": "Спробувати ще раз"
+      }
+    },
+    "confirmationDialog": {
+      "title": "Вихід",
+      "message": "Ви впевнені, що хочете вийти?",
+      "acceptationText": "Ні",
+      "rejectionText": "Вийти"
+    },
+    "payment": {
+      "title": "@:common.paymentMethod",
+      "addPaymentMethod": "Додати новий спосіб оплати",
+      "editPaymentMethod": "Редагувати спосіб оплати",
+      "choseOnlinePayment": "Оберіть оплату онлайн",
+      "selectPaymentMethod": "Виберіть спосіб оплати",
+      "pleaseSelectAPaymentMethod": "Будь ласка, виберіть спосіб оплати.",
+      "methodStatus": {
+        "title": "Статус",
+        "message": "Статус не може бути неактивним, якщо активовано швидкий перегляд!"
+      }
+    },
+    "subscriptionPlan": {
+      "title": "Купити преміум план",
+      "extra": {
+        "actionButtonText": "Повернутися",
+        "message": "Підписка успішно оплачена.\nТепер ви можете скористатися підписаними функціями.",
+        "mostPopular": "Найпопулярніший"
+      }
+    },
+    "invoicePreview": {
+      "title": "Попередній перегляд рахунку",
+      "message": "PDF-перегляд з'явиться найближчим часом"
+    },
+    "currency": {
+      "title": "@:common.currency"
+    },
+    "dashboard": {
+      "overview": "Огляд",
+      "dashboardPrivacy": "Приватність панелі",
+      "moneyInAndMoneyOut": "Гроші надійшли та витрачені",
+      "lossAndProfitOverView": "Огляд прибутку та збитку"
+    },
+    "due": {
+      "title": "@:common.dueList",
+      "collectionList": "Список платежів",
+      "dueCollection": "Стягнення заборгованості"
+    },
+    "expense": {
+      "title": "@:common.expense",
+      "editExpense": "Chỉnh sửa chi phí",
+      "addNewExpense": "Thêm chi phí mới",
+      "editExpenseCategory": "Chỉnh sửa danh mục chi phí",
+      "addNewExpenseCategory": "Thêm danh mục chi phí mới",
+      "payment": "Thanh toán",
+      "expenseCategory": "Danh mục chi phí",
+      "selectCategory": "Chọn danh mục",
+      "allExpense": "Tất cả chi phí",
+      "pleaseSelectACategory": "Vui lòng chọn một danh mục",
+      "expenseTitle": {
+        "label": "Tiêu đề chi phí",
+        "hint": "Nhập chi phí"
+      }
+    },
+    "lossProfit": {
+      "title": "Danh sách lỗ/lãi",
+      "noLossProfitFound": "Không tìm thấy lỗ/lãi!\nVui lòng thử tạo doanh số."
+    },
+    "income": {
+      "editIncomeCategory": "Редагувати категорію доходу",
+      "addNewIncomeCategory": "Додати нову категорію доходу",
+      "incomeCategory": "Категорія доходу",
+      "allIncome": "Усі доходи",
+      "editIncome": "Редагувати дохід",
+      "addNewIncome": "Редагувати дохід",
+      "addIncome": "Додати дохід"
+    },
+    "moneyIn": {
+      "title": "Список надходжень",
+      "totalPaymentIn": "Загальна сума надходжень"
+    },
+    "moneyOut": {
+      "title": "Список витрат",
+      "totalMoneyOut": "Загальна сума витрат"
+    },
+    "profile": {
+      "title": "Мій профіль",
+      "editProfile": "Редагувати профіль",
+      "businessInformation": "Інформація про бізнес",
+      "profileInformation": "Інформація профілю"
+    },
+    "parties": {
+      "title": "Список контрагентів",
+      "allParties": "Усі сторони",
+      "customer": "Клієнт",
+      "supplier": "Постачальник",
+      "addParties": "Додати сторони",
+      "editParties": "Редагувати сторони",
+      "partiesDetails": "Деталі сторін",
+      "personalInfo": "Особиста інформація"
+    },
+    "ledger": {
+      "subTitle": "Журнал операцій"
+    },
+    "purchase": {
+      "title": "Додати нову покупку",
+      "editPurchase": "Редагувати покупку"
+    },
+    "reports": {
+      "title": "Звіти"
+    },
+    "table": {
+      "title": "Додати новий стіл",
+      "editTable": "Редагувати стіл"
+    },
+    "tax": {
+      "title": "Ставки ПДВ",
+      "buildHeaderTitle": "Ставки ПДВ - Керуйте своїми ставками ПДВ",
+      "vatGroup": {
+        "title": "Група ПДВ",
+        "subTitle": "Група ПДВ - Керуйте своєю групою ПДВ"
+      }
+    },
+    "vat": {
+      "addNewVat": "Додати новий ПДВ",
+      "editVat": "Редагувати ПДВ",
+      "addNewVatGroup": "Додати нову групу ПДВ",
+      "editVatGroup": "Редагувати групу ПДВ"
+    },
+    "orderList": {
+      "title": "Danh sách đơn hàng",
+      "filters": {
+        "orderType": {
+          "label": "@:common.orderType",
+          "hint": "Chọn loại đơn hàng"
+        },
+        "paymentStatus": {
+          "hint": "Chọn trạng thái thanh toán",
+          "label": "Trạng thái thanh toán"
+        }
+      }
+    },
+    "staffs": {
+      "staffList": {
+        "filters": {
+          "designation": {
+            "label": "Chức danh",
+            "hint": "Chọn chức danh"
+          }
+        },
+        "title": "Tất cả nhân viên"
+      },
+      "manageStaff": {
+        "title1": "Thêm nhân viên mới",
+        "title2": "Cập nhật nhân viên"
+      }
+    },
+    "ingredient": {
+      "ingredientList": {
+        "title1": "Danh sách nguyên liệu",
+        "title2": "Chọn nguyên liệu"
+      },
+      "manageIngredient": {
+        "title1": "Thêm nguyên liệu mới",
+        "title2": "Chỉnh sửa nguyên liệu"
+      }
+    },
+    "itemModifier": {
+      "itemModifierList": {
+        "title": "@:common.itemModifiers"
+      },
+      "manageItemModifier": {
+        "title1": "Thêm bổ trợ món",
+        "title2": "Chỉnh sửa bổ trợ món"
+      }
+    },
+    "quotation": {
+      "manageQuotation": {
+        "title": {
+          "add": "Thêm Báo giá Mới",
+          "edit": "Chỉnh sửa Báo giá",
+          "convert": "Chuyển đổi thành Đơn hàng"
+        }
+      }
+    },
+    "rolePermission": {
+      "rolePermissionList": {
+        "title": "Danh sách Vai trò & Quyền hạn"
+      },
+      "manageRolePermission": {
+        "title1": "Thêm Vai trò mới",
+        "title2": "Chỉnh sửa Vai trò"
+      }
+    },
+    "printingOption": {
+      "title": "Tùy chọn in ấn",
+      "form": {
+        "companyAddress": {
+          "label": "Địa chỉ công ty",
+          "hint": "Nhập địa chỉ công ty"
+        },
+        "noteLabel": {
+          "label": "Nhãn ghi chú",
+          "hint": "Nhập nhãn ghi chú."
+        },
+        "note": {
+          "label": "Ghi chú",
+          "hint": "Nhập ghi chú."
+        },
+        "postSaleMessage": {
+          "label": "Thông điệp sau bán hàng",
+          "hint": "Nhập thông điệp sau bán hàng"
+        },
+        "printingMethod": {
+          "label": "Phương pháp in ấn",
+          "hint": "Chọn phương pháp in ấn"
+        },
+        "printerProfile": {
+          "label": "Hồ sơ máy in",
+          "hint": "Chọn hồ sơ máy in"
+        },
+        "paperSize": {
+          "label": "Kích thước giấy máy in nhiệt",
+          "hint": "Chọn kích thước giấy máy in"
+        },
+        "printerDpi": {
+          "label": "DPI máy in",
+          "hint": "Ví dụ: 203"
+        },
+        "printingMargin": {
+          "label": "Lề in ấn",
+          "hint": "Ví dụ: 2"
+        }
+      },
+      "tooltip": {
+        "printingMethod": {
+          "title": "Danh sách thả xuống với tùy chọn:",
+          "default": "• Mặc định (Phương pháp gốc để in ký tự tiêu chuẩn EU)",
+          "image": "• Hình ảnh (Khuyến nghị cho việc in ký tự Unicode)"
+        }
+      },
+      "action": {
+        "save": "Lưu"
+      }
+    },
+    "kitchen": {
+      "list": {
+        "noKitchensFound": "Không tìm thấy nhà bếp.\n Vui lòng thử thêm một cái."
+      },
+      "manage": {
+        "addKitchen": "Thêm nhà bếp",
+        "editKitchen": "Sửa nhà bếp",
+        "kitchenName": {
+          "label": "Tên nhà bếp",
+          "hint": "Nhập tên nhà bếp",
+          "error": "Vui lòng nhập tên nhà bếp."
+        },
+        "description": {
+          "label": "Mô tả",
+          "hint": "Nhập mô tả"
+        }
+      },
+      "manageItems": {
+        "title": "Quản lý mặt hàng",
+        "addedItems": "Mặt hàng đã thêm",
+        "selectItemsError": "Vui lòng chọn mặt hàng.",
+        "noItemsAdded": "Chưa có mặt hàng nào được thêm!\nVui lòng thử thêm mặt hàng."
+      },
+      "card": {
+        "itemName": "Tên mặt hàng",
+        "manageItems": "+ Quản lý mặt hàng",
+        "deleteItemConfirm": "Bạn có muốn xóa mặt hàng này không?",
+        "deleteKitchenConfirm": "Bạn có muốn xóa nhà bếp này không?"
+      }
+    }
+  },
+  "enums": {
+    "dropdownDateFilter": {
+      "daily": "Щоденно",
+      "weekly": "Щотижнево",
+      "monthly": "Щомісячно",
+      "yearly": "Щорічно",
+      "custom": "Користувацький"
+    },
+    "orderTypes": {
+      "dineIn": "Ăn tại chỗ",
+      "pickUp": "Lấy tại cửa hàng",
+      "delivery": "Giao hàng",
+      "reservation": "Đặt trước",
+      "quotation": "Báo giá"
+    },
+    "paymentStatus": {
+      "paid": "Đã thanh toán",
+      "unpaid": "Chưa thanh toán"
+    },
+    "staffTypes": {
+      "manager": "Quản lý",
+      "waiter": "Phục vụ",
+      "chef": "Đầu bếp",
+      "cleaner": "Tạp vụ",
+      "driver": "Tài xế",
+      "deliveryBoy": "Nhân viên giao hàng"
+    },
+    "itemFoodTypes": {
+      "veg": "Món chay",
+      "nonVeg": "Món mặn",
+      "egg": "Món trứng",
+      "drink": "Đồ uống",
+      "others": "Khác"
+    },
+    "itemTypes": {
+      "single": "Đơn",
+      "variation": "Biến thể"
+    },
+    "quotationStatus": {
+      "open": "Mở",
+      "closed": "Đóng"
+    },
+    "tableStatus": {
+      "running": "Đang có khách",
+      "available": "Bàn trống"
+    },
+    "thermalPrinterPrintingMethod": {
+      "image": "Hình ảnh",
+      "default": "Mặc định"
+    },
+    "kotOrderStatus": {
+      "label": {
+        "pending": "Chờ xử lý",
+        "preparing": "Đang chế biến",
+        "ready": "Món đã xong",
+        "served": "Đã phục vụ",
+        "cancelled": "Đã hủy"
+      },
+      "pending": "Chờ xử lý",
+      "preparing": "Đang chế biến",
+      "ready": "Món đã xong",
+      "served": "Đã phục vụ",
+      "cancelled": "Đã hủy"
+    },
+    "kotItemStatus": {
+      "pending": "Bắt đầu nấu",
+      "start": "Báo xong món",
+      "ready": "Đã xong"
+    }
+  },
+  "thermalPrint": {
+    "invoice": {
+      "purchaseInvoiceLabel": "Hóa đơn mua hàng: ${invoiceNumber: String}",
+      "saleInvoiceLabel": "Mã đơn hàng: ${invoiceNumber: String}",
+      "receiptNoLabel": "Số biên lai: ${invoiceNumber: String}",
+      "orderNoKotLabel": "Mã đơn hàng: ${invoiceNumber: String}",
+      "nameLabel": "Tên: ${name: String}",
+      "mobileLabel": "Di động: ${phone: String}",
+      "purchasedByLabel": "Người mua: ${role: String}",
+      "salesByLabel": "Người bán: ${role: String}",
+      "paidByLabel": "${label: String}: ${role: String}",
+      "paidToReceivedFromLabel": "${label: String}: ${name: String}",
+      "orderTypeLabel": "Loại đơn hàng: ${orderType: String}",
+      "tableLabel": "Bàn: ${tableName: String}",
+      "tableNoLabel": "Số bàn: ${tableName: String}",
+      "dateLabel": "Ngày: ${dateTime: String}",
+      "invoiceFlag": "HÓA ĐƠN",
+      "receiptFlag": "BIÊN LAI",
+      "paidBy": "Đã thanh toán bởi",
+      "receivedBy": "Đã nhận bởi",
+      "paidTo": "Thanh toán cho",
+      "receivedFrom": "Nhận từ",
+      "seller": "Người bán: ${name: String}",
+      "address": "Địa chỉ: ${addr: String}",
+      "vatNo": "Mã số thuế",
+      "tel": "ĐT: ${phoneNumber: String}",
+      "timeLabel": "Thời gian: ${dateTime: String}"
+    },
+    "tableHeaders": {
+      "sl": "STT",
+      "item": "Mặt hàng",
+      "cost": "Giá vốn",
+      "qty": "SL",
+      "uPrice": "Đơn giá",
+      "amount": "Thành tiền",
+      "total": "Tổng cộng",
+      "invoiceTable": "Hóa đơn",
+      "dueTable": "Còn nợ"
+    },
+    "summary": {
+      "subTotal": "Tổng phụ:",
+      "discount": "Chiết khấu: ${percentFmt: String}",
+      "vat": "${vatName: String}: ${rateFmt: String}%",
+      "tip": "Tiền típ:",
+      "deliveryCharge": "Phí giao hàng:",
+      "totalPayable": "Tổng thanh toán:",
+      "paidAmount": "Số tiền đã trả:",
+      "dueAmount": "Số tiền còn nợ:",
+      "paymentType": "Phương thức thanh toán: ${method: String}",
+      "remainingDue": "Số nợ còn lại:",
+      "paymentAmount": "Số tiền thanh toán:",
+      "itemsCount": "Mặt hàng: ${count: int}",
+      "qtyTotal": "SL: ${totalQty: int}"
+    },
+    "footer": {
+      "note": "${noteLabel: String}: ${note: String}",
+      "developedBy": "${developByLabel: String} ${developBy: String}"
+    }
+  },
+  "hrm": {
+    "department": "Phòng ban",
+    "designation": "Chức vụ",
+    "shift": "Ca làm việc",
+    "employee": "Nhân viên",
+    "leave": "Nghỉ phép",
+    "leaveType": "Loại nghỉ phép",
+    "leaveRequest": "Yêu cầu nghỉ phép",
+    "holiday": "Ngày lễ",
+    "attendance": "Chấm công",
+    "payroll": "Bảng lương",
+    "pageTitles": {
+      "department": "Phòng ban",
+      "designation": "Chức vụ",
+      "shift": "Ca làm việc",
+      "employee": "Nhân viên",
+      "leave": "Nghỉ phép",
+      "leaveType": "Loại nghỉ phép",
+      "holiday": "Ngày lễ",
+      "attendance": "Chấm công",
+      "payroll": "Bảng lương",
+      "leaveReports": "Báo cáo nghỉ phép",
+      "payrollReports": "Báo cáo lương",
+      "attendanceReports": "Báo cáo chấm công",
+      "addDepartment": "Thêm phòng ban",
+      "editDepartment": "Sửa phòng ban",
+      "addDesignation": "Thêm chức vụ",
+      "editDesignation": "Sửa chức vụ",
+      "addShift": "Thêm ca làm việc",
+      "editShift": "Sửa ca làm việc",
+      "addEmployee": "Thêm nhân viên",
+      "editEmployee": "Sửa nhân viên",
+      "addLeave": "Thêm nghỉ phép",
+      "editLeave": "Sửa nghỉ phép",
+      "addLeaveType": "Thêm loại nghỉ phép",
+      "editLeaveType": "Sửa loại nghỉ phép",
+      "addHoliday": "Thêm ngày lễ",
+      "editHoliday": "Sửa ngày lễ",
+      "addAttendance": "Thêm chấm công",
+      "editAttendance": "Sửa chấm công",
+      "addPayroll": "Thêm bảng lương",
+      "editPayroll": "Sửa bảng lương"
+    },
+    "form": {
+      "labels": {
+        "department": "Phòng ban",
+        "designation": "Chức vụ",
+        "shift": "Ca làm việc",
+        "employee": "Nhân viên",
+        "leaveType": "Loại nghỉ phép",
+        "leaveDuration": "Thời gian nghỉ",
+        "paymentYear": "Năm thanh toán",
+        "paymentType": "Loại thanh toán",
+        "breakStatus": "Trạng thái nghỉ",
+        "startTime": "Thời gian bắt đầu",
+        "endTime": "Thời gian kết thúc",
+        "startBreakTime": "Bắt đầu nghỉ",
+        "endBreakTime": "Kết thúc nghỉ",
+        "breakTime": "Thời gian nghỉ",
+        "breakDuration": "Thời lượng nghỉ",
+        "timeIn": "Giờ vào",
+        "timeOut": "Giờ ra",
+        "duration": "Thời lượng",
+        "country": "Quốc gia",
+        "salary": "Lương",
+        "gender": "Giới tính",
+        "birthDate": "Ngày sinh",
+        "joinDate": "Ngày tham gia",
+        "holidayName": "Tên ngày lễ",
+        "startDate": "Ngày bắt đầu",
+        "endDate": "Ngày kết thúc",
+        "month": "Tháng",
+        "year": "Năm",
+        "status": "Trạng thái",
+        "description": "Mô tả",
+        "amount": "Số tiền",
+        "payment": "Thanh toán",
+        "departmentName": "Tên phòng ban",
+        "designationName": "Tên chức vụ",
+        "image": "Hình ảnh",
+        "name": "Tên"
+      },
+      "hints": {
+        "selectEmployee": "Chọn nhân viên",
+        "selectDepartment": "Chọn phòng ban",
+        "selectDesignation": "Chọn chức vụ",
+        "selectShift": "Chọn ca làm việc",
+        "selectLeaveType": "Chọn loại nghỉ phép",
+        "selectMonth": "Chọn tháng",
+        "selectYear": "Chọn năm",
+        "selectDate": "Chọn ngày",
+        "selectStartDate": "Chọn ngày bắt đầu",
+        "selectEndDate": "Chọn ngày kết thúc",
+        "selectTimeIn": "Chọn giờ vào",
+        "selectTimeOut": "Chọn giờ ra",
+        "selectStartTime": "Chọn thời gian bắt đầu",
+        "selectEndTime": "Chọn thời gian kết thúc",
+        "selectStatus": "Chọn trạng thái",
+        "selectGender": "Chọn giới tính",
+        "selectPaymentType": "Chọn loại thanh toán",
+        "enterFullName": "Nhập họ tên đầy đủ",
+        "enterEmail": "Nhập email",
+        "enterPhone": "Nhập số điện thoại",
+        "enterCountry": "Nhập quốc gia",
+        "enterSalary": "Ví dụ: 500",
+        "enterHolidayName": "Nhập tên ngày lễ",
+        "enterDescription": "Nhập mô tả...",
+        "autoCalculated": "Tự động tính toán",
+        "selectDatesFirst": "Chọn ngày trước",
+        "allEmployee": "Tất cả nhân viên",
+        "selectEmployeeFirst": "Chọn nhân viên trước",
+        "enterDepartmentName": "Nhập tên phòng ban",
+        "enterDesignationName": "Nhập tên chức vụ",
+        "ex": "{value}",
+        "selectBirthDate": "Chọn ngày sinh",
+        "selectJoinDate": "Chọn ngày tham gia",
+        "selectBreakStatus": "Chọn trạng thái nghỉ",
+        "enterLeaveTypeName": "Nhập tên loại nghỉ phép"
+      }
+    },
+    "emptyStates": {
+      "noLeaves": "Không tìm thấy nghỉ phép",
+      "noPayrollRecords": "Không tìm thấy bảng lương",
+      "noAttendanceRecords": "Không tìm thấy chấm công",
+      "noLeaveTypes": "Không tìm thấy loại nghỉ phép",
+      "noEmployees": "Không tìm thấy nhân viên",
+      "noHolidays": "Không tìm thấy ngày lễ",
+      "noShifts": "Không tìm thấy ca làm việc",
+      "noDesignations": "Không tìm thấy chức vụ",
+      "noDepartments": "Không tìm thấy phòng ban"
+    },
+    "confirmations": {
+      "deleteAttendance": "Bạn có chắc chắn muốn xóa chấm công này?",
+      "deletePayroll": "Bạn có chắc chắn muốn xóa bảng lương này?",
+      "deleteLeave": "Bạn có chắc chắn muốn xóa nghỉ phép này?",
+      "deleteLeaveType": "Bạn có muốn xóa loại nghỉ phép này không?",
+      "deleteEmployee": "Bạn có chắc chắn muốn xóa nhân viên này?",
+      "deleteHoliday": "Bạn có chắc chắn muốn xóa ngày lễ này?",
+      "deleteShift": "Bạn có muốn xóa ca làm việc này không?",
+      "deleteDesignation": "Bạn có chắc chắn muốn xóa chức vụ này?",
+      "deleteDepartment": "Bạn có chắc chắn muốn xóa phòng ban này?"
+    },
+    "validation": {
+      "selectEmployee": "Vui lòng chọn nhân viên",
+      "selectMonth": "Vui lòng chọn tháng",
+      "selectEndDate": "Vui lòng chọn ngày kết thúc",
+      "endDateAfterStart": "Ngày kết thúc phải sau ngày bắt đầu",
+      "selectStatus": "Vui lòng chọn trạng thái",
+      "selectLeaveType": "Vui lòng chọn loại nghỉ phép",
+      "selectStartDate": "Vui lòng chọn ngày bắt đầu",
+      "selectDate": "Vui lòng chọn ngày",
+      "selectTimeIn": "Vui lòng chọn thời gian vào",
+      "selectTimeOut": "Vui lòng chọn thời gian ra",
+      "enterDepartmentName": "Vui lòng nhập tên phòng ban",
+      "enterDesignationName": "Vui lòng nhập tên chức vụ",
+      "enterName": "Vui lòng nhập tên",
+      "selectDesignation": "Vui lòng chọn chức vụ",
+      "selectDepartment": "Vui lòng chọn phòng ban",
+      "enterEmail": "Vui lòng nhập email",
+      "enterValidEmail": "Vui lòng nhập email hợp lệ",
+      "enterPhoneNumber": "Vui lòng nhập số điện thoại",
+      "enterCountry": "Vui lòng nhập quốc gia",
+      "enterSalary": "Vui lòng nhập lương",
+      "selectGender": "Vui lòng chọn giới tính",
+      "selectShift": "Vui lòng chọn ca làm việc",
+      "selectBirthDate": "Vui lòng chọn ngày sinh",
+      "selectJoinDate": "Vui lòng chọn ngày tham gia",
+      "enterHolidayName": "Vui lòng nhập tên ngày lễ",
+      "selectBreakStatus": "Vui lòng chọn trạng thái nghỉ",
+      "selectPaymentYear": "Vui lòng chọn năm thanh toán",
+      "selectPaymentType": "Vui lòng chọn hình thức thanh toán",
+      "enterAmount": "Vui lòng nhập số tiền",
+      "selectStartBreakTime": "Vui lòng chọn thời gian bắt đầu nghỉ",
+      "selectEndBreakTime": "Vui lòng chọn thời gian kết thúc nghỉ",
+      "enterLeaveTypeName": "Vui lòng nhập tên loại nghỉ phép",
+      "selectStartTime": "Vui lòng chọn thời gian bắt đầu",
+      "selectEndTime": "Vui lòng chọn thời gian kết thúc"
+    },
+    "dropdowns": {
+      "addNew": "+ Thêm mới",
+      "morning": "Sáng",
+      "day": "Ngày",
+      "evening": "Tối",
+      "night": "Đêm",
+      "yes": "Có",
+      "no": "Không",
+      "approved": "Đã duyệt",
+      "rejected": "Từ chối",
+      "terminated": "Đã nghỉ việc",
+      "suspended": "Đình chỉ",
+      "male": "Nam",
+      "female": "Nữ",
+      "pending": "Chờ xử lý",
+      "active": "Hoạt động",
+      "inactive": "Không hoạt động",
+      "paid": "Đã thanh toán",
+      "unpaid": "Chưa thanh toán"
+    },
+    "units": {
+      "days": "ngày"
+    },
+    "fallbacks": {
+      "noNoteAvailable": "Không có ghi chú",
+      "noDescriptionAvailable": "Không có mô tả",
+      "selectEmployeeFirst": "Chọn nhân viên trước"
+    },
+    "success": {
+      "leaveDelete": "Xóa nghỉ phép thành công",
+      "attendanceDelete": "Xóa chấm công thành công",
+      "attendanceAdd": "Thêm chấm công thành công",
+      "attendanceUpdate": "Cập nhật chấm công thành công",
+      "leaveAdd": "Thêm nghỉ phép thành công",
+      "leaveUpdate": "Cập nhật nghỉ phép thành công",
+      "departmentDelete": "Xóa phòng ban thành công",
+      "departmentAdd": "Thêm phòng ban thành công",
+      "departmentUpdate": "Cập nhật phòng ban thành công",
+      "designationDelete": "Xóa chức vụ thành công",
+      "designationAdd": "Thêm chức vụ thành công",
+      "designationUpdate": "Cập nhật chức vụ thành công",
+      "employeeDelete": "Xóa nhân viên thành công",
+      "employeeAdd": "Thêm nhân viên thành công",
+      "employeeUpdate": "Cập nhật nhân viên thành công",
+      "holidayDelete": "Xóa ngày lễ thành công",
+      "holidayAdd": "Thêm ngày lễ thành công",
+      "holidayUpdate": "Cập nhật ngày lễ thành công",
+      "leaveTypeDelete": "Xóa loại nghỉ phép thành công"
+    }
+  }
+}

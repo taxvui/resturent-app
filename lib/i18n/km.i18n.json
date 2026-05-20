@@ -1,0 +1,1561 @@
+{
+  "@@meta": {
+    "languageCode": "km_KH",
+    "languageName": "Khmer",
+    "version": "1.0.0"
+  },
+  "common": {
+    "signIn": "ចូល",
+    "signUp": "ចុះឈ្មោះ",
+    "verifyEmail": "ផ្ទៀងផ្ទាត់អ៊ីមែល",
+    "customizeProfile": "ប្ដូរប្រវត្តិរូបតាមចំណូលចិត្ត",
+    "imageOrLogo": "រូបសញ្ញា ឬ រូបភាព",
+    "createNewPassword": "បង្កើតពាក្យសម្ងាត់ថ្មី",
+    "itemsList": "បញ្ជីមុខទំនិញ",
+    "searchItemsName": "ស្វែងរកឈ្មោះមុខទំនិញ",
+    "categoryList": "បញ្ជីប្រភេទ",
+    "brandList": "បញ្ជីម៉ាក",
+    "unitList": "បញ្ជីឯកតា",
+    "itemDetails": "ព័ត៌មានលម្អិតមុខទំនិញ",
+    "addStock": "បញ្ចូលស្តុក",
+    "profile": "ប្រវត្តិរូប",
+    "language": "ភាសា",
+    "termsAndConditions": "លក្ខខណ្ឌ",
+    "aboutUs": "អំពីយើង",
+    "logout": "ចេញពីគណនី",
+    "editProfile": "កែសម្រួលប្រវត្តិរូប",
+    "fullName": "ឈ្មោះពេញ",
+    "email": "អ៊ីមែល",
+    "mobileNumber": "លេខទូរស័ព្ទ",
+    "address": "អាសយដ្ឋាន",
+    "password": "ពាក្យសម្ងាត់",
+    "forgotPassword": "ភ្លេចពាក្យសម្ងាត់",
+    "edit": "កែសម្រួល",
+    "delete": "លុប",
+    "addItems": "បញ្ចូលមុខទំនិញ",
+    "stock": "ស្តុក",
+    "currentStock": "ស្តុកបច្ចុប្បន្ន",
+    "value": "តម្លៃ",
+    "sales": "ការលក់",
+    "purchase": "ការទិញ",
+    "price": "តម្លៃ",
+    "image": "រូបភាព",
+    "upload": "ផ្ទុកឡើង",
+    "addNew": "បន្ថែមថ្មី",
+    "pricing": "តម្លៃ",
+    "name": "ឈ្មោះ",
+    "category(plural)": {
+      "one": "ប្រភេទ",
+      "other": "ប្រភេទs"
+    },
+    "areas": "Areas",
+    "brand": "ម៉ាក",
+    "lowStock": "ស្តុកទាប",
+    "unit": "ឯកតា",
+    "vat": "អាករលើតម្លៃបន្ថែម (VAT)",
+    "taxType": "ប្រភេទពន្ធ",
+    "purchasePrice": "តម្លៃទិញ",
+    "sellingPrice": "តម្លៃលក់",
+    "wholeSalePrice": "តម្លៃលក់ដុំ",
+    "dealerPrice": "តម្លៃតំណាងចែកចាយ",
+    "searchHere": "ស្វែងរកនៅទីនេះ",
+    "totalItems": "មុខទំនិញសរុប",
+    "stockValue": "តម្លៃស្តុក",
+    "congratulation": "អបអរសាទរ",
+    "salesList": "បញ្ជីលក់",
+    "searchInvoiceNumber": "ស្វែងរកលេខវិក្កយបត្រ",
+    "view": "មើល",
+    "kFor": "សម្រាប់",
+    "total": "សរុប",
+    "subTotal": "សរុបរង",
+    "insufficientStockAvailableStock": "ស្តុកមិនគ្រប់គ្រាន់ ស្តុកដែលមាន",
+    "discount": "បញ្ចុះតម្លៃ",
+    "selectOne": "ជ្រើសរើសមួយ",
+    "allCategory": "គ្រប់ប្រភេទ",
+    "details": "ព័ត៌មានលម្អិត",
+    "parcel": "វេចខ្ចប់",
+    "kot": "KOT",
+    "table": "តុ",
+    "holdTable": "រក្សាទុកតុ",
+    "capacity": "សមត្ថភាព",
+    "commonHint": "ឧទាហរណ៍: ១០",
+    "pleaseEnterQuantity": "សូមបញ្ចូលបរិមាណ",
+    "quantityMustBeGreaterThanZero": "បរិមាណត្រូវតែធំជាង ០",
+    "mobile": "ទូរស័ព្ទ",
+    "orderNo": "លេខបញ្ជាទិញ",
+    "dateAndTime": "កាលបរិច្ឆេទ & ពេលវេលា",
+    "items": "មុខទំនិញ",
+    "totalAmount": "ចំនួនសរុប",
+    "paidAmount": "ចំនួនបានបង់",
+    "dueAmount": "ចំនួនជំពាក់",
+    "paymentType": "ប្រភេទទូទាត់",
+    "thankYou": "សូមអរគុណ",
+    "developedBy": "បង្កើតដោយ ${domain: String}",
+    "qty": "តម្លៃ",
+    "amount": "ចំនួន",
+    "dashboard": "ផ្ទាំងគ្រប់គ្រង",
+    "reports": "របាយការណ៍",
+    "home": "ទំព័រដើម",
+    "parties": "ភាគី",
+    "subscriptionPlan": "ផែនការជាវ",
+    "estimateList": "បញ្ជីការប៉ាន់ស្មាន",
+    "purchaseList": "បញ្ជីទិញ",
+    "dueList": "បញ្ជីជំពាក់",
+    "lossOrProfit": "ការខាត/ប្រាក់ចំណេញ",
+    "stocks": "ស្តុក",
+    "moneyInList": "បញ្ជីប្រាក់ចំណូល",
+    "moneyOutList": "បញ្ជីប្រាក់ចំណាយ",
+    "transactionList": "បញ្ជីប្រតិបត្តិការ",
+    "income": "ប្រាក់ចំណូល",
+    "expense": "ចំណាយ",
+    "quickView": "មើលរហ័ស",
+    "to": "ទៅ",
+    "totalSales": "ការលក់សរុប",
+    "totalPurchase": "ការទិញសរុប",
+    "holdNumber": "រក្សាទុកការបញ្ជាទិញ",
+    "totalExpense": "ចំណាយសរុប",
+    "loss": "ការខាតបង់",
+    "profit": "ប្រាក់ចំណេញ",
+    "recentTransaction": "ប្រតិបត្តិការថ្មីៗ",
+    "invoice": "វិក្កយបត្រ",
+    "moneyIn": "ប្រាក់ចំណូល",
+    "moneyOut": "ប្រាក់ចំណាយ",
+    "paid": "បានបង់",
+    "due": "ជំពាក់",
+    "partial": "មួយផ្នែក",
+    "print": "បោះពុម្ព",
+    "addCategory": "បន្ថែមប្រភេទ",
+    "addExpense": "បន្ថែមចំណាយ",
+    "search": "ស្វែងរក...",
+    "viewDetails": "មើលព័ត៌មានលម្អិត",
+    "title": "ចំណងជើង",
+    "date": "កាលបរិច្ឆេទ",
+    "note": "កំណត់ចំណាំ",
+    "phoneNumber": "លេខទូរស័ព្ទ",
+    "type": "ប្រភេទ",
+    "selectContactSType": "ជ្រើសរើសប្រភេទទំនាក់ទំនង",
+    "moreInfo": "ព័ត៌មានបន្ថែម",
+    "paymentReceived": "ការទូទាត់បានទទួល",
+    "selectSupplier": "ជ្រើសរើសអ្នកផ្គត់ផ្គង់",
+    "supplier": "អ្នកផ្គត់ផ្គង់",
+    "received": "បានទទួល",
+    "balanceDue": "សមតុល្យជំពាក់",
+    "addPurchase": "បន្ថែមការទិញ",
+    "selectedItemWillBeCleared": "មុខទំនិញដែលបានជ្រើសរើសនឹងត្រូវលុបចោល។",
+    "searchItemName": "ស្វែងរកឈ្មោះមុខទំនិញ",
+    "billItems": "មុខទំនិញក្នុងវិក្កយបត្រ",
+    "addMoreItems": "បន្ថែមមុខទំនិញបន្ថែម",
+    "payAmount": "ចំនួនទូទាត់",
+    "salesReport": "របាយការណ៍លក់",
+    "purchaseReport": "របាយការណ៍ទិញ",
+    "stockReport": "របាយការណ៍ស្តុក",
+    "dueReport": "របាយការណ៍ជំពាក់",
+    "dueCollectionReport": "របាយការណ៍ប្រមូលបំណុល",
+    "transactionReport": "របាយការណ៍ប្រតិបត្តិការ",
+    "incomeReport": "របាយការណ៍ចំណូល",
+    "dueCollectionList": "បញ្ជីប្រមូលបំណុល",
+    "expenseReport": "របាយការណ៍ចំណាយ",
+    "dueCollection": "ប្រមូលបំណុល",
+    "myProfile": "ប្រវត្តិរូបរបស់ខ្ញុំ",
+    "printingOption": "ជម្រើសបោះពុម្ព",
+    "currency": "រូបិយប័ណ្ណ",
+    "paymentMethod": "វិធីសាស្រ្តទូទាត់",
+    "rateUs": "វាយតម្លៃយើង",
+    "termAndCondition": "លក្ខខណ្ឌ",
+    "tableList": "បញ្ជីតុ",
+    "addTable": "បន្ថែមតុ",
+    "vatRate": "អត្រា VAT %",
+    "action": "សកម្មភាព",
+    "status": "ស្ថានភាព",
+    "active": "សកម្ម",
+    "inActive": "អសកម្ម",
+    "subVats": "អាករលើតម្លៃបន្ថែមរង",
+    "add": "បន្ថែម",
+    "taxRate": "អត្រាពន្ធ %",
+    "subTaxes": "ពន្ធរង",
+    "group": "ក្រុម",
+    "VAT": "VAT",
+    "subTaxList": "បញ្ជីពន្ធរង",
+    "vatPercent": "ភាគរយ VAT",
+    "statusIsCannotInActive": "ស្ថានភាពមិនអាចអសកម្មបានទេប្រសិនបើ VAT ត្រូវបានប្រើលើការលក់។",
+    "vatOnSales": "VAT លើការលក់",
+    "transaction": "ប្រតិបត្តិការ",
+    "version": "កំណែ ${version: String}",
+    "hold": "រក្សាទុក",
+    "empty": "ទទេ",
+    "appName": "កម្មវិធីភោជនីយដ្ឋាន",
+    "duePayment": "ការទូទាត់ដែលជំពាក់",
+    "orders": "ការបញ្ជាទិញ",
+    "all": "ទាំងអស់",
+    "ingredient": "គ្រឿងផ្សំ",
+    "menus": "ម៉ឺនុយ",
+    "modifierGroups": "ក្រុមឧបករណ៍កែប្រែ",
+    "itemModifiers": "ឧបករណ៍កែប្រែមុខទំនិញ",
+    "staff": "បុគ្គលិក",
+    "coupon": "ប័ណ្ណ",
+    "pay": "ទូទាត់",
+    "pendingOrders": "ការបញ្ជាទិញដែលមិនទាន់សម្រេច",
+    "order": "ការបញ្ជាទិញ",
+    "payNow": "ទូទាត់ឥឡូវនេះ",
+    "addStaff": "បន្ថែមបុគ្គលិក",
+    "designation": "មុខតំណែង",
+    "itemAdded": "មុខទំនិញបានបន្ថែម",
+    "noItemAdded": "គ្មានមុខទំនិញត្រូវបានបន្ថែម",
+    "saveNPrint": "រក្សាទុក & បោះពុម្ព",
+    "allowMultiSelection": "អនុញ្ញាតការជ្រើសរើសច្រើន",
+    "required": "ទាមទារ",
+    "optional": "ជម្រើស",
+    "allowMultiSelectionForSale": "អនុញ្ញាតការជ្រើសរើសច្រើនសម្រាប់ការលក់",
+    "isRequired": "ត្រូវបានទាមទារ",
+    "modifier": "ឧបករណ៍កែប្រែ",
+    "fullPayment": "ការទូទាត់ពេញលេញ",
+    "payment": "ការទូទាត់",
+    "addTip": "បន្ថែមប្រាក់រង្វាន់",
+    "netPayable": "ចំនួនដែលត្រូវបង់សុទ្ធ",
+    "receiveAmount": "ចំនួនបានទទួល",
+    "changeAmount": "ចំនួនប្ដូរ",
+    "quotationList": "បញ្ជីសម្រង់តម្លៃ",
+    "addQuotation": "បន្ថែមសម្រង់តម្លៃ",
+    "convert": "បម្លែង",
+    "variations": "បំរែបំរួល",
+    "instructions": "ការណែនាំ",
+    "unavailable": "មិនមាន",
+    "tip": "ប្រាក់រង្វាន់",
+    "salesQuotationReport": "របាយការណ៍សម្រង់តម្លៃលក់",
+    "orderType": "ប្រភេទបញ្ជាទិញ",
+    "deliveryCharge": "ថ្លៃដឹកជញ្ជូន",
+    "receiptNo": "លេខបង្កាន់ដៃ",
+    "paidBy": "ទូទាត់ដោយ",
+    "receivedBy": "បានទទួលដោយ",
+    "paymentAmount": "ចំនួនទូទាត់",
+    "remainingDue": "ចំនួនជំពាក់ដែលនៅសល់",
+    "roleNPermission": "តួនាទី & សិទ្ធិ",
+    "sl": "ល.រ.",
+    "features": "លក្ខណៈពិសេស",
+    "create": "បង្កើត",
+    "update": "ធ្វើបច្ចុប្បន្នភាព",
+    "quotations": "សម្រង់តម្លៃ",
+    "restaurant": "ភោជនីយដ្ឋាន",
+    "printerProfile": "ប្រវត្តិរូបអ្នកបោះពុម្ព",
+    "kitchenOrders": "ការបញ្ជាទិញផ្ទះបាយ",
+    "kitchen(plural)": {
+      "one": "ផ្ទះបាយ",
+      "other": "ផ្ទះបាយ"
+    },
+    "allKOT": "KOT ទាំងអស់",
+    "cancelKOT": "បោះបង់ KOT",
+    "selectCancelReason": "ជ្រើសរើសមូលហេតុបោះបង់",
+    "additionalComment": "មតិបន្ថែម",
+    "enterComment": "បញ្ចូលមតិ",
+    "orderStatus": "ស្ថានភាពការបញ្ជាទិញ",
+    "selectOrderStatus": "ជ្រើសរើសស្ថានភាពការបញ្ជាទិញ",
+    "kotReport": "របាយការណ៍ KOT",
+    "itemFoodType": "ប្រភេទអាហារ",
+    "selectItemFoodType": "ជ្រើសរើស @:common.itemFoodType",
+    "markAllAsRead": "សម្គាល់ថាបានអានទាំងអស់",
+    "online": "អនឡាញ",
+    "cancelledReason": "មូលហេតុនៃការលុបចោល",
+    "hrm": "HRM",
+    "notAvailable": "N/A"
+  },
+  "exceptions": {
+    "somethingWentWrong": "មានអ្វីមួយខុសប្រក្រតី សូមព្យាយាមម្តងទៀត",
+    "noCategoryFound": "រកមិនឃើញប្រភេទទេ!\n សូមព្យាយាមបន្ថែមប្រភេទ។",
+    "doYouWantToDeleteThisCategory": "តើអ្នកចង់លុបប្រភេទនេះទេ?",
+    "noBrandFound": "រកមិនឃើញម៉ាកទេ!\n សូមព្យាយាមបន្ថែមម៉ាក។",
+    "doYouWantToDeleteThisBrand": "តើអ្នកចង់លុបម៉ាកនេះទេ?",
+    "noItemStockFound": "រកមិនឃើញស្តុកមុខទំនិញទេ!\n សូមព្យាយាមបន្ថែមមុខទំនិញ។",
+    "noUnitFound": "រកមិនឃើញឯកតាទេ!\n សូមព្យាយាមបន្ថែមឯកតា។",
+    "doYouDeleteThisUnit": "តើអ្នកចង់លុបឯកតានេះទេ?",
+    "noSaleFoundPleaseSAddProduct": "រកមិនឃើញការលក់ទេ!\n សូមព្យាយាមបន្ថែមការលក់។",
+    "doYouWantToDeleteThisSale": "តើអ្នកចង់លុបការលក់នេះទេ?",
+    "pleaseAddItemToTheCartFirst": "សូមបន្ថែមមុខទំនិញទៅក្នុងរទេះជាមុនសិន",
+    "noItemAdded": "គ្មានមុខទំនិញត្រូវបានបន្ថែម",
+    "cannotEditOthersTable": "មិនអាចកែសម្រួលតុរបស់អ្នកដទៃបានទេ។",
+    "tableIsAlreadyBlocked": "តុត្រូវបានកក់រួចហើយ។",
+    "failedToGetCustomerDetails": "បរាជ័យក្នុងការទទួលបានព័ត៌មានលម្អិតរបស់អតិថិជន។",
+    "noTableFoundPleaseTryAgain": "រកមិនឃើញតុទេ!\n សូមព្យាយាមបន្ថែមតុ។",
+    "noDueCollectionFound": "រកមិនឃើញវិក្កយបត្រជំពាក់ទេ!\n អ្នកអាចមើលឃើញវិក្កយបត្រជំពាក់នៅពេលមាន។",
+    "noExpenseFoundPleaseTryAddingExpense": "រកមិនឃើញចំណាយទេ!\n សូមព្យាយាមបន្ថែមចំណាយ។",
+    "doYouWantToDeleteThisExpense": "តើអ្នកចង់លុបចំណាយនេះទេ?",
+    "noExpenseCategoryFound": "រកមិនឃើញប្រភេទចំណាយទេ!\n សូមព្យាយាមបន្ថែមប្រភេទចំណាយ។",
+    "noTransactionFound": "រកមិនឃើញប្រតិបត្តិការទេ សូមព្យាយាមម្តងទៀតនៅពេលក្រោយ!",
+    "pleaseSelectACategory": "សូមជ្រើសរើសប្រភេទ",
+    "noIncomeFound": "រកមិនឃើញចំណូលទេ!\n សូមព្យាយាមបន្ថែមចំណូល",
+    "doYouWantToDeleteThisIncome": "តើអ្នកចង់លុបចំណូលនេះទេ?",
+    "noIncomeCategoryFoundAddingAIncome": "រកមិនឃើញប្រភេទចំណូលទេ!\n សូមព្យាយាមបន្ថែមប្រភេទចំណូល។",
+    "noItemFoundPleaseTryAddingItem": "រកមិនឃើញមុខទំនិញទេ!\n សូមព្យាយាមបន្ថែមមុខទំនិញ។",
+    "noPartiesFound": "រកមិនឃើញភាគីទេ",
+    "doYouWantToDeleteThisParty": "តើអ្នកចង់លុបភាគីនេះទេ",
+    "noLedgerFound": "រកមិនឃើញបញ្ជីគណនីទេ!\n សូមព្យាយាមបន្ថែម ${transactionType: String}",
+    "areYouSureYouSureWantToDeleteThisTaxType": "តើអ្នកពិតជាចង់លុប ${taxType: String} នេះទេ?",
+    "noItemFoundPleaseSTryAddingAnPurchase": "រកមិនឃើញមុខទំនិញទេ!\n សូមព្យាយាមបន្ថែមការទិញ។",
+    "doYouWantToDeleteThisPurchase": "តើអ្នកចង់លុបការទិញនេះទេ?",
+    "noTransactionFoundYouSeeTransactionHereWhenAvailable": "រកមិនឃើញប្រតិបត្តិការទេ!\n អ្នកនឹងឃើញប្រតិបត្តិការនៅទីនេះនៅពេលមាន។",
+    "noSaleFoundPleaseTryAddingSale": "រកមិនឃើញការលក់ទេ!\n សូមព្យាយាមបន្ថែមការលក់។",
+    "noPurchaseFoundPleaseTryAddingPurchase": "រកមិនឃើញការទិញទេ!\n សូមព្យាយាមបន្ថែមការទិញ។",
+    "noItemIncomeFound": "រកមិនឃើញមុខទំនិញចំណូលទេ!\n អ្នកអាចមើលឃើញទិន្នន័យចំណូលនៅពេលមាន។",
+    "noItemExpenseFound": "រកមិនឃើញមុខទំនិញចំណាយទេ!\n អ្នកអាចមើលឃើញទិន្នន័យចំណាយនៅពេលមាន។",
+    "noItemDueInvoiceFound": "រកមិនឃើញមុខទំនិញវិក្កយបត្រជំពាក់ទេ!\n អ្នកអាចមើលឃើញវិក្កយបត្រជំពាក់នៅពេលមាន។",
+    "noItemDueCollectionInvoiceFound": "រកមិនឃើញមុខទំនិញវិក្កយបត្រប្រមូលបំណុលទេ!\n អ្នកអាចមើលឃើញវិក្កយបត្រប្រមូលបំណុលនៅពេលមាន។",
+    "doYouWantToDeleteThisTable": "តើអ្នកចង់លុបតុនេះទេ?'",
+    "thisVatIsBeingUsedOnSales": "VAT នេះកំពុងត្រូវបានប្រើលើការលក់!",
+    "noPaymentMethodFoundPleaseTryAddingAPaymentMethod": "រកមិនឃើញវិធីសាស្រ្តទូទាត់ទេ!\n សូមព្យាយាមបន្ថែមវិធីសាស្រ្តទូទាត់។",
+    "pleaseSelectACustomerFirst": "សូមជ្រើសរើសអតិថិជនជាមុនសិន។",
+    "pleaseSelectATableToCreateAKot": "សូមជ្រើសរើសតុដើម្បីបង្កើត kot។",
+    "noStaffFound": "រកមិនឃើញបុគ្គលិកទេ!\n សូមព្យាយាមបន្ថែមបុគ្គលិក",
+    "noIngredientFound": "រកមិនឃើញគ្រឿងផ្សំទេ!\n សូមព្យាយាមបន្ថែមគ្រឿងផ្សំ។",
+    "exceedsPaymentAmount": "ចំនួនដែលបានទទួលមិនគួរធំជាងចំនួនដែលត្រូវបង់ទេ",
+    "noItemModifierFound": "រកមិនឃើញឧបករណ៍កែប្រែមុខទំនិញទេ!\n សូមព្យាយាមបន្ថែមឧបករណ៍កែប្រែមុខទំនិញ។",
+    "noModifierGroupFound": "រកមិនឃើញក្រុមឧបករណ៍កែប្រែទេ!\n សូមព្យាយាមបន្ថែមក្រុមឧបករណ៍កែប្រែ។",
+    "noOptionsFound": "រកមិនឃើញជម្រើសទេ!",
+    "maxImageCountLimit": "អ្នកអាចជ្រើសរើសបានត្រឹមតែ ៥ រូបភាពប៉ុណ្ណោះ។",
+    "noQuotationFound": "រកមិនឃើញសម្រង់តម្លៃទេ!\n សូមព្យាយាមបន្ថែមសម្រង់តម្លៃ។",
+    "noPermittedUserFound": "រកមិនឃើញអ្នកប្រើប្រាស់ដែលអនុញ្ញាតទេ!\n សូមព្យាយាមបន្ថែមអ្នកប្រើប្រាស់។"
+  },
+  "prompt": {
+    "logout": {
+      "title": "@:common.logout",
+      "message": "តើអ្នកប្រាកដថាចង់ចេញពីគណនីទេ?"
+    },
+    "unsavedWarning": {
+      "title": "តើអ្នកចង់ត្រឡប់ទៅវិញទេ?",
+      "message": "វាលដែលបានផ្លាស់ប្តូរអាចនឹងមិនត្រូវបានរក្សាទុក!"
+    },
+    "verify": {
+      "title": "ផ្ទៀងផ្ទាត់អ៊ីមែលរបស់អ្នក",
+      "description(rich)": "យើងបានផ្ញើអ៊ីមែលកូដផ្ទៀងផ្ទាត់${emailSpan}\\n\\nវាអាចនឹងស្ថិតនៅក្នុងថតសារឥតបានការរបស់អ្នក។"
+    },
+    "subscriptionExpired": {
+      "title": "ការជាវផុតកំណត់ហើយ!",
+      "message": "សូមជាវដើម្បីបន្ត។",
+      "action": "ជាវ"
+    },
+    "items": {
+      "delete": {
+        "title": "តើអ្នកចង់លុបមុខទំនិញនេះទេ?"
+      },
+      "filter": {
+        "title": "ត្រងតាម",
+        "extra": {
+          "lowToHigh": "ទាបទៅខ្ពស់ @:common.price",
+          "highToLow": "ខ្ពស់ទៅទាប @:common.price"
+        }
+      }
+    },
+    "checkInternet": {
+      "title": "គ្មានការតភ្ជាប់អ៊ីនធឺណិត",
+      "message": "សូមពិនិត្យមើលការតភ្ជាប់បណ្តាញទូរស័ព្ទ Wi-Fi របស់អ្នក ហើយព្យាយាមម្តងទៀត"
+    },
+    "back": {
+      "title": "ចុចត្រឡប់ម្តងទៀតដើម្បីចេញ។"
+    },
+    "stockModelSheet": {
+      "title": "បន្ថែមស្តុកថ្មី"
+    },
+    "paymentMethod": {
+      "title": "តើអ្នកចង់លុបវិធីសាស្រ្តទូទាត់នេះទេ?"
+    },
+    "extMsg": {
+      "kotSavedSuccessfully": "KOT បានរក្សាទុកដោយជោគជ័យ"
+    },
+    "deleteStaff": "តើអ្នកចង់លុបបុគ្គលិកនេះទេ?",
+    "deleteIngredient": "តើអ្នកចង់លុបគ្រឿងផ្សំនេះទេ?",
+    "deleteItemModifier": "តើអ្នកចង់លុបឧបករណ៍កែប្រែមុខទំនិញនេះទេ?",
+    "deleteModifierGroup": "តើអ្នកចង់លុបក្រុមឧបករណ៍កែប្រែនេះទេ?",
+    "deleteQuotation": "តើអ្នកចង់លុបសម្រង់តម្លៃនេះទេ?"
+  },
+  "form": {
+    "fullName": {
+      "label": "@:common.fullName",
+      "hint": "បញ្ចូល @:common.fullName",
+      "errors": {
+        "required": "សូមបញ្ចូល @:common.fullName របស់អ្នក"
+      }
+    },
+    "email": {
+      "label": "@:common.email",
+      "hint": "បញ្ចូល @:common.email របស់អ្នក",
+      "errors": {
+        "required": "សូមបញ្ចូល @:common.email របស់អ្នក",
+        "invalid": "⦸ អ៊ីមែលមិនត្រឹមត្រូវ សូមព្យាយាមម្តងទៀត"
+      }
+    },
+    "password": {
+      "label": "@:common.password",
+      "hint": "* * * * * * * *",
+      "errors": {
+        "required": "សូមបញ្ចូល @:common.password របស់អ្នក",
+        "minLength": "ពាក្យសម្ងាត់ត្រូវតែមានយ៉ាងហោចណាស់ ${count} តួអក្សរ!"
+      }
+    },
+    "confirmPassword": {
+      "label": "បញ្ជាក់ពាក្យសម្ងាត់",
+      "hint": "* * * * * * * *",
+      "errors": {
+        "required": "សូមបញ្ចូល @:common.password របស់អ្នក",
+        "invalid": "ពាក្យសម្ងាត់បញ្ជាក់មិនត្រូវគ្នាទេ!"
+      }
+    },
+    "otp": {
+      "errors": {
+        "required": "សូមបញ្ចូល OTP។",
+        "invalid": "សូមបញ្ចូល OTP បច្ចុប្បន្ន។"
+      }
+    },
+    "profile": {
+      "businessCategory": {
+        "label": "ប្រភេទអាជីវកម្ម",
+        "hint": "ជ្រើសរើសប្រភេទអាជីវកម្ម",
+        "errors": {
+          "required": "សូមជ្រើសរើសប្រភេទអាជីវកម្ម"
+        }
+      },
+      "shopOrStore": {
+        "label": "ឈ្មោះហាង/ទីតាំង*",
+        "hint": "បញ្ចូលឈ្មោះហាង ឬទីតាំង",
+        "errors": {
+          "required": "សូមបញ្ចូលឈ្មោះហាង ឬទីតាំងរបស់អ្នក"
+        }
+      },
+      "openingBalance": {
+        "label": "សមតុល្យបើក",
+        "hint": "បញ្ចូលសមតុល្យបើក"
+      },
+      "vatGstTitle": {
+        "label": "ចំណងជើង VAT/GST",
+        "hint": "បញ្ចូល VAT/GST"
+      },
+      "vatGstNumber": {
+        "label": "លេខ VAT/GST",
+        "hint": "បញ្ចូលលេខ VAT/GST"
+      }
+    },
+    "vat": {
+      "name": {
+        "label": "ឈ្មោះ",
+        "hint": "បញ្ចូលឈ្មោះ VAT",
+        "error": {
+          "required": "សូមបញ្ចូលឈ្មោះ VAT"
+        }
+      },
+      "subVat": {
+        "label": "VAT រង",
+        "hint": "ជ្រើសរើស VAT រង",
+        "errors": {
+          "required": "សូមជ្រើសរើស VAT រង"
+        }
+      },
+      "rate": {
+        "label": "អត្រា VAT %",
+        "hint": "បញ្ចូលអត្រា VAT",
+        "errors": {
+          "required": "សូមបញ្ចូលអត្រា VAT។"
+        }
+      }
+    },
+    "category": {
+      "label": "@:common.category",
+      "hint": "ជ្រើសរើសប្រភេទមុខទំនិញ",
+      "error": {
+        "required": "សូមបញ្ចូលឈ្មោះប្រភេទ"
+      }
+    },
+    "items": {
+      "barcode": {
+        "label": "លេខកូដ",
+        "hint": "@:common.selectOne"
+      },
+      "itemName": {
+        "label": "ឈ្មោះមុខទំនិញ",
+        "hint": "បញ្ចូលឈ្មោះមុខទំនិញ",
+        "extra": {
+          "required": "សូមបញ្ចូលឈ្មោះមុខទំនិញ"
+        }
+      },
+      "itemCategory": {
+        "label": "ប្រភេទមុខទំនិញ",
+        "hint": "ប្រភេទមុខទំនិញ",
+        "extra": {
+          "label": "ជ្រើសរើសប្រភេទ",
+          "required": "សូមជ្រើសរើសប្រភេទ"
+        }
+      },
+      "brand": {
+        "label": "@:common.brand",
+        "hint": "@:common.selectOne",
+        "extra": {
+          "hint": "បញ្ចូលឈ្មោះម៉ាក",
+          "required": "សូមបញ្ចូលឈ្មោះម៉ាក"
+        }
+      },
+      "unit": {
+        "label": "@:common.unit",
+        "hint": "@:common.selectOne",
+        "error": {
+          "required": "សូមបញ្ចូលឈ្មោះឯកតា"
+        }
+      },
+      "stock": {
+        "label": "ស្តុកបើក",
+        "hint": "@:common.commonHint",
+        "extra": {
+          "required": "សូមបញ្ចូលគុណភាពមុខទំនិញ។"
+        }
+      },
+      "lowStock": {
+        "label": "@:common.lowStock",
+        "hint": "ឧទាហរណ៍: ៥"
+      },
+      "purchasePrice": {
+        "label": "@:common.purchasePrice",
+        "hint": "ឧទាហរណ៍: \\$40",
+        "error": {
+          "required": "សូមបញ្ចូលតម្លៃទិញ។"
+        }
+      },
+      "salePrice": {
+        "label": "តម្លៃលក់",
+        "hint": "ឧទាហរណ៍: \\$60",
+        "error": {
+          "required": "សូមបញ្ចូលតម្លៃលក់។"
+        }
+      },
+      "totalSalePrice": {
+        "label": "តម្លៃលក់សរុប",
+        "hint": "ឧទាហរណ៍: \\$100"
+      },
+      "wholeSalePrice": {
+        "label": "@:common.wholeSalePrice",
+        "hint": "បញ្ចូលតម្លៃលក់ដុំ"
+      },
+      "dealerPrice": {
+        "label": "@:common.dealerPrice",
+        "hint": "បញ្ចូលតម្លៃតំណាងចែកចាយ"
+      },
+      "discount": {
+        "label": "បញ្ចុះតម្លៃ (%)",
+        "hint": "@:common.commonHint"
+      },
+      "applicableTax": {
+        "label": "ពន្ធដែលអាចអនុវត្តបាន",
+        "hint": "@:common.selectOne"
+      },
+      "vatType": {
+        "label": "@:common.taxType",
+        "errorText": {
+          "required": "សូមជ្រើសរើសប្រភេទ VAT"
+        }
+      },
+      "menu": {
+        "label": "ជ្រើសរើសម៉ឺនុយ",
+        "errors": {
+          "required": "សូមជ្រើសរើសម៉ឺនុយ។"
+        },
+        "hint": "ជ្រើសរើសម៉ឺនុយ",
+        "extra": {
+          "selectNavLabel": "ជ្រើសរើសម៉ឺនុយមុខទំនិញ"
+        }
+      },
+      "modifierItems": {
+        "label": "មុខទំនិញឧបករណ៍កែប្រែ",
+        "hint": "ជ្រើសរើសមុខទំនិញឧបករណ៍កែប្រែ"
+      },
+      "preparationTime": {
+        "label(rich)": "ពេលវេលារៀបចំ ${minutes(នាទី)}",
+        "hint": "ឧទាហរណ៍: ៣០"
+      },
+      "variation": {
+        "name": {
+          "label": "ឈ្មោះ",
+          "hint": "បញ្ចូលបំរែបំរួល",
+          "errors": {
+            "required": "សូមបញ្ចូលឈ្មោះបំរែបំរួល។"
+          }
+        },
+        "price": {
+          "errors": {
+            "required": "សូមបញ្ចូលតម្លៃ។"
+          },
+          "label": "តម្លៃ",
+          "hint": "ឧទាហរណ៍: \\$30"
+        }
+      }
+    },
+    "itemCart": {
+      "hint": "@:common.commonHint",
+      "error": {
+        "required": "@:common.pleaseEnterQuantity",
+        "noZero": "@:common.quantityMustBeGreaterThanZero"
+      }
+    },
+    "sales": {
+      "autoGenerateInvoice": {
+        "label": "លេខវិក្កយបត្រ",
+        "hint": "P-00001"
+      },
+      "date": {
+        "label": "កាលបរិច្ឆេទ"
+      },
+      "customer": {
+        "label": "អតិថិជន",
+        "hint": "ជ្រើសរើសអតិថិជន"
+      },
+      "phone": {
+        "label": "លេខទូរស័ព្ទ",
+        "hint": "បញ្ចូលលេខទូរស័ព្ទ"
+      },
+      "address": {
+        "label": "អាសយដ្ឋាន",
+        "hint": "បញ្ចូលអាសយដ្ឋាន"
+      },
+      "deliveryCharge": {
+        "label": "@:common.deliveryCharge",
+        "hint": "ឧទាហរណ៍: \\$20",
+        "hint2": "ថ្លៃ ឧទាហរណ៍: \\$10"
+      },
+      "table": {
+        "hint": "ជ្រើសរើសតុ"
+      },
+      "waiter": {
+        "hint": "ជ្រើសរើសអ្នករត់តុ"
+      }
+    },
+    "bill": {
+      "label": "លេខវិក្កយបត្រ",
+      "hint": "P-00001"
+    },
+    "supplier": {
+      "label": "អ្នកផ្គត់ផ្គង់",
+      "hint": "ជ្រើសរើសអ្នកផ្គត់ផ្គង់",
+      "extra": {
+        "required": "សូមជ្រើសរើសអ្នកផ្គត់ផ្គង់"
+      }
+    },
+    "phone": {
+      "label": "លេខទូរស័ព្pទ",
+      "hint": "បញ្ចូលលេខទូរស័ព្ទ",
+      "errors": {
+        "required": "សូមបញ្ចូលលេខទូរស័ព្ទ។"
+      }
+    },
+    "address": {
+      "label": "អាសយដ្ឋាន",
+      "hint": "បញ្ចូលអាសយដ្ឋាន"
+    },
+    "payment": {
+      "label": "ឈ្មោះ",
+      "hint": "បញ្ចូលឈ្មោះទូទាត់",
+      "error": {
+        "required": "សូមបញ្ចូលឈ្មោះវិធីសាស្រ្តទូទាត់"
+      }
+    },
+    "expense": {
+      "label": "ប្រភេទចំណាយ",
+      "hint": "ជ្រើសរើសប្រភេទចំណាយ",
+      "error": {
+        "required": "សូមបញ្ចូលប្រភេទចំណាយ"
+      }
+    },
+    "income": {
+      "label": "ប្រភេទចំណូល",
+      "hint": "បញ្ចូលឈ្មោះប្រភេទ",
+      "error": {
+        "required": "សូមបញ្ចូលឈ្មោះប្រភេទ"
+      },
+      "incomeTitle": {
+        "label": "ចំណងជើងចំណូល",
+        "hint": "បញ្ចូលចំណូល"
+      },
+      "incomeCategory": {
+        "label": "ប្រភេទចំណូល",
+        "hint": "ជ្រើសរើសប្រភេទ"
+      },
+      "payment": {
+        "label": "ការទូទាត់",
+        "hint": "ឧទាហរណ៍: \\$10"
+      }
+    },
+    "note": {
+      "label": "កំណត់ចំណាំ (ស្រេចចិត្ត)",
+      "hint": "បញ្ចូលអត្ថបទ"
+    },
+    "parties": {
+      "partyName": {
+        "label": "ឈ្មោះភាគី",
+        "hint": "បញ្ចូលឈ្មោះភាគី",
+        "error": {
+          "required": "សូមបញ្ចូលឈ្មោះភាគី"
+        }
+      },
+      "partyPhone": {
+        "label": "លេខទូរស័ព្ទ",
+        "hint": "បញ្ចូលលេខទូរស័ព្ទ",
+        "error": {
+          "required": "សូមបញ្ចូលលេខទូរស័ព្ទ"
+        }
+      }
+    },
+    "table": {
+      "name": {
+        "label": "ឈ្មោះតុ",
+        "hint": "បញ្ចូលឈ្មោះតុ",
+        "error": {
+          "required": "សូមបញ្ចូលឈ្មោះតុ"
+        }
+      },
+      "capacity": {
+        "label": "សមត្ថភាព",
+        "hint": "បញ្ចូលសមត្ថភាព",
+        "error": {
+          "required": "សូមបញ្ចូលសមត្ថភាព"
+        }
+      }
+    },
+    "designation": {
+      "label": "@:common.designation",
+      "hint": "ជ្រើសរើសមុខតំណែង",
+      "errors": {
+        "required": "សូមជ្រើសរើសមុខតំណែង។"
+      }
+    },
+    "ingredientName": {
+      "label": "ឈ្មោះគ្រឿងផ្សំ",
+      "hint": "បញ្ចូលឈ្មោះគ្រឿងផ្សំ",
+      "errors": {
+        "required": "សូមបញ្ចូលឈ្មោះគ្រឿងផ្សំ"
+      }
+    },
+    "item": {
+      "label": "មុខទំនិញ",
+      "hint": "ជ្រើសរើសមុខទំនិញ",
+      "errors": {
+        "required": "សូមជ្រើសរើសមុខទំនិញ។"
+      }
+    },
+    "modifierGroup": {
+      "label": "ក្រុមឧបករណ៍កែប្រែ",
+      "hint": "ជ្រើសរើសក្រុមឧបករណ៍កែប្រែ",
+      "errors": {
+        "required": "សូមជ្រើសរើសក្រុមឧបករណ៍កែប្រែ។"
+      }
+    },
+    "description": {
+      "label": "ការពិពណ៌នា",
+      "hint": "បញ្ចូលការពិពណ៌នា"
+    },
+    "staff": {
+      "label": "@:common.staff",
+      "hint": "ជ្រើសរើសបុគ្គលិក",
+      "errors": {
+        "required": "សូមជ្រើសរើសបុគ្គលិក"
+      }
+    },
+    "loginUserName": {
+      "label": "ឈ្មោះអ្នកប្រើប្រាស់សម្រាប់ចូល",
+      "hint": "បញ្ចូលឈ្មោះអ្នកប្រើប្រាស់ ឬអ៊ីមែល",
+      "errors": {
+        "required": "សូមបញ្ចូលឈ្មោះអ្នកប្រើប្រាស់ ឬអ៊ីមែល"
+      }
+    }
+  },
+  "action": {
+    "next": "បន្ទាប់",
+    "getStarted": "ចាប់ផ្តើម",
+    "skip": "រំលង",
+    "select": "ជ្រើសរើស",
+    "save": "រក្សាទុក",
+    "verify": "ផ្ទៀងផ្ទាត់",
+    "signIn": "@:common.signIn",
+    "signUp": "@:common.signUp",
+    "continue": "បន្ត",
+    "no": "ទេ",
+    "yes": "បាទ/ចាស",
+    "okay": "យល់ព្រម",
+    "cancel": "បោះបង់",
+    "confirm": "បញ្ជាក់",
+    "tryAgain": "ព្យាយាមម្តងទៀត",
+    "reset": "កំណត់ឡើងវិញ",
+    "apply": "អនុវត្ត",
+    "stockAdjust": "លៃតម្រូវស្តុក",
+    "addMoreItems": "បន្ថែមមុខទំនិញបន្ថែម",
+    "hold": "រក្សាទុក",
+    "parcel": "@:common.parcel",
+    "buyNow": "ទិញឥឡូវនេះ",
+    "viewAll": "មើលទាំងអស់",
+    "viewLedger": "មើលបញ្ជីគណនី",
+    "submit": "ដាក់ស្នើ",
+    "selected": "បានជ្រើសរើស",
+    "addToCart": "បន្ថែមទៅរទេះ",
+    "selectAll": "ជ្រើសរើសទាំងអស់",
+    "update": "@:common.update",
+    "addRole": "បន្ថែមតួនាទី"
+  },
+  "pages": {
+    "language": {
+      "appbarTitle": "@:action.select @:common.language"
+    },
+    "onboard": {
+      "onboardData": {
+        "data1": {
+          "title": "ងាយស្រួលប្រើ @:common.appName",
+          "description": "បញ្ជាទិញរលូន ការកក់ដោយងាយស្រួល\n ផ្តល់ថាមពលដល់ភោជនីយដ្ឋានរបស់អ្នកដោយភាពងាយស្រួល!"
+        },
+        "data2": {
+          "title": "ការគ្រប់គ្រងការបញ្ជាទិញដោយងាយស្រួល",
+          "description": "សម្រួលដំណើរការទទួលការបញ្ជាទិញរបស់ភោជនីយដ្ឋានរបស់អ្នកជាមួយនឹងប្រព័ន្ធ POS ដ៏វិចារណញាណរបស់យើង។"
+        },
+        "data3": {
+          "title": "ការវិភាគ និងរបាយការណ៍ដ៏ល្អឥតខ្ចោះ",
+          "description": "ផ្ទាំងគ្រប់គ្រងការវិភាគរបស់យើងផ្តល់របាយការណ៍លក់ & ទិញតាមពេលវេលាជាក់ស្តែង"
+        }
+      }
+    },
+    "signIn": {
+      "title": "សូមស្វាគមន៍",
+      "subtitle": "សូមបញ្ចូលព័ត៌មានលម្អិតរបស់អ្នក។",
+      "extra": {
+        "rememberMe": "ចងចាំខ្ញុំ",
+        "signUpNavigator(rich)": "មិនទាន់មានគណនីទេ? ${getStarted(@:action.getStarted)}",
+        "forgotPassword": "@:common.forgotPassword?"
+      }
+    },
+    "signUp": {
+      "title": "បង្កើតគណនី",
+      "subtitle": "សូមបញ្ចូលព័ត៌មានលម្អិតរបស់អ្នក",
+      "extra": {
+        "signInNavigator(rich)": "មានគណនីរួចហើយ? ${signIn(@:action.signIn)}"
+      }
+    },
+    "forgotPassword": {
+      "title": "@:common.forgotPassword",
+      "subtitle": "បញ្ចូលអាសយដ្ឋានអ៊ីមែលរបស់អ្នកដើម្បីសង្គ្រោះពាក្យសម្ងាត់របស់អ្នក។"
+    },
+    "otpVerification": {
+      "title": "ការផ្ទៀងផ្ទាត់",
+      "subtitle": "លេខសម្ងាត់ ៦ ខ្ទង់ត្រូវបានផ្ញើទៅអាសយដ្ឋានអ៊ីមែលរបស់អ្នក",
+      "extra": {
+        "codeResend": {
+          "codeSendIn": "កូដត្រូវបានផ្ញើក្នុង",
+          "resendCode": "ផ្ញើកូដម្តងទៀត"
+        }
+      }
+    },
+    "resetPassword": {
+      "title": "កំណត់ពាក្យសម្ងាត់ឡើងវិញ",
+      "subtitle": "កំណត់ពាក្យសម្ងាត់របស់អ្នកឡើងវិញដើម្បីសង្គ្រោះ និងចូលគណនីរបស់អ្នក",
+      "extra": {
+        "dialog": {
+          "title": "បានប្តូរដោយជោគជ័យ!",
+          "subtitle": "ចូលដោយប្រើពាក្យសម្ងាត់ថ្មីរបស់អ្នក។\n កំពុងបញ្ជូនអ្នកទៅកាន់ការចូល..."
+        }
+      }
+    },
+    "items": {
+      "itemList": {
+        "extra": {
+          "emptyItem": "រកមិនឃើញមុខទំនិញទេ!\n សូមព្យាយាមបន្ថែមមុខទំនិញ។"
+        }
+      },
+      "manageItems": {
+        "title": "បន្ថែមមុខទំនិញថ្មី",
+        "title2": "កែសម្រួលមុខទំនិញ",
+        "extra": {
+          "maximum": "អតិបរមា ៥",
+          "wholeSaleAndDealerPrice": "តម្លៃលក់ដុំ & តំណាងចែកចាយ",
+          "addDiscount": "បន្ថែមការបញ្ចុះតម្លៃ",
+          "addVat": "បន្ថែម VAT"
+        }
+      },
+      "itemDetails": {
+        "title": "ព័ត៌មានលម្អិតមុខទំនិញ",
+        "extra": {
+          "noImageAvailable": "គ្មានរូបភាពទេ!",
+          "preparationTime(rich)": "ពេលវេលារៀបចំ: ${min: String} ${mins(នាទី)}",
+          "pleaseSelectVariation": "សូមជ្រើសរើសបំរែបំរួល",
+          "pleaseSelectOption": "សូមជ្រើសរើសជម្រើស។",
+          "enterYourInstruction": "បញ្ចូលការណែនាំរបស់អ្នក"
+        }
+      }
+    },
+    "category": {
+      "addNewCategory": "បន្ថែមប្រភេទថ្មី",
+      "editCategory": "កែសម្រួលប្រភេទ"
+    },
+    "brand": {
+      "addNewBrand": "បន្ថែមម៉ាកថ្មី",
+      "editBrand": "កែសម្រួលម៉ាក"
+    },
+    "unit": {
+      "addNewUnit": "បន្ថែមឯកតាថ្មី",
+      "editUnit": "កែសម្រួលឯកតា"
+    },
+    "stock": {
+      "stockList": "បញ្ជីស្តុក"
+    },
+    "aboutUs": {
+      "title": "អំពីយើង"
+    },
+    "privacyPolicy": {
+      "title": "គោលការណ៍ឯកជនភាព"
+    },
+    "termAndCondition": {
+      "title": "@:common.termAndCondition"
+    },
+    "orders": {
+      "manageOrders": {
+        "extra": {
+          "billItems": "មុខទំនិញក្នុងវិក្កយបត្រ",
+          "manageQuantity": "គ្រប់គ្រងបរិមាណ"
+        },
+        "title": {
+          "editOrder": "កែសម្រួលការបញ្ជាទិញ",
+          "editKOT": "កែសម្រួល KOT"
+        }
+      }
+    },
+    "onlinePayment": {
+      "title": "ការទូទាត់តាមអនឡាញ"
+    },
+    "paymentStatus": {
+      "success": {
+        "title": "សូមអរគុណ!",
+        "message": "យើងនឹងពិនិត្យមើលការទូទាត់ & អនុម័តក្នុងរយៈពេល ២៤ ម៉ោង។",
+        "actionButtonText": "មើលវិក្កយបត្រ"
+      },
+      "fail": {
+        "title": "អូហូ! ការទូទាត់បរាជ័យ",
+        "message": "ប្រតិបត្តិការរបស់អ្នកបានបរាជ័យដោយសារកំហុសបច្ចេកទេសមួយចំនួន។",
+        "actionButtonText": "ព្យាយាមម្តងទៀត"
+      }
+    },
+    "confirmationDialog": {
+      "title": "ចេញពីគណនី",
+      "message": "តើអ្នកប្រាកដថាចង់ចេញពីគណនីទេ?",
+      "acceptationText": "ទេ",
+      "rejectionText": "ចេញពីគណនី"
+    },
+    "payment": {
+      "title": "@:common.paymentMethod",
+      "addPaymentMethod": "បន្ថែមវិធីសាស្រ្តទូទាត់ថ្មី",
+      "editPaymentMethod": "កែសម្រួលវិធីសាស្រ្តទូទាត់",
+      "choseOnlinePayment": "ជ្រើសរើសការទូទាត់តាមអនឡាញ",
+      "selectPaymentMethod": "ជ្រើសរើសវិធីសាស្រ្តទូទាត់",
+      "pleaseSelectAPaymentMethod": "សូមជ្រើសរើសវិធីសាស្រ្តទូទាត់។",
+      "methodStatus": {
+        "title": "ស្ថានភាព",
+        "message": "ស្ថានភាពមិនអាចអសកម្មបានទេប្រសិនបើ Quick View ត្រូវបានបើក!."
+      }
+    },
+    "subscriptionPlan": {
+      "title": "ទិញផែនការពិសេស",
+      "extra": {
+        "actionButtonText": "ត្រឡប់ទៅវិញ",
+        "message": "ការជាវបានបង់ដោយជោគជ័យ។\n\nអ្នកអាចចូលប្រើលក្ខណៈពិសេសដែលបានជាវឥឡូវនេះ។",
+        "mostPopular": "ពេញនិយមបំផុត"
+      }
+    },
+    "invoicePreview": {
+      "title": "មើលវិក្កយបត្រជាមុន",
+      "message": "ការមើលជាមុន PDF នឹងមកដល់ឆាប់ៗ"
+    },
+    "currency": {
+      "title": "@:common.currency"
+    },
+    "dashboard": {
+      "overview": "ទិដ្ឋភាពទូទៅ",
+      "dashboardPrivacy": "ឯកជនភាពផ្ទាំងគ្រប់គ្រង",
+      "moneyInAndMoneyOut": "ប្រាក់ចំណូល & ប្រាក់ចំណាយ",
+      "lossAndProfitOverView": "ទិដ្ឋភាពទូទៅនៃប្រាក់ចំណេញ & ខាត"
+    },
+    "due": {
+      "title": "@:common.dueList",
+      "collectionList": "បញ្ជីប្រមូល",
+      "dueCollection": "ប្រមូលបំណុល"
+    },
+    "expense": {
+      "title": "@:common.expense",
+      "editExpense": "កែសម្រួលចំណាយ",
+      "addNewExpense": "បន្ថែមចំណាយថ្មី",
+      "editExpenseCategory": "កែសម្រួលប្រភេទចំណាយ",
+      "addNewExpenseCategory": "បន្ថែមប្រភេទចំណាយថ្មី",
+      "payment": "ការទូទាត់",
+      "expenseCategory": "ប្រភេទចំណាយ",
+      "selectCategory": "ជ្រើសរើសប្រភេទ",
+      "allExpense": "ចំណាយទាំងអស់",
+      "pleaseSelectACategory": "សូមជ្រើសរើសប្រភេទ",
+      "expenseTitle": {
+        "label": "ចំណងជើងចំណាយ",
+        "hint": "បញ្ចូលចំណាយ"
+      }
+    },
+    "lossProfit": {
+      "title": "បញ្ជីខាត/ចំណេញ",
+      "noLossProfitFound": "រកមិនឃើញការខាត/ចំណេញទេ!\nសូមព្យាយាមបង្កើតការលក់។"
+    },
+    "income": {
+      "editIncomeCategory": "កែសម្រួលប្រភេទចំណូល",
+      "addNewIncomeCategory": "បន្ថែមប្រភេទចំណូលថ្មី",
+      "incomeCategory": "ប្រភេទចំណូល",
+      "allIncome": "ចំណូលទាំងអស់",
+      "editIncome": "កែសម្រួលចំណូល",
+      "addNewIncome": "កែសម្រួលចំណូល",
+      "addIncome": "បន្ថែមចំណូល"
+    },
+    "moneyIn": {
+      "title": "បញ្ជីប្រាក់ចំណូល",
+      "totalPaymentIn": "ប្រាក់ចំណូលសរុប"
+    },
+    "moneyOut": {
+      "title": "បញ្ជីប្រាក់ចំណាយ",
+      "totalMoneyOut": "ប្រាក់ចំណាយសរុប"
+    },
+    "profile": {
+      "title": "ប្រវត្តិរូបរបស់ខ្ញុំ",
+      "editProfile": "កែសម្រួលប្រវត្តិរូប",
+      "businessInformation": "ព័ត៌មានអាជីវកម្ម",
+      "profileInformation": "ព័ត៌មានប្រវត្តិរូប"
+    },
+    "parties": {
+      "title": "បញ្ជីភាគី",
+      "allParties": "ភាគីទាំងអស់",
+      "customer": "អតិថិជន",
+      "supplier": "អ្នកផ្គត់ផ្គង់",
+      "addParties": "បន្ថែមភាគី",
+      "editParties": "កែសម្រួលភាគី",
+      "partiesDetails": "ព័ត៌មានលម្អិតភាគី",
+      "personalInfo": "ព័ត៌មានផ្ទាល់ខ្លួន"
+    },
+    "ledger": {
+      "subTitle": "បញ្ជីគណនី"
+    },
+    "purchase": {
+      "title": "បន្ថែមការទិញថ្មី",
+      "editPurchase": "កែសម្រួលការទិញ"
+    },
+    "reports": {
+      "title": "របាយការណ៍"
+    },
+    "table": {
+      "title": "បន្ថែមតុថ្មី",
+      "editTable": "កែសម្រួលតុ"
+    },
+    "tax": {
+      "title": "អត្រា VAT",
+      "buildHeaderTitle": "អត្រា VAT - គ្រប់គ្រងអត្រា VAT របស់អ្នក",
+      "vatGroup": {
+        "title": "ក្រុម VAT",
+        "subTitle": "ក្រុម VAT - គ្រប់គ្រងក្រុម VAT របស់អ្នក"
+      }
+    },
+    "vat": {
+      "addNewVat": "បន្ថែម VAT ថ្មី",
+      "editVat": "កែសម្រួល VAT",
+      "addNewVatGroup": "បន្ថែមក្រុម VAT ថ្មី",
+      "editVatGroup": "កែសម្រួលក្រុម VAT"
+    },
+    "orderList": {
+      "title": "បញ្ជីការបញ្ជាទិញ",
+      "filters": {
+        "orderType": {
+          "label": "@:common.orderType",
+          "hint": "ជ្រើសរើសប្រភេទការបញ្ជាទិញ"
+        },
+        "paymentStatus": {
+          "hint": "ជ្រើសរើសស្ថានភាពទូទាត់",
+          "label": "ស្ថានភាពទូទាត់"
+        }
+      }
+    },
+    "staffs": {
+      "staffList": {
+        "filters": {
+          "designation": {
+            "label": "មុខតំណែង",
+            "hint": "ជ្រើសរើសមុខតំណែង"
+          }
+        },
+        "title": "បុគ្គលិកទាំងអស់"
+      },
+      "manageStaff": {
+        "title1": "បន្ថែមបុគ្គលិកថ្មី",
+        "title2": "ធ្វើបច្ចុប្បន្នភាពបុគ្គលិក"
+      }
+    },
+    "ingredient": {
+      "ingredientList": {
+        "title1": "បញ្ជីគ្រឿងផ្សំ",
+        "title2": "ជ្រើសរើសគ្រឿងផ្សំ"
+      },
+      "manageIngredient": {
+        "title1": "បន្ថែមគ្រឿងផ្សំថ្មី",
+        "title2": "កែសម្រួលគ្រឿងផ្សំ"
+      }
+    },
+    "itemModifier": {
+      "itemModifierList": {
+        "title": "@:common.itemModifiers"
+      },
+      "manageItemModifier": {
+        "title1": "បន្ថែមឧបករណ៍កែប្រែមុខទំនិញ",
+        "title2": "កែសម្រួលឧបករណ៍កែប្រែមុខទំនិញ"
+      }
+    },
+    "quotation": {
+      "manageQuotation": {
+        "title": {
+          "add": "បន្ថែមសម្រង់តម្លៃថ្មី",
+          "edit": "កែសម្រួលសម្រង់តម្លៃ",
+          "convert": "បម្លែងទៅជាការលក់"
+        }
+      }
+    },
+    "rolePermission": {
+      "rolePermissionList": {
+        "title": "បញ្ជីតួនាទី & សិទ្ធិ"
+      },
+      "manageRolePermission": {
+        "title1": "បន្ថែមតួនាទីថ្មី",
+        "title2": "កែសម្រួលតួនាទី"
+      }
+    },
+    "printingOption": {
+      "title": "ជម្រើសបោះពុម្ព",
+      "form": {
+        "companyAddress": {
+          "label": "អាសយដ្ឋានក្រុមហ៊ុន",
+          "hint": "បញ្ចូលអាសយដ្ឋានក្រុមហ៊ុន"
+        },
+        "noteLabel": {
+          "label": "ស្លាកចំណាំ",
+          "hint": "បញ្ចូលស្លាកចំណាំ."
+        },
+        "note": {
+          "label": "ចំណាំ",
+          "hint": "បញ្ចូលចំណាំ."
+        },
+        "postSaleMessage": {
+          "label": "សារបន្ទាប់ពីលក់",
+          "hint": "បញ្ចូលសារបន្ទាប់ពីលក់"
+        },
+        "printingMethod": {
+          "label": "វិធីសាស្ត្របោះពុម្ព",
+          "hint": "ជ្រើសរើសវិធីសាស្ត្របោះពុម្ព"
+        },
+        "printerProfile": {
+          "label": "ប្រវត្តិរូបម៉ាស៊ីនបោះពុម្ព",
+          "hint": "ជ្រើសរើសប្រវត្តិរូបម៉ាស៊ីនបោះពុម្ព"
+        },
+        "paperSize": {
+          "label": "ទំហំក្រដាសម៉ាស៊ីនបោះពុម្ពកំដៅ",
+          "hint": "ជ្រើសរើសទំហំក្រដាសម៉ាស៊ីនបោះពុម្ព"
+        },
+        "printerDpi": {
+          "label": "DPI ម៉ាស៊ីនបោះពុម្ព",
+          "hint": "ឧទាហរណ៍: 203"
+        },
+        "printingMargin": {
+          "label": "រឹមបោះពុម្ព",
+          "hint": "ឧទាហរណ៍: 2"
+        }
+      },
+      "tooltip": {
+        "printingMethod": {
+          "title": "បញ្ជីទម្លាក់ជម្រើស:",
+          "default": "• លំនាំដើម (វិធីសាស្ត្រដើមក្នុងការបោះពុម្ពតួអក្សរស្តង់ដារ EU)",
+          "image": "• រូបភាព (ណែនាំសម្រាប់ការបោះពុម្ពតួអក្សរ Unicode)"
+        }
+      },
+      "action": {
+        "save": "រក្សាទុក"
+      }
+    },
+    "kitchen": {
+      "list": {
+        "noKitchensFound": "រកមិនឃើញផ្ទះបាយទេ។\n សូមព្យាយាមបន្ថែមមួយ។"
+      },
+      "manage": {
+        "addKitchen": "បន្ថែមផ្ទះបាយ",
+        "editKitchen": "កែសម្រួលផ្ទះបាយ",
+        "kitchenName": {
+          "label": "ឈ្មោះផ្ទះបាយ",
+          "hint": "បញ្ចូលឈ្មោះផ្ទះបាយ",
+          "error": "សូមបញ្ចូលឈ្មោះផ្ទះបាយ។"
+        },
+        "description": {
+          "label": "ការពិពណ៌នា",
+          "hint": "បញ្ចូលការពិពណ៌នា"
+        }
+      },
+      "manageItems": {
+        "title": "គ្រប់គ្រងមុខទំនិញ",
+        "addedItems": "មុខទំនិញដែលបានបន្ថែម",
+        "selectItemsError": "សូមជ្រើសរើសមុខទំនិញ។",
+        "noItemsAdded": "មិនទាន់មានមុខទំនិញត្រូវបានបន្ថែមទេ!\nសូមព្យាយាមបន្ថែមមុខទំនិញ។"
+      },
+      "card": {
+        "itemName": "ឈ្មោះមុខទំនិញ",
+        "manageItems": "+ គ្រប់គ្រងមុខទំនិញ",
+        "deleteItemConfirm": "តើអ្នកចង់លុបមុខទំនិញនេះទេ?",
+        "deleteKitchenConfirm": "តើអ្នកចង់លុបផ្ទះបាយនេះទេ?"
+      }
+    }
+  },
+  "enums": {
+    "dropdownDateFilter": {
+      "daily": "ប្រចាំថ្ងៃ",
+      "weekly": "ប្រចាំសប្តាហ៍",
+      "monthly": "ប្រចាំខែ",
+      "yearly": "ប្រចាំឆ្នាំ",
+      "custom": "ផ្ទាល់ខ្លួន"
+    },
+    "orderTypes": {
+      "dineIn": "ទទួលទាននៅហាង",
+      "pickUp": "ទៅយក",
+      "delivery": "ដឹកជញ្ជូន",
+      "reservation": "ការកក់",
+      "quotation": "សម្រង់តម្លៃ"
+    },
+    "paymentStatus": {
+      "paid": "បានបង់",
+      "unpaid": "មិនទាន់បង់"
+    },
+    "staffTypes": {
+      "manager": "អ្នកគ្រប់គ្រង",
+      "waiter": "អ្នករត់តុ",
+      "chef": "ចុងភៅ",
+      "cleaner": "អ្នកសំអាត",
+      "driver": "អ្នកបើកបរ",
+      "deliveryBoy": "អ្នកដឹកជញ្ជូន"
+    },
+    "itemFoodTypes": {
+      "veg": "បន្លែ",
+      "nonVeg": "មិនមែនបន្លែ",
+      "egg": "ស៊ុត",
+      "drink": "ភេសជ្ជៈ",
+      "others": "ផ្សេងៗ"
+    },
+    "itemTypes": {
+      "single": "ទោល",
+      "variation": "បំរែបំរួល"
+    },
+    "quotationStatus": {
+      "open": "បើក",
+      "closed": "បិទ"
+    },
+    "tableStatus": {
+      "running": "កំពុងប្រើប្រាស់",
+      "available": "ទំនេរ"
+    },
+    "thermalPrinterPrintingMethod": {
+      "image": "រូបភាព",
+      "default": "លំនាំដើម"
+    },
+    "kotOrderStatus": {
+      "label": {
+        "pending": "រង់ចាំ",
+        "preparing": "កំពុងរៀបចំ",
+        "ready": "អាហាររួចរាល់",
+        "served": "បានជូនភ្ញៀវរួច",
+        "cancelled": "បានបោះបង់"
+      },
+      "pending": "រង់ចាំ",
+      "preparing": "កំពុងរៀបចំ",
+      "ready": "អាហាររួចរាល់",
+      "served": "បានជូនភ្ញៀវរួច",
+      "cancelled": "បានបោះបង់"
+    },
+    "kotItemStatus": {
+      "pending": "ចាប់ផ្តើមចម្អិន",
+      "start": "ចំណាំថាួចរាល់",
+      "ready": "រួចរាល់"
+    }
+  },
+  "thermalPrint": {
+    "invoice": {
+      "purchaseInvoiceLabel": "វិក្កយបត្រទិញ: ${invoiceNumber: String}",
+      "saleInvoiceLabel": "លេខ​បញ្ជាទិញ: ${invoiceNumber: String}",
+      "receiptNoLabel": "លេខ​ប័ណ្ណទទួលប្រាក់: ${invoiceNumber: String}",
+      "orderNoKotLabel": "លេខ​បញ្ជាទិញ: ${invoiceNumber: String}",
+      "nameLabel": "ឈ្មោះ: ${name: String}",
+      "mobileLabel": "ទូរស័ព្ទដៃ: ${phone: String}",
+      "purchasedByLabel": "ទិញដោយ: ${role: String}",
+      "salesByLabel": "លក់ដោយ: ${role: String}",
+      "paidByLabel": "${label: String}: ${role: String}",
+      "paidToReceivedFromLabel": "${label: String}: ${name: String}",
+      "orderTypeLabel": "ប្រភេទ​បញ្ជាទិញ: ${orderType: String}",
+      "tableLabel": "តុ: ${tableName: String}",
+      "tableNoLabel": "លេខ​តុ: ${tableName: String}",
+      "dateLabel": "ថ្ងៃខែឆ្នាំ: ${dateTime: String}",
+      "invoiceFlag": "វិក្កយបត្រ",
+      "receiptFlag": "ប័ណ្ណទទួលប្រាក់",
+      "paidBy": "បង់ដោយ",
+      "receivedBy": "ទទួលដោយ",
+      "paidTo": "បង់ទៅ",
+      "receivedFrom": "ទទួលពី",
+      "seller": "អ្នកលក់: ${name: String}",
+      "address": "អាសយដ្ឋាន: ${addr: String}",
+      "vatNo": "អ.ភ.ព.",
+      "tel": "ទូរស័ព្ទ: ${phoneNumber: String}",
+      "timeLabel": "ម៉ោង: ${dateTime: String}"
+    },
+    "tableHeaders": {
+      "sl": "ល.រ.",
+      "item": "មុខទំនិញ",
+      "cost": "តម្លៃដើម",
+      "qty": "បរ.",
+      "uPrice": "ថ្លៃឯកតា",
+      "amount": "ទឹកប្រាក់",
+      "total": "សរុប",
+      "invoiceTable": "វិក្កយបត្រ",
+      "dueTable": "ជំពាក់"
+    },
+    "summary": {
+      "subTotal": "អនុសរុប:",
+      "discount": "ការបញ្ចុះតម្លៃ: ${percentFmt: String}",
+      "vat": "${vatName: String}: ${rateFmt: String}%",
+      "tip": "ប្រាក់លើកទឹកចិត្ត:",
+      "deliveryCharge": "ថ្លៃដឹកជញ្ជូន:",
+      "totalPayable": "សរុបត្រូវបង់:",
+      "paidAmount": "ចំនួនបង់:",
+      "dueAmount": "ចំនួនទឹកប្រាក់ជំពាក់:",
+      "paymentType": "ប្រភេទបង់ប្រាក់: ${method: String}",
+      "remainingDue": "នៅសល់ជំពាក់:",
+      "paymentAmount": "ចំនួនទឹកប្រាក់បង់:",
+      "itemsCount": "មុខទំនិញ: ${count: int}",
+      "qtyTotal": "បរ.: ${totalQty: int}"
+    },
+    "footer": {
+      "note": "${noteLabel: String}: ${note: String}",
+      "developedBy": "${developByLabel: String} ${developBy: String}"
+    }
+  },
+  "hrm": {
+    "department": "នាយកដ្ឋាន",
+    "designation": "តួនាទី",
+    "shift": "វេន",
+    "employee": "បុគ្គលិក",
+    "leave": "ការឈប់សម្រាក",
+    "leaveType": "ប្រភេទការឈប់សម្រាក",
+    "leaveRequest": "សំណើឈប់សម្រាក",
+    "holiday": "ថ្ងៃឈប់សម្រាក",
+    "attendance": "វត្តមាន",
+    "payroll": "ប្រាក់បៀវត្សរ៍",
+    "pageTitles": {
+      "department": "នាយកដ្ឋាន",
+      "designation": "តួនាទី",
+      "shift": "វេន",
+      "employee": "បុគ្គលិក",
+      "leave": "ការឈប់សម្រាក",
+      "leaveType": "ប្រភេទការឈប់សម្រាក",
+      "holiday": "ថ្ងៃឈប់សម្រាក",
+      "attendance": "វត្តមាន",
+      "payroll": "ប្រាក់បៀវត្សរ៍",
+      "leaveReports": "របាយការណ៍ឈប់សម្រាក",
+      "payrollReports": "របាយការណ៍ប្រាក់បៀវត្សរ៍",
+      "attendanceReports": "របាយការណ៍វត្តមាន",
+      "addDepartment": "បន្ថែមនាយកដ្ឋាន",
+      "editDepartment": "កែប្រែនាយកដ្ឋាន",
+      "addDesignation": "បន្ថែមតួនាទី",
+      "editDesignation": "កែប្រែតួនាទី",
+      "addShift": "បន្ថែមវេនការងារ",
+      "editShift": "កែសម្រួលវេនការងារ",
+      "addEmployee": "បន្ថែមបុគ្គលិក",
+      "editEmployee": "កែប្រែបុគ្គលិក",
+      "addLeave": "បន្ថែមការឈប់សម្រាក",
+      "editLeave": "កែប្រែការឈប់សម្រាក",
+      "addLeaveType": "បន្ថែមប្រភេទឈប់សម្រាក",
+      "editLeaveType": "កែប្រែប្រភេទឈប់សម្រាក",
+      "addHoliday": "បន្ថែមថ្ងៃឈប់សម្រាក",
+      "editHoliday": "កែប្រែថ្ងៃឈប់សម្រាក",
+      "addAttendance": "បន្ថែមវត្តមាន",
+      "editAttendance": "កែប្រែវត្តមាន",
+      "addPayroll": "បន្ថែមប្រាក់បៀវត្សរ៍",
+      "editPayroll": "កែប្រែប្រាក់បៀវត្សរ៍"
+    },
+    "form": {
+      "labels": {
+        "department": "នាយកដ្ឋាន",
+        "designation": "តួនាទី",
+        "shift": "វេនការងារ",
+        "employee": "បុគ្គលិក",
+        "leaveType": "ប្រភេទការឈប់សម្រាក",
+        "leaveDuration": "រយៈពេលឈប់សម្រាក",
+        "paymentYear": "ឆ្នាំទូទាត់",
+        "paymentType": "ប្រភេទការទូទាត់",
+        "breakStatus": "ស្ថានភាពសម្រាក",
+        "startTime": "ម៉ោងចាប់ផ្តើម",
+        "endTime": "ម៉ោងបញ្ចប់",
+        "startBreakTime": "ចាប់ផ្តើមសម្រាក",
+        "endBreakTime": "បញ្ចប់សម្រាក",
+        "breakTime": "ម៉ោងសម្រាក",
+        "breakDuration": "រយៈពេលសម្រាក",
+        "timeIn": "ម៉ោងចូល",
+        "timeOut": "ម៉ោងចេញ",
+        "duration": "រយៈពេល",
+        "country": "ប្រទេស",
+        "salary": "ប្រាក់ខែ",
+        "gender": "ភេទ",
+        "birthDate": "ថ្ងៃខែឆ្នាំកំណើត",
+        "joinDate": "ថ្ងៃចូលធ្វើការ",
+        "holidayName": "ឈ្មោះថ្ងៃឈប់សម្រាក",
+        "startDate": "ថ្ងៃចាប់ផ្តើម",
+        "endDate": "ថ្ងៃបញ្ចប់",
+        "month": "ខែ",
+        "year": "ឆ្នាំ",
+        "status": "ស្ថានភាព",
+        "description": "ការពិពណ៌នា",
+        "amount": "ចំនួនទឹកប្រាក់",
+        "payment": "ការទូទាត់",
+        "departmentName": "ឈ្មោះនាយកដ្ឋាន",
+        "designationName": "ឈ្មោះតំណែង",
+        "image": "រូបភាព",
+        "name": "ឈ្មោះ"
+      },
+      "hints": {
+        "selectEmployee": "ជ្រើសរើសបុគ្គលិក",
+        "selectDepartment": "ជ្រើសរើសនាយកដ្ឋាន",
+        "selectDesignation": "ជ្រើសរើសតួនាទី",
+        "selectShift": "ជ្រើសរើសវេន",
+        "selectLeaveType": "ជ្រើសរើសប្រភេទឈប់សម្រាក",
+        "selectMonth": "ជ្រើសរើសខែ",
+        "selectYear": "ជ្រើសរើសឆ្នាំ",
+        "selectDate": "ជ្រើសរើសកាលបរិច្ឆេទ",
+        "selectStartDate": "ជ្រើសរើសថ្ងៃចាប់ផ្តើម",
+        "selectEndDate": "ជ្រើសរើសថ្ងៃបញ្ចប់",
+        "selectTimeIn": "ជ្រើសរើសម៉ោងចូល",
+        "selectTimeOut": "ជ្រើសរើសម៉ោងចេញ",
+        "selectStartTime": "ជ្រើសរើសម៉ោងចាប់ផ្តើម",
+        "selectEndTime": "ជ្រើសរើសម៉ោងបញ្ចប់",
+        "selectStatus": "ជ្រើសរើសស្ថានភាព",
+        "selectGender": "ជ្រើសរើសភេទ",
+        "selectPaymentType": "ជ្រើសរើសប្រភេទការទូទាត់",
+        "enterFullName": "បញ្ចូលឈ្មោះពេញ",
+        "enterEmail": "បញ្ចូលអ៊ីមែល",
+        "enterPhone": "បញ្ចូលលេខទូរស័ព្ទ",
+        "enterCountry": "បញ្ចូលប្រទេស",
+        "enterSalary": "ឧទាហរណ៍៖ 500",
+        "enterHolidayName": "បញ្ចូលឈ្មោះថ្ងៃឈប់សម្រាក",
+        "enterDescription": "បញ្ចូលការពិពណ៌នា...",
+        "autoCalculated": "គណនាដោយស្វ័យប្រវត្តិ",
+        "selectDatesFirst": "ជ្រើសរើសកាលបរិច្ឆេទជាមុនសិន",
+        "allEmployee": "បុគ្គលិកទាំងអស់",
+        "selectEmployeeFirst": "ជ្រើសរើសបុគ្គលិកជាមុនសិន",
+        "enterDepartmentName": "បញ្ចូលឈ្មោះនាយកដ្ឋាន",
+        "enterDesignationName": "បញ្ចូលឈ្មោះតំណែង",
+        "ex": "{value}",
+        "selectBirthDate": "ជ្រើសរើសថ្ងៃខែឆ្នាំកំណើត",
+        "selectJoinDate": "ជ្រើសរើសថ្ងៃចូលធ្វើការ",
+        "selectBreakStatus": "ជ្រើសរើសស្ថានភាពសម្រាក",
+        "enterLeaveTypeName": "បញ្ចូលឈ្មោះប្រភេទច្បាប់ឈប់សម្រាក"
+      }
+    },
+    "emptyStates": {
+      "noLeaves": "រកមិនឃើញការឈប់សម្រាកទេ",
+      "noPayrollRecords": "រកមិនឃើញកំណត់ត្រាប្រាក់បៀវត្សរ៍ទេ",
+      "noAttendanceRecords": "រកមិនឃើញកំណត់ត្រាវត្តមានទេ",
+      "noLeaveTypes": "រកមិនឃើញប្រភេទច្បាប់ឈប់សម្រាកទេ",
+      "noEmployees": "រកមិនឃើញបុគ្គលិកទេ",
+      "noHolidays": "រកមិនឃើញថ្ងៃឈប់សម្រាកទេ",
+      "noShifts": "រកមិនឃើញវេនការងារទេ",
+      "noDesignations": "រកមិនឃើញតួនាទីទេ",
+      "noDepartments": "រកមិនឃើញនាយកដ្ឋានទេ"
+    },
+    "confirmations": {
+      "deleteAttendance": "តើអ្នកប្រាកដថាចង់លុបវត្តមាននេះទេ?",
+      "deletePayroll": "តើអ្នកប្រាកដថាចង់លុបប្រាក់បៀវត្សរ៍នេះទេ?",
+      "deleteLeave": "តើអ្នកប្រាកដថាចង់លុបការឈប់សម្រាកនេះទេ?",
+      "deleteLeaveType": "តើអ្នកចង់លុបប្រភេទច្បាប់ឈប់សម្រាកនេះមែនទេ?",
+      "deleteEmployee": "តើអ្នកប្រាកដថាចង់លុបបុគ្គលិកនេះទេ?",
+      "deleteHoliday": "តើអ្នកប្រាកដថាចង់លុបថ្ងៃឈប់សម្រាកនេះទេ?",
+      "deleteShift": "តើអ្នកចង់លុបវេនការងារនេះមែនទេ?",
+      "deleteDesignation": "តើអ្នកប្រាកដថាចង់លុបតួនាទីនេះទេ?",
+      "deleteDepartment": "តើអ្នកប្រាកដថាចង់លុបនាយកដ្ឋាននេះទេ?"
+    },
+    "validation": {
+      "selectEmployee": "សូមជ្រើសរើសបុគ្គលិក",
+      "selectMonth": "សូមជ្រើសរើសខែ",
+      "selectEndDate": "សូមជ្រើសរើសថ្ងៃបញ្ចប់",
+      "endDateAfterStart": "ថ្ងៃបញ្ចប់ត្រូវតែក្រោយថ្ងៃចាប់ផ្តើម",
+      "selectStatus": "សូមជ្រើសរើសស្ថានភាព",
+      "selectLeaveType": "សូមជ្រើសរើសប្រភេទឈប់សម្រាក",
+      "selectStartDate": "សូមជ្រើសរើសថ្ងៃចាប់ផ្តើម",
+      "selectDate": "សូមជ្រើសរើសកាលបរិច្ឆេទ",
+      "selectTimeIn": "សូមជ្រើសរើសម៉ោងចូលធ្វើការ",
+      "selectTimeOut": "សូមជ្រើសរើសម៉ោងចេញពីធ្វើការ",
+      "enterDepartmentName": "សូមបញ្ចូលឈ្មោះនាយកដ្ឋាន",
+      "enterDesignationName": "សូមបញ្ចូលឈ្មោះតំណែង",
+      "enterName": "សូមបញ្ចូលឈ្មោះ",
+      "selectDesignation": "សូមជ្រើសរើសតួនាទី",
+      "selectDepartment": "សូមជ្រើសរើសនាយកដ្ឋាន",
+      "enterEmail": "សូមបញ្ចូលអ៊ីមែល",
+      "enterValidEmail": "សូមបញ្ចូលអ៊ីមែលត្រឹមត្រូវ",
+      "enterPhoneNumber": "សូមបញ្ចូលលេខទូរស័ព្ទ",
+      "enterCountry": "សូមបញ្ចូលប្រទេស",
+      "enterSalary": "សូមបញ្ចូលប្រាក់ខែ",
+      "selectGender": "សូមជ្រើសរើសភេទ",
+      "selectShift": "សូមជ្រើសរើសវេន",
+      "selectBirthDate": "សូមជ្រើសរើសថ្ងៃខែឆ្នាំកំណើត",
+      "selectJoinDate": "សូមជ្រើសរើសថ្ងៃចូលធ្វើការ",
+      "enterHolidayName": "សូមបញ្ចូលឈ្មោះថ្ងៃឈប់សម្រាក",
+      "selectBreakStatus": "សូមជ្រើសរើសស្ថានភាពសម្រាក",
+      "selectPaymentYear": "សូមជ្រើសរើសឆ្នាំបង់ប្រាក់",
+      "selectPaymentType": "សូមជ្រើសរើសប្រភេទបង់ប្រាក់",
+      "enterAmount": "សូមបញ្ចូលចំនួនទឹកប្រាក់",
+      "selectStartBreakTime": "សូមជ្រើសរើសម៉ោងចាប់ផ្តើមសម្រាក",
+      "selectEndBreakTime": "សូមជ្រើសរើសម៉ោងបញ្ចប់ការសម្រាក",
+      "enterLeaveTypeName": "សូមបញ្ចូលឈ្មោះប្រភេទច្បាប់ឈប់សម្រាក",
+      "selectStartTime": "សូមជ្រើសរើសម៉ោងចាប់ផ្តើម",
+      "selectEndTime": "សូមជ្រើសរើសម៉ោងបញ្ចប់"
+    },
+    "dropdowns": {
+      "addNew": "+ បន្ថែមថ្មី",
+      "morning": "ព្រឹក",
+      "day": "ថ្ងៃ",
+      "evening": "ល្ងាច",
+      "night": "យប់",
+      "yes": "បាទ/ចាស",
+      "no": "ទេ",
+      "approved": "បានអនុម័ត",
+      "rejected": "បានបដិសេធ",
+      "terminated": "បានបញ្ចប់",
+      "suspended": "បានផ្អាក",
+      "male": "ប្រុស",
+      "female": "ស្រី",
+      "pending": "រង់ចាំ",
+      "active": "សកម្ម",
+      "inactive": "អសកម្ម",
+      "paid": "បានទូទាត់",
+      "unpaid": "មិនទាន់ទូទាត់"
+    },
+    "units": {
+      "days": "ថ្ងៃ"
+    },
+    "fallbacks": {
+      "noNoteAvailable": "មិនមានកំណត់ចំណាំទេ",
+      "noDescriptionAvailable": "មិនមានការពិពណ៌នាទេ",
+      "selectEmployeeFirst": "ជ្រើសរើសបុគ្គលិកជាមុនសិន"
+    },
+    "success": {
+      "leaveDelete": "ការឈប់សម្រាកត្រូវបានលុបដោយជោគជ័យ",
+      "attendanceDelete": "វត្តមានត្រូវបានលុបដោយជោគជ័យ",
+      "attendanceAdd": "វត្តមានត្រូវបានបន្ថែមដោយជោគជ័យ",
+      "attendanceUpdate": "វត្តមានត្រូវបានធ្វើបច្ចុប្បន្នភាពដោយជោគជ័យ",
+      "leaveAdd": "ការឈប់សម្រាកត្រូវបានបន្ថែមដោយជោគជ័យ",
+      "leaveUpdate": "ការឈប់សម្រាកត្រូវបានធ្វើបច្ចុប្បន្នភាពដោយជោគជ័យ",
+      "departmentDelete": "នាយកដ្ឋានត្រូវបានលុបដោយជោគជ័យ",
+      "departmentAdd": "នាយកដ្ឋានត្រូវបានបន្ថែមដោយជោគជ័យ",
+      "departmentUpdate": "នាយកដ្ឋានត្រូវបានធ្វើបច្ចុប្បន្នភាពដោយជោគជ័យ",
+      "designationDelete": "តួនាទីត្រូវបានលុបដោយជោគជ័យ",
+      "designationAdd": "តួនាទីត្រូវបានបន្ថែមដោយជោគជ័យ",
+      "designationUpdate": "តួនាទីត្រូវបានធ្វើបច្ចុប្បន្នភាពដោយជោគជ័យ",
+      "employeeDelete": "បុគ្គលិកត្រូវបានលុបដោយជោគជ័យ",
+      "employeeAdd": "បុគ្គលិកត្រូវបានបន្ថែមដោយជោគជ័យ",
+      "employeeUpdate": "បុគ្គលិកត្រូវបានធ្វើបច្ចុប្បន្នភាពដោយជោគជ័យ",
+      "holidayDelete": "ថ្ងៃឈប់សម្រាកត្រូវបានលុបដោយជោគជ័យ",
+      "holidayAdd": "ថ្ងៃឈប់សម្រាកត្រូវបានបន្ថែមដោយជោគជ័យ",
+      "holidayUpdate": "ថ្ងៃឈប់សម្រាកត្រូវបានធ្វើបច្ចុប្បន្នភាពដោយជោគជ័យ",
+      "leaveTypeDelete": "ប្រភេទឈប់សម្រាកត្រូវបានលុបដោយជោគជ័យ"
+    }
+  }
+}

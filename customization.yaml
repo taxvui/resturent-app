@@ -1,0 +1,23 @@
+# [app_name] will be used for app launcher name & other places in the app. 
+# you can find where this is name is being used from `appName` variable's reference in `lib/app/core/static/app_config/_app_config.dart` this file
+app_name: "Restaurant App"
+
+# [package_name] will be used for package name in android and app bundle id in ios.
+package_name: "com.acnoo.restaurantapp"
+
+# [org_domain] will be used for the website reference. This is mostly used for copyright reference (i.e: PDF footer, Thermal invoice etc.).
+# you can find where this is name is being used from `orgDomain` variable's reference in `lib/app/core/static/app_config/_app_config.dart` this file.
+org_domain: "https://acnoo.com"
+
+# [base_url] will be used as the base of your backend api server.
+# you can find where this is name is being used from `baseUrl` variable's reference in `lib/app/core/static/app_config/_app_config.dart` this file.
+# NOTE: [baseUrl] must be the backend's base url `WITHOUT ANY TRAILING SLASH(/)`
+base_url: "https://restaurantapp.acnoo.com"
+
+# For App Icon & Launcher Icon:
+# Just replace `assets/app/app_launcher/app_launcher_icon.png` this with your own icon.
+# Then  run `rps customize --icon-only` or `rps customize` for full customization.
+# This will only change the app launcher icon. And you'll have to replace `assets/app/app_icon.png` & `assets/app/app_splash_icon.png` for in app changes.
+# Just replace those icons with your preferred icons and run `flutter clean && flutter pub get` and finally `flutter run` to see the changes.
+
+# Note: For farther customization guide, please refer to the `README.md`.

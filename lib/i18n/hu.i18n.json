@@ -1,0 +1,1561 @@
+{
+  "@@meta": {
+    "languageCode": "hu_HU",
+    "languageName": "Hungarian",
+    "version": "1.0.0"
+  },
+  "common": {
+    "signIn": "Bejelentkezés",
+    "signUp": "Regisztráció",
+    "verifyEmail": "Email megerősítése",
+    "customizeProfile": "Profil testreszabása",
+    "imageOrLogo": "Logó vagy kép",
+    "createNewPassword": "Új jelszó létrehozása",
+    "itemsList": "Terméklista",
+    "searchItemsName": "Terméknév keresése",
+    "categoryList": "Kategória lista",
+    "brandList": "Márkalista",
+    "unitList": "Egységlista",
+    "itemDetails": "Termék részletei",
+    "addStock": "Készlet hozzáadása",
+    "profile": "Profil",
+    "language": "Nyelv",
+    "termsAndConditions": "Felhasználási feltételek",
+    "aboutUs": "Rólunk",
+    "logout": "Kijelentkezés",
+    "editProfile": "Profil szerkesztése",
+    "fullName": "Teljes név",
+    "email": "E-mail",
+    "mobileNumber": "Telefonszám",
+    "address": "Cím",
+    "password": "Jelszó",
+    "forgotPassword": "Elfelejtett jelszó",
+    "edit": "Szerkesztés",
+    "delete": "Törlés",
+    "addItems": "Termékek hozzáadása",
+    "stock": "Készlet",
+    "currentStock": "Jelenlegi készlet",
+    "value": "Érték",
+    "sales": "Értékesítés",
+    "purchase": "Vásárlás",
+    "price": "Ár",
+    "image": "Kép",
+    "upload": "Feltöltés",
+    "addNew": "Új hozzáadása",
+    "pricing": "Árképzés",
+    "name": "Név",
+    "category(plural)": {
+      "one": "Kategória",
+      "other": "Kategórias"
+    },
+    "areas": "Areas",
+    "brand": "Márka",
+    "lowStock": "Alacsony készlet",
+    "unit": "Egység",
+    "vat": "ÁFA",
+    "taxType": "Adótípus",
+    "purchasePrice": "Beszerzési ár",
+    "sellingPrice": "Eladási ár",
+    "wholeSalePrice": "Nagykereskedelmi ár",
+    "dealerPrice": "Viszonteladói ár",
+    "searchHere": "Keresés itt",
+    "totalItems": "Összes termék",
+    "stockValue": "Készletérték",
+    "congratulation": "Gratulálunk",
+    "salesList": "Értékesítési lista",
+    "searchInvoiceNumber": "Számlaszám keresése",
+    "view": "Megtekintés",
+    "kFor": "Neki",
+    "total": "Összesen",
+    "subTotal": "Részösszeg",
+    "insufficientStockAvailableStock": "Nincs elegendő készlet, elérhető készlet",
+    "discount": "Kedvezmény",
+    "selectOne": "Válasszon egyet",
+    "allCategory": "Összes kategória",
+    "details": "Részletek",
+    "parcel": "Csomag",
+    "kot": "Kot",
+    "table": "Asztal",
+    "holdTable": "Asztal foglalása",
+    "capacity": "Kapacitás",
+    "commonHint": "Pl.: 10",
+    "pleaseEnterQuantity": "Kérjük, adja meg a mennyiséget",
+    "quantityMustBeGreaterThanZero": "A mennyiségnek nagyobbnak kell lennie, mint 0",
+    "mobile": "Mobil",
+    "orderNo": "Rendelésszám",
+    "dateAndTime": "Dátum és idő",
+    "items": "Termékek",
+    "totalAmount": "Teljes összeg",
+    "paidAmount": "Fizetett összeg",
+    "dueAmount": "Esedékes összeg",
+    "paymentType": "Fizetési mód",
+    "thankYou": "Köszönjük",
+    "developedBy": "Fejlesztette: ${domain: String}",
+    "qty": "Ár",
+    "amount": "Összeg",
+    "dashboard": "Irányítópult",
+    "reports": "Jelentések",
+    "home": "Főoldal",
+    "parties": "Partnerek",
+    "subscriptionPlan": "Előfizetési csomag",
+    "estimateList": "Árajánlat lista",
+    "purchaseList": "Vásárlási lista",
+    "dueList": "Esedékes lista",
+    "lossOrProfit": "Veszteség/Nyereség",
+    "stocks": "Készletek",
+    "moneyInList": "Bevételi lista",
+    "moneyOutList": "Kiadási lista",
+    "transactionList": "Tranzakciós lista",
+    "income": "Bevétel",
+    "expense": "Kiadás",
+    "quickView": "Gyorsnézet",
+    "to": "–ig",
+    "totalSales": "Összes eladás",
+    "totalPurchase": "Összes vásárlás",
+    "holdNumber": "Felfüggesztett rendelések",
+    "totalExpense": "Összes kiadás",
+    "loss": "Veszteség",
+    "profit": "Nyereség",
+    "recentTransaction": "Legutóbbi tranzakciók",
+    "invoice": "Számla",
+    "moneyIn": "Bevétel",
+    "moneyOut": "Kiadás",
+    "paid": "Fizetett",
+    "due": "Esedékes",
+    "partial": "Részleges",
+    "print": "Nyomtatás",
+    "addCategory": "Kategória hozzáadása",
+    "addExpense": "Kiadás hozzáadása",
+    "search": "Keresés...",
+    "viewDetails": "Részletek megtekintése",
+    "title": "Cím",
+    "date": "Dátum",
+    "note": "Jegyzet",
+    "phoneNumber": "Telefonszám",
+    "type": "Típus",
+    "selectContactSType": "Válassza ki a kapcsolattartó típusát",
+    "moreInfo": "További információ",
+    "paymentReceived": "Fizetés érkezett",
+    "selectSupplier": "Válasszon beszállítót",
+    "supplier": "Beszállító",
+    "received": "Fogadott",
+    "balanceDue": "Esedékes egyenleg",
+    "addPurchase": "Vásárlás hozzáadása",
+    "selectedItemWillBeCleared": "A kiválasztott termékek törlődnek.",
+    "searchItemName": "Terméknév keresése",
+    "billItems": "Számla tételei",
+    "addMoreItems": "További termékek hozzáadása",
+    "payAmount": "Fizetendő összeg",
+    "salesReport": "Értékesítési jelentés",
+    "purchaseReport": "Vásárlási jelentés",
+    "stockReport": "Készletjelentés",
+    "dueReport": "Esedékességi jelentés",
+    "dueCollectionReport": "Esedékes behajtási jelentés",
+    "transactionReport": "Tranzakciós jelentés",
+    "incomeReport": "Bevételi jelentés",
+    "dueCollectionList": "Esedékes behajtási lista",
+    "expenseReport": "Kiadási jelentések",
+    "dueCollection": "Esedékes behajtás",
+    "myProfile": "Saját profil",
+    "printingOption": "Nyomtatási beállítások",
+    "currency": "Pénznem",
+    "paymentMethod": "Fizetési mód",
+    "rateUs": "Értékeljen minket",
+    "termAndCondition": "Felhasználási feltételek",
+    "tableList": "Asztallista",
+    "addTable": "Asztal hozzáadása",
+    "vatRate": "ÁFA-kulcs %",
+    "action": "Művelet",
+    "status": "Állapot",
+    "active": "Aktív",
+    "inActive": "Inaktív",
+    "subVats": "Al-ÁFA-k",
+    "add": "Hozzáadás",
+    "taxRate": "Adókulcs %",
+    "subTaxes": "Al-adók",
+    "group": "csoport",
+    "VAT": "ÁFA",
+    "subTaxList": "Al-adó lista",
+    "vatPercent": "ÁFA százalék",
+    "statusIsCannotInActive": "Az állapot nem lehet inaktív, ha az ÁFA be van kapcsolva az értékesítésnél.",
+    "vatOnSales": "ÁFA az értékesítésnél",
+    "transaction": "Tranzakció",
+    "version": "Verzió ${version: String}",
+    "hold": "Felfüggesztés",
+    "empty": "Üres",
+    "appName": "Restaurant App",
+    "duePayment": "Esedékes fizetés",
+    "orders": "Rendelések",
+    "all": "Összes",
+    "ingredient": "Összetevő",
+    "menus": "Menük",
+    "modifierGroups": "Módosító csoportok",
+    "itemModifiers": "Tétel módosítók",
+    "staff": "Személyzet",
+    "coupon": "Kupon",
+    "pay": "Fizetés",
+    "pendingOrders": "Függőben lévő rendelések",
+    "order": "Rendelés",
+    "payNow": "Fizessen most",
+    "addStaff": "Személyzet hozzáadása",
+    "designation": "Beosztás",
+    "itemAdded": "Tétel hozzáadva",
+    "noItemAdded": "Nincs hozzáadott tétel",
+    "saveNPrint": "Mentés és nyomtatás",
+    "allowMultiSelection": "Többszörös kijelölés engedélyezése",
+    "required": "Kötelező",
+    "optional": "Opcionális",
+    "allowMultiSelectionForSale": "Többszörös kiválasztás engedélyezése értékesítéshez",
+    "isRequired": "Kötelező",
+    "modifier": "Módosító",
+    "fullPayment": "Teljes fizetés",
+    "payment": "Fizetés",
+    "addTip": "Borravaló hozzáadása",
+    "netPayable": "Fizetendő összeg",
+    "receiveAmount": "Fogadott összeg",
+    "changeAmount": "Visszajáró összeg",
+    "quotationList": "Árajánlatok listája",
+    "addQuotation": "Árajánlat hozzáadása",
+    "convert": "Konvertálás",
+    "variations": "Variációk",
+    "instructions": "Utasítások",
+    "unavailable": "Nem elérhető",
+    "tip": "Tipp",
+    "salesQuotationReport": "Értékesítési árajánlat jelentés",
+    "orderType": "Rendelés típusa",
+    "deliveryCharge": "Szállítási díj",
+    "receiptNo": "Nyugtaszám",
+    "paidBy": "Fizette",
+    "receivedBy": "Átvette",
+    "paymentAmount": "Fizetett összeg",
+    "remainingDue": "Hátralék",
+    "roleNPermission": "Szerepkör és jogosultság",
+    "sl": "Sorszám",
+    "features": "Jellemzők",
+    "create": "Létrehozás",
+    "update": "Frissítés",
+    "quotations": "Árajánlatok",
+    "restaurant": "Étterem",
+    "printerProfile": "Nyomtató profil",
+    "kitchenOrders": "Konyhai rendelések",
+    "kitchen(plural)": {
+      "one": "Konyha",
+      "other": "Konyhák"
+    },
+    "allKOT": "Összes KOT",
+    "cancelKOT": "KOT törlése",
+    "selectCancelReason": "Válasszon törlési okot",
+    "additionalComment": "További megjegyzés",
+    "enterComment": "Írjon be megjegyzést",
+    "orderStatus": "Rendelés állapota",
+    "selectOrderStatus": "Válassza ki a rendelés állapotát",
+    "kotReport": "KOT jelentés",
+    "itemFoodType": "Étel típusa",
+    "selectItemFoodType": "Válasszon @:common.itemFoodType",
+    "markAllAsRead": "Összes megjelölése olvasottként",
+    "online": "Online",
+    "cancelledReason": "Cancelled Reason",
+    "hrm": "HRM",
+    "notAvailable": "N/A"
+  },
+  "exceptions": {
+    "somethingWentWrong": "Valami hiba történt, kérjük, próbálja újra",
+    "noCategoryFound": "Nem található kategória!\nKérjük, próbáljon meg hozzáadni egy kategóriát.",
+    "doYouWantToDeleteThisCategory": "Törölni szeretné ezt a kategóriát?",
+    "noBrandFound": "Nem található márka!\nKérjük, próbáljon meg hozzáadni egy márkát.",
+    "doYouWantToDeleteThisBrand": "Törölni szeretné ezt a márkát?",
+    "noItemStockFound": "Nem található termékkészlet!\nKérjük, próbáljon meg hozzáadni egy terméket.",
+    "noUnitFound": "Nem található egység!\nKérjük, próbáljon meg hozzáadni egy egységet.",
+    "doYouDeleteThisUnit": "Törölni szeretné ezt az egységet?",
+    "noSaleFoundPleaseSAddProduct": "Nem található eladás!\nKérjük, próbáljon meg hozzáadni egy eladást.",
+    "doYouWantToDeleteThisSale": "Törölni szeretné ezt az eladást?",
+    "pleaseAddItemToTheCartFirst": "Kérjük, először tegyen termékeket a kosárba",
+    "noItemAdded": "Nincsenek hozzáadott termékek",
+    "cannotEditOthersTable": "Másik asztalt nem lehet szerkeszteni.",
+    "tableIsAlreadyBlocked": "Az asztal már foglalt.",
+    "failedToGetCustomerDetails": "Nem sikerült lekérni a vevő adatait.",
+    "noTableFoundPleaseTryAgain": "Nem található asztal!\nKérjük, próbáljon meg hozzáadni egy asztalt.",
+    "noDueCollectionFound": "Nem található esedékes számla!\nAz esedékes számlákat itt tekintheti meg, ha rendelkezésre állnak.",
+    "noExpenseFoundPleaseTryAddingExpense": "Nem található kiadás!\nKérjük, próbáljon meg hozzáadni egy kiadást.",
+    "doYouWantToDeleteThisExpense": "Törölni szeretné ezt a kiadást?",
+    "noExpenseCategoryFound": "Nem található kiadási kategória!\nKérjük, próbáljon meg hozzáadni egy kiadási kategóriát.",
+    "noTransactionFound": "Nem található tranzakció, kérjük, próbálja újra később!",
+    "pleaseSelectACategory": "Kérjük, válasszon ki egy kategóriát",
+    "noIncomeFound": "Nem található bevétel!\nKérjük, próbáljon meg hozzáadni egy bevételt.",
+    "doYouWantToDeleteThisIncome": "Törölni szeretné ezt a bevételt?",
+    "noIncomeCategoryFoundAddingAIncome": "Nem található bevételi kategória!\nKérjük, próbáljon meg hozzáadni egy bevételi kategóriát.",
+    "noItemFoundPleaseTryAddingItem": "Nem található termék!\nKérjük, próbáljon meg hozzáadni egy terméket.",
+    "noPartiesFound": "Nem található partner",
+    "doYouWantToDeleteThisParty": "Törölni szeretné ezt a partnert?",
+    "noLedgerFound": "Nem található főkönyv!\nKérjük, próbáljon meg hozzáadni egy ${transactionType: String} tranzakciót.",
+    "areYouSureYouSureWantToDeleteThisTaxType": "Biztosan törölni szeretné ezt az adótípust: ${taxType: String}?",
+    "noItemFoundPleaseSTryAddingAnPurchase": "Nem található termék!\nKérjük, próbáljon meg hozzáadni egy vásárlást.",
+    "doYouWantToDeleteThisPurchase": "Törölni szeretné ezt a vásárlást?",
+    "noTransactionFoundYouSeeTransactionHereWhenAvailable": "Nem található tranzakció!\nA tranzakciókat itt tekintheti meg, ha rendelkezésre állnak.",
+    "noSaleFoundPleaseTryAddingSale": "Nem található eladás!\nKérjük, próbáljon meg hozzáadni egy eladást.",
+    "noPurchaseFoundPleaseTryAddingPurchase": "Nem található vásárlás!\nKérjük, próbáljon meg hozzáadni egy vásárlást.",
+    "noItemIncomeFound": "Nem található termékbevétel!\nA bevételi adatokat itt tekintheti meg, ha rendelkezésre állnak.",
+    "noItemExpenseFound": "Nem található termékköltség!\nA költségadatokat itt tekintheti meg, ha rendelkezésre állnak.",
+    "noItemDueInvoiceFound": "Nem található termék esedékes számla!\nAz esedékes számlákat itt tekintheti meg, ha rendelkezésre állnak.",
+    "noItemDueCollectionInvoiceFound": "'Nem található termék esedékes behajtási számla!\nAz esedékes behajtási számlákat itt tekintheti meg, ha rendelkezésre állnak.",
+    "doYouWantToDeleteThisTable": "Törölni szeretné ezt az asztalt?'",
+    "thisVatIsBeingUsedOnSales": "Ez az ÁFA az értékesítésnél van használatban!",
+    "noPaymentMethodFoundPleaseTryAddingAPaymentMethod": "Nem található fizetési mód!\nKérjük, próbáljon meg hozzáadni egy fizetési módot.",
+    "pleaseSelectACustomerFirst": "Kérjük, először válasszon ki egy vevőt.",
+    "pleaseSelectATableToCreateAKot": "Kérjük, válasszon asztalt a KOT létrehozásához.",
+    "noStaffFound": "Nem található személyzet!\n Kérjük, próbáljon meg hozzáadni egy személyt.",
+    "noIngredientFound": "Nem található összetevő!\n Kérjük, próbáljon meg hozzáadni egy összetevőt.",
+    "exceedsPaymentAmount": "A kapott összeg nem lehet nagyobb, mint a fizetendő összeg.",
+    "noItemModifierFound": "Nem található tétel módosító!\n Kérjük, próbáljon meg hozzáadni egy tétel módosítót.",
+    "noModifierGroupFound": "Nem található módosító csoport!\n Kérjük, próbáljon meg hozzáadni egy módosító csoportot.",
+    "noOptionsFound": "Nincs találat!",
+    "maxImageCountLimit": "Legfeljebb 5 képet választhat ki.",
+    "noQuotationFound": "Nem található árajánlat!\\n Kérjük, próbáljon meg hozzáadni egy árajánlatot.",
+    "noPermittedUserFound": "Nem található engedélyezett felhasználó!\\n Kérjük, próbáljon meg hozzáadni egy felhasználót."
+  },
+  "prompt": {
+    "logout": {
+      "title": "@:common.logout",
+      "message": "Biztosan ki szeretne jelentkezni?"
+    },
+    "unsavedWarning": {
+      "title": "Vissza akarsz menni?",
+      "message": "A megváltozott mezők lehet, hogy nem lesznek mentve!"
+    },
+    "verify": {
+      "title": "Erősítsd meg az e-mail címedet",
+      "description(rich)": "Küldtünk egy ellenőrző kódot tartalmazó e-mailt${emailSpan}\n\nLehet, hogy a levél a spam mappádba került."
+    },
+    "subscriptionExpired": {
+      "title": "Lejárt az előfizetés!",
+      "message": "Kérjük, fizessen elő a folytatáshoz.",
+      "action": "Előfizetés"
+    },
+    "items": {
+      "delete": {
+        "title": "Törölni szeretné ezt a terméket?"
+      },
+      "filter": {
+        "title": "Szűrés",
+        "extra": {
+          "lowToHigh": "Alacsonytól a magasig @:common.price",
+          "highToLow": "Magastól az alacsonyig @:common.price"
+        }
+      }
+    },
+    "checkInternet": {
+      "title": "Nincs internetkapcsolat",
+      "message": "Kérjük, ellenőrizze a Wi-Fi vagy mobilhálózati kapcsolatát, és próbálja újra"
+    },
+    "back": {
+      "title": "Nyomja meg újra a Vissza gombot a kilépéshez."
+    },
+    "stockModelSheet": {
+      "title": "Új készlet hozzáadása"
+    },
+    "paymentMethod": {
+      "title": "Törölni szeretné ezt a fizetési módot?"
+    },
+    "extMsg": {
+      "kotSavedSuccessfully": "KOT sikeresen elmentve"
+    },
+    "deleteStaff": "Biztosan törölni szeretné ezt a személyt?",
+    "deleteIngredient": "Biztosan törölni szeretné ezt az összetevőt?",
+    "deleteItemModifier": "Biztosan törölni szeretné ezt a tétel módosítót?",
+    "deleteModifierGroup": "Biztosan törölni szeretné ezt a módosító csoportot?",
+    "deleteQuotation": "Szeretné törölni ezt az árajánlatot?"
+  },
+  "form": {
+    "fullName": {
+      "label": "@:common.fullName",
+      "hint": "Adja meg a @:common.fullName",
+      "errors": {
+        "required": "Kérjük, adja meg a @:common.fullName"
+      }
+    },
+    "email": {
+      "label": "@:common.email",
+      "hint": "Adja meg az @:common.email címét",
+      "errors": {
+        "required": "Kérjük, adja meg az @:common.email címét",
+        "invalid": "⦸ Érvénytelen email, kérjük, próbálja újra"
+      }
+    },
+    "password": {
+      "label": "@:common.password",
+      "hint": "* * * * * * * *",
+      "errors": {
+        "required": "Kérjük, adja meg a @:common.password",
+        "minLength": "A jelszónak legalább ${count} karakter hosszúnak kell lennie!"
+      }
+    },
+    "confirmPassword": {
+      "label": "Jelszó megerősítése",
+      "hint": "* * * * * * * *",
+      "errors": {
+        "required": "Kérjük, adja meg a @:common.password",
+        "invalid": "'A jelszó megerősítése nem egyezik!"
+      }
+    },
+    "otp": {
+      "errors": {
+        "required": "Kérjük, adja meg az OTP-t.",
+        "invalid": "Kérjük, adja meg az aktuális OTP-t."
+      }
+    },
+    "profile": {
+      "businessCategory": {
+        "label": "Üzleti kategória",
+        "hint": "Válasszon üzleti kategóriát",
+        "errors": {
+          "required": "Kérjük, válasszon üzleti kategóriát"
+        }
+      },
+      "shopOrStore": {
+        "label": "Üzlet/Bolt neve*",
+        "hint": "Adja meg az üzlet vagy bolt nevét",
+        "errors": {
+          "required": "Kérjük, adja meg az üzlet vagy bolt nevét"
+        }
+      },
+      "openingBalance": {
+        "label": "Nyitó egyenleg",
+        "hint": "Adja meg a nyitó egyenleget"
+      },
+      "vatGstTitle": {
+        "label": "ÁFA/GST megnevezése",
+        "hint": "Adja meg az áfát/gst-t"
+      },
+      "vatGstNumber": {
+        "label": "ÁFA/GST szám",
+        "hint": "Adja meg az áfa/gst számot"
+      }
+    },
+    "vat": {
+      "name": {
+        "label": "Név",
+        "hint": "Adja meg az áfa nevét",
+        "error": {
+          "required": "Kérjük, adja meg az áfa nevét"
+        }
+      },
+      "subVat": {
+        "label": "Al-ÁFA",
+        "hint": "Válasszon al-áfát",
+        "errors": {
+          "required": "Kérjük, válasszon ki egy al-ÁFA-t"
+        }
+      },
+      "rate": {
+        "label": "ÁFA-kulcs %",
+        "hint": "Adja meg az ÁFA kulcsot",
+        "errors": {
+          "required": "Kérjük, adja meg az ÁFA kulcsot."
+        }
+      }
+    },
+    "category": {
+      "label": "@:common.category",
+      "hint": "Válasszon termékkategóriát",
+      "error": {
+        "required": "Kérjük, adja meg a kategória nevét"
+      }
+    },
+    "items": {
+      "barcode": {
+        "label": "Vonalkód",
+        "hint": "@:common.selectOne"
+      },
+      "itemName": {
+        "label": "Terméknév",
+        "hint": "Adja meg a termék nevét",
+        "extra": {
+          "required": "Kérjük, adja meg a termék nevét"
+        }
+      },
+      "itemCategory": {
+        "label": "Termékkategória",
+        "hint": "Termékkategória",
+        "extra": {
+          "label": "Válasszon kategóriát",
+          "required": "Kérjük, válasszon egy kategóriát"
+        }
+      },
+      "brand": {
+        "label": "@:common.brand",
+        "hint": "@:common.selectOne",
+        "extra": {
+          "hint": "Adja meg a márka nevét",
+          "required": "Kérjük, adja meg a márka nevét"
+        }
+      },
+      "unit": {
+        "label": "@:common.unit",
+        "hint": "@:common.selectOne",
+        "error": {
+          "required": "Kérjük, adja meg az egység nevét"
+        }
+      },
+      "stock": {
+        "label": "Nyitókészlet",
+        "hint": "@:common.commonHint",
+        "extra": {
+          "required": "Kérjük, adja meg a termék minőségét."
+        }
+      },
+      "lowStock": {
+        "label": "@:common.lowStock",
+        "hint": "Pl.: 5"
+      },
+      "purchasePrice": {
+        "label": "@:common.purchasePrice",
+        "hint": "Pl.: \\$40",
+        "error": {
+          "required": "Kérjük, adja meg a beszerzési árat."
+        }
+      },
+      "salePrice": {
+        "label": "Eladási ár",
+        "hint": "Pl.: \\$60",
+        "error": {
+          "required": "Kérjük, adja meg az eladási árat."
+        }
+      },
+      "totalSalePrice": {
+        "label": "Teljes eladási ár",
+        "hint": "Pl.: \\$100"
+      },
+      "wholeSalePrice": {
+        "label": "@:common.wholeSalePrice",
+        "hint": "Adja meg a nagykereskedelmi árat"
+      },
+      "dealerPrice": {
+        "label": "@:common.dealerPrice",
+        "hint": "Adja meg a viszonteladói árat"
+      },
+      "discount": {
+        "label": "Kedvezmény (%)",
+        "hint": "@:common.commonHint"
+      },
+      "applicableTax": {
+        "label": "Alkalmazandó adó",
+        "hint": "@:common.selectOne"
+      },
+      "vatType": {
+        "label": "@:common.taxType",
+        "errorText": {
+          "required": "Kérjük, válasszon egy ÁFA típust"
+        }
+      },
+      "menu": {
+        "label": "Válasszon menüt",
+        "errors": {
+          "required": "Kérjük, válasszon menüt."
+        },
+        "hint": "Menü kiválasztása",
+        "extra": {
+          "selectNavLabel": "Tétel menü kiválasztása"
+        }
+      },
+      "modifierItems": {
+        "label": "Módosító tételek",
+        "hint": "Módosító tételek kiválasztása"
+      },
+      "preparationTime": {
+        "label(rich)": "Elkészítési idő ${minutes(perc)}",
+        "hint": "Pl: 30"
+      },
+      "variation": {
+        "name": {
+          "label": "Név",
+          "hint": "Variáció megadása",
+          "errors": {
+            "required": "Kérjük, adja meg a variáció nevét."
+          }
+        },
+        "price": {
+          "errors": {
+            "required": "Kérjük, adja meg az árat."
+          },
+          "label": "Ár",
+          "hint": "Pl: \\$30"
+        }
+      }
+    },
+    "itemCart": {
+      "hint": "@:common.commonHint",
+      "error": {
+        "required": "@:common.pleaseEnterQuantity",
+        "noZero": "@:common.quantityMustBeGreaterThanZero"
+      }
+    },
+    "sales": {
+      "autoGenerateInvoice": {
+        "label": "Számlaszám",
+        "hint": "P-00001"
+      },
+      "date": {
+        "label": "Dátum"
+      },
+      "customer": {
+        "label": "Vevő",
+        "hint": "Vevő kiválasztása"
+      },
+      "phone": {
+        "label": "Telefonszám",
+        "hint": "Adja meg a telefonszámot"
+      },
+      "address": {
+        "label": "Cím",
+        "hint": "Adja meg a címet"
+      },
+      "deliveryCharge": {
+        "label": "@:common.deliveryCharge",
+        "hint": "Pl.: \\$20",
+        "hint2": "Díj Pl: \\$10"
+      },
+      "table": {
+        "hint": "Asztal kiválasztása"
+      },
+      "waiter": {
+        "hint": "Pincér kiválasztása"
+      }
+    },
+    "bill": {
+      "label": "Számlaszám",
+      "hint": "P-00001"
+    },
+    "supplier": {
+      "label": "Beszállító",
+      "hint": "Válasszon beszállítót",
+      "extra": {
+        "required": "Kérjük, válasszon ki egy beszállítót"
+      }
+    },
+    "phone": {
+      "label": "Telefonszám",
+      "hint": "Adja meg a telefonszámot",
+      "errors": {
+        "required": "Kérjük, adja meg a telefonszámot."
+      }
+    },
+    "address": {
+      "label": "Cég címe",
+      "hint": "Adja meg a cég címét"
+    },
+    "payment": {
+      "label": "Név",
+      "hint": "Adja meg a fizetés nevét",
+      "error": {
+        "required": "Kérjük, adja meg a fizetési mód nevét"
+      }
+    },
+    "expense": {
+      "label": "Kiadási kategória",
+      "hint": "Válasszon kiadási kategóriát",
+      "error": {
+        "required": "Kérjük, adja meg a kiadási kategóriát"
+      }
+    },
+    "income": {
+      "label": "Bevételi kategória",
+      "hint": "Adja meg a kategória nevét",
+      "error": {
+        "required": "Kérjük, adja meg a kategória nevét"
+      },
+      "incomeTitle": {
+        "label": "Bevétel megnevezése",
+        "hint": "Adja meg a bevételt"
+      },
+      "incomeCategory": {
+        "label": "Bevételi kategória",
+        "hint": "Válasszon kategóriát"
+      },
+      "payment": {
+        "label": "Fizetés",
+        "hint": "Pl.: \\$10"
+      }
+    },
+    "note": {
+      "label": "Megjegyzés (opcionális)",
+      "hint": "Adja meg a szöveget"
+    },
+    "parties": {
+      "partyName": {
+        "label": "Partner neve",
+        "hint": "Adja meg a partner nevét",
+        "error": {
+          "required": "Kérjük, adja meg a partner nevét"
+        }
+      },
+      "partyPhone": {
+        "label": "Telefonszám",
+        "hint": "Adja meg a telefonszámot",
+        "error": {
+          "required": "Kérjük, adja meg a telefonszámot"
+        }
+      }
+    },
+    "table": {
+      "name": {
+        "label": "Asztal neve",
+        "hint": "Adja meg az asztal nevét",
+        "error": {
+          "required": "Kérjük, adja meg az asztal nevét"
+        }
+      },
+      "capacity": {
+        "label": "Kapacitás",
+        "hint": "Adja meg a kapacitást",
+        "error": {
+          "required": "Kérjük, adja meg a kapacitást"
+        }
+      }
+    },
+    "designation": {
+      "label": "@:common.designation",
+      "hint": "Válasszon beosztást",
+      "errors": {
+        "required": "Kérjük, válasszon beosztást."
+      }
+    },
+    "ingredientName": {
+      "label": "Összetevő neve",
+      "hint": "Adja meg az összetevő nevét",
+      "errors": {
+        "required": "Kérjük, adja meg az összetevő nevét"
+      }
+    },
+    "item": {
+      "label": "Tétel",
+      "hint": "Tétel kiválasztása",
+      "errors": {
+        "required": "Kérjük, válasszon tételt."
+      }
+    },
+    "modifierGroup": {
+      "label": "Módosító csoport",
+      "hint": "Módosító csoport kiválasztása",
+      "errors": {
+        "required": "Kérjük, válasszon módosító csoportot."
+      }
+    },
+    "description": {
+      "label": "Leírás",
+      "hint": "Adja meg a leírást"
+    },
+    "staff": {
+      "label": "@:common.staff",
+      "hint": "Válasszon egy munkatársat",
+      "errors": {
+        "required": "Kérem válasszon egy munkatársat"
+      }
+    },
+    "loginUserName": {
+      "label": "Bejelentkezési felhasználónév",
+      "hint": "Adja meg a felhasználónevet vagy e-mail címet",
+      "errors": {
+        "required": "Kérem adja meg a felhasználónevet vagy e-mail címet"
+      }
+    }
+  },
+  "action": {
+    "next": "Következő",
+    "getStarted": "Kezdés",
+    "skip": "Kihagyás",
+    "select": "Kiválasztás",
+    "save": "Mentés",
+    "verify": "Ellenőrzés",
+    "signIn": "@:common.signIn",
+    "signUp": "@:common.signUp",
+    "continue": "Folytatás",
+    "no": "Nem",
+    "yes": "Igen",
+    "okay": "Oké",
+    "cancel": "Mégse",
+    "confirm": "Megerősítés",
+    "tryAgain": "Újrapróbálkozás",
+    "reset": "Visszaállítás",
+    "apply": "Alkalmaz",
+    "stockAdjust": "Készletkorrekció",
+    "addMoreItems": "További termékek hozzáadása",
+    "hold": "Felfüggesztés",
+    "parcel": "@:common.parcel",
+    "buyNow": "Vásárlás most",
+    "viewAll": "Összes megtekintése",
+    "viewLedger": "Főkönyv megtekintése",
+    "submit": "Küldés",
+    "selected": "Kiválasztva",
+    "addToCart": "Kosárba tesz",
+    "selectAll": "Összes kiválasztása",
+    "update": "@:common.update",
+    "addRole": "Szerepkör hozzáadása"
+  },
+  "pages": {
+    "language": {
+      "appbarTitle": "@:action.select @:common.language"
+    },
+    "onboard": {
+      "onboardData": {
+        "data1": {
+          "title": "Könnyen használható @:common.appName",
+          "description": "Zökkenőmentes rendelések, erőfeszítés nélküli foglalások\\nEmeld éttermedet könnyedén!"
+        },
+        "data2": {
+          "title": "Egyszerű rendeléskezelés",
+          "description": "Egyszerűsítse étterme rendelésfelvevő folyamatát intuitív POS rendszerünkkel."
+        },
+        "data3": {
+          "title": "Kiváló analitika és jelentéskészítés",
+          "description": "Analitikai irányítópultunk valós idejű értékesítési és vásárlási jelentéseket biztosít"
+        }
+      }
+    },
+    "signIn": {
+      "title": "Üdv újra",
+      "subtitle": "Kérjük, adja meg adatait.",
+      "extra": {
+        "rememberMe": "Emlékezz rám",
+        "signUpNavigator(rich)": "Nincs fiókja? ${getStarted(@:action.getStarted)}",
+        "forgotPassword": "@:common.forgotPassword?"
+      }
+    },
+    "signUp": {
+      "title": "Fiók létrehozása",
+      "subtitle": "Kérjük, adja meg adatait",
+      "extra": {
+        "signInNavigator(rich)": "Már van fiókja? ${signIn(@:action.signIn)}"
+      }
+    },
+    "forgotPassword": {
+      "title": "@:common.forgotPassword",
+      "subtitle": "Adja meg e-mail címét a jelszó helyreállításához."
+    },
+    "otpVerification": {
+      "title": "Ellenőrzés",
+      "subtitle": "Egy 6 jegyű PIN-kódot küldtünk az e-mail címére",
+      "extra": {
+        "codeResend": {
+          "codeSendIn": "A kód elküldve",
+          "resendCode": "Kód újraküldése"
+        }
+      }
+    },
+    "resetPassword": {
+      "title": "Jelszó visszaállítása",
+      "subtitle": "Állítsa vissza jelszavát a helyreállításhoz és jelentkezzen be fiókjába",
+      "extra": {
+        "dialog": {
+          "title": "Sikeresen megváltoztatva!",
+          "subtitle": "Jelentkezzen be új jelszavával.\nÁtirányítás a bejelentkezéshez..."
+        }
+      }
+    },
+    "items": {
+      "itemList": {
+        "extra": {
+          "emptyItem": "Nem található termék!\nKérjük, próbáljon meg hozzáadni egy terméket."
+        }
+      },
+      "manageItems": {
+        "title": "Új termék hozzáadása",
+        "title2": "Termék szerkesztése",
+        "extra": {
+          "maximum": "Legfeljebb 5",
+          "wholeSaleAndDealerPrice": "Nagykereskedelmi és viszonteladói ár",
+          "addDiscount": "Kedvezmény hozzáadása",
+          "addVat": "ÁFA hozzáadása"
+        }
+      },
+      "itemDetails": {
+        "title": "Termék részletei",
+        "extra": {
+          "noImageAvailable": "Nincs elérhető kép!",
+          "preparationTime(rich)": "Elkészítési idő: ${min: String} ${mins(mins)}",
+          "pleaseSelectVariation": "Kérjük, válasszon variációt",
+          "pleaseSelectOption": "Kérjük, válasszon opciót.",
+          "enterYourInstruction": "Adja meg utasításait"
+        }
+      }
+    },
+    "category": {
+      "addNewCategory": "Új kategória hozzáadása",
+      "editCategory": "Kategória szerkesztése"
+    },
+    "brand": {
+      "addNewBrand": "Új márka hozzáadása",
+      "editBrand": "Márka szerkesztése"
+    },
+    "unit": {
+      "addNewUnit": "Új egység hozzáadása",
+      "editUnit": "Egység szerkesztése"
+    },
+    "stock": {
+      "stockList": "Készletlista"
+    },
+    "aboutUs": {
+      "title": "Rólunk"
+    },
+    "privacyPolicy": {
+      "title": "Adatvédelmi irányelvek"
+    },
+    "termAndCondition": {
+      "title": "@:common.termAndCondition"
+    },
+    "orders": {
+      "manageOrders": {
+        "extra": {
+          "billItems": "Számla tételei",
+          "manageQuantity": "Mennyiség kezelése"
+        },
+        "title": {
+          "editOrder": "Megrendelés szerkesztése",
+          "editKOT": "KOT szerkesztése"
+        }
+      }
+    },
+    "onlinePayment": {
+      "title": "Online fizetés"
+    },
+    "paymentStatus": {
+      "success": {
+        "title": "Köszönjük!",
+        "message": "A fizetést megvizsgáljuk és 24 órán belül jóváhagyjuk.",
+        "actionButtonText": "Számla megtekintése"
+      },
+      "fail": {
+        "title": "Hoppá! Sikertelen fizetés",
+        "message": "Tranzakciója technikai hiba miatt meghiúsult.",
+        "actionButtonText": "Újrapróbálkozás"
+      }
+    },
+    "confirmationDialog": {
+      "title": "Kijelentkezés",
+      "message": "Biztosan ki szeretne jelentkezni?",
+      "acceptationText": "Nem",
+      "rejectionText": "Kijelentkezés"
+    },
+    "payment": {
+      "title": "@:common.paymentMethod",
+      "addPaymentMethod": "Új fizetési mód hozzáadása",
+      "editPaymentMethod": "Fizetési mód szerkesztése",
+      "choseOnlinePayment": "Online fizetés választása",
+      "selectPaymentMethod": "Fizetési mód kiválasztása",
+      "pleaseSelectAPaymentMethod": "Kérjük, válasszon egy fizetési módot.",
+      "methodStatus": {
+        "title": "Állapot",
+        "message": "Az állapot nem lehet inaktív, ha a Gyorsnézet engedélyezve van!."
+      }
+    },
+    "subscriptionPlan": {
+      "title": "Prémium csomag vásárlása",
+      "extra": {
+        "actionButtonText": "Vissza",
+        "message": "Az előfizetés sikeresen kifizetve.\n\nMostantól hozzáférhet az előfizetett funkciókhoz.",
+        "mostPopular": "Legnépszerűbb"
+      }
+    },
+    "invoicePreview": {
+      "title": "Számla előnézet",
+      "message": "PDF előnézet hamarosan"
+    },
+    "currency": {
+      "title": "@:common.currency"
+    },
+    "dashboard": {
+      "overview": "Áttekintés",
+      "dashboardPrivacy": "Irányítópult adatvédelme",
+      "moneyInAndMoneyOut": "Bevétel és kiadás",
+      "lossAndProfitOverView": "Nyereség és veszteség áttekintése"
+    },
+    "due": {
+      "title": "@:common.dueList",
+      "collectionList": "Befizetési lista",
+      "dueCollection": "Esedékes behajtás"
+    },
+    "expense": {
+      "title": "@:common.expense",
+      "editExpense": "Költség szerkesztése",
+      "addNewExpense": "Új költség hozzáadása",
+      "editExpenseCategory": "Költségkategória szerkesztése",
+      "addNewExpenseCategory": "Új költségkategória hozzáadása",
+      "payment": "Fizetés",
+      "expenseCategory": "Költségkategória",
+      "selectCategory": "Kategória kiválasztása",
+      "allExpense": "Minden költség",
+      "pleaseSelectACategory": "Kérjük, válasszon kategóriát",
+      "expenseTitle": {
+        "label": "Költség címe",
+        "hint": "Adja meg a költséget"
+      }
+    },
+    "lossProfit": {
+      "title": "Veszteség/Nyereség lista",
+      "noLossProfitFound": "Nem található veszteség/nyereség!\nKérjük, próbáljon eladásokat létrehozni."
+    },
+    "income": {
+      "editIncomeCategory": "Bevételi kategória szerkesztése",
+      "addNewIncomeCategory": "Új bevételi kategória hozzáadása",
+      "incomeCategory": "Bevételi kategória",
+      "allIncome": "Összes bevétel",
+      "editIncome": "Bevétel szerkesztése",
+      "addNewIncome": "Bevétel szerkesztése",
+      "addIncome": "Bevétel hozzáadása"
+    },
+    "moneyIn": {
+      "title": "Bevételi lista",
+      "totalPaymentIn": "Összes bevétel"
+    },
+    "moneyOut": {
+      "title": "Kiadási lista",
+      "totalMoneyOut": "Összes kiadás"
+    },
+    "profile": {
+      "title": "Saját profil",
+      "editProfile": "Profil szerkesztése",
+      "businessInformation": "Céginformációk",
+      "profileInformation": "Profil információk"
+    },
+    "parties": {
+      "title": "Partnerek listája",
+      "allParties": "Összes partner",
+      "customer": "Vevő",
+      "supplier": "Beszállító",
+      "addParties": "Partnerek hozzáadása",
+      "editParties": "Partnerek szerkesztése",
+      "partiesDetails": "Partner részletei",
+      "personalInfo": "Személyes adatok"
+    },
+    "ledger": {
+      "subTitle": "Főkönyv"
+    },
+    "purchase": {
+      "title": "Új vásárlás hozzáadása",
+      "editPurchase": "Vásárlás szerkesztése"
+    },
+    "reports": {
+      "title": "Jelentések"
+    },
+    "table": {
+      "title": "Új asztal hozzáadása",
+      "editTable": "Asztal szerkesztése"
+    },
+    "tax": {
+      "title": "ÁFA kulcsok",
+      "buildHeaderTitle": "ÁFA kulcsok - ÁFA kulcsok kezelése",
+      "vatGroup": {
+        "title": "ÁFA csoport",
+        "subTitle": "ÁFA csoport - ÁFA csoport kezelése"
+      }
+    },
+    "vat": {
+      "addNewVat": "Új ÁFA hozzáadása",
+      "editVat": "ÁFA szerkesztése",
+      "addNewVatGroup": "Új ÁFA csoport hozzáadása",
+      "editVatGroup": "ÁFA csoport szerkesztése"
+    },
+    "orderList": {
+      "title": "Rendeléslista",
+      "filters": {
+        "orderType": {
+          "label": "@:common.orderType",
+          "hint": "Rendelés típusának kiválasztása"
+        },
+        "paymentStatus": {
+          "hint": "Fizetési státusz kiválasztása",
+          "label": "Fizetési státusz"
+        }
+      }
+    },
+    "staffs": {
+      "staffList": {
+        "filters": {
+          "designation": {
+            "label": "Beosztás",
+            "hint": "Beosztás kiválasztása"
+          }
+        },
+        "title": "Összes személyzet"
+      },
+      "manageStaff": {
+        "title1": "Új személyzet hozzáadása",
+        "title2": "Személyzet frissítése"
+      }
+    },
+    "ingredient": {
+      "ingredientList": {
+        "title1": "Összetevő lista",
+        "title2": "Összetevő kiválasztása"
+      },
+      "manageIngredient": {
+        "title1": "Új összetevő hozzáadása",
+        "title2": "Összetevő szerkesztése"
+      }
+    },
+    "itemModifier": {
+      "itemModifierList": {
+        "title": "@:common.itemModifiers"
+      },
+      "manageItemModifier": {
+        "title1": "Tétel módosítók hozzáadása",
+        "title2": "Tétel módosítók szerkesztése"
+      }
+    },
+    "quotation": {
+      "manageQuotation": {
+        "title": {
+          "add": "Új árajánlat hozzáadása",
+          "edit": "Árajánlat szerkesztése",
+          "convert": "Átalakítás értékesítéssé"
+        }
+      }
+    },
+    "rolePermission": {
+      "rolePermissionList": {
+        "title": "Szerepkör és jogosultság lista"
+      },
+      "manageRolePermission": {
+        "title1": "Új szerepkör hozzáadása",
+        "title2": "Szerepkör szerkesztése"
+      }
+    },
+    "printingOption": {
+      "title": "Nyomtatási lehetőség",
+      "form": {
+        "companyAddress": {
+          "label": "Cég címe",
+          "hint": "Adja meg a cég címét"
+        },
+        "noteLabel": {
+          "label": "Megjegyzés címke",
+          "hint": "Adja meg a megjegyzés címkét."
+        },
+        "note": {
+          "label": "Megjegyzés",
+          "hint": "Adja meg a megjegyzést."
+        },
+        "postSaleMessage": {
+          "label": "Eladás utáni üzenet",
+          "hint": "Adja meg az eladás utáni üzenetet"
+        },
+        "printingMethod": {
+          "label": "Nyomtatási módszer",
+          "hint": "Válassza ki a nyomtatási módszert"
+        },
+        "printerProfile": {
+          "label": "Nyomtató profil",
+          "hint": "Válassza ki a nyomtató profilt"
+        },
+        "paperSize": {
+          "label": "Termikus nyomtató papírmérete",
+          "hint": "Válassza ki a nyomtató papírméretét"
+        },
+        "printerDpi": {
+          "label": "Nyomtató DPI",
+          "hint": "Pl: 203"
+        },
+        "printingMargin": {
+          "label": "Nyomtatási margó",
+          "hint": "Pl: 2"
+        }
+      },
+      "tooltip": {
+        "printingMethod": {
+          "title": "Legördülő menü opciókkal:",
+          "default": "• Alapértelmezett (Natív módszer az EU szabványos karakterek nyomtatására)",
+          "image": "• Kép (Ajánlott Unicode karakterek nyomtatására)"
+        }
+      },
+      "action": {
+        "save": "Mentés"
+      }
+    },
+    "kitchen": {
+      "list": {
+        "noKitchensFound": "Nem található konyha.\n Kérjük, próbáljon meg hozzáadni egyet."
+      },
+      "manage": {
+        "addKitchen": "Konyha hozzáadása",
+        "editKitchen": "Konyha szerkesztése",
+        "kitchenName": {
+          "label": "Konyha neve",
+          "hint": "Adja meg a konyha nevét",
+          "error": "Kérjük, adja meg a konyha nevét."
+        },
+        "description": {
+          "label": "Leírás",
+          "hint": "Adja meg a leírást"
+        }
+      },
+      "manageItems": {
+        "title": "Tételek kezelése",
+        "addedItems": "Hozzáadott tételek",
+        "selectItemsError": "Kérjük, válasszon tételeket.",
+        "noItemsAdded": "Még nincsenek hozzáadott tételek!\nKérjük, próbáljon meg tételeket hozzáadni."
+      },
+      "card": {
+        "itemName": "Tétel neve",
+        "manageItems": "+ Tételek kezelése",
+        "deleteItemConfirm": "Törölni szeretné ezt a tételt?",
+        "deleteKitchenConfirm": "Törölni szeretné ezt a konyhát?"
+      }
+    }
+  },
+  "enums": {
+    "dropdownDateFilter": {
+      "daily": "Dnevno",
+      "weekly": "Tjedno",
+      "monthly": "Mjesečno",
+      "yearly": "Godišnje",
+      "custom": "Prilagođeno"
+    },
+    "orderTypes": {
+      "dineIn": "Helyben fogyasztás",
+      "pickUp": "Elvitel",
+      "delivery": "Kiszállítás",
+      "reservation": "Foglalás",
+      "quotation": "Árajánlat"
+    },
+    "paymentStatus": {
+      "paid": "Fizetett",
+      "unpaid": "Fizetetlen"
+    },
+    "staffTypes": {
+      "manager": "Menedzser",
+      "waiter": "Pincér",
+      "chef": "Szakács",
+      "cleaner": "Takarító",
+      "driver": "Sofőr",
+      "deliveryBoy": "Futár"
+    },
+    "itemFoodTypes": {
+      "veg": "Vegetáriánus",
+      "nonVeg": "Nem vegetáriánus",
+      "egg": "Tojásos",
+      "drink": "Ital",
+      "others": "Egyéb"
+    },
+    "itemTypes": {
+      "single": "Egyedi",
+      "variation": "Variáció"
+    },
+    "quotationStatus": {
+      "open": "Nyitva",
+      "closed": "Lezárva"
+    },
+    "tableStatus": {
+      "running": "Foglalt",
+      "available": "Szabad"
+    },
+    "thermalPrinterPrintingMethod": {
+      "image": "Kép",
+      "default": "Alapértelmezett"
+    },
+    "kotOrderStatus": {
+      "label": {
+        "pending": "Függőben",
+        "preparing": "Készítés alatt",
+        "ready": "Az étel elkészült",
+        "served": "Felszolgálva",
+        "cancelled": "Törölve"
+      },
+      "pending": "Függőben",
+      "preparing": "Készítés alatt",
+      "ready": "Az étel elkészült",
+      "served": "Felszolgálva",
+      "cancelled": "Törölve"
+    },
+    "kotItemStatus": {
+      "pending": "Főzés indítása",
+      "start": "Megjelölés készként",
+      "ready": "Kész"
+    }
+  },
+  "thermalPrint": {
+    "invoice": {
+      "purchaseInvoiceLabel": "Beszerzési számla: ${invoiceNumber: String}",
+      "saleInvoiceLabel": "Rendelési szám: ${invoiceNumber: String}",
+      "receiptNoLabel": "Nyugtaszám: ${invoiceNumber: String}",
+      "orderNoKotLabel": "Rendelési szám: ${invoiceNumber: String}",
+      "nameLabel": "Név: ${name: String}",
+      "mobileLabel": "Mobil: ${phone: String}",
+      "purchasedByLabel": "Vásárolta: ${role: String}",
+      "salesByLabel": "Eladta: ${role: String}",
+      "paidByLabel": "${label: String}: ${role: String}",
+      "paidToReceivedFromLabel": "${label: String}: ${name: String}",
+      "orderTypeLabel": "Rendelés típusa: ${orderType: String}",
+      "tableLabel": "Asztal: ${tableName: String}",
+      "tableNoLabel": "Asztal száma: ${tableName: String}",
+      "dateLabel": "Dátum: ${dateTime: String}",
+      "invoiceFlag": "SZÁMLA",
+      "receiptFlag": "NYUGTA",
+      "paidBy": "Fizette",
+      "receivedBy": "Átvette",
+      "paidTo": "Fizetve neki",
+      "receivedFrom": "Fogadva tőle",
+      "seller": "Eladó: ${name: String}",
+      "address": "Cím: ${addr: String}",
+      "vatNo": "Adószám",
+      "tel": "Tel: ${phoneNumber: String}",
+      "timeLabel": "Idő: ${dateTime: String}"
+    },
+    "tableHeaders": {
+      "sl": "Ssz.",
+      "item": "Tétel",
+      "cost": "Költség",
+      "qty": "Menny.",
+      "uPrice": "Egységár",
+      "amount": "Összeg",
+      "total": "Összesen",
+      "invoiceTable": "Számla",
+      "dueTable": "Fizetendő"
+    },
+    "summary": {
+      "subTotal": "Részösszeg:",
+      "discount": "Kedvezmény: ${percentFmt: String}",
+      "vat": "${vatName: String}: ${rateFmt: String}%",
+      "tip": "Borravaló:",
+      "deliveryCharge": "Szállítási díj:",
+      "totalPayable": "Fizetendő összesen:",
+      "paidAmount": "Fizetett összeg:",
+      "dueAmount": "Fizetendő összeg:",
+      "paymentType": "Fizetési mód: ${method: String}",
+      "remainingDue": "Hátralék:",
+      "paymentAmount": "Fizetési összeg:",
+      "itemsCount": "Tételek: ${count: int}",
+      "qtyTotal": "Menny.: ${totalQty: int}"
+    },
+    "footer": {
+      "note": "${noteLabel: String}: ${note: String}",
+      "developedBy": "${developByLabel: String} ${developBy: String}"
+    }
+  },
+  "hrm": {
+    "department": "Részleg",
+    "designation": "Beosztás",
+    "shift": "Műszak",
+    "employee": "Alkalmazott",
+    "leave": "Szabadság",
+    "leaveType": "Szabadság típusa",
+    "leaveRequest": "Szabadság kérelem",
+    "holiday": "Ünnepnap",
+    "attendance": "Jelenlét",
+    "payroll": "Bérszámfejtés",
+    "pageTitles": {
+      "department": "Részleg",
+      "designation": "Beosztás",
+      "shift": "Műszak",
+      "employee": "Alkalmazott",
+      "leave": "Szabadság",
+      "leaveType": "Szabadság típusa",
+      "holiday": "Ünnepnap",
+      "attendance": "Jelenlét",
+      "payroll": "Bérszámfejtés",
+      "leaveReports": "Szabadság jelentések",
+      "payrollReports": "Bérszámfejtési jelentések",
+      "attendanceReports": "Jelenléti jelentések",
+      "addDepartment": "Részleg hozzáadása",
+      "editDepartment": "Részleg szerkesztése",
+      "addDesignation": "Beosztás hozzáadása",
+      "editDesignation": "Beosztás szerkesztése",
+      "addShift": "Műszak hozzáadása",
+      "editShift": "Műszak szerkesztése",
+      "addEmployee": "Alkalmazott hozzáadása",
+      "editEmployee": "Alkalmazott szerkesztése",
+      "addLeave": "Szabadság hozzáadása",
+      "editLeave": "Szabadság szerkesztése",
+      "addLeaveType": "Szabadság típus hozzáadása",
+      "editLeaveType": "Szabadság típus szerkesztése",
+      "addHoliday": "Ünnepnap hozzáadása",
+      "editHoliday": "Ünnepnap szerkesztése",
+      "addAttendance": "Jelenlét hozzáadása",
+      "editAttendance": "Jelenlét szerkesztése",
+      "addPayroll": "Bér hozzáadása",
+      "editPayroll": "Bér szerkesztése"
+    },
+    "form": {
+      "labels": {
+        "department": "Részleg",
+        "designation": "Beosztás",
+        "shift": "Műszak",
+        "employee": "Alkalmazott",
+        "leaveType": "Szabadság típusa",
+        "leaveDuration": "Szabadság időtartama",
+        "paymentYear": "Fizetési év",
+        "paymentType": "Fizetés típusa",
+        "breakStatus": "Szünet állapota",
+        "startTime": "Kezdési idő",
+        "endTime": "Befejezési idő",
+        "startBreakTime": "Szünet kezdete",
+        "endBreakTime": "Szünet vége",
+        "breakTime": "Szünet időpontja",
+        "breakDuration": "Szünet időtartama",
+        "timeIn": "Érkezés ideje",
+        "timeOut": "Távozás ideje",
+        "duration": "Időtartam",
+        "country": "Ország",
+        "salary": "Fizetés",
+        "gender": "Nem",
+        "birthDate": "Születési dátum",
+        "joinDate": "Belépés dátuma",
+        "holidayName": "Ünnepnap neve",
+        "startDate": "Kezdő dátum",
+        "endDate": "Befejező dátum",
+        "month": "Hónap",
+        "year": "Év",
+        "status": "Állapot",
+        "description": "Leírás",
+        "amount": "Összeg",
+        "payment": "Fizetés",
+        "departmentName": "Részleg neve",
+        "designationName": "Beosztás neve",
+        "image": "Kép",
+        "name": "Név"
+      },
+      "hints": {
+        "selectEmployee": "Válasszon alkalmazottat",
+        "selectDepartment": "Válasszon részleget",
+        "selectDesignation": "Válasszon beosztást",
+        "selectShift": "Válasszon műszakot",
+        "selectLeaveType": "Válasszon szabadság típust",
+        "selectMonth": "Válasszon hónapot",
+        "selectYear": "Válasszon évet",
+        "selectDate": "Válasszon dátumot",
+        "selectStartDate": "Válasszon kezdő dátumot",
+        "selectEndDate": "Válasszon befejező dátumot",
+        "selectTimeIn": "Válassza ki az érkezés idejét",
+        "selectTimeOut": "Válassza ki a távozás idejét",
+        "selectStartTime": "Válassza ki a kezdési időt",
+        "selectEndTime": "Válassza ki a befejezési időt",
+        "selectStatus": "Válasszon állapotot",
+        "selectGender": "Válasszon nemet",
+        "selectPaymentType": "Válasszon fizetési típust",
+        "enterFullName": "Adja meg a teljes nevet",
+        "enterEmail": "Adja meg az e-mail címet",
+        "enterPhone": "Adja meg a telefonszámot",
+        "enterCountry": "Adja meg az országot",
+        "enterSalary": "Pl.: 500",
+        "enterHolidayName": "Adja meg az ünnepnap nevét",
+        "enterDescription": "Adjon meg leírást...",
+        "autoCalculated": "Automatikusan számítva",
+        "selectDatesFirst": "Először válasszon dátumokat",
+        "allEmployee": "Minden alkalmazott",
+        "selectEmployeeFirst": "Először válasszon alkalmazottat",
+        "enterDepartmentName": "Adja meg a részleg nevét",
+        "enterDesignationName": "Beosztás neve",
+        "ex": "{value}",
+        "selectBirthDate": "Válassza ki a születési dátumot",
+        "selectJoinDate": "Válassza ki a belépés dátumát",
+        "selectBreakStatus": "Szünet állapotának kiválasztása",
+        "enterLeaveTypeName": "Szabadság típusának neve"
+      }
+    },
+    "emptyStates": {
+      "noLeaves": "Nincs szabadság",
+      "noPayrollRecords": "Nincs bérszámfejtési rekord",
+      "noAttendanceRecords": "Nincs jelenléti rekord",
+      "noLeaveTypes": "Nem találhatók szabadság típusok",
+      "noEmployees": "Nincs alkalmazott",
+      "noHolidays": "Nincs ünnepnap",
+      "noShifts": "Nem találhatók műszakok",
+      "noDesignations": "Nincs beosztás",
+      "noDepartments": "Nincs részleg"
+    },
+    "confirmations": {
+      "deleteAttendance": "Biztosan törölni szeretné ezt a jelenlétet?",
+      "deletePayroll": "Biztosan törölni szeretné ezt a bért?",
+      "deleteLeave": "Biztosan törölni szeretné ezt a szabadságot?",
+      "deleteLeaveType": "Törölni szeretné ezt a szabadság típust?",
+      "deleteEmployee": "Biztosan törölni szeretné ezt az alkalmazottat?",
+      "deleteHoliday": "Biztosan törölni szeretné ezt az ünnepnapot?",
+      "deleteShift": "Törölni szeretné ezt a műszakot?",
+      "deleteDesignation": "Biztosan törölni szeretné ezt a beosztást?",
+      "deleteDepartment": "Biztosan törölni szeretné ezt a részleget?"
+    },
+    "validation": {
+      "selectEmployee": "Kérjük, válasszon alkalmazottat",
+      "selectMonth": "Kérjük, válasszon hónapot",
+      "selectEndDate": "Kérjük, válasszon befejező dátumot",
+      "endDateAfterStart": "A befejező dátumnak a kezdő dátum után kell lennie",
+      "selectStatus": "Kérjük, válassza ki az állapotot",
+      "selectLeaveType": "Kérjük, válasszon szabadság típust",
+      "selectStartDate": "Kérjük, válasszon kezdő dátumot",
+      "selectDate": "Kérjük, válasszon dátumot",
+      "selectTimeIn": "Kérjük, válassza ki az érkezési időt",
+      "selectTimeOut": "Kérjük, válassza ki a távozási időt",
+      "enterDepartmentName": "Kérjük, adja meg a részleg nevét",
+      "enterDesignationName": "Kérjük, adja meg a beosztás nevét",
+      "enterName": "Kérjük, adja meg a nevet",
+      "selectDesignation": "Kérjük, válasszon beosztást",
+      "selectDepartment": "Kérjük, válasszon részleget",
+      "enterEmail": "Kérjük, adja meg az e-mail címet",
+      "enterValidEmail": "Kérjük, adjon meg érvényes e-mail címet",
+      "enterPhoneNumber": "Kérjük, adja meg a telefonszámot",
+      "enterCountry": "Kérjük, adja meg az országot",
+      "enterSalary": "Kérjük, adja meg a fizetést",
+      "selectGender": "Kérjük, válasszon nemet",
+      "selectShift": "Kérjük, válasszon műszakot",
+      "selectBirthDate": "Kérjük, válassza ki a születési dátumot",
+      "selectJoinDate": "Kérjük, válassza ki a belépés dátumát",
+      "enterHolidayName": "Kérjük, adja meg az ünnepnap nevét",
+      "selectBreakStatus": "Kérjük, válassza ki a szünet állapotát",
+      "selectPaymentYear": "Kérjük, válassza ki a fizetés évét",
+      "selectPaymentType": "Kérjük, válassza ki a fizetés típusát",
+      "enterAmount": "Kérjük, adja meg az összeget",
+      "selectStartBreakTime": "Kérjük, válassza ki a szünet kezdetét",
+      "selectEndBreakTime": "Kérjük, válassza ki a szünet végét",
+      "enterLeaveTypeName": "Kérjük, adja meg a szabadság típusának nevét",
+      "selectStartTime": "Kérjük, válassza ki a kezdési időt",
+      "selectEndTime": "Kérjük, válassza ki a befejezési időt"
+    },
+    "dropdowns": {
+      "addNew": "+ Új hozzáadása",
+      "morning": "Reggel",
+      "day": "Nap",
+      "evening": "Este",
+      "night": "Éjszaka",
+      "yes": "Igen",
+      "no": "Nem",
+      "approved": "Jóváhagyva",
+      "rejected": "Elutasítva",
+      "terminated": "Megszüntetve",
+      "suspended": "Felfüggesztve",
+      "male": "Férfi",
+      "female": "Nő",
+      "pending": "Függőben",
+      "active": "Aktív",
+      "inactive": "Inaktív",
+      "paid": "Fizetve",
+      "unpaid": "Kifizetetlen"
+    },
+    "units": {
+      "days": "nap"
+    },
+    "fallbacks": {
+      "noNoteAvailable": "Nincs elérhető megjegyzés",
+      "noDescriptionAvailable": "Nincs elérhető leírás",
+      "selectEmployeeFirst": "Először válasszon alkalmazottat"
+    },
+    "success": {
+      "leaveDelete": "Szabadság sikeresen törölve",
+      "attendanceDelete": "Jelenlét sikeresen törölve",
+      "attendanceAdd": "Jelenlét sikeresen hozzáadva",
+      "attendanceUpdate": "Jelenlét sikeresen frissítve",
+      "leaveAdd": "Szabadság sikeresen hozzáadva",
+      "leaveUpdate": "Szabadság sikeresen frissítve",
+      "departmentDelete": "Részleg sikeresen törölve",
+      "departmentAdd": "Részleg sikeresen hozzáadva",
+      "departmentUpdate": "Részleg sikeresen frissítve",
+      "designationDelete": "Beosztás sikeresen törölve",
+      "designationAdd": "Beosztás sikeresen hozzáadva",
+      "designationUpdate": "Beosztás sikeresen frissítve",
+      "employeeDelete": "Alkalmazott sikeresen törölve",
+      "employeeAdd": "Alkalmazott sikeresen hozzáadva",
+      "employeeUpdate": "Alkalmazott sikeresen frissítve",
+      "holidayDelete": "Ünnepnap sikeresen törölve",
+      "holidayAdd": "Ünnepnap sikeresen hozzáadva",
+      "holidayUpdate": "Ünnepnap sikeresen frissítve",
+      "leaveTypeDelete": "Szabadság típus sikeresen törölve"
+    }
+  }
+}

@@ -1,0 +1,1561 @@
+{
+  "@@meta": {
+    "languageCode": "ko_KR",
+    "languageName": "Korean",
+    "version": "1.0.0"
+  },
+  "common": {
+    "signIn": "로그인",
+    "signUp": "회원가입",
+    "verifyEmail": "이메일 인증",
+    "customizeProfile": "프로필 사용자 지정",
+    "imageOrLogo": "로고 또는 이미지",
+    "createNewPassword": "새 비밀번호 만들기",
+    "itemsList": "상품 목록",
+    "searchItemsName": "상품명 검색",
+    "categoryList": "카테고리 목록",
+    "brandList": "브랜드 목록",
+    "unitList": "단위 목록",
+    "itemDetails": "상품 상세 정보",
+    "addStock": "재고 추가",
+    "profile": "프로필",
+    "language": "언어",
+    "termsAndConditions": "이용 약관",
+    "aboutUs": "회사 소개",
+    "logout": "로그아웃",
+    "editProfile": "프로필 편집",
+    "fullName": "성명",
+    "email": "이메일",
+    "mobileNumber": "휴대폰 번호",
+    "address": "주소",
+    "password": "비밀번호",
+    "forgotPassword": "비밀번호 찾기",
+    "edit": "편집",
+    "delete": "삭제",
+    "addItems": "상품 추가",
+    "stock": "재고",
+    "currentStock": "현재 재고",
+    "value": "가치",
+    "sales": "판매",
+    "purchase": "구매",
+    "price": "가격",
+    "image": "이미지",
+    "upload": "업로드",
+    "addNew": "새로 추가",
+    "pricing": "가격 책정",
+    "name": "이름",
+    "category(plural)": {
+      "one": "카테고리",
+      "other": "카테고리s"
+    },
+    "areas": "Areas",
+    "brand": "브랜드",
+    "lowStock": "재고 부족",
+    "unit": "단위",
+    "vat": "VAT",
+    "taxType": "세금 유형",
+    "purchasePrice": "구매 가격",
+    "sellingPrice": "판매 가격",
+    "wholeSalePrice": "도매 가격",
+    "dealerPrice": "딜러 가격",
+    "searchHere": "여기서 검색",
+    "totalItems": "총 상품 수",
+    "stockValue": "재고 가치",
+    "congratulation": "축하합니다",
+    "salesList": "판매 목록",
+    "searchInvoiceNumber": "송장 번호 검색",
+    "view": "보기",
+    "kFor": "대상",
+    "total": "총",
+    "subTotal": "소계",
+    "insufficientStockAvailableStock": "재고 부족, 현재 재고",
+    "discount": "할인",
+    "selectOne": "하나 선택",
+    "allCategory": "모든 카테고리",
+    "details": "세부 정보",
+    "parcel": "소포",
+    "kot": "주방 주문 티켓",
+    "table": "테이블",
+    "holdTable": "테이블 보류",
+    "capacity": "수용 인원",
+    "commonHint": "예: 10",
+    "pleaseEnterQuantity": "수량을 입력하세요",
+    "quantityMustBeGreaterThanZero": "수량은 0보다 커야 합니다",
+    "mobile": "모바일",
+    "orderNo": "주문 번호",
+    "dateAndTime": "날짜 및 시간",
+    "items": "상품",
+    "totalAmount": "총 금액",
+    "paidAmount": "지불 금액",
+    "dueAmount": "미지불 금액",
+    "paymentType": "결제 유형",
+    "thankYou": "감사합니다",
+    "developedBy": "${domain: String}에 의해 개발됨",
+    "qty": "가격",
+    "amount": "금액",
+    "dashboard": "대시보드",
+    "reports": "보고서",
+    "home": "홈",
+    "parties": "거래처",
+    "subscriptionPlan": "구독 플랜",
+    "estimateList": "견적 목록",
+    "purchaseList": "구매 목록",
+    "dueList": "미지불 목록",
+    "lossOrProfit": "손익",
+    "stocks": "재고",
+    "moneyInList": "입금 목록",
+    "moneyOutList": "출금 목록",
+    "transactionList": "거래 목록",
+    "income": "수입",
+    "expense": "지출",
+    "quickView": "빠른 보기",
+    "to": "~",
+    "totalSales": "총 판매",
+    "totalPurchase": "총 구매",
+    "holdNumber": "보류 주문",
+    "totalExpense": "총 지출",
+    "loss": "손실",
+    "profit": "이익",
+    "recentTransaction": "최근 거래",
+    "invoice": "송장",
+    "moneyIn": "입금",
+    "moneyOut": "출금",
+    "paid": "지불됨",
+    "due": "미지불",
+    "partial": "부분 지불",
+    "print": "인쇄",
+    "addCategory": "카테고리 추가",
+    "addExpense": "지출 추가",
+    "search": "검색...",
+    "viewDetails": "세부 정보 보기",
+    "title": "제목",
+    "date": "날짜",
+    "note": "메모",
+    "phoneNumber": "전화번호",
+    "type": "유형",
+    "selectContactSType": "연락처 유형 선택",
+    "moreInfo": "추가 정보",
+    "paymentReceived": "결제 완료",
+    "selectSupplier": "공급업체 선택",
+    "supplier": "공급업체",
+    "received": "수령",
+    "balanceDue": "미지불 잔액",
+    "addPurchase": "구매 추가",
+    "selectedItemWillBeCleared": "선택한 항목이 지워집니다.",
+    "searchItemName": "상품명 검색",
+    "billItems": "청구 품목",
+    "addMoreItems": "항목 더 추가",
+    "payAmount": "지불 금액",
+    "salesReport": "판매 보고서",
+    "purchaseReport": "구매 보고서",
+    "stockReport": "재고 보고서",
+    "dueReport": "미지불 보고서",
+    "dueCollectionReport": "미지불 수금 보고서",
+    "transactionReport": "거래 보고서",
+    "incomeReport": "수입 보고서",
+    "dueCollectionList": "미지불 수금 목록",
+    "expenseReport": "지출 보고서",
+    "dueCollection": "미지불 수금",
+    "myProfile": "내 프로필",
+    "printingOption": "인쇄 옵션",
+    "currency": "통화",
+    "paymentMethod": "결제 방법",
+    "rateUs": "평가하기",
+    "termAndCondition": "이용 약관",
+    "tableList": "테이블 목록",
+    "addTable": "테이블 추가",
+    "vatRate": "VAT 세율 %",
+    "action": "액션",
+    "status": "상태",
+    "active": "활성",
+    "inActive": "비활성",
+    "subVats": "하위 VAT",
+    "add": "추가",
+    "taxRate": "세율 %",
+    "subTaxes": "하위 세금",
+    "group": "그룹",
+    "VAT": "부가가치세",
+    "subTaxList": "하위 세금 목록",
+    "vatPercent": "VAT 비율",
+    "statusIsCannotInActive": "VAT가 판매에 적용된 경우 상태를 비활성화할 수 없습니다.",
+    "vatOnSales": "판매 시 VAT",
+    "transaction": "거래",
+    "version": "버전 ${version: String}",
+    "hold": "보류",
+    "empty": "비어 있음",
+    "appName": "레스토랑 앱",
+    "duePayment": "미지급금",
+    "orders": "주문",
+    "all": "전체",
+    "ingredient": "재료",
+    "menus": "메뉴",
+    "modifierGroups": "수정 그룹",
+    "itemModifiers": "항목 수정자",
+    "staff": "직원",
+    "coupon": "쿠폰",
+    "pay": "결제",
+    "pendingOrders": "대기 주문",
+    "order": "주문",
+    "payNow": "지금 결제",
+    "addStaff": "직원 추가",
+    "designation": "직책",
+    "itemAdded": "항목 추가됨",
+    "noItemAdded": "추가된 항목 없음",
+    "saveNPrint": "저장 및 인쇄",
+    "allowMultiSelection": "다중 선택 허용",
+    "required": "필수",
+    "optional": "선택 사항",
+    "allowMultiSelectionForSale": "판매를 위한 다중 선택 허용",
+    "isRequired": "필수 여부",
+    "modifier": "수정자",
+    "fullPayment": "전액 결제",
+    "payment": "결제",
+    "addTip": "팁 추가",
+    "netPayable": "최종 결제 금액",
+    "receiveAmount": "받은 금액",
+    "changeAmount": "거스름돈",
+    "quotationList": "견적서 목록",
+    "addQuotation": "견적서 추가",
+    "convert": "변환",
+    "variations": "옵션",
+    "instructions": "요청사항",
+    "unavailable": "이용 불가",
+    "tip": "팁",
+    "salesQuotationReport": "판매 견적 보고서",
+    "orderType": "주문 유형",
+    "deliveryCharge": "배송비",
+    "receiptNo": "영수증 번호",
+    "paidBy": "결제자",
+    "receivedBy": "수령자",
+    "paymentAmount": "결제 금액",
+    "remainingDue": "남은 금액",
+    "roleNPermission": "역할 및 권한",
+    "sl": "SL",
+    "features": "기능",
+    "create": "생성",
+    "update": "업데이트",
+    "quotations": "견적",
+    "restaurant": "레스토랑",
+    "printerProfile": "프린터 프로필",
+    "kitchenOrders": "주방 주문",
+    "kitchen(plural)": {
+      "one": "주방",
+      "other": "주방"
+    },
+    "allKOT": "모든 KOT",
+    "cancelKOT": "KOT 취소",
+    "selectCancelReason": "취소 사유 선택",
+    "additionalComment": "추가 코멘트",
+    "enterComment": "코멘트 입력",
+    "orderStatus": "주문 상태",
+    "selectOrderStatus": "주문 상태 선택",
+    "kotReport": "KOT 보고서",
+    "itemFoodType": "음식 유형",
+    "selectItemFoodType": "@:common.itemFoodType 선택",
+    "markAllAsRead": "모두 읽음으로 표시",
+    "online": "온라인",
+    "cancelledReason": "취소 사유",
+    "hrm": "HRM",
+    "notAvailable": "N/A"
+  },
+  "exceptions": {
+    "somethingWentWrong": "문제가 발생했습니다. 다시 시도해주세요.",
+    "noCategoryFound": "카테고리가 없습니다!\n카테고리를 추가해주세요.",
+    "doYouWantToDeleteThisCategory": "이 카테고리를 삭제하시겠습니까?",
+    "noBrandFound": "브랜드가 없습니다!\n브랜드를 추가해주세요.",
+    "doYouWantToDeleteThisBrand": "이 브랜드를 삭제하시겠습니까?",
+    "noItemStockFound": "상품 재고가 없습니다!\n상품을 추가해주세요.",
+    "noUnitFound": "단위가 없습니다!\n단위를 추가해주세요.",
+    "doYouDeleteThisUnit": "이 단위를 삭제하시겠습니까?",
+    "noSaleFoundPleaseSAddProduct": "판매 내역이 없습니다!\n판매를 추가해주세요.",
+    "doYouWantToDeleteThisSale": "이 판매 내역을 삭제하시겠습니까?",
+    "pleaseAddItemToTheCartFirst": "먼저 장바구니에 상품을 추가해주세요.",
+    "noItemAdded": "추가된 상품이 없습니다.",
+    "cannotEditOthersTable": "다른 테이블은 편집할 수 없습니다.",
+    "tableIsAlreadyBlocked": "테이블이 이미 예약되었습니다.",
+    "failedToGetCustomerDetails": "고객 정보를 가져오는데 실패했습니다.",
+    "noTableFoundPleaseTryAgain": "테이블이 없습니다!\n테이블을 추가해주세요.",
+    "noDueCollectionFound": "미수금 내역이 없습니다!\n미수금이 발생하면 여기서 확인할 수 있습니다.",
+    "noExpenseFoundPleaseTryAddingExpense": "지출 내역이 없습니다!\n지출을 추가해주세요.",
+    "doYouWantToDeleteThisExpense": "이 지출 내역을 삭제하시겠습니까?",
+    "noExpenseCategoryFound": "지출 카테고리가 없습니다!\n지출 카테고리를 추가해주세요.",
+    "noTransactionFound": "거래 내역이 없습니다. 나중에 다시 시도해주세요!",
+    "pleaseSelectACategory": "카테고리를 선택해주세요.",
+    "noIncomeFound": "수입 내역이 없습니다!\n수입을 추가해주세요.",
+    "doYouWantToDeleteThisIncome": "이 수입 내역을 삭제하시겠습니까?",
+    "noIncomeCategoryFoundAddingAIncome": "수입 카테고리가 없습니다!\n수입 카테고리를 추가해주세요.",
+    "noItemFoundPleaseTryAddingItem": "상품이 없습니다!\n상품을 추가해주세요.",
+    "noPartiesFound": "거래처가 없습니다.",
+    "doYouWantToDeleteThisParty": "이 거래처를 삭제하시겠습니까?",
+    "noLedgerFound": "원장이 없습니다!\n${transactionType: String}을 추가해주세요.",
+    "areYouSureYouSureWantToDeleteThisTaxType": "이 ${taxType: String}을 삭제하시겠습니까?",
+    "noItemFoundPleaseSTryAddingAnPurchase": "상품이 없습니다!\n구매를 추가해주세요.",
+    "doYouWantToDeleteThisPurchase": "이 구매 내역을 삭제하시겠습니까?",
+    "noTransactionFoundYouSeeTransactionHereWhenAvailable": "거래 내역이 없습니다!\n거래 내역이 발생하면 여기서 확인할 수 있습니다.",
+    "noSaleFoundPleaseTryAddingSale": "판매 내역이 없습니다!\n판매를 추가해주세요.",
+    "noPurchaseFoundPleaseTryAddingPurchase": "구매 내역이 없습니다!\n구매를 추가해주세요.",
+    "noItemIncomeFound": "수입 항목이 없습니다!\n수입 데이터가 있으면 여기서 확인할 수 있습니다.",
+    "noItemExpenseFound": "지출 항목이 없습니다!\n지출 데이터가 있으면 여기서 확인할 수 있습니다.",
+    "noItemDueInvoiceFound": "미지불 송장 항목이 없습니다!\n미지불 송장이 있으면 여기서 확인할 수 있습니다.",
+    "noItemDueCollectionInvoiceFound": "'미수금 송장 항목이 없습니다!\n미수금 송장이 있으면 여기서 확인할 수 있습니다.",
+    "doYouWantToDeleteThisTable": "이 테이블을 삭제하시겠습니까?'",
+    "thisVatIsBeingUsedOnSales": "이 VAT는 판매에 사용 중입니다!",
+    "noPaymentMethodFoundPleaseTryAddingAPaymentMethod": "결제 방법이 없습니다!\n결제 방법을 추가해주세요.",
+    "pleaseSelectACustomerFirst": "고객을 먼저 선택해주세요.",
+    "pleaseSelectATableToCreateAKot": "KOT 생성을 위해 테이블을 선택해주세요.",
+    "noStaffFound": "직원을 찾을 수 없습니다!\n 직원을 추가해 주세요.",
+    "noIngredientFound": "재료를 찾을 수 없습니다!\n 재료를 추가해 주세요.",
+    "exceedsPaymentAmount": "받은 금액은 결제 금액보다 클 수 없습니다.",
+    "noItemModifierFound": "항목 수정자를 찾을 수 없습니다!\n 항목 수정자를 추가해 주세요.",
+    "noModifierGroupFound": "수정 그룹을 찾을 수 없습니다!\n 수정 그룹을 추가해 주세요.",
+    "noOptionsFound": "옵션을 찾을 수 없습니다!",
+    "maxImageCountLimit": "최대 5개의 이미지만 선택할 수 있습니다.",
+    "noQuotationFound": "견적서를 찾을 수 없습니다!\\n 견적서를 추가해 보세요.",
+    "noPermittedUserFound": "허용된 사용자를 찾을 수 없습니다!\\n 사용자를 추가해 주십시오."
+  },
+  "prompt": {
+    "logout": {
+      "title": "@:common.logout",
+      "message": "로그아웃하시겠습니까?"
+    },
+    "unsavedWarning": {
+      "title": "뒤로 돌아가시겠습니까?",
+      "message": "변경된 필드는 저장되지 않을 수 있습니다!"
+    },
+    "verify": {
+      "title": "이메일 인증",
+      "description(rich)": "인증 코드 이메일을 보냈습니다.${emailSpan}\n\n메일이 스팸 폴더로 들어갔을 수도 있습니다."
+    },
+    "subscriptionExpired": {
+      "title": "구독이 만료되었습니다!",
+      "message": "계속하시려면 구독해주세요.",
+      "action": "구독"
+    },
+    "items": {
+      "delete": {
+        "title": "이 상품을 삭제하시겠습니까?"
+      },
+      "filter": {
+        "title": "필터링",
+        "extra": {
+          "lowToHigh": "낮은 가격순 @:common.price",
+          "highToLow": "높은 가격순 @:common.price"
+        }
+      }
+    },
+    "checkInternet": {
+      "title": "인터넷 연결 없음",
+      "message": "Wi-Fi 또는 모바일 네트워크 연결을 확인하고 다시 시도해주세요."
+    },
+    "back": {
+      "title": "뒤로 버튼을 한 번 더 누르면 종료됩니다."
+    },
+    "stockModelSheet": {
+      "title": "새 재고 추가"
+    },
+    "paymentMethod": {
+      "title": "이 결제 방법을 삭제하시겠습니까?"
+    },
+    "extMsg": {
+      "kotSavedSuccessfully": "KOT가 성공적으로 저장되었습니다."
+    },
+    "deleteStaff": "이 직원을 삭제하시겠습니까?",
+    "deleteIngredient": "이 재료를 삭제하시겠습니까?",
+    "deleteItemModifier": "이 항목 수정자를 삭제하시겠습니까?",
+    "deleteModifierGroup": "이 수정 그룹을 삭제하시겠습니까?",
+    "deleteQuotation": "이 견적서를 삭제하시겠습니까?"
+  },
+  "form": {
+    "fullName": {
+      "label": "@:common.fullName",
+      "hint": "@:common.fullName 을(를) 입력하세요",
+      "errors": {
+        "required": "@:common.fullName 을(를) 입력해주세요"
+      }
+    },
+    "email": {
+      "label": "@:common.email",
+      "hint": "@:common.email 을(를) 입력하세요",
+      "errors": {
+        "required": "@:common.email 주소를 입력해주세요",
+        "invalid": "⦸ 유효하지 않은 이메일입니다. 다시 시도해주세요"
+      }
+    },
+    "password": {
+      "label": "@:common.password",
+      "hint": "* * * * * * * *",
+      "errors": {
+        "required": "@:common.password 을(를) 입력해주세요",
+        "minLength": "비밀번호는 최소 ${count}자 이상이어야 합니다!"
+      }
+    },
+    "confirmPassword": {
+      "label": "비밀번호 확인",
+      "hint": "* * * * * * * *",
+      "errors": {
+        "required": "@:common.password 을(를) 입력해주세요",
+        "invalid": "'비밀번호 확인이 일치하지 않습니다!'"
+      }
+    },
+    "otp": {
+      "errors": {
+        "required": "OTP를 입력해주세요.",
+        "invalid": "현재 OTP를 입력해주세요."
+      }
+    },
+    "profile": {
+      "businessCategory": {
+        "label": "업종",
+        "hint": "업종을 선택하세요",
+        "errors": {
+          "required": "업종을 선택해주세요"
+        }
+      },
+      "shopOrStore": {
+        "label": "상점/가게 이름*",
+        "hint": "상점 또는 가게 이름을 입력하세요",
+        "errors": {
+          "required": "상점 또는 가게 이름을 입력해주세요"
+        }
+      },
+      "openingBalance": {
+        "label": "초기 잔액",
+        "hint": "초기 잔액을 입력하세요"
+      },
+      "vatGstTitle": {
+        "label": "VAT/GST 제목",
+        "hint": "VAT/GST를 입력하세요"
+      },
+      "vatGstNumber": {
+        "label": "VAT/GST 번호",
+        "hint": "VAT/GST 번호를 입력하세요"
+      }
+    },
+    "vat": {
+      "name": {
+        "label": "이름",
+        "hint": "VAT 이름을 입력하세요",
+        "error": {
+          "required": "VAT 이름을 입력하세요"
+        }
+      },
+      "subVat": {
+        "label": "하위 VAT",
+        "hint": "하위 VAT를 선택하세요",
+        "errors": {
+          "required": "하위 VAT를 선택하세요"
+        }
+      },
+      "rate": {
+        "label": "VAT 세율 %",
+        "hint": "VAT 세율을 입력하세요",
+        "errors": {
+          "required": "VAT 세율을 입력해주세요."
+        }
+      }
+    },
+    "category": {
+      "label": "@:common.category",
+      "hint": "상품 카테고리를 선택하세요",
+      "error": {
+        "required": "카테고리 이름을 입력하세요"
+      }
+    },
+    "items": {
+      "barcode": {
+        "label": "바코드",
+        "hint": "@:common.selectOne"
+      },
+      "itemName": {
+        "label": "상품명",
+        "hint": "상품명을 입력하세요",
+        "extra": {
+          "required": "상품명을 입력해주세요"
+        }
+      },
+      "itemCategory": {
+        "label": "상품 카테고리",
+        "hint": "상품 카테고리",
+        "extra": {
+          "label": "카테고리 선택",
+          "required": "카테고리를 선택해주세요"
+        }
+      },
+      "brand": {
+        "label": "@:common.brand",
+        "hint": "@:common.selectOne",
+        "extra": {
+          "hint": "브랜드 이름을 입력하세요",
+          "required": "브랜드 이름을 입력해주세요"
+        }
+      },
+      "unit": {
+        "label": "@:common.unit",
+        "hint": "@:common.selectOne",
+        "error": {
+          "required": "단위 이름을 입력하세요"
+        }
+      },
+      "stock": {
+        "label": "초기 재고",
+        "hint": "@:common.commonHint",
+        "extra": {
+          "required": "상품 수량을 입력해주세요."
+        }
+      },
+      "lowStock": {
+        "label": "@:common.lowStock",
+        "hint": "예: 5"
+      },
+      "purchasePrice": {
+        "label": "@:common.purchasePrice",
+        "hint": "예: \\$40",
+        "error": {
+          "required": "구매 가격을 입력해주세요."
+        }
+      },
+      "salePrice": {
+        "label": "판매 가격",
+        "hint": "예: \\$60",
+        "error": {
+          "required": "판매 가격을 입력해주세요."
+        }
+      },
+      "totalSalePrice": {
+        "label": "총 판매 가격",
+        "hint": "예: \\$100"
+      },
+      "wholeSalePrice": {
+        "label": "@:common.wholeSalePrice",
+        "hint": "도매 가격을 입력하세요"
+      },
+      "dealerPrice": {
+        "label": "@:common.dealerPrice",
+        "hint": "딜러 가격을 입력하세요"
+      },
+      "discount": {
+        "label": "할인 (%)",
+        "hint": "@:common.commonHint"
+      },
+      "applicableTax": {
+        "label": "적용 가능한 세금",
+        "hint": "@:common.selectOne"
+      },
+      "vatType": {
+        "label": "@:common.taxType",
+        "errorText": {
+          "required": "VAT 유형을 선택해주세요"
+        }
+      },
+      "menu": {
+        "label": "메뉴 선택",
+        "errors": {
+          "required": "메뉴를 선택해주세요."
+        },
+        "hint": "메뉴를 선택하세요",
+        "extra": {
+          "selectNavLabel": "항목 메뉴 선택"
+        }
+      },
+      "modifierItems": {
+        "label": "수정자 항목",
+        "hint": "수정자 항목을 선택하세요"
+      },
+      "preparationTime": {
+        "label(rich)": "준비 시간 ${minutes(분)}",
+        "hint": "예: 30"
+      },
+      "variation": {
+        "name": {
+          "label": "이름",
+          "hint": "옵션을 입력하세요",
+          "errors": {
+            "required": "옵션 이름을 입력해주세요."
+          }
+        },
+        "price": {
+          "errors": {
+            "required": "가격을 입력해주세요."
+          },
+          "label": "가격",
+          "hint": "예: \\$30"
+        }
+      }
+    },
+    "itemCart": {
+      "hint": "@:common.commonHint",
+      "error": {
+        "required": "@:common.pleaseEnterQuantity",
+        "noZero": "@:common.quantityMustBeGreaterThanZero"
+      }
+    },
+    "sales": {
+      "autoGenerateInvoice": {
+        "label": "청구서 번호",
+        "hint": "P-00001"
+      },
+      "date": {
+        "label": "날짜"
+      },
+      "customer": {
+        "label": "고객",
+        "hint": "고객 선택"
+      },
+      "phone": {
+        "label": "전화번호",
+        "hint": "전화번호를 입력하세요"
+      },
+      "address": {
+        "label": "주소",
+        "hint": "주소를 입력하세요"
+      },
+      "deliveryCharge": {
+        "label": "@:common.deliveryCharge",
+        "hint": "예: \\$20",
+        "hint2": "예시 요금: \\$10"
+      },
+      "table": {
+        "hint": "테이블 선택"
+      },
+      "waiter": {
+        "hint": "웨이터 선택"
+      }
+    },
+    "bill": {
+      "label": "청구서 번호",
+      "hint": "P-00001"
+    },
+    "supplier": {
+      "label": "공급업체",
+      "hint": "공급업체를 선택하세요",
+      "extra": {
+        "required": "공급업체를 선택해주세요"
+      }
+    },
+    "phone": {
+      "label": "전화번호",
+      "hint": "전화번호를 입력하세요",
+      "errors": {
+        "required": "전화번호를 입력해주세요."
+      }
+    },
+    "address": {
+      "label": "회사 주소",
+      "hint": "회사 주소를 입력하세요"
+    },
+    "payment": {
+      "label": "이름",
+      "hint": "결제 이름을 입력하세요",
+      "error": {
+        "required": "결제 방법 이름을 입력해주세요"
+      }
+    },
+    "expense": {
+      "label": "지출 카테고리",
+      "hint": "지출 카테고리를 선택하세요",
+      "error": {
+        "required": "지출 카테고리를 입력해주세요"
+      }
+    },
+    "income": {
+      "label": "수입 카테고리",
+      "hint": "카테고리 이름을 입력하세요",
+      "error": {
+        "required": "카테고리 이름을 입력해주세요"
+      },
+      "incomeTitle": {
+        "label": "수입 제목",
+        "hint": "수입을 입력하세요"
+      },
+      "incomeCategory": {
+        "label": "수입 카테고리",
+        "hint": "카테고리를 선택하세요"
+      },
+      "payment": {
+        "label": "결제",
+        "hint": "예: \\$10"
+      }
+    },
+    "note": {
+      "label": "메모 (선택 사항)",
+      "hint": "텍스트를 입력하세요"
+    },
+    "parties": {
+      "partyName": {
+        "label": "거래처 이름",
+        "hint": "거래처 이름을 입력하세요",
+        "error": {
+          "required": "거래처 이름을 입력해주세요"
+        }
+      },
+      "partyPhone": {
+        "label": "전화번호",
+        "hint": "전화번호를 입력하세요",
+        "error": {
+          "required": "전화번호를 입력해주세요"
+        }
+      }
+    },
+    "table": {
+      "name": {
+        "label": "테이블 이름",
+        "hint": "테이블 이름을 입력하세요",
+        "error": {
+          "required": "테이블 이름을 입력해주세요"
+        }
+      },
+      "capacity": {
+        "label": "수용 인원",
+        "hint": "수용 인원을 입력하세요",
+        "error": {
+          "required": "수용 인원을 입력해주세요"
+        }
+      }
+    },
+    "designation": {
+      "label": "@:common.designation",
+      "hint": "직책을 선택하세요",
+      "errors": {
+        "required": "직책을 선택해주세요."
+      }
+    },
+    "ingredientName": {
+      "label": "재료 이름",
+      "hint": "재료 이름을 입력하세요",
+      "errors": {
+        "required": "재료 이름을 입력해주세요"
+      }
+    },
+    "item": {
+      "label": "항목",
+      "hint": "항목 선택",
+      "errors": {
+        "required": "항목을 선택해주세요."
+      }
+    },
+    "modifierGroup": {
+      "label": "수정 그룹",
+      "hint": "수정 그룹을 선택하세요",
+      "errors": {
+        "required": "수정 그룹을 선택해주세요."
+      }
+    },
+    "description": {
+      "label": "설명",
+      "hint": "설명을 입력하세요"
+    },
+    "staff": {
+      "label": "@:common.staff",
+      "hint": "직원 선택",
+      "errors": {
+        "required": "직원을 선택해주세요"
+      }
+    },
+    "loginUserName": {
+      "label": "로그인 사용자 이름",
+      "hint": "사용자 이름 또는 이메일 주소 입력",
+      "errors": {
+        "required": "사용자 이름 또는 이메일 주소를 입력해주세요"
+      }
+    }
+  },
+  "action": {
+    "next": "다음",
+    "getStarted": "시작하기",
+    "skip": "건너뛰기",
+    "select": "선택",
+    "save": "저장",
+    "verify": "확인",
+    "signIn": "@:common.signIn",
+    "signUp": "@:common.signUp",
+    "continue": "계속",
+    "no": "아니요",
+    "yes": "예",
+    "okay": "확인",
+    "cancel": "취소",
+    "confirm": "확인",
+    "tryAgain": "다시 시도",
+    "reset": "초기화",
+    "apply": "적용",
+    "stockAdjust": "재고 조정",
+    "addMoreItems": "항목 더 추가",
+    "hold": "보류",
+    "parcel": "@:common.parcel",
+    "buyNow": "지금 구매",
+    "viewAll": "모두 보기",
+    "viewLedger": "원장 보기",
+    "submit": "제출",
+    "selected": "선택됨",
+    "addToCart": "장바구니에 추가",
+    "selectAll": "모두 선택",
+    "update": "@:common.update",
+    "addRole": "역할 추가"
+  },
+  "pages": {
+    "language": {
+      "appbarTitle": "@:action.select @:common.language"
+    },
+    "onboard": {
+      "onboardData": {
+        "data1": {
+          "title": "사용하기 쉬운 @:common.appName",
+          "description": "원활한 주문, 손쉬운 예약\\n쉽게 레스토랑을 운영하세요!"
+        },
+        "data2": {
+          "title": "간편한 주문 관리",
+          "description": "직관적인 POS 시스템으로 레스토랑의 주문 접수 프로세스를 간소화하세요."
+        },
+        "data3": {
+          "title": "탁월한 분석 및 보고 기능",
+          "description": "당사의 분석 대시보드는 실시간 판매 및 구매 보고서를 제공합니다."
+        }
+      }
+    },
+    "signIn": {
+      "title": "돌아오신 것을 환영합니다",
+      "subtitle": "세부 정보를 입력해주세요.",
+      "extra": {
+        "rememberMe": "자동 로그인",
+        "signUpNavigator(rich)": "계정이 없으신가요? ${getStarted(@:action.getStarted)}",
+        "forgotPassword": "@:common.forgotPassword?"
+      }
+    },
+    "signUp": {
+      "title": "계정 만들기",
+      "subtitle": "세부 정보를 입력해주세요",
+      "extra": {
+        "signInNavigator(rich)": "이미 계정이 있으신가요? ${signIn(@:action.signIn)}"
+      }
+    },
+    "forgotPassword": {
+      "title": "@:common.forgotPassword",
+      "subtitle": "비밀번호를 복구하려면 이메일 주소를 입력하세요."
+    },
+    "otpVerification": {
+      "title": "인증",
+      "subtitle": "6자리 PIN이 이메일 주소로 전송되었습니다.",
+      "extra": {
+        "codeResend": {
+          "codeSendIn": "코드 전송",
+          "resendCode": "코드 재전송"
+        }
+      }
+    },
+    "resetPassword": {
+      "title": "비밀번호 재설정",
+      "subtitle": "비밀번호를 재설정하여 계정을 복구하고 로그인하세요.",
+      "extra": {
+        "dialog": {
+          "title": "성공적으로 변경되었습니다!",
+          "subtitle": "새 비밀번호로 로그인하세요.\n로그인 페이지로 리디렉션 중..."
+        }
+      }
+    },
+    "items": {
+      "itemList": {
+        "extra": {
+          "emptyItem": "상품이 없습니다!\n상품을 추가해주세요."
+        }
+      },
+      "manageItems": {
+        "title": "새 상품 추가",
+        "title2": "상품 편집",
+        "extra": {
+          "maximum": "최대 5개",
+          "wholeSaleAndDealerPrice": "도매가 및 딜러가",
+          "addDiscount": "할인 추가",
+          "addVat": "VAT 추가"
+        }
+      },
+      "itemDetails": {
+        "title": "상품 상세 정보",
+        "extra": {
+          "noImageAvailable": "이미지 없음!",
+          "preparationTime(rich)": "준비 시간: ${min: String} ${mins(mins)}",
+          "pleaseSelectVariation": "옵션을 선택해 주세요.",
+          "pleaseSelectOption": "옵션을 선택해 주세요.",
+          "enterYourInstruction": "요청사항을 입력해 주세요."
+        }
+      }
+    },
+    "category": {
+      "addNewCategory": "새 카테고리 추가",
+      "editCategory": "카테고리 편집"
+    },
+    "brand": {
+      "addNewBrand": "새 브랜드 추가",
+      "editBrand": "브랜드 편집"
+    },
+    "unit": {
+      "addNewUnit": "새 단위 추가",
+      "editUnit": "단위 편집"
+    },
+    "stock": {
+      "stockList": "재고 목록"
+    },
+    "aboutUs": {
+      "title": "회사 소개"
+    },
+    "privacyPolicy": {
+      "title": "개인정보 처리방침"
+    },
+    "termAndCondition": {
+      "title": "@:common.termAndCondition"
+    },
+    "orders": {
+      "manageOrders": {
+        "extra": {
+          "billItems": "청구 품목",
+          "manageQuantity": "수량 관리"
+        },
+        "title": {
+          "editOrder": "주문 수정",
+          "editKOT": "KOT 수정"
+        }
+      }
+    },
+    "onlinePayment": {
+      "title": "온라인 결제"
+    },
+    "paymentStatus": {
+      "success": {
+        "title": "감사합니다!",
+        "message": "결제 내역을 검토 후 24시간 이내에 승인해 드리겠습니다.",
+        "actionButtonText": "송장 보기"
+      },
+      "fail": {
+        "title": "죄송합니다! 결제 실패",
+        "message": "기술적인 오류로 인해 거래가 실패했습니다.",
+        "actionButtonText": "다시 시도"
+      }
+    },
+    "confirmationDialog": {
+      "title": "로그아웃",
+      "message": "로그아웃하시겠습니까?",
+      "acceptationText": "아니요",
+      "rejectionText": "로그아웃"
+    },
+    "payment": {
+      "title": "@:common.paymentMethod",
+      "addPaymentMethod": "새 결제 방법 추가",
+      "editPaymentMethod": "결제 방법 편집",
+      "choseOnlinePayment": "온라인 결제 선택",
+      "selectPaymentMethod": "결제 방법 선택",
+      "pleaseSelectAPaymentMethod": "결제 방법을 선택해주세요.",
+      "methodStatus": {
+        "title": "상태",
+        "message": "빠른 보기가 활성화된 경우 상태를 비활성화할 수 없습니다!"
+      }
+    },
+    "subscriptionPlan": {
+      "title": "프리미엄 플랜 구매",
+      "extra": {
+        "actionButtonText": "돌아가기",
+        "message": "구독 결제가 완료되었습니다.\n\n지금부터 구독 기능을 이용할 수 있습니다.",
+        "mostPopular": "가장 인기 있는"
+      }
+    },
+    "invoicePreview": {
+      "title": "송장 미리보기",
+      "message": "PDF 미리보기 Coming Soon"
+    },
+    "currency": {
+      "title": "@:common.currency"
+    },
+    "dashboard": {
+      "overview": "개요",
+      "dashboardPrivacy": "대시보드 개인 정보 설정",
+      "moneyInAndMoneyOut": "입금 및 출금",
+      "lossAndProfitOverView": "손익 개요"
+    },
+    "due": {
+      "title": "@:common.dueList",
+      "collectionList": "수금 목록",
+      "dueCollection": "미수금 수금"
+    },
+    "expense": {
+      "title": "@:common.expense",
+      "editExpense": "비용 편집",
+      "addNewExpense": "새 비용 추가",
+      "editExpenseCategory": "비용 카테고리 편집",
+      "addNewExpenseCategory": "새 비용 카테고리 추가",
+      "payment": "결제",
+      "expenseCategory": "비용 카테고리",
+      "selectCategory": "카테고리 선택",
+      "allExpense": "모든 비용",
+      "pleaseSelectACategory": "카테고리를 선택하세요",
+      "expenseTitle": {
+        "label": "비용 제목",
+        "hint": "비용을 입력하세요"
+      }
+    },
+    "lossProfit": {
+      "title": "손실/수익 목록",
+      "noLossProfitFound": "손실/수익을 찾을 수 없습니다!\n판매를 생성해 보세요."
+    },
+    "income": {
+      "editIncomeCategory": "수입 카테고리 편집",
+      "addNewIncomeCategory": "새 수입 카테고리 추가",
+      "incomeCategory": "수입 카테고리",
+      "allIncome": "모든 수입",
+      "editIncome": "수입 편집",
+      "addNewIncome": "수입 편집",
+      "addIncome": "수입 추가"
+    },
+    "moneyIn": {
+      "title": "입금 목록",
+      "totalPaymentIn": "총 입금액"
+    },
+    "moneyOut": {
+      "title": "출금 목록",
+      "totalMoneyOut": "총 출금액"
+    },
+    "profile": {
+      "title": "내 프로필",
+      "editProfile": "프로필 편집",
+      "businessInformation": "사업 정보",
+      "profileInformation": "프로필 정보"
+    },
+    "parties": {
+      "title": "거래처 목록",
+      "allParties": "모든 거래처",
+      "customer": "고객",
+      "supplier": "공급업체",
+      "addParties": "거래처 추가",
+      "editParties": "거래처 편집",
+      "partiesDetails": "거래처 상세 정보",
+      "personalInfo": "개인 정보"
+    },
+    "ledger": {
+      "subTitle": "원장"
+    },
+    "purchase": {
+      "title": "새 구매 추가",
+      "editPurchase": "구매 편집"
+    },
+    "reports": {
+      "title": "보고서"
+    },
+    "table": {
+      "title": "새 테이블 추가",
+      "editTable": "테이블 편집"
+    },
+    "tax": {
+      "title": "VAT 요율",
+      "buildHeaderTitle": "VAT 요율 - VAT 요율 관리",
+      "vatGroup": {
+        "title": "VAT 그룹",
+        "subTitle": "VAT 그룹 - VAT 그룹 관리"
+      }
+    },
+    "vat": {
+      "addNewVat": "새 VAT 추가",
+      "editVat": "VAT 편집",
+      "addNewVatGroup": "새 VAT 그룹 추가",
+      "editVatGroup": "VAT 그룹 편집"
+    },
+    "orderList": {
+      "title": "주문 목록",
+      "filters": {
+        "orderType": {
+          "label": "@:common.orderType",
+          "hint": "주문 유형을 선택하세요"
+        },
+        "paymentStatus": {
+          "hint": "결제 상태를 선택하세요",
+          "label": "결제 상태"
+        }
+      }
+    },
+    "staffs": {
+      "staffList": {
+        "filters": {
+          "designation": {
+            "label": "직책",
+            "hint": "직책을 선택하세요"
+          }
+        },
+        "title": "모든 직원"
+      },
+      "manageStaff": {
+        "title1": "새 직원 추가",
+        "title2": "직원 정보 업데이트"
+      }
+    },
+    "ingredient": {
+      "ingredientList": {
+        "title1": "재료 목록",
+        "title2": "재료 선택"
+      },
+      "manageIngredient": {
+        "title1": "새 재료 추가",
+        "title2": "재료 수정"
+      }
+    },
+    "itemModifier": {
+      "itemModifierList": {
+        "title": "@:common.itemModifiers"
+      },
+      "manageItemModifier": {
+        "title1": "항목 수정자 추가",
+        "title2": "항목 수정자 수정"
+      }
+    },
+    "quotation": {
+      "manageQuotation": {
+        "title": {
+          "add": "새 견적서 추가",
+          "edit": "견적서 편집",
+          "convert": "판매로 전환"
+        }
+      }
+    },
+    "rolePermission": {
+      "rolePermissionList": {
+        "title": "역할 및 권한 목록"
+      },
+      "manageRolePermission": {
+        "title1": "새 역할 추가",
+        "title2": "역할 편집"
+      }
+    },
+    "printingOption": {
+      "title": "인쇄 옵션",
+      "form": {
+        "companyAddress": {
+          "label": "회사 주소",
+          "hint": "회사 주소 입력"
+        },
+        "noteLabel": {
+          "label": "노트 라벨",
+          "hint": "노트 라벨 입력."
+        },
+        "note": {
+          "label": "노트",
+          "hint": "노트 입력."
+        },
+        "postSaleMessage": {
+          "label": "판매 후 메시지",
+          "hint": "판매 후 메시지 입력"
+        },
+        "printingMethod": {
+          "label": "인쇄 방법",
+          "hint": "인쇄 방법 선택"
+        },
+        "printerProfile": {
+          "label": "프린터 프로필",
+          "hint": "프린터 프로필 선택"
+        },
+        "paperSize": {
+          "label": "열전사 프린터 용지 크기",
+          "hint": "프린터 용지 크기 선택"
+        },
+        "printerDpi": {
+          "label": "프린터 DPI",
+          "hint": "예: 203"
+        },
+        "printingMargin": {
+          "label": "인쇄 여백",
+          "hint": "예: 2"
+        }
+      },
+      "tooltip": {
+        "printingMethod": {
+          "title": "옵션 포함 드롭다운:",
+          "default": "• 기본 (EU 표준 문자 인쇄를 위한 기본 방법)",
+          "image": "• 이미지 (Unicode 문자 인쇄에 권장)"
+        }
+      },
+      "action": {
+        "save": "저장"
+      }
+    },
+    "kitchen": {
+      "list": {
+        "noKitchensFound": "주방을 찾을 수 없습니다.\n 하나를 추가해 보세요."
+      },
+      "manage": {
+        "addKitchen": "주방 추가",
+        "editKitchen": "주방 편집",
+        "kitchenName": {
+          "label": "주방 이름",
+          "hint": "주방 이름 입력",
+          "error": "주방 이름을 입력하세요."
+        },
+        "description": {
+          "label": "설명",
+          "hint": "설명 입력"
+        }
+      },
+      "manageItems": {
+        "title": "품목 관리",
+        "addedItems": "추가된 품목",
+        "selectItemsError": "품목을 선택하세요.",
+        "noItemsAdded": "품목이 아직 추가되지 않았습니다!\n품목을 추가해 보세요."
+      },
+      "card": {
+        "itemName": "품목 이름",
+        "manageItems": "+ 품목 관리",
+        "deleteItemConfirm": "이 품목을 삭제하시겠습니까?",
+        "deleteKitchenConfirm": "이 주방을 삭제하시겠습니까?"
+      }
+    }
+  },
+  "enums": {
+    "dropdownDateFilter": {
+      "daily": "매일",
+      "weekly": "매주",
+      "monthly": "매월",
+      "yearly": "매년",
+      "custom": "사용자 지정"
+    },
+    "orderTypes": {
+      "dineIn": "매장 식사",
+      "pickUp": "픽업",
+      "delivery": "배달",
+      "reservation": "예약",
+      "quotation": "견적"
+    },
+    "paymentStatus": {
+      "paid": "지불됨",
+      "unpaid": "미지불"
+    },
+    "staffTypes": {
+      "manager": "관리자",
+      "waiter": "웨이터",
+      "chef": "주방장",
+      "cleaner": "청소부",
+      "driver": "운전사",
+      "deliveryBoy": "배달원"
+    },
+    "itemFoodTypes": {
+      "veg": "채식",
+      "nonVeg": "비채식",
+      "egg": "계란",
+      "drink": "음료",
+      "others": "기타"
+    },
+    "itemTypes": {
+      "single": "단품",
+      "variation": "옵션"
+    },
+    "quotationStatus": {
+      "open": "열림",
+      "closed": "닫힘"
+    },
+    "tableStatus": {
+      "running": "사용 중",
+      "available": "비어 있음"
+    },
+    "thermalPrinterPrintingMethod": {
+      "image": "이미지",
+      "default": "기본값"
+    },
+    "kotOrderStatus": {
+      "label": {
+        "pending": "대기 중",
+        "preparing": "조리 중",
+        "ready": "음식 나옴",
+        "served": "서빙 완료",
+        "cancelled": "주문 취소"
+      },
+      "pending": "대기 중",
+      "preparing": "조리 중",
+      "ready": "음식 나옴",
+      "served": "서빙 완료",
+      "cancelled": "주문 취소"
+    },
+    "kotItemStatus": {
+      "pending": "조리 시작",
+      "start": "완료로 표시",
+      "ready": "준비 완료"
+    }
+  },
+  "thermalPrint": {
+    "invoice": {
+      "purchaseInvoiceLabel": "매입 계산서: ${invoiceNumber: String}",
+      "saleInvoiceLabel": "주문 번호: ${invoiceNumber: String}",
+      "receiptNoLabel": "영수증 번호: ${invoiceNumber: String}",
+      "orderNoKotLabel": "주문 번호: ${invoiceNumber: String}",
+      "nameLabel": "이름: ${name: String}",
+      "mobileLabel": "휴대폰: ${phone: String}",
+      "purchasedByLabel": "구매자: ${role: String}",
+      "salesByLabel": "판매자: ${role: String}",
+      "paidByLabel": "${label: String}: ${role: String}",
+      "paidToReceivedFromLabel": "${label: String}: ${name: String}",
+      "orderTypeLabel": "주문 유형: ${orderType: String}",
+      "tableLabel": "테이블: ${tableName: String}",
+      "tableNoLabel": "테이블 번호: ${tableName: String}",
+      "dateLabel": "날짜: ${dateTime: String}",
+      "invoiceFlag": "계산서",
+      "receiptFlag": "영수증",
+      "paidBy": "결제자",
+      "receivedBy": "수령인",
+      "paidTo": "결제 대상",
+      "receivedFrom": "수령 출처",
+      "seller": "판매자: ${name: String}",
+      "address": "주소: ${addr: String}",
+      "vatNo": "사업자번호",
+      "tel": "전화: ${phoneNumber: String}",
+      "timeLabel": "시간: ${dateTime: String}"
+    },
+    "tableHeaders": {
+      "sl": "순번",
+      "item": "품목",
+      "cost": "원가",
+      "qty": "수량",
+      "uPrice": "단가",
+      "amount": "금액",
+      "total": "합계",
+      "invoiceTable": "계산서",
+      "dueTable": "미수금"
+    },
+    "summary": {
+      "subTotal": "소계:",
+      "discount": "할인: ${percentFmt: String}",
+      "vat": "${vatName: String}: ${rateFmt: String}%",
+      "tip": "팁:",
+      "deliveryCharge": "배달료:",
+      "totalPayable": "총 결제 금액:",
+      "paidAmount": "결제 금액:",
+      "dueAmount": "미수 금액:",
+      "paymentType": "결제 유형: ${method: String}",
+      "remainingDue": "잔여 미수금:",
+      "paymentAmount": "결제 금액:",
+      "itemsCount": "품목: ${count: int}",
+      "qtyTotal": "수량: ${totalQty: int}"
+    },
+    "footer": {
+      "note": "${noteLabel: String}: ${note: String}",
+      "developedBy": "${developByLabel: String} ${developBy: String}"
+    }
+  },
+  "hrm": {
+    "department": "부서",
+    "designation": "직책",
+    "shift": "근무조",
+    "employee": "직원",
+    "leave": "휴가",
+    "leaveType": "휴가 유형",
+    "leaveRequest": "휴가 신청",
+    "holiday": "공휴일",
+    "attendance": "출석",
+    "payroll": "급여",
+    "pageTitles": {
+      "department": "부서",
+      "designation": "직책",
+      "shift": "근무조",
+      "employee": "직원",
+      "leave": "휴가",
+      "leaveType": "휴가 유형",
+      "holiday": "공휴일",
+      "attendance": "출석",
+      "payroll": "급여",
+      "leaveReports": "휴가 보고서",
+      "payrollReports": "급여 보고서",
+      "attendanceReports": "출석 보고서",
+      "addDepartment": "부서 추가",
+      "editDepartment": "부서 편집",
+      "addDesignation": "직책 추가",
+      "editDesignation": "직책 편집",
+      "addShift": "교대 근무 추가",
+      "editShift": "교대 근무 편집",
+      "addEmployee": "직원 추가",
+      "editEmployee": "직원 편집",
+      "addLeave": "휴가 추가",
+      "editLeave": "휴가 편집",
+      "addLeaveType": "휴가 유형 추가",
+      "editLeaveType": "휴가 유형 편집",
+      "addHoliday": "공휴일 추가",
+      "editHoliday": "공휴일 편집",
+      "addAttendance": "출석 추가",
+      "editAttendance": "출석 편집",
+      "addPayroll": "급여 추가",
+      "editPayroll": "급여 편집"
+    },
+    "form": {
+      "labels": {
+        "department": "부서",
+        "designation": "직책",
+        "shift": "교대 근무",
+        "employee": "직원",
+        "leaveType": "휴가 유형",
+        "leaveDuration": "휴가 기간",
+        "paymentYear": "지급 연도",
+        "paymentType": "지급 유형",
+        "breakStatus": "휴식 상태",
+        "startTime": "시작 시간",
+        "endTime": "종료 시간",
+        "startBreakTime": "휴식 시작",
+        "endBreakTime": "휴식 종료",
+        "breakTime": "휴식 시간",
+        "breakDuration": "휴식 기간",
+        "timeIn": "출근 시간",
+        "timeOut": "퇴근 시간",
+        "duration": "기간",
+        "country": "국가",
+        "salary": "급여",
+        "gender": "성별",
+        "birthDate": "생년월일",
+        "joinDate": "입사일",
+        "holidayName": "공휴일 이름",
+        "startDate": "시작일",
+        "endDate": "종료일",
+        "month": "월",
+        "year": "연도",
+        "status": "상태",
+        "description": "설명",
+        "amount": "금액",
+        "payment": "지급",
+        "departmentName": "부서명",
+        "designationName": "직함 이름",
+        "image": "이미지",
+        "name": "이름"
+      },
+      "hints": {
+        "selectEmployee": "직원 선택",
+        "selectDepartment": "부서 선택",
+        "selectDesignation": "직책 선택",
+        "selectShift": "근무조 선택",
+        "selectLeaveType": "휴가 유형 선택",
+        "selectMonth": "월 선택",
+        "selectYear": "연도 선택",
+        "selectDate": "날짜 선택",
+        "selectStartDate": "시작일 선택",
+        "selectEndDate": "종료일 선택",
+        "selectTimeIn": "출근 시간 선택",
+        "selectTimeOut": "퇴근 시간 선택",
+        "selectStartTime": "시작 시간 선택",
+        "selectEndTime": "종료 시간 선택",
+        "selectStatus": "상태 선택",
+        "selectGender": "성별 선택",
+        "selectPaymentType": "지급 유형 선택",
+        "enterFullName": "전체 이름 입력",
+        "enterEmail": "이메일 입력",
+        "enterPhone": "전화번호 입력",
+        "enterCountry": "국가 입력",
+        "enterSalary": "예: 500",
+        "enterHolidayName": "공휴일 이름 입력",
+        "enterDescription": "설명 입력...",
+        "autoCalculated": "자동 계산됨",
+        "selectDatesFirst": "날짜를 먼저 선택하세요",
+        "allEmployee": "모든 직원",
+        "selectEmployeeFirst": "직원을 먼저 선택하세요",
+        "enterDepartmentName": "부서명 입력",
+        "enterDesignationName": "직함 이름 입력",
+        "ex": "{value}",
+        "selectBirthDate": "생년월일 선택",
+        "selectJoinDate": "입사일 선택",
+        "selectBreakStatus": "휴식 상태 선택",
+        "enterLeaveTypeName": "휴가 유형 이름 입력"
+      }
+    },
+    "emptyStates": {
+      "noLeaves": "휴가 없음",
+      "noPayrollRecords": "급여 기록 없음",
+      "noAttendanceRecords": "출석 기록 없음",
+      "noLeaveTypes": "휴가 유형을 찾을 수 없습니다",
+      "noEmployees": "직원 없음",
+      "noHolidays": "공휴일 없음",
+      "noShifts": "교대 근무를 찾을 수 없습니다",
+      "noDesignations": "직책 없음",
+      "noDepartments": "부서 없음"
+    },
+    "confirmations": {
+      "deleteAttendance": "이 출석을 삭제하시겠습니까?",
+      "deletePayroll": "이 급여를 삭제하시겠습니까?",
+      "deleteLeave": "이 휴가를 삭제하시겠습니까?",
+      "deleteLeaveType": "이 휴가 유형을 삭제하시겠습니까?",
+      "deleteEmployee": "이 직원을 삭제하시겠습니까?",
+      "deleteHoliday": "이 공휴일을 삭제하시겠습니까?",
+      "deleteShift": "이 교대 근무를 삭제하시겠습니까?",
+      "deleteDesignation": "이 직책을 삭제하시겠습니까?",
+      "deleteDepartment": "이 부서를 삭제하시겠습니까?"
+    },
+    "validation": {
+      "selectEmployee": "직원을 선택해주세요",
+      "selectMonth": "월을 선택해주세요",
+      "selectEndDate": "종료일을 선택해주세요",
+      "endDateAfterStart": "종료일은 시작일 이후여야 합니다",
+      "selectStatus": "상태를 선택하세요",
+      "selectLeaveType": "휴가 유형을 선택해주세요",
+      "selectStartDate": "시작일을 선택해주세요",
+      "selectDate": "날짜를 선택해주세요",
+      "selectTimeIn": "출근 시간을 선택하세요",
+      "selectTimeOut": "퇴근 시간을 선택하세요",
+      "enterDepartmentName": "부서명을 입력해주세요",
+      "enterDesignationName": "직함 이름을 입력하세요",
+      "enterName": "이름을 입력해주세요",
+      "selectDesignation": "직책을 선택해주세요",
+      "selectDepartment": "부서를 선택해주세요",
+      "enterEmail": "이메일을 입력해주세요",
+      "enterValidEmail": "유효한 이메일을 입력해주세요",
+      "enterPhoneNumber": "전화번호를 입력해주세요",
+      "enterCountry": "국가를 입력해주세요",
+      "enterSalary": "급여를 입력해주세요",
+      "selectGender": "성별을 선택해주세요",
+      "selectShift": "근무조를 선택해주세요",
+      "selectBirthDate": "생년월일을 선택해주세요",
+      "selectJoinDate": "입사일을 선택해주세요",
+      "enterHolidayName": "공휴일 이름을 입력해주세요",
+      "selectBreakStatus": "휴식 상태를 선택하세요",
+      "selectPaymentYear": "결제 연도를 선택하세요",
+      "selectPaymentType": "결제 유형을 선택하세요",
+      "enterAmount": "금액을 입력하세요",
+      "selectStartBreakTime": "휴식 시작 시간을 선택하세요",
+      "selectEndBreakTime": "휴식 종료 시간을 선택하세요",
+      "enterLeaveTypeName": "휴가 유형 이름을 입력하세요",
+      "selectStartTime": "시작 시간을 선택하세요",
+      "selectEndTime": "종료 시간을 선택하세요"
+    },
+    "dropdowns": {
+      "addNew": "+ 새로 추가",
+      "morning": "아침",
+      "day": "낮",
+      "evening": "저녁",
+      "night": "밤",
+      "yes": "예",
+      "no": "아니요",
+      "approved": "승인됨",
+      "rejected": "거절됨",
+      "terminated": "해고됨",
+      "suspended": "정직됨",
+      "male": "남성",
+      "female": "여성",
+      "pending": "대기 중",
+      "active": "활성",
+      "inactive": "비활성",
+      "paid": "지급됨",
+      "unpaid": "미지급"
+    },
+    "units": {
+      "days": "일"
+    },
+    "fallbacks": {
+      "noNoteAvailable": "메모 없음",
+      "noDescriptionAvailable": "설명이 없습니다",
+      "selectEmployeeFirst": "직원을 먼저 선택해주세요"
+    },
+    "success": {
+      "leaveDelete": "휴가가 삭제되었습니다",
+      "attendanceDelete": "출석이 삭제되었습니다",
+      "attendanceAdd": "출석이 추가되었습니다",
+      "attendanceUpdate": "출석이 업데이트되었습니다",
+      "leaveAdd": "휴가가 추가되었습니다",
+      "leaveUpdate": "휴가가 업데이트되었습니다",
+      "departmentDelete": "부서가 삭제되었습니다",
+      "departmentAdd": "부서가 추가되었습니다",
+      "departmentUpdate": "부서가 업데이트되었습니다",
+      "designationDelete": "직책이 삭제되었습니다",
+      "designationAdd": "직책이 추가되었습니다",
+      "designationUpdate": "직책이 업데이트되었습니다",
+      "employeeDelete": "직원이 삭제되었습니다",
+      "employeeAdd": "직원이 추가되었습니다",
+      "employeeUpdate": "직원이 업데이트되었습니다",
+      "holidayDelete": "공휴일이 삭제되었습니다",
+      "holidayAdd": "공휴일이 추가되었습니다",
+      "holidayUpdate": "공휴일이 업데이트되었습니다",
+      "leaveTypeDelete": "휴가 유형이 삭제되었습니다"
+    }
+  }
+}

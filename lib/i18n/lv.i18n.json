@@ -1,0 +1,1561 @@
+{
+  "@@meta": {
+    "languageCode": "lv_LV",
+    "languageName": "Latvian",
+    "version": "1.0.0"
+  },
+  "common": {
+    "signIn": "Pierakstīties",
+    "signUp": "Reģistrēties",
+    "verifyEmail": "Verificēt e-pastu",
+    "customizeProfile": "Pielāgot profilu",
+    "imageOrLogo": "Logotips vai attēls",
+    "createNewPassword": "Izveidot jaunu paroli",
+    "itemsList": "Preču saraksts",
+    "searchItemsName": "Meklēt preces nosaukumu",
+    "categoryList": "Kategoriju saraksts",
+    "brandList": "Zīmolu saraksts",
+    "unitList": "Mērvienību saraksts",
+    "itemDetails": "Preces informācija",
+    "addStock": "Pievienot krājumus",
+    "profile": "Profils",
+    "language": "Valoda",
+    "termsAndConditions": "Noteikumi un nosacījumi",
+    "aboutUs": "Par mums",
+    "logout": "Izrakstīties",
+    "editProfile": "Rediģēt profilu",
+    "fullName": "Pilns vārds",
+    "email": "E-pasts",
+    "mobileNumber": "Mobilā tālruņa numurs",
+    "address": "Adrese",
+    "password": "Parole",
+    "forgotPassword": "Aizmirsāt paroli?",
+    "edit": "Rediģēt",
+    "delete": "Dzēst",
+    "addItems": "Pievienot preces",
+    "stock": "Krājumi",
+    "currentStock": "Pašreizējie krājumi",
+    "value": "Vērtība",
+    "sales": "Pārdošana",
+    "purchase": "Pirkums",
+    "price": "Cena",
+    "image": "Attēls",
+    "upload": "Augšupielādēt",
+    "addNew": "Pievienot jaunu",
+    "pricing": "Cenu noteikšana",
+    "name": "Nosaukums",
+    "category(plural)": {
+      "one": "Kategorija",
+      "other": "Kategorijas"
+    },
+    "areas": "Areas",
+    "brand": "Zīmols",
+    "lowStock": "Zems krājumu līmenis",
+    "unit": "Mērvienība",
+    "vat": "PVN",
+    "taxType": "Nodokļa veids",
+    "purchasePrice": "Pirkuma cena",
+    "sellingPrice": "Pārdošanas cena",
+    "wholeSalePrice": "Vairumtirdzniecības cena",
+    "dealerPrice": "Dīlera cena",
+    "searchHere": "Meklēt šeit",
+    "totalItems": "Kopā preces",
+    "stockValue": "Krājumu vērtība",
+    "congratulation": "Apsveicam",
+    "salesList": "Pārdošanas saraksts",
+    "searchInvoiceNumber": "Meklēt rēķina numuru",
+    "view": "Skatīt",
+    "kFor": "Priekš",
+    "total": "Kopā",
+    "subTotal": "Starpsumma",
+    "insufficientStockAvailableStock": "Nepietiekams krājumu daudzums, pieejamais daudzums",
+    "discount": "Atlaide",
+    "selectOne": "Atlasīt vienu",
+    "allCategory": "Visas kategorijas",
+    "details": "Sīkāka informācija",
+    "parcel": "Sūtījums",
+    "kot": "KOT",
+    "table": "Galdiņš",
+    "holdTable": "Rezervēt galdiņu",
+    "capacity": "Ietilpība",
+    "commonHint": "Piemēram: 10",
+    "pleaseEnterQuantity": "Lūdzu, ievadiet daudzumu",
+    "quantityMustBeGreaterThanZero": "Daudzumam jābūt lielākam par 0",
+    "mobile": "Mobilais",
+    "orderNo": "Pasūtījuma Nr.",
+    "dateAndTime": "Datums un laiks",
+    "items": "Preces",
+    "totalAmount": "Kopējā summa",
+    "paidAmount": "Samaksātā summa",
+    "dueAmount": "Atlikusī summa",
+    "paymentType": "Maksājuma veids",
+    "thankYou": "Paldies",
+    "developedBy": "Izstrādājis: ${domain: String}",
+    "qty": "Cena",
+    "amount": "Summa",
+    "dashboard": "Informācijas panelis",
+    "reports": "Atskaites",
+    "home": "Sākums",
+    "parties": "Partneri",
+    "subscriptionPlan": "Abonēšanas plāns",
+    "estimateList": "Tāmju saraksts",
+    "purchaseList": "Pirkumu saraksts",
+    "dueList": "Parādu saraksts",
+    "lossOrProfit": "Zaudējumi/Peļņa",
+    "stocks": "Krājumi",
+    "moneyInList": "Ienākumu saraksts",
+    "moneyOutList": "Izdevumu saraksts",
+    "transactionList": "Darījumu saraksts",
+    "income": "Ienākumi",
+    "expense": "Izdevumi",
+    "quickView": "Ātrā apskate",
+    "to": "līdz",
+    "totalSales": "Kopējā pārdošana",
+    "totalPurchase": "Kopējie pirkumi",
+    "holdNumber": "Rezervētie pasūtījumi",
+    "totalExpense": "Kopējie izdevumi",
+    "loss": "Zaudējumi",
+    "profit": "Peļņa",
+    "recentTransaction": "Pēdējie darījumi",
+    "invoice": "Rēķins",
+    "moneyIn": "Ienākumi",
+    "moneyOut": "Izdevumi",
+    "paid": "Samaksāts",
+    "due": "Atlikums",
+    "partial": "Daļēji",
+    "print": "Drukāt",
+    "addCategory": "Pievienot kategoriju",
+    "addExpense": "Pievienot izdevumus",
+    "search": "Meklēt...",
+    "viewDetails": "Skatīt sīkāku informāciju",
+    "title": "Nosaukums",
+    "date": "Datums",
+    "note": "Piezīme",
+    "phoneNumber": "Tālruņa numurs",
+    "type": "Veids",
+    "selectContactSType": "Atlasiet kontaktpersonas veidu",
+    "moreInfo": "Vairāk informācijas",
+    "paymentReceived": "Maksājums saņemts",
+    "selectSupplier": "Atlasīt piegādātāju",
+    "supplier": "Piegādātājs",
+    "received": "Saņemts",
+    "balanceDue": "Atlikusī summa",
+    "addPurchase": "Pievienot pirkumu",
+    "selectedItemWillBeCleared": "Atlasītās preces tiks dzēstas.",
+    "searchItemName": "Meklēt preces nosaukumu",
+    "billItems": "Rēķina preces",
+    "addMoreItems": "Pievienot vēl preces",
+    "payAmount": "Maksāt summu",
+    "salesReport": "Pārdošanas atskaite",
+    "purchaseReport": "Pirkumu atskaite",
+    "stockReport": "Krājumu atskaite",
+    "dueReport": "Parādu atskaite",
+    "dueCollectionReport": "Parādu piedziņas atskaite",
+    "transactionReport": "Darījumu atskaite",
+    "incomeReport": "Ienākumu atskaite",
+    "dueCollectionList": "Parādu piedziņas saraksts",
+    "expenseReport": "Izdevumu atskaites",
+    "dueCollection": "Parādu piedziņa",
+    "myProfile": "Mans profils",
+    "printingOption": "Drukāšanas opcijas",
+    "currency": "Valūta",
+    "paymentMethod": "Maksājuma veids",
+    "rateUs": "Novērtējiet mūs",
+    "termAndCondition": "Noteikumi un nosacījumi",
+    "tableList": "Galdiņu saraksts",
+    "addTable": "Pievienot galdiņu",
+    "vatRate": "PVN likme %",
+    "action": "Darbība",
+    "status": "Statuss",
+    "active": "Aktīvs",
+    "inActive": "Neaktīvs",
+    "subVats": "PVN apakšlikmes",
+    "add": "Pievienot",
+    "taxRate": "Nodokļa likme %",
+    "subTaxes": "Apakšnodokļi",
+    "group": "grupa",
+    "VAT": "PVN",
+    "subTaxList": "Apakšnodokļu saraksts",
+    "vatPercent": "PVN procents",
+    "statusIsCannotInActive": "Statusu nevar padarīt neaktīvu, ja PVN ir iekļauts pārdošanas cenā.",
+    "vatOnSales": "PVN pārdošanā",
+    "transaction": "Darījums",
+    "version": "Versija ${version: String}",
+    "hold": "Turēt",
+    "empty": "Tukšs",
+    "appName": "Restaurant App",
+    "duePayment": "Maksājums termiņā",
+    "orders": "Pasūtījumi",
+    "all": "Visi",
+    "ingredient": "Sastāvdaļa",
+    "menus": "Ēdienkartes",
+    "modifierGroups": "Modifikatoru grupas",
+    "itemModifiers": "Vienumu modifikatori",
+    "staff": "Personāls",
+    "coupon": "Kupons",
+    "pay": "Maksāt",
+    "pendingOrders": "Gaidošie pasūtījumi",
+    "order": "Pasūtījums",
+    "payNow": "Maksāt tagad",
+    "addStaff": "Pievienot personālu",
+    "designation": "Amats",
+    "itemAdded": "Vienums pievienots",
+    "noItemAdded": "Neviens vienums nav pievienots",
+    "saveNPrint": "Saglabāt un drukāt",
+    "allowMultiSelection": "Atļaut vairāku atlasi",
+    "required": "Obligāts",
+    "optional": "Neobligāts",
+    "allowMultiSelectionForSale": "Atļaut vairāku atlasi pārdošanai",
+    "isRequired": "Ir obligāts",
+    "modifier": "Modifikators",
+    "fullPayment": "Pilna samaksa",
+    "payment": "Maksājums",
+    "addTip": "Pievienot dzeramnaudu",
+    "netPayable": "Tīrais maksājums",
+    "receiveAmount": "Saņemtā summa",
+    "changeAmount": "Atlikuma summa",
+    "quotationList": "Cenu piedāvājumu saraksts",
+    "addQuotation": "Pievienot cenu piedāvājumu",
+    "convert": "Pārvērst",
+    "variations": "Variācijas",
+    "instructions": "Norādījumi",
+    "unavailable": "Nav pieejams",
+    "tip": "Padoms",
+    "salesQuotationReport": "Pārdošanas piedāvājumu atskaite",
+    "orderType": "Pasūtījuma veids",
+    "deliveryCharge": "Piegādes maksa",
+    "receiptNo": "Kvīts Nr.",
+    "paidBy": "Apmaksāja",
+    "receivedBy": "Saņēma",
+    "paymentAmount": "Maksājuma summa",
+    "remainingDue": "Atlikusī summa",
+    "roleNPermission": "Loma un atļaujas",
+    "sl": "SL",
+    "features": "Funkcijas",
+    "create": "Izveidot",
+    "update": "Atjaunināt",
+    "quotations": "Piedāvājumi",
+    "restaurant": "Restorāns",
+    "printerProfile": "Printera profils",
+    "kitchenOrders": "Virtuves pasūtījumi",
+    "kitchen(plural)": {
+      "one": "Virtuve",
+      "other": "Virtuves"
+    },
+    "allKOT": "Visi KOT",
+    "cancelKOT": "Atcelt KOT",
+    "selectCancelReason": "Izvēlieties atcelšanas iemeslu",
+    "additionalComment": "Papildu komentārs",
+    "enterComment": "Ievadiet komentāru",
+    "orderStatus": "Pasūtījuma statuss",
+    "selectOrderStatus": "Izvēlieties pasūtījuma statusu",
+    "kotReport": "KOT atskaite",
+    "itemFoodType": "Ēdiena veids",
+    "selectItemFoodType": "Izvēlieties @:common.itemFoodType",
+    "markAllAsRead": "Atzīmēt visu kā izlasītu",
+    "online": "Online",
+    "cancelledReason": "Cancelled Reason",
+    "hrm": "HRM",
+    "notAvailable": "N/A"
+  },
+  "exceptions": {
+    "somethingWentWrong": "Kaut kas nogāja greizi, lūdzu, mēģiniet vēlreiz",
+    "noCategoryFound": "Kategorijas nav atrastas!\nLūdzu, mēģiniet pievienot kategoriju.",
+    "doYouWantToDeleteThisCategory": "Vai vēlaties dzēst šo kategoriju?",
+    "noBrandFound": "Zīmoli nav atrasti!\nLūdzu, mēģiniet pievienot zīmolu.",
+    "doYouWantToDeleteThisBrand": "Vai vēlaties dzēst šo zīmolu?",
+    "noItemStockFound": "Preču krājumi nav atrasti!\nLūdzu, mēģiniet pievienot preci.",
+    "noUnitFound": "Mērvienības nav atrastas!\nLūdzu, mēģiniet pievienot mērvienību.",
+    "doYouDeleteThisUnit": "Vai vēlaties dzēst šo mērvienību?",
+    "noSaleFoundPleaseSAddProduct": "Pārdošana nav atrasta!\nLūdzu, mēģiniet pievienot pārdošanu.",
+    "doYouWantToDeleteThisSale": "Vai vēlaties dzēst šo pārdošanu?",
+    "pleaseAddItemToTheCartFirst": "Lūdzu, vispirms pievienojiet preces grozam",
+    "noItemAdded": "Preces nav pievienotas",
+    "cannotEditOthersTable": "Nevar rediģēt citu galdiņu.",
+    "tableIsAlreadyBlocked": "Galdiņš jau ir rezervēts.",
+    "failedToGetCustomerDetails": "Neizdevās iegūt klienta datus.",
+    "noTableFoundPleaseTryAgain": "Galdiņi nav atrasti!\nLūdzu, mēģiniet pievienot galdiņu.",
+    "noDueCollectionFound": "Neatrastas neatmaksātas rēķini!\nNeatmaksātos rēķinus varēsiet redzēt, kad tie būs pieejami.",
+    "noExpenseFoundPleaseTryAddingExpense": "Izdevumi nav atrasti!\nLūdzu, mēģiniet pievienot izdevumus.",
+    "doYouWantToDeleteThisExpense": "Vai vēlaties dzēst šos izdevumus?",
+    "noExpenseCategoryFound": "Izdevumu kategorijas nav atrastas!\nLūdzu, mēģiniet pievienot izdevumu kategoriju.",
+    "noTransactionFound": "Darījumi nav atrasti, lūdzu, mēģiniet vēlāk!",
+    "pleaseSelectACategory": "Lūdzu, atlasiet kategoriju",
+    "noIncomeFound": "Ienākumi nav atrasti!\nLūdzu, mēģiniet pievienot ienākumus.",
+    "doYouWantToDeleteThisIncome": "Vai vēlaties dzēst šos ienākumus?",
+    "noIncomeCategoryFoundAddingAIncome": "Ienākumu kategorijas nav atrastas!\nLūdzu, mēģiniet pievienot ienākumu kategoriju.",
+    "noItemFoundPleaseTryAddingItem": "Preces nav atrastas!\nLūdzu, mēģiniet pievienot preci.",
+    "noPartiesFound": "Partneri nav atrasti",
+    "doYouWantToDeleteThisParty": "Vai vēlaties dzēst šo partneri?",
+    "noLedgerFound": "Virsgrāmata nav atrasta!\nLūdzu, mēģiniet pievienot ${transactionType: String}",
+    "areYouSureYouSureWantToDeleteThisTaxType": "Vai esat pārliecināts, ka vēlaties dzēst šo ${taxType: String}?",
+    "noItemFoundPleaseSTryAddingAnPurchase": "Preces nav atrastas!\nLūdzu, mēģiniet pievienot pirkumu.",
+    "doYouWantToDeleteThisPurchase": "Vai vēlaties dzēst šo pirkumu?",
+    "noTransactionFoundYouSeeTransactionHereWhenAvailable": "Darījumi nav atrasti!\nDarījumus varēsiet redzēt šeit, kad tie būs pieejami.",
+    "noSaleFoundPleaseTryAddingSale": "Pārdošana nav atrasta!\nLūdzu, mēģiniet pievienot pārdošanu.",
+    "noPurchaseFoundPleaseTryAddingPurchase": "Pirkumi nav atrasti!\nLūdzu, mēģiniet pievienot pirkumu.",
+    "noItemIncomeFound": "Preču ienākumi nav atrasti!\nIenākumu datus varēsiet redzēt, kad tie būs pieejami.",
+    "noItemExpenseFound": "Preču izdevumi nav atrasti!\nIzdevumu datus varēsiet redzēt, kad tie būs pieejami.",
+    "noItemDueInvoiceFound": "Neatmaksātas preču rēķini nav atrasti!\nNeatmaksātos rēķinus varēsiet redzēt, kad tie būs pieejami.",
+    "noItemDueCollectionInvoiceFound": "'Neatrastas neatmaksātas preču piedziņas rēķini!\nNeatmaksātos piedziņas rēķinus varēsiet redzēt, kad tie būs pieejami.",
+    "doYouWantToDeleteThisTable": "Vai vēlaties dzēst šo galdiņu?'",
+    "thisVatIsBeingUsedOnSales": "Šis PVN tiek izmantots pārdošanā!",
+    "noPaymentMethodFoundPleaseTryAddingAPaymentMethod": "Maksājuma metodes nav atrastas!\nLūdzu, mēģiniet pievienot maksājuma metodi.",
+    "pleaseSelectACustomerFirst": "Lūdzu, vispirms izvēlieties klientu.",
+    "pleaseSelectATableToCreateAKot": "Lūdzu, izvēlieties galdu, lai izveidotu KOT.",
+    "noStaffFound": "Personāls nav atrasts!\\n Lūdzu, mēģiniet pievienot personālu.",
+    "noIngredientFound": "Sastāvdaļas nav atrastas!\\n Lūdzu, mēģiniet pievienot sastāvdaļu.",
+    "exceedsPaymentAmount": "Saņemtā summa nedrīkst būt lielāka par maksājamo summu",
+    "noItemModifierFound": "Vienumu modifikators nav atrasts!\\n Lūdzu, mēģiniet pievienot vienumu modifikatoru.",
+    "noModifierGroupFound": "Modifikatoru grupa nav atrasta!\\n Lūdzu, mēģiniet pievienot modifikatoru grupu.",
+    "noOptionsFound": "Nav atrasta neviena opcija!",
+    "maxImageCountLimit": "Varat atlasīt tikai līdz 5 attēliem.",
+    "noQuotationFound": "Nav atrasts neviens cenu piedāvājums!\n Lūdzu, mēģiniet pievienot cenu piedāvājumu.",
+    "noPermittedUserFound": "Nav atrasts atļauts lietotājs!\\n Lūdzu, mēģiniet pievienot lietotāju."
+  },
+  "prompt": {
+    "logout": {
+      "title": "@:common.logout",
+      "message": "Vai esat pārliecināts, ka vēlaties izrakstīties?"
+    },
+    "unsavedWarning": {
+      "title": "Vai vēlaties atgriezties?",
+      "message": "Mainītie lauki var netikt saglabāti!"
+    },
+    "verify": {
+      "title": "Verificēt savu e-pastu",
+      "description(rich)": "Mēs esam nosūtījuši verifikācijas koda e-pastu${emailSpan}\n\nIespējams, ka vēstule ir nonākusi jūsu surogātpasta mapē."
+    },
+    "subscriptionExpired": {
+      "title": "Abonements ir beidzies!",
+      "message": "Lūdzu, abonējiet, lai turpinātu.",
+      "action": "Abonēt"
+    },
+    "items": {
+      "delete": {
+        "title": "Vai vēlaties dzēst šo preci?"
+      },
+      "filter": {
+        "title": "Filtrēt pēc",
+        "extra": {
+          "lowToHigh": "No zemākās līdz augstākajai @:common.price",
+          "highToLow": "No augstākās līdz zemākajai @:common.price"
+        }
+      }
+    },
+    "checkInternet": {
+      "title": "Nav interneta savienojuma",
+      "message": "Lūdzu, pārbaudiet savu Wi-Fi vai mobilo tīkla savienojumu un mēģiniet vēlreiz"
+    },
+    "back": {
+      "title": "Nospiediet atpakaļ vēlreiz, lai izietu."
+    },
+    "stockModelSheet": {
+      "title": "Pievienot jaunus krājumus"
+    },
+    "paymentMethod": {
+      "title": "Vai vēlaties dzēst šo maksājuma metodi?"
+    },
+    "extMsg": {
+      "kotSavedSuccessfully": "KOT veiksmīgi saglabāts"
+    },
+    "deleteStaff": "Vai vēlaties dzēst šo darbinieku?",
+    "deleteIngredient": "Vai vēlaties dzēst šo sastāvdaļu?",
+    "deleteItemModifier": "Vai vēlaties dzēst šo vienumu modifikatoru?",
+    "deleteModifierGroup": "Vai vēlaties dzēst šo modifikatoru grupu?",
+    "deleteQuotation": "Vai vēlaties dzēst šo cenu piedāvājumu?"
+  },
+  "form": {
+    "fullName": {
+      "label": "@:common.fullName",
+      "hint": "Ievadiet @:common.fullName",
+      "errors": {
+        "required": "Lūdzu, ievadiet savu @:common.fullName"
+      }
+    },
+    "email": {
+      "label": "@:common.email",
+      "hint": "Ievadiet savu @:common.email",
+      "errors": {
+        "required": "Lūdzu, ievadiet savu @:common.email adresi",
+        "invalid": "⦸ Nepareizs e-pasts, lūdzu, mēģiniet vēlreiz"
+      }
+    },
+    "password": {
+      "label": "@:common.password",
+      "hint": "* * * * * * * *",
+      "errors": {
+        "required": "Lūdzu, ievadiet savu @:common.password",
+        "minLength": "Parolei jābūt vismaz ${count} simbolus garai!"
+      }
+    },
+    "confirmPassword": {
+      "label": "Apstiprināt paroli",
+      "hint": "* * * * * * * *",
+      "errors": {
+        "required": "Lūdzu, ievadiet savu @:common.password",
+        "invalid": "'Apstiprinātā parole nesakrīt!'"
+      }
+    },
+    "otp": {
+      "errors": {
+        "required": "Lūdzu, ievadiet OTP kodu.",
+        "invalid": "Lūdzu, ievadiet pašreizējo OTP kodu."
+      }
+    },
+    "profile": {
+      "businessCategory": {
+        "label": "Uzņēmējdarbības kategorija",
+        "hint": "Atlasiet uzņēmējdarbības kategoriju",
+        "errors": {
+          "required": "Lūdzu, atlasiet uzņēmējdarbības kategoriju"
+        }
+      },
+      "shopOrStore": {
+        "label": "Veikala nosaukums*",
+        "hint": "Ievadiet veikala nosaukumu",
+        "errors": {
+          "required": "Lūdzu, ievadiet sava veikala nosaukumu"
+        }
+      },
+      "openingBalance": {
+        "label": "Sākuma bilance",
+        "hint": "Ievadiet sākuma bilanci"
+      },
+      "vatGstTitle": {
+        "label": "PVN/GST nosaukums",
+        "hint": "Ievadiet PVN/GST"
+      },
+      "vatGstNumber": {
+        "label": "PVN/GST numurs",
+        "hint": "Ievadiet PVN/GST numuru"
+      }
+    },
+    "vat": {
+      "name": {
+        "label": "Nosaukums",
+        "hint": "Ievadiet PVN nosaukumu",
+        "error": {
+          "required": "Lūdzu, ievadiet PVN nosaukumu"
+        }
+      },
+      "subVat": {
+        "label": "PVN apakšlikme",
+        "hint": "Atlasiet PVN apakšlikmi",
+        "errors": {
+          "required": "Lūdzu, atlasiet PVN apakšlikmi"
+        }
+      },
+      "rate": {
+        "label": "PVN likme %",
+        "hint": "Ievadiet PVN likmi",
+        "errors": {
+          "required": "Lūdzu, ievadiet PVN likmi."
+        }
+      }
+    },
+    "category": {
+      "label": "@:common.category",
+      "hint": "Atlasiet preces kategoriju",
+      "error": {
+        "required": "Lūdzu, ievadiet kategorijas nosaukumu"
+      }
+    },
+    "items": {
+      "barcode": {
+        "label": "Svītrkods",
+        "hint": "@:common.selectOne"
+      },
+      "itemName": {
+        "label": "Preces nosaukums",
+        "hint": "Ievadiet preces nosaukumu",
+        "extra": {
+          "required": "Lūdzu, ievadiet preces nosaukumu"
+        }
+      },
+      "itemCategory": {
+        "label": "Preces kategorija",
+        "hint": "Preces kategorija",
+        "extra": {
+          "label": "Atlasiet kategoriju",
+          "required": "Lūdzu, atlasiet kategoriju"
+        }
+      },
+      "brand": {
+        "label": "@:common.brand",
+        "hint": "@:common.selectOne",
+        "extra": {
+          "hint": "Ievadiet zīmola nosaukumu",
+          "required": "Lūdzu, ievadiet zīmola nosaukumu"
+        }
+      },
+      "unit": {
+        "label": "@:common.unit",
+        "hint": "@:common.selectOne",
+        "error": {
+          "required": "Lūdzu, ievadiet mērvienības nosaukumu"
+        }
+      },
+      "stock": {
+        "label": "Sākuma krājumi",
+        "hint": "@:common.commonHint",
+        "extra": {
+          "required": "Lūdzu, ievadiet preces daudzumu."
+        }
+      },
+      "lowStock": {
+        "label": "@:common.lowStock",
+        "hint": "Piemēram: 5"
+      },
+      "purchasePrice": {
+        "label": "@:common.purchasePrice",
+        "hint": "Piemēram: \\$40",
+        "error": {
+          "required": "Lūdzu, ievadiet pirkuma cenu."
+        }
+      },
+      "salePrice": {
+        "label": "Pārdošanas cena",
+        "hint": "Piemēram: \\$60",
+        "error": {
+          "required": "Lūdzu, ievadiet pārdošanas cenu."
+        }
+      },
+      "totalSalePrice": {
+        "label": "Kopējā pārdošanas cena",
+        "hint": "Piemēram: \\$100"
+      },
+      "wholeSalePrice": {
+        "label": "@:common.wholeSalePrice",
+        "hint": "Ievadiet vairumtirdzniecības cenu"
+      },
+      "dealerPrice": {
+        "label": "@:common.dealerPrice",
+        "hint": "Ievadiet dīlera cenu"
+      },
+      "discount": {
+        "label": "Atlaide (%)",
+        "hint": "@:common.commonHint"
+      },
+      "applicableTax": {
+        "label": "Piemērojamais nodoklis",
+        "hint": "@:common.selectOne"
+      },
+      "vatType": {
+        "label": "@:common.taxType",
+        "errorText": {
+          "required": "Lūdzu, atlasiet PVN veidu"
+        }
+      },
+      "menu": {
+        "label": "Izvēlieties ēdienkarti",
+        "errors": {
+          "required": "Lūdzu, izvēlieties ēdienkarti."
+        },
+        "hint": "Izvēlieties ēdienkarti",
+        "extra": {
+          "selectNavLabel": "Atlasīt vienumu ēdienkarti"
+        }
+      },
+      "modifierItems": {
+        "label": "Modifikatora vienumi",
+        "hint": "Atlasīt modifikatora vienumus"
+      },
+      "preparationTime": {
+        "label(rich)": "Sagatavošanas laiks ${minutes(Minūtes)}",
+        "hint": "Piemērs: 30"
+      },
+      "variation": {
+        "name": {
+          "label": "Nosaukums",
+          "hint": "Ievadiet variāciju",
+          "errors": {
+            "required": "Lūdzu, ievadiet variācijas nosaukumu."
+          }
+        },
+        "price": {
+          "errors": {
+            "required": "Lūdzu, ievadiet cenu."
+          },
+          "label": "Cena",
+          "hint": "Piemērs: \\$30"
+        }
+      }
+    },
+    "itemCart": {
+      "hint": "@:common.commonHint",
+      "error": {
+        "required": "@:common.pleaseEnterQuantity",
+        "noZero": "@:common.quantityMustBeGreaterThanZero"
+      }
+    },
+    "sales": {
+      "autoGenerateInvoice": {
+        "label": "Rēķina Nr.",
+        "hint": "P-00001"
+      },
+      "date": {
+        "label": "Datums"
+      },
+      "customer": {
+        "label": "Klients",
+        "hint": "Izvēlieties klientu"
+      },
+      "phone": {
+        "label": "Tālruņa numurs",
+        "hint": "Ievadiet tālruņa numuru"
+      },
+      "address": {
+        "label": "Adrese",
+        "hint": "Ievadiet adresi"
+      },
+      "deliveryCharge": {
+        "label": "@:common.deliveryCharge",
+        "hint": "Piemēram: \\$20",
+        "hint2": "Maksa, piemēram: \\$10"
+      },
+      "table": {
+        "hint": "Izvēlieties galdu"
+      },
+      "waiter": {
+        "hint": "Izvēlieties viesmīli"
+      }
+    },
+    "bill": {
+      "label": "Rēķina Nr.",
+      "hint": "P-00001"
+    },
+    "supplier": {
+      "label": "Piegādātājs",
+      "hint": "Atlasiet piegādātāju",
+      "extra": {
+        "required": "Lūdzu, atlasiet piegādātāju"
+      }
+    },
+    "phone": {
+      "label": "Tālruņa numurs",
+      "hint": "Ievadiet tālruņa numuru",
+      "errors": {
+        "required": "Lūdzu, ievadiet tālruņa numuru."
+      }
+    },
+    "address": {
+      "label": "Uzņēmuma adrese",
+      "hint": "Ievadiet uzņēmuma adresi"
+    },
+    "payment": {
+      "label": "Nosaukums",
+      "hint": "Ievadiet maksājuma nosaukumu",
+      "error": {
+        "required": "Lūdzu, ievadiet maksājuma metodes nosaukumu"
+      }
+    },
+    "expense": {
+      "label": "Izdevumu kategorija",
+      "hint": "Atlasiet izdevumu kategoriju",
+      "error": {
+        "required": "Lūdzu, ievadiet izdevumu kategoriju"
+      }
+    },
+    "income": {
+      "label": "Ienākumu kategorija",
+      "hint": "Ievadiet kategorijas nosaukumu",
+      "error": {
+        "required": "Lūdzu, ievadiet kategorijas nosaukumu"
+      },
+      "incomeTitle": {
+        "label": "Ienākumu nosaukums",
+        "hint": "Ievadiet ienākumus"
+      },
+      "incomeCategory": {
+        "label": "Ienākumu kategorija",
+        "hint": "Atlasiet kategoriju"
+      },
+      "payment": {
+        "label": "Maksājums",
+        "hint": "Piemēram: \\$10"
+      }
+    },
+    "note": {
+      "label": "Piezīme (nav obligāti)",
+      "hint": "Ievadiet tekstu"
+    },
+    "parties": {
+      "partyName": {
+        "label": "Partnera nosaukums",
+        "hint": "Ievadiet partnera nosaukumu",
+        "error": {
+          "required": "Lūdzu, ievadiet partnera nosaukumu"
+        }
+      },
+      "partyPhone": {
+        "label": "Tālruņa numurs",
+        "hint": "Ievadiet tālruņa numuru",
+        "error": {
+          "required": "Lūdzu, ievadiet tālruņa numuru"
+        }
+      }
+    },
+    "table": {
+      "name": {
+        "label": "Galdiņa nosaukums",
+        "hint": "Ievadiet galdiņa nosaukumu",
+        "error": {
+          "required": "Lūdzu, ievadiet galdiņa nosaukumu"
+        }
+      },
+      "capacity": {
+        "label": "Ietilpība",
+        "hint": "Ievadiet ietilpību",
+        "error": {
+          "required": "Lūdzu, ievadiet ietilpību"
+        }
+      }
+    },
+    "designation": {
+      "label": "@:common.designation",
+      "hint": "Izvēlieties amatu",
+      "errors": {
+        "required": "Lūdzu, izvēlieties amatu."
+      }
+    },
+    "ingredientName": {
+      "label": "Sastāvdaļas nosaukums",
+      "hint": "Ievadiet sastāvdaļas nosaukumu",
+      "errors": {
+        "required": "Lūdzu, ievadiet sastāvdaļas nosaukumu"
+      }
+    },
+    "item": {
+      "label": "Vienums",
+      "hint": "Atlasīt vienumu",
+      "errors": {
+        "required": "Lūdzu, atlasiet vienumu."
+      }
+    },
+    "modifierGroup": {
+      "label": "Modifikatoru grupa",
+      "hint": "Atlasīt modifikatoru grupu",
+      "errors": {
+        "required": "Lūdzu, atlasiet modifikatoru grupu."
+      }
+    },
+    "description": {
+      "label": "Apraksts",
+      "hint": "Ievadiet aprakstu"
+    },
+    "staff": {
+      "label": "@:common.staff",
+      "hint": "Izvēlēties darbinieku",
+      "errors": {
+        "required": "Lūdzu, izvēlieties darbinieku"
+      }
+    },
+    "loginUserName": {
+      "label": "Lietotājvārds",
+      "hint": "Ievadiet lietotājvārdu vai e-pasta adresi",
+      "errors": {
+        "required": "Lūdzu, ievadiet lietotājvārdu vai e-pasta adresi"
+      }
+    }
+  },
+  "action": {
+    "next": "Nākamais",
+    "getStarted": "Sākt",
+    "skip": "Izlaist",
+    "select": "Atlasīt",
+    "save": "Saglabāt",
+    "verify": "Verificēt",
+    "signIn": "@:common.signIn",
+    "signUp": "@:common.signUp",
+    "continue": "Turpināt",
+    "no": "Nē",
+    "yes": "Jā",
+    "okay": "Labi",
+    "cancel": "Atcelt",
+    "confirm": "Apstiprināt",
+    "tryAgain": "Mēģināt vēlreiz",
+    "reset": "Atiestatīt",
+    "apply": "Piemērot",
+    "stockAdjust": "Pielāgot krājumus",
+    "addMoreItems": "Pievienot vēl preces",
+    "hold": "Turēt",
+    "parcel": "@:common.parcel",
+    "buyNow": "Pirkt tagad",
+    "viewAll": "Skatīt visu",
+    "viewLedger": "Skatīt virsgrāmatu",
+    "submit": "Iesniegt",
+    "selected": "Izvēlēts",
+    "addToCart": "Pievienot grozam",
+    "selectAll": "Atlasīt visu",
+    "update": "@:common.update",
+    "addRole": "Pievienot lomu"
+  },
+  "pages": {
+    "language": {
+      "appbarTitle": "@:action.select @:common.language"
+    },
+    "onboard": {
+      "onboardData": {
+        "data1": {
+          "title": "Viegli lietojams @:common.appName",
+          "description": "Plūstošas pasūtījums, bez piepūles rezervācijas\\nPadariet savu restorānu jaudīgāku ar vieglumu!"
+        },
+        "data2": {
+          "title": "Vienkārša pasūtījumu pārvaldība",
+          "description": "Optimizējiet sava restorāna pasūtījumu pieņemšanas procesu ar mūsu intuitīvo POS sistēmu."
+        },
+        "data3": {
+          "title": "Izcila analītika un atskaites",
+          "description": "Mūsu analītikas panelis nodrošina reāllaika pārdošanas un pirkumu atskaites"
+        }
+      }
+    },
+    "signIn": {
+      "title": "Laipni lūdzam atpakaļ!",
+      "subtitle": "Lūdzu, ievadiet savus datus.",
+      "extra": {
+        "rememberMe": "Atcerēties mani",
+        "signUpNavigator(rich)": "Vai jums nav konta? ${getStarted(@:action.getStarted)}",
+        "forgotPassword": "@:common.forgotPassword?"
+      }
+    },
+    "signUp": {
+      "title": "Izveidot kontu",
+      "subtitle": "Lūdzu, ievadiet savus datus",
+      "extra": {
+        "signInNavigator(rich)": "Vai jums jau ir konts? ${signIn(@:action.signIn)}"
+      }
+    },
+    "forgotPassword": {
+      "title": "@:common.forgotPassword",
+      "subtitle": "Ievadiet savu e-pasta adresi, lai atjaunotu paroli."
+    },
+    "otpVerification": {
+      "title": "Verifikācija",
+      "subtitle": "Uz jūsu e-pasta adresi ir nosūtīts 6 ciparu PIN kods",
+      "extra": {
+        "codeResend": {
+          "codeSendIn": "Kods tiks nosūtīts pēc",
+          "resendCode": "Nosūtīt kodu atkārtoti"
+        }
+      }
+    },
+    "resetPassword": {
+      "title": "Atiestatīt paroli",
+      "subtitle": "Atiestatiet paroli, lai atgūtu piekļuvi un pieteiktos savā kontā",
+      "extra": {
+        "dialog": {
+          "title": "Veiksmīgi mainīts!",
+          "subtitle": "Piesakieties ar savu jauno paroli.\nJūs tiekat novirzīts uz pierakstīšanās lapu..."
+        }
+      }
+    },
+    "items": {
+      "itemList": {
+        "extra": {
+          "emptyItem": "Preces nav atrastas!\nLūdzu, mēģiniet pievienot preci."
+        }
+      },
+      "manageItems": {
+        "title": "Pievienot jaunu preci",
+        "title2": "Rediģēt preci",
+        "extra": {
+          "maximum": "Maksimums 5",
+          "wholeSaleAndDealerPrice": "Vairumtirdzniecības un dīlera cena",
+          "addDiscount": "Pievienot atlaidi",
+          "addVat": "Pievienot PVN"
+        }
+      },
+      "itemDetails": {
+        "title": "Preces informācija",
+        "extra": {
+          "noImageAvailable": "Attēls nav pieejams!",
+          "preparationTime(rich)": "Pagatavošanas laiks: ${min: String} ${mins(mins)}",
+          "pleaseSelectVariation": "Lūdzu, izvēlieties variāciju",
+          "pleaseSelectOption": "Lūdzu, izvēlieties opciju.",
+          "enterYourInstruction": "Ievadiet savus norādījumus"
+        }
+      }
+    },
+    "category": {
+      "addNewCategory": "Pievienot jaunu kategoriju",
+      "editCategory": "Rediģēt kategoriju"
+    },
+    "brand": {
+      "addNewBrand": "Pievienot jaunu zīmolu",
+      "editBrand": "Rediģēt zīmolu"
+    },
+    "unit": {
+      "addNewUnit": "Pievienot jaunu mērvienību",
+      "editUnit": "Rediģēt mērvienību"
+    },
+    "stock": {
+      "stockList": "Krājumu saraksts"
+    },
+    "aboutUs": {
+      "title": "Par mums"
+    },
+    "privacyPolicy": {
+      "title": "Privātuma politika"
+    },
+    "termAndCondition": {
+      "title": "@:common.termAndCondition"
+    },
+    "orders": {
+      "manageOrders": {
+        "extra": {
+          "billItems": "Rēķina preces",
+          "manageQuantity": "Pārvaldīt daudzumu"
+        },
+        "title": {
+          "editOrder": "Rediģēt pasūtījumu",
+          "editKOT": "Rediģēt KOT"
+        }
+      }
+    },
+    "onlinePayment": {
+      "title": "Tiešsaistes maksājums"
+    },
+    "paymentStatus": {
+      "success": {
+        "title": "Paldies!",
+        "message": "Mēs pārbaudīsim maksājumu un apstiprināsim to 24 stundu laikā.",
+        "actionButtonText": "Skatīt rēķinu"
+      },
+      "fail": {
+        "title": "Ups! Maksājums neizdevās",
+        "message": "Jūsu darījums neizdevās tehnisku kļūdu dēļ.",
+        "actionButtonText": "Mēģināt vēlreiz"
+      }
+    },
+    "confirmationDialog": {
+      "title": "Izrakstīties",
+      "message": "Vai esat pārliecināts, ka vēlaties izrakstīties?",
+      "acceptationText": "Nē",
+      "rejectionText": "Izrakstīties"
+    },
+    "payment": {
+      "title": "@:common.paymentMethod",
+      "addPaymentMethod": "Pievienot jaunu maksājuma metodi",
+      "editPaymentMethod": "Rediģēt maksājuma metodi",
+      "choseOnlinePayment": "Izvēlēties tiešsaistes maksājumu",
+      "selectPaymentMethod": "Atlasīt maksājuma metodi",
+      "pleaseSelectAPaymentMethod": "Lūdzu, atlasiet maksājuma metodi.",
+      "methodStatus": {
+        "title": "Statuss",
+        "message": "Statusu nevar padarīt neaktīvu, ja ir iespējota ātrā apskate!."
+      }
+    },
+    "subscriptionPlan": {
+      "title": "Iegādāties Premium plānu",
+      "extra": {
+        "actionButtonText": "Atgriezties",
+        "message": "Abonēšanas maksājums veiksmīgs.\n\nTagad varat piekļūt abonētajām funkcijām.",
+        "mostPopular": "Populārākais"
+      }
+    },
+    "invoicePreview": {
+      "title": "Rēķina priekšskatījums",
+      "message": "PDF priekšskatījums drīzumā"
+    },
+    "currency": {
+      "title": "@:common.currency"
+    },
+    "dashboard": {
+      "overview": "Pārskats",
+      "dashboardPrivacy": "Informācijas paneļa privātums",
+      "moneyInAndMoneyOut": "Ienākumi un izdevumi",
+      "lossAndProfitOverView": "Peļņas un zaudējumu pārskats"
+    },
+    "due": {
+      "title": "@:common.dueList",
+      "collectionList": "Parādu piedziņas saraksts",
+      "dueCollection": "Parādu piedziņa"
+    },
+    "expense": {
+      "title": "@:common.expense",
+      "editExpense": "Rediģēt izdevumus",
+      "addNewExpense": "Pievienot jaunus izdevumus",
+      "editExpenseCategory": "Rediģēt izdevumu kategoriju",
+      "addNewExpenseCategory": "Pievienot jaunu izdevumu kategoriju",
+      "payment": "Maksājums",
+      "expenseCategory": "Izdevumu kategorija",
+      "selectCategory": "Izvēlēties kategoriju",
+      "allExpense": "Visi izdevumi",
+      "pleaseSelectACategory": "Lūdzu, izvēlieties kategoriju",
+      "expenseTitle": {
+        "label": "Izdevumu nosaukums",
+        "hint": "Ievadiet izdevumus"
+      }
+    },
+    "lossProfit": {
+      "title": "Zaudējumu/peļņas saraksts",
+      "noLossProfitFound": "Zaudējumi/peļņa nav atrasta!\nLūdzu, mēģiniet izveidot pārdošanas apjomus."
+    },
+    "income": {
+      "editIncomeCategory": "Rediģēt ienākumu kategoriju",
+      "addNewIncomeCategory": "Pievienot jaunu ienākumu kategoriju",
+      "incomeCategory": "Ienākumu kategorija",
+      "allIncome": "Visi ienākumi",
+      "editIncome": "Rediģēt ienākumus",
+      "addNewIncome": "Rediģēt ienākumus",
+      "addIncome": "Pievienot ienākumus"
+    },
+    "moneyIn": {
+      "title": "Ienākumu saraksts",
+      "totalPaymentIn": "Kopējie ienākumi"
+    },
+    "moneyOut": {
+      "title": "Izdevumu saraksts",
+      "totalMoneyOut": "Kopējie izdevumi"
+    },
+    "profile": {
+      "title": "Mans profils",
+      "editProfile": "Rediģēt profilu",
+      "businessInformation": "Uzņēmuma informācija",
+      "profileInformation": "Profila informācija"
+    },
+    "parties": {
+      "title": "Partneru saraksts",
+      "allParties": "Visi partneri",
+      "customer": "Klients",
+      "supplier": "Piegādātājs",
+      "addParties": "Pievienot partnerus",
+      "editParties": "Rediģēt partnerus",
+      "partiesDetails": "Partneru informācija",
+      "personalInfo": "Personīgā informācija"
+    },
+    "ledger": {
+      "subTitle": "Virsgrāmata"
+    },
+    "purchase": {
+      "title": "Pievienot jaunu pirkumu",
+      "editPurchase": "Rediģēt pirkumu"
+    },
+    "reports": {
+      "title": "Atskaites"
+    },
+    "table": {
+      "title": "Pievienot jaunu galdiņu",
+      "editTable": "Rediģēt galdiņu"
+    },
+    "tax": {
+      "title": "PVN likmes",
+      "buildHeaderTitle": "PVN likmes - pārvaldiet savas PVN likmes",
+      "vatGroup": {
+        "title": "PVN grupa",
+        "subTitle": "PVN grupa - pārvaldiet savu PVN grupu"
+      }
+    },
+    "vat": {
+      "addNewVat": "Pievienot jaunu PVN likmi",
+      "editVat": "Rediģēt PVN likmi",
+      "addNewVatGroup": "Pievienot jaunu PVN grupu",
+      "editVatGroup": "Rediģēt PVN grupu"
+    },
+    "orderList": {
+      "title": "Pasūtījumu saraksts",
+      "filters": {
+        "orderType": {
+          "label": "@:common.orderType",
+          "hint": "Izvēlieties pasūtījuma veidu"
+        },
+        "paymentStatus": {
+          "hint": "Izvēlieties maksājuma statusu",
+          "label": "Maksājuma statuss"
+        }
+      }
+    },
+    "staffs": {
+      "staffList": {
+        "filters": {
+          "designation": {
+            "label": "Amats",
+            "hint": "Izvēlieties amatu"
+          }
+        },
+        "title": "Viss personāls"
+      },
+      "manageStaff": {
+        "title1": "Pievienot jaunu personālu",
+        "title2": "Atjaunināt personālu"
+      }
+    },
+    "ingredient": {
+      "ingredientList": {
+        "title1": "Sastāvdaļu saraksts",
+        "title2": "Atlasīt sastāvdaļu"
+      },
+      "manageIngredient": {
+        "title1": "Pievienot jaunu sastāvdaļu",
+        "title2": "Rediģēt sastāvdaļu"
+      }
+    },
+    "itemModifier": {
+      "itemModifierList": {
+        "title": "@:common.itemModifiers"
+      },
+      "manageItemModifier": {
+        "title1": "Pievienot vienumu modifikatorus",
+        "title2": "Rediģēt vienumu modifikatorus"
+      }
+    },
+    "quotation": {
+      "manageQuotation": {
+        "title": {
+          "add": "Pievienot jaunu cenu piedāvājumu",
+          "edit": "Rediģēt cenu piedāvājumu",
+          "convert": "Pārvērst par pārdošanas darījumu"
+        }
+      }
+    },
+    "rolePermission": {
+      "rolePermissionList": {
+        "title": "Lomu un atļauju saraksts"
+      },
+      "manageRolePermission": {
+        "title1": "Pievienot jaunu lomu",
+        "title2": "Rediģēt lomu"
+      }
+    },
+    "printingOption": {
+      "title": "Drukāšanas opcija",
+      "form": {
+        "companyAddress": {
+          "label": "Uzņēmuma adrese",
+          "hint": "Ievadiet uzņēmuma adresi"
+        },
+        "noteLabel": {
+          "label": "Piezīmes etiķete",
+          "hint": "Ievadiet piezīmes etiķeti."
+        },
+        "note": {
+          "label": "Piezīme",
+          "hint": "Ievadiet piezīmi."
+        },
+        "postSaleMessage": {
+          "label": "Ziņa pēc pārdošanas",
+          "hint": "Ievadiet ziņu pēc pārdošanas"
+        },
+        "printingMethod": {
+          "label": "Drukāšanas metode",
+          "hint": "Atlasiet drukāšanas metodi"
+        },
+        "printerProfile": {
+          "label": "Printera profils",
+          "hint": "Atlasiet printera profilu"
+        },
+        "paperSize": {
+          "label": "Termiskā printera papīra izmērs",
+          "hint": "Atlasiet printera papīra izmēru"
+        },
+        "printerDpi": {
+          "label": "Printera DPI",
+          "hint": "Piem: 203"
+        },
+        "printingMargin": {
+          "label": "Drukāšanas mala",
+          "hint": "Piem: 2"
+        }
+      },
+      "tooltip": {
+        "printingMethod": {
+          "title": "Nolaižamais saraksts ar opcijām:",
+          "default": "• Noklusējums (Vietējā metode ES standarta rakstzīmju drukāšanai)",
+          "image": "• Attēls (Ieteicams Unicode rakstzīmju drukāšanai)"
+        }
+      },
+      "action": {
+        "save": "Saglabāt"
+      }
+    },
+    "kitchen": {
+      "list": {
+        "noKitchensFound": "Virtuves nav atrastas.\n Lūdzu, mēģiniet pievienot vienu."
+      },
+      "manage": {
+        "addKitchen": "Pievienot virtuvi",
+        "editKitchen": "Rediģēt virtuvi",
+        "kitchenName": {
+          "label": "Virtuves nosaukums",
+          "hint": "Ievadiet virtuves nosaukumu",
+          "error": "Lūdzu, ievadiet virtuves nosaukumu."
+        },
+        "description": {
+          "label": "Apraksts",
+          "hint": "Ievadiet aprakstu"
+        }
+      },
+      "manageItems": {
+        "title": "Pārvaldīt vienumus",
+        "addedItems": "Pievienotie vienumi",
+        "selectItemsError": "Lūdzu, atlasiet vienumus.",
+        "noItemsAdded": "Vienumi vēl nav pievienoti!\nLūdzu, mēģiniet pievienot vienumus."
+      },
+      "card": {
+        "itemName": "Vienuma nosaukums",
+        "manageItems": "+ Pārvaldīt vienumus",
+        "deleteItemConfirm": "Vai vēlaties dzēst šo vienumu?",
+        "deleteKitchenConfirm": "Vai vēlaties dzēst šo virtuvi?"
+      }
+    }
+  },
+  "enums": {
+    "dropdownDateFilter": {
+      "daily": "Katru dienu",
+      "weekly": "Katru nedēļu",
+      "monthly": "Katru mēnesi",
+      "yearly": "Katru gadu",
+      "custom": "Pielāgots"
+    },
+    "orderTypes": {
+      "dineIn": "Ēšana uz vietas",
+      "pickUp": "Paņemšana",
+      "delivery": "Piegāde",
+      "reservation": "Rezervācija",
+      "quotation": "Piedāvājums"
+    },
+    "paymentStatus": {
+      "paid": "Samaksāts",
+      "unpaid": "Nesamaksāts"
+    },
+    "staffTypes": {
+      "manager": "Vadītājs",
+      "waiter": "Viesmīlis",
+      "chef": "Pavārs",
+      "cleaner": "Tīrītājs",
+      "driver": "Šoferis",
+      "deliveryBoy": "Piegādātājs"
+    },
+    "itemFoodTypes": {
+      "veg": "Veģetārs",
+      "nonVeg": "Neveģetārs",
+      "egg": "Olu",
+      "drink": "Dzēriens",
+      "others": "Citi"
+    },
+    "itemTypes": {
+      "single": "Viens",
+      "variation": "Variācija"
+    },
+    "quotationStatus": {
+      "open": "Atvērts",
+      "closed": "Slēgts"
+    },
+    "tableStatus": {
+      "running": "Aizņemts",
+      "available": "Brīvs"
+    },
+    "thermalPrinterPrintingMethod": {
+      "image": "Attēls",
+      "default": "Noklusējuma"
+    },
+    "kotOrderStatus": {
+      "label": {
+        "pending": "Gaida",
+        "preparing": "Gatavojas",
+        "ready": "Ēdiens ir gatavs",
+        "served": "Pasniegts",
+        "cancelled": "Atcelts"
+      },
+      "pending": "Gaida",
+      "preparing": "Gatavojas",
+      "ready": "Ēdiens ir gatavs",
+      "served": "Pasniegts",
+      "cancelled": "Atcelts"
+    },
+    "kotItemStatus": {
+      "pending": "Sākt gatavošanu",
+      "start": "Atzīmēt kā gatavu",
+      "ready": "Gatavs"
+    }
+  },
+  "thermalPrint": {
+    "invoice": {
+      "purchaseInvoiceLabel": "Pirkuma rēķins: ${invoiceNumber: String}",
+      "saleInvoiceLabel": "Pasūtījuma Nr.: ${invoiceNumber: String}",
+      "receiptNoLabel": "Kvīts Nr.: ${invoiceNumber: String}",
+      "orderNoKotLabel": "Pasūtījuma Nr.: ${invoiceNumber: String}",
+      "nameLabel": "Vārds: ${name: String}",
+      "mobileLabel": "Mobilais: ${phone: String}",
+      "purchasedByLabel": "Iegādājās: ${role: String}",
+      "salesByLabel": "Pārdeva: ${role: String}",
+      "paidByLabel": "${label: String}: ${role: String}",
+      "paidToReceivedFromLabel": "${label: String}: ${name: String}",
+      "orderTypeLabel": "Pasūtījuma veids: ${orderType: String}",
+      "tableLabel": "Galds: ${tableName: String}",
+      "tableNoLabel": "Galda Nr.: ${tableName: String}",
+      "dateLabel": "Datums: ${dateTime: String}",
+      "invoiceFlag": "RĒĶINS",
+      "receiptFlag": "KVĪTS",
+      "paidBy": "Apmaksāja",
+      "receivedBy": "Saņēma",
+      "paidTo": "Apmaksāts",
+      "receivedFrom": "Saņemts no",
+      "seller": "Pārdevējs: ${name: String}",
+      "address": "Adrese: ${addr: String}",
+      "vatNo": "PVN reģ. nr.",
+      "tel": "Tālrunis: ${phoneNumber: String}",
+      "timeLabel": "Laiks: ${dateTime: String}"
+    },
+    "tableHeaders": {
+      "sl": "Nr.",
+      "item": "Prece",
+      "cost": "Izmaksas",
+      "qty": "Daudz.",
+      "uPrice": "Vien. cena",
+      "amount": "Summa",
+      "total": "Kopā",
+      "invoiceTable": "Rēķins",
+      "dueTable": "Parāds"
+    },
+    "summary": {
+      "subTotal": "Starpsumma:",
+      "discount": "Atlaide: ${percentFmt: String}",
+      "vat": "${vatName: String}: ${rateFmt: String}%",
+      "tip": "Dzeramnauda:",
+      "deliveryCharge": "Piegādes maksa:",
+      "totalPayable": "Kopā apmaksai:",
+      "paidAmount": "Apmaksātā summa:",
+      "dueAmount": "Parāda summa:",
+      "paymentType": "Maksājuma veids: ${method: String}",
+      "remainingDue": "Atlikušais parāds:",
+      "paymentAmount": "Maksājuma summa:",
+      "itemsCount": "Preces: ${count: int}",
+      "qtyTotal": "Daudz.: ${totalQty: int}"
+    },
+    "footer": {
+      "note": "${noteLabel: String}: ${note: String}",
+      "developedBy": "${developByLabel: String} ${developBy: String}"
+    }
+  },
+  "hrm": {
+    "department": "Nodaļa",
+    "designation": "Amats",
+    "shift": "Maiņa",
+    "employee": "Darbinieks",
+    "leave": "Atvaļinājums",
+    "leaveType": "Atvaļinājuma veids",
+    "leaveRequest": "Atvaļinājuma pieprasījums",
+    "holiday": "Brīvdiena",
+    "attendance": "Apmeklējums",
+    "payroll": "Alga",
+    "pageTitles": {
+      "department": "Nodaļa",
+      "designation": "Amats",
+      "shift": "Maiņa",
+      "employee": "Darbinieks",
+      "leave": "Atvaļinājums",
+      "leaveType": "Atvaļinājuma veids",
+      "holiday": "Brīvdiena",
+      "attendance": "Apmeklējums",
+      "payroll": "Alga",
+      "leaveReports": "Atvaļinājuma atskaites",
+      "payrollReports": "Algas atskaites",
+      "attendanceReports": "Apmeklējuma atskaites",
+      "addDepartment": "Pievienot nodaļu",
+      "editDepartment": "Rediģēt nodaļu",
+      "addDesignation": "Pievienot amatu",
+      "editDesignation": "Rediģēt amatu",
+      "addShift": "Pievienot maiņu",
+      "editShift": "Rediģēt maiņu",
+      "addEmployee": "Pievienot darbinieku",
+      "editEmployee": "Rediģēt darbinieku",
+      "addLeave": "Pievienot atvaļinājumu",
+      "editLeave": "Rediģēt atvaļinājumu",
+      "addLeaveType": "Pievienot atvaļinājuma veidu",
+      "editLeaveType": "Rediģēt atvaļinājuma veidu",
+      "addHoliday": "Pievienot brīvdienu",
+      "editHoliday": "Rediģēt brīvdienu",
+      "addAttendance": "Pievienot apmeklējumu",
+      "editAttendance": "Rediģēt apmeklējumu",
+      "addPayroll": "Pievienot algu",
+      "editPayroll": "Rediģēt algu"
+    },
+    "form": {
+      "labels": {
+        "department": "Nodaļa",
+        "designation": "Amats",
+        "shift": "Maiņa",
+        "employee": "Darbinieks",
+        "leaveType": "Atvaļinājuma veids",
+        "leaveDuration": "Atvaļinājuma ilgums",
+        "paymentYear": "Maksājuma gads",
+        "paymentType": "Maksājuma veids",
+        "breakStatus": "Pārtraukuma statuss",
+        "startTime": "Sākuma laiks",
+        "endTime": "Beigu laiks",
+        "startBreakTime": "Pārtraukuma sākums",
+        "endBreakTime": "Pārtraukuma beigas",
+        "breakTime": "Pārtraukuma laiks",
+        "breakDuration": "Pārtraukuma ilgums",
+        "timeIn": "Ierašanās laiks",
+        "timeOut": "Aiziešanas laiks",
+        "duration": "Ilgums",
+        "country": "Valsts",
+        "salary": "Alga",
+        "gender": "Dzimums",
+        "birthDate": "Dzimšanas datums",
+        "joinDate": "Pievienošanās datums",
+        "holidayName": "Brīvdienas nosaukums",
+        "startDate": "Sākuma datums",
+        "endDate": "Beigu datums",
+        "month": "Mēnesis",
+        "year": "Gads",
+        "status": "Statuss",
+        "description": "Apraksts",
+        "amount": "Summa",
+        "payment": "Maksājums",
+        "departmentName": "Nodaļas nosaukums",
+        "designationName": "Amata nosaukums",
+        "image": "Attēls",
+        "name": "Vārds"
+      },
+      "hints": {
+        "selectEmployee": "Izvēlieties darbinieku",
+        "selectDepartment": "Izvēlieties nodaļu",
+        "selectDesignation": "Izvēlieties amatu",
+        "selectShift": "Izvēlieties maiņu",
+        "selectLeaveType": "Izvēlieties atvaļinājuma veidu",
+        "selectMonth": "Izvēlieties mēnesi",
+        "selectYear": "Izvēlieties gadu",
+        "selectDate": "Izvēlieties datumu",
+        "selectStartDate": "Izvēlieties sākuma datumu",
+        "selectEndDate": "Izvēlieties beigu datumu",
+        "selectTimeIn": "Izvēlieties ierašanās laiku",
+        "selectTimeOut": "Izvēlieties aiziešanas laiku",
+        "selectStartTime": "Izvēlieties sākuma laiku",
+        "selectEndTime": "Izvēlieties beigu laiku",
+        "selectStatus": "Izvēlieties statusu",
+        "selectGender": "Izvēlieties dzimumu",
+        "selectPaymentType": "Izvēlieties maksājuma veidu",
+        "enterFullName": "Ievadiet pilnu vārdu",
+        "enterEmail": "Ievadiet e-pastu",
+        "enterPhone": "Ievadiet tālruni",
+        "enterCountry": "Ievadiet valsti",
+        "enterSalary": "Piem.: 500",
+        "enterHolidayName": "Ievadiet brīvdienas nosaukumu",
+        "enterDescription": "Ievadiet aprakstu...",
+        "autoCalculated": "Automātiski aprēķināts",
+        "selectDatesFirst": "Vispirms izvēlieties datumus",
+        "allEmployee": "Visi darbinieki",
+        "selectEmployeeFirst": "Vispirms izvēlieties darbinieku",
+        "enterDepartmentName": "Ievadiet nodaļas nosaukumu",
+        "enterDesignationName": "Ievadiet amata nosaukumu",
+        "ex": "{value}",
+        "selectBirthDate": "Izvēlieties dzimšanas datumu",
+        "selectJoinDate": "Izvēlieties pievienošanās datumu",
+        "selectBreakStatus": "Izvēlēties pārtraukuma statusu",
+        "enterLeaveTypeName": "Ievadiet atvaļinājuma veida nosaukumu"
+      }
+    },
+    "emptyStates": {
+      "noLeaves": "Nav atrasts neviens atvaļinājums",
+      "noPayrollRecords": "Nav atrasts neviens algas ieraksts",
+      "noAttendanceRecords": "Nav atrasts neviens apmeklējuma ieraksts",
+      "noLeaveTypes": "Atvaļinājumu veidi nav atrasti",
+      "noEmployees": "Nav atrasts neviens darbinieks",
+      "noHolidays": "Nav atrasta neviena brīvdiena",
+      "noShifts": "Maiņas nav atrastas",
+      "noDesignations": "Nav atrasts neviens amats",
+      "noDepartments": "Nav atrasta neviena nodaļa"
+    },
+    "confirmations": {
+      "deleteAttendance": "Vai tiešām vēlaties dzēst šo apmeklējumu?",
+      "deletePayroll": "Vai tiešām vēlaties dzēst šo algu?",
+      "deleteLeave": "Vai tiešām vēlaties dzēst šo atvaļinājumu?",
+      "deleteLeaveType": "Vai vēlaties dzēst šo atvaļinājuma veidu?",
+      "deleteEmployee": "Vai tiešām vēlaties dzēst šo darbinieku?",
+      "deleteHoliday": "Vai tiešām vēlaties dzēst šo brīvdienu?",
+      "deleteShift": "Vai vēlaties dzēst šo maiņu?",
+      "deleteDesignation": "Vai tiešām vēlaties dzēst šo amatu?",
+      "deleteDepartment": "Vai tiešām vēlaties dzēst šo nodaļu?"
+    },
+    "validation": {
+      "selectEmployee": "Lūdzu, izvēlieties darbinieku",
+      "selectMonth": "Lūdzu, izvēlieties mēnesi",
+      "selectEndDate": "Lūdzu, izvēlieties beigu datumu",
+      "endDateAfterStart": "Beigu datumam jābūt pēc sākuma datuma",
+      "selectStatus": "Lūdzu, izvēlieties statusu",
+      "selectLeaveType": "Lūdzu, izvēlieties atvaļinājuma veidu",
+      "selectStartDate": "Lūdzu, izvēlieties sākuma datumu",
+      "selectDate": "Lūdzu, izvēlieties datumu",
+      "selectTimeIn": "Lūdzu, izvēlieties ierašanās laiku",
+      "selectTimeOut": "Lūdzu, izvēlieties došanās prom laiku",
+      "enterDepartmentName": "Lūdzu, ievadiet nodaļas nosaukumu",
+      "enterDesignationName": "Lūdzu, ievadiet amata nosaukumu",
+      "enterName": "Lūdzu, ievadiet vārdu",
+      "selectDesignation": "Lūdzu, izvēlieties amatu",
+      "selectDepartment": "Lūdzu, izvēlieties nodaļu",
+      "enterEmail": "Lūdzu, ievadiet e-pastu",
+      "enterValidEmail": "Lūdzu, ievadiet derīgu e-pastu",
+      "enterPhoneNumber": "Lūdzu, ievadiet tālruņa numuru",
+      "enterCountry": "Lūdzu, ievadiet valsti",
+      "enterSalary": "Lūdzu, ievadiet algu",
+      "selectGender": "Lūdzu, izvēlieties dzimumu",
+      "selectShift": "Lūdzu, izvēlieties maiņu",
+      "selectBirthDate": "Lūdzu, izvēlieties dzimšanas datumu",
+      "selectJoinDate": "Lūdzu, izvēlieties pievienošanās datumu",
+      "enterHolidayName": "Lūdzu, ievadiet brīvdienas nosaukumu",
+      "selectBreakStatus": "Lūdzu, izvēlieties pārtraukuma statusu",
+      "selectPaymentYear": "Lūdzu, izvēlieties maksājuma gadu",
+      "selectPaymentType": "Lūdzu, izvēlieties maksājuma veidu",
+      "enterAmount": "Lūdzu, ievadiet summu",
+      "selectStartBreakTime": "Lūdzu, izvēlieties pārtraukuma sākuma laiku",
+      "selectEndBreakTime": "Lūdzu, izvēlieties pārtraukuma beigu laiku",
+      "enterLeaveTypeName": "Lūdzu, ievadiet atvaļinājuma veida nosaukumu",
+      "selectStartTime": "Lūdzu, izvēlieties sākuma laiku",
+      "selectEndTime": "Lūdzu, izvēlieties beigu laiku"
+    },
+    "dropdowns": {
+      "addNew": "+ Pievienot jaunu",
+      "morning": "Rīts",
+      "day": "Diena",
+      "evening": "Vakars",
+      "night": "Nakts",
+      "yes": "Jā",
+      "no": "Nē",
+      "approved": "Apstiprināts",
+      "rejected": "Noraidīts",
+      "terminated": "Pārtraukts",
+      "suspended": "Apturēts",
+      "male": "Vīrietis",
+      "female": "Sieviete",
+      "pending": "Gaida",
+      "active": "Aktīvs",
+      "inactive": "Neaktīvs",
+      "paid": "Samaksāts",
+      "unpaid": "Nesamaksāts"
+    },
+    "units": {
+      "days": "dienas"
+    },
+    "fallbacks": {
+      "noNoteAvailable": "Nav pieejama piezīme",
+      "noDescriptionAvailable": "Apraksts nav pieejams",
+      "selectEmployeeFirst": "Vispirms izvēlieties darbinieku"
+    },
+    "success": {
+      "leaveDelete": "Atvaļinājums veiksmīgi dzēsts",
+      "attendanceDelete": "Apmeklējums veiksmīgi dzēsts",
+      "attendanceAdd": "Apmeklējums veiksmīgi pievienots",
+      "attendanceUpdate": "Apmeklējums veiksmīgi atjaunināts",
+      "leaveAdd": "Atvaļinājums veiksmīgi pievienots",
+      "leaveUpdate": "Atvaļinājums veiksmīgi atjaunināts",
+      "departmentDelete": "Nodaļa veiksmīgi dzēsta",
+      "departmentAdd": "Nodaļa veiksmīgi pievienota",
+      "departmentUpdate": "Nodaļa veiksmīgi atjaunināta",
+      "designationDelete": "Amats veiksmīgi dzēsts",
+      "designationAdd": "Amats veiksmīgi pievienots",
+      "designationUpdate": "Amats veiksmīgi atjaunināts",
+      "employeeDelete": "Darbinieks veiksmīgi dzēsts",
+      "employeeAdd": "Darbinieks veiksmīgi pievienots",
+      "employeeUpdate": "Darbinieks veiksmīgi atjaunināts",
+      "holidayDelete": "Brīvdiena veiksmīgi dzēsta",
+      "holidayAdd": "Brīvdiena veiksmīgi pievienota",
+      "holidayUpdate": "Brīvdiena veiksmīgi atjaunināta",
+      "leaveTypeDelete": "Atvaļinājuma veids veiksmīgi dzēsts"
+    }
+  }
+}

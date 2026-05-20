@@ -1,0 +1,1561 @@
+{
+  "@@meta": {
+    "languageCode": "de_DE",
+    "languageName": "German",
+    "version": "1.0.0"
+  },
+  "common": {
+    "signIn": "Anmelden",
+    "signUp": "Registrieren",
+    "verifyEmail": "E-Mail bestätigen",
+    "customizeProfile": "Profil anpassen",
+    "imageOrLogo": "Logo oder Bild",
+    "createNewPassword": "Neues Passwort erstellen",
+    "itemsList": "Artikelliste",
+    "searchItemsName": "Artikelnamen suchen",
+    "categoryList": "Kategorieliste",
+    "brandList": "Markenliste",
+    "unitList": "Einheitenliste",
+    "itemDetails": "Artikeldetails",
+    "addStock": "Lager hinzufügen",
+    "profile": "Profil",
+    "language": "Sprache",
+    "termsAndConditions": "Allgemeine Geschäftsbedingungen",
+    "aboutUs": "Über uns",
+    "logout": "Abmelden",
+    "editProfile": "Profil bearbeiten",
+    "fullName": "Vollständiger Name",
+    "email": "E-Mail",
+    "mobileNumber": "Mobilnummer",
+    "address": "Adresse",
+    "password": "Passwort",
+    "forgotPassword": "Passwort vergessen",
+    "edit": "Bearbeiten",
+    "delete": "Löschen",
+    "addItems": "Artikel hinzufügen",
+    "stock": "Lager",
+    "currentStock": "Aktueller Lagerbestand",
+    "value": "Wert",
+    "sales": "Verkäufe",
+    "purchase": "Einkauf",
+    "price": "Preis",
+    "image": "Bild",
+    "upload": "Hochladen",
+    "addNew": "Neu hinzufügen",
+    "pricing": "Preisgestaltung",
+    "name": "Name",
+    "category(plural)": {
+      "one": "Kategorie",
+      "other": "Kategories"
+    },
+    "areas": "Areas",
+    "brand": "Marke",
+    "lowStock": "Geringer Lagerbestand",
+    "unit": "Einheit",
+    "vat": "MwSt.",
+    "taxType": "Steuertyp",
+    "purchasePrice": "Einkaufspreis",
+    "sellingPrice": "Verkaufspreis",
+    "wholeSalePrice": "Großhandelspreis",
+    "dealerPrice": "Händlerpreis",
+    "searchHere": "Hier suchen",
+    "totalItems": "Gesamtzahl der Artikel",
+    "stockValue": "Lagerwert",
+    "congratulation": "Herzlichen Glückwunsch",
+    "salesList": "Verkaufsliste",
+    "searchInvoiceNumber": "Rechnungsnummer suchen",
+    "view": "Anzeigen",
+    "kFor": "Für",
+    "total": "Gesamt",
+    "subTotal": "Zwischensumme",
+    "insufficientStockAvailableStock": "Unzureichender Lagerbestand, verfügbarer Lagerbestand",
+    "discount": "Rabatt",
+    "selectOne": "Einen auswählen",
+    "allCategory": "Alle Kategorien",
+    "details": "Details",
+    "parcel": "Paket",
+    "kot": "Kot",
+    "table": "Tisch",
+    "holdTable": "Tisch reservieren",
+    "capacity": "Kapazität",
+    "commonHint": "Bsp.: 10",
+    "pleaseEnterQuantity": "Bitte Menge eingeben",
+    "quantityMustBeGreaterThanZero": "Die Menge muss größer als 0 sein",
+    "mobile": "Mobil",
+    "orderNo": "Bestellnummer",
+    "dateAndTime": "Datum & Uhrzeit",
+    "items": "Artikel",
+    "totalAmount": "Gesamtbetrag",
+    "paidAmount": "Bezahlter Betrag",
+    "dueAmount": "Fälliger Betrag",
+    "paymentType": "Zahlungsart",
+    "thankYou": "Vielen Dank",
+    "developedBy": "Entwickelt von ${domain: String}",
+    "qty": "Preis",
+    "amount": "Betrag",
+    "dashboard": "Armaturenbrett",
+    "reports": "Berichte",
+    "home": "Startseite",
+    "parties": "Parteien",
+    "subscriptionPlan": "Abonnementplan",
+    "estimateList": "Angebotsliste",
+    "purchaseList": "Einkaufsliste",
+    "dueList": "Fälligkeitsliste",
+    "lossOrProfit": "Verlust/Gewinn",
+    "stocks": "Lagerbestand",
+    "moneyInList": "Einnahmenliste",
+    "moneyOutList": "Ausgabenliste",
+    "transactionList": "Transaktionsliste",
+    "income": "Einnahmen",
+    "expense": "Ausgaben",
+    "quickView": "Schnellansicht",
+    "to": "bis",
+    "totalSales": "Gesamtumsatz",
+    "totalPurchase": "Gesamteinkauf",
+    "holdNumber": "Reservierte Bestellungen",
+    "totalExpense": "Gesamtausgaben",
+    "loss": "Verlust",
+    "profit": "Gewinn",
+    "recentTransaction": "Letzte Transaktionen",
+    "invoice": "Rechnung",
+    "moneyIn": "Einnahmen",
+    "moneyOut": "Ausgaben",
+    "paid": "Bezahlt",
+    "due": "Fällig",
+    "partial": "Teilweise",
+    "print": "Drucken",
+    "addCategory": "Kategorie hinzufügen",
+    "addExpense": "Ausgabe hinzufügen",
+    "search": "Suchen...",
+    "viewDetails": "Details anzeigen",
+    "title": "Titel",
+    "date": "Datum",
+    "note": "Notiz",
+    "phoneNumber": "Telefonnummer",
+    "type": "Typ",
+    "selectContactSType": "Kontakttyp auswählen",
+    "moreInfo": "Mehr Infos",
+    "paymentReceived": "Zahlung erhalten",
+    "selectSupplier": "Lieferant auswählen",
+    "supplier": "Lieferant",
+    "received": "Erhalten",
+    "balanceDue": "Restbetrag",
+    "addPurchase": "Einkauf hinzufügen",
+    "selectedItemWillBeCleared": "Ausgewählte Artikel werden gelöscht.",
+    "searchItemName": "Artikelnamen suchen",
+    "billItems": "Rechnungspositionen",
+    "addMoreItems": "Weitere Artikel hinzufügen",
+    "payAmount": "Betrag zahlen",
+    "salesReport": "Verkaufsbericht",
+    "purchaseReport": "Einkaufsbericht",
+    "stockReport": "Lagerbericht",
+    "dueReport": "Fälligkeitsbericht",
+    "dueCollectionReport": "Bericht über fällige Forderungen",
+    "transactionReport": "Transaktionsbericht",
+    "incomeReport": "Einnahmenbericht",
+    "dueCollectionList": "Liste der fälligen Forderungen",
+    "expenseReport": "Ausgabenberichte",
+    "dueCollection": "Fällige Forderungen",
+    "myProfile": "Mein Profil",
+    "printingOption": "Druckoptionen",
+    "currency": "Währung",
+    "paymentMethod": "Zahlungsmethode",
+    "rateUs": "Bewerten Sie uns",
+    "termAndCondition": "Allgemeine Geschäftsbedingungen",
+    "tableList": "Tischliste",
+    "addTable": "Tisch hinzufügen",
+    "vatRate": "MwSt.-Satz %",
+    "action": "Aktion",
+    "status": "Status",
+    "active": "Aktiv",
+    "inActive": "Inaktiv",
+    "subVats": "Unter-MwSt.",
+    "add": "Hinzufügen",
+    "taxRate": "Steuersatz %",
+    "subTaxes": "Untersteuern",
+    "group": "Gruppe",
+    "VAT": "MwSt.",
+    "subTaxList": "Untersteuerliste",
+    "vatPercent": "MwSt.-Prozentsatz",
+    "statusIsCannotInActive": "Der Status kann nicht inaktiv sein, wenn die MwSt. auf Verkäufe erhoben wird.",
+    "vatOnSales": "MwSt. auf Verkäufe",
+    "transaction": "Transaktion",
+    "version": "Version ${version: String}",
+    "hold": "Halten",
+    "empty": "Leer",
+    "appName": "Restaurant App",
+    "duePayment": "Fällige Zahlung",
+    "orders": "Bestellungen",
+    "all": "Alle",
+    "ingredient": "Zutat",
+    "menus": "Menüs",
+    "modifierGroups": "Modifikatorgruppen",
+    "itemModifiers": "Artikelmodifikatoren",
+    "staff": "Mitarbeiter",
+    "coupon": "Gutschein",
+    "pay": "Bezahlen",
+    "pendingOrders": "Ausstehende Bestellungen",
+    "order": "Bestellung",
+    "payNow": "Jetzt bezahlen",
+    "addStaff": "Mitarbeiter hinzufügen",
+    "designation": "Bezeichnung",
+    "itemAdded": "Artikel hinzugefügt",
+    "noItemAdded": "Kein Artikel hinzugefügt",
+    "saveNPrint": "Speichern & Drucken",
+    "allowMultiSelection": "Mehrfachauswahl zulassen",
+    "required": "Erforderlich",
+    "optional": "Optional",
+    "allowMultiSelectionForSale": "Mehrfachauswahl für Verkäufe zulassen",
+    "isRequired": "Ist erforderlich",
+    "modifier": "Modifikator",
+    "fullPayment": "Vollzahlung",
+    "payment": "Zahlung",
+    "addTip": "Trinkgeld hinzufügen",
+    "netPayable": "Netto zahlbar",
+    "receiveAmount": "Erhaltener Betrag",
+    "changeAmount": "Wechselgeld",
+    "quotationList": "Angebotsliste",
+    "addQuotation": "Angebot hinzufügen",
+    "convert": "Umwandeln",
+    "variations": "Variationen",
+    "instructions": "Anweisungen",
+    "unavailable": "Nicht verfügbar",
+    "tip": "Tipp",
+    "salesQuotationReport": "Angebotsbericht",
+    "orderType": "Bestellart",
+    "deliveryCharge": "Liefergebühr",
+    "receiptNo": "Quittungsnummer",
+    "paidBy": "Bezahlt von",
+    "receivedBy": "Empfangen von",
+    "paymentAmount": "Zahlungsbetrag",
+    "remainingDue": "Fälliger Restbetrag",
+    "roleNPermission": "Rolle & Berechtigung",
+    "sl": "Lfd. Nr.",
+    "features": "Funktionen",
+    "create": "Erstellen",
+    "update": "Aktualisieren",
+    "quotations": "Angebote",
+    "restaurant": "Restaurant",
+    "printerProfile": "Druckerprofil",
+    "kitchenOrders": "Küchenbestellungen",
+    "kitchen(plural)": {
+      "one": "Küche",
+      "other": "Küchen"
+    },
+    "allKOT": "Alle KOT",
+    "cancelKOT": "KOT stornieren",
+    "selectCancelReason": "Stornierungsgrund auswählen",
+    "additionalComment": "Zusätzlicher Kommentar",
+    "enterComment": "Kommentar eingeben",
+    "orderStatus": "Bestellstatus",
+    "selectOrderStatus": "Bestellstatus auswählen",
+    "kotReport": "KOT-Bericht",
+    "itemFoodType": "Speiseart",
+    "selectItemFoodType": "@:common.itemFoodType auswählen",
+    "markAllAsRead": "Alles als gelesen markieren",
+    "online": "Online",
+    "cancelledReason": "Stornierungsgrund",
+    "hrm": "HRM",
+    "notAvailable": "N/A"
+  },
+  "exceptions": {
+    "somethingWentWrong": "Etwas ist schiefgelaufen, bitte versuchen Sie es erneut",
+    "noCategoryFound": "Keine Kategorie gefunden!\nBitte versuchen Sie, eine Kategorie hinzuzufügen.",
+    "doYouWantToDeleteThisCategory": "Möchten Sie diese Kategorie löschen?",
+    "noBrandFound": "Keine Marke gefunden!\nBitte versuchen Sie, eine Marke hinzuzufügen.",
+    "doYouWantToDeleteThisBrand": "Möchten Sie diese Marke löschen?",
+    "noItemStockFound": "Kein Artikelbestand gefunden!\nBitte versuchen Sie, einen Artikel hinzuzufügen.",
+    "noUnitFound": "Keine Einheit gefunden!\nBitte versuchen Sie, eine Einheit hinzuzufügen.",
+    "doYouDeleteThisUnit": "Möchten Sie diese Einheit löschen?",
+    "noSaleFoundPleaseSAddProduct": "Kein Verkauf gefunden!\nBitte versuchen Sie, einen Verkauf hinzuzufügen.",
+    "doYouWantToDeleteThisSale": "Möchten Sie diesen Verkauf löschen?",
+    "pleaseAddItemToTheCartFirst": "Bitte fügen Sie zuerst Artikel zum Warenkorb hinzu",
+    "noItemAdded": "Keine Artikel hinzugefügt",
+    "cannotEditOthersTable": "Kann andere Tische nicht bearbeiten.",
+    "tableIsAlreadyBlocked": "Der Tisch ist bereits reserviert.",
+    "failedToGetCustomerDetails": "Kundendetails konnten nicht abgerufen werden.",
+    "noTableFoundPleaseTryAgain": "Keine Tische gefunden!\nBitte versuchen Sie, einen Tisch hinzuzufügen.",
+    "noDueCollectionFound": "Keine überfällige Rechnung gefunden!\nSie können überfällige Rechnungen sehen, wenn verfügbar.",
+    "noExpenseFoundPleaseTryAddingExpense": "Keine Ausgabe gefunden!\nBitte versuchen Sie, eine Ausgabe hinzuzufügen.",
+    "doYouWantToDeleteThisExpense": "Möchten Sie diese Ausgabe löschen?",
+    "noExpenseCategoryFound": "Keine Ausgabenkategorie gefunden!\nBitte versuchen Sie, eine Ausgabenkategorie hinzuzufügen.",
+    "noTransactionFound": "Keine Transaktionen gefunden, bitte versuchen Sie es später noch einmal!",
+    "pleaseSelectACategory": "Bitte wählen Sie eine Kategorie",
+    "noIncomeFound": "Keine Einnahmen gefunden!\nBitte versuchen Sie, eine Einnahme hinzuzufügen.",
+    "doYouWantToDeleteThisIncome": "Möchten Sie diese Einnahme löschen?",
+    "noIncomeCategoryFoundAddingAIncome": "Keine Einnahmenkategorie gefunden!\nBitte versuchen Sie, eine Einnahmenkategorie hinzuzufügen.",
+    "noItemFoundPleaseTryAddingItem": "Kein Artikel gefunden!\nBitte versuchen Sie, einen Artikel hinzuzufügen.",
+    "noPartiesFound": "Keine Parteien gefunden",
+    "doYouWantToDeleteThisParty": "Möchten Sie diese Partei löschen?",
+    "noLedgerFound": "Kein Hauptbuch gefunden!\nBitte versuchen Sie, eine ${transactionType: String} hinzuzufügen.",
+    "areYouSureYouSureWantToDeleteThisTaxType": "Sind Sie sicher, dass Sie diesen Steuertyp löschen möchten: ${taxType: String}?",
+    "noItemFoundPleaseSTryAddingAnPurchase": "Kein Artikel gefunden!\nBitte versuchen Sie, einen Einkauf hinzuzufügen.",
+    "doYouWantToDeleteThisPurchase": "Möchten Sie diesen Einkauf löschen?",
+    "noTransactionFoundYouSeeTransactionHereWhenAvailable": "Keine Transaktion gefunden!\nSie sehen hier Transaktionen, wenn verfügbar.",
+    "noSaleFoundPleaseTryAddingSale": "Kein Verkauf gefunden!\nBitte versuchen Sie, einen Verkauf hinzuzufügen.",
+    "noPurchaseFoundPleaseTryAddingPurchase": "Kein Einkauf gefunden!\nBitte versuchen Sie, einen Einkauf hinzuzufügen.",
+    "noItemIncomeFound": "Keine Einnahmen für diesen Artikel gefunden!\nSie können Einnahmendaten sehen, wenn verfügbar.",
+    "noItemExpenseFound": "Keine Ausgaben für diesen Artikel gefunden!\nSie können Ausgabendaten sehen, wenn verfügbar.",
+    "noItemDueInvoiceFound": "Keine überfällige Rechnung für diesen Artikel gefunden!\nSie können überfällige Rechnungen sehen, wenn verfügbar.",
+    "noItemDueCollectionInvoiceFound": "'Keine überfällige Inkassorechnung für diesen Artikel gefunden!\nSie können überfällige Inkassorechnungen sehen, wenn verfügbar.",
+    "doYouWantToDeleteThisTable": "Möchten Sie diesen Tisch löschen?'",
+    "thisVatIsBeingUsedOnSales": "Diese Mehrwertsteuer wird für Verkäufe verwendet!",
+    "noPaymentMethodFoundPleaseTryAddingAPaymentMethod": "Keine Zahlungsmethode gefunden!\nBitte versuchen Sie, eine Zahlungsmethode hinzuzufügen.",
+    "pleaseSelectACustomerFirst": "Bitte wählen Sie zuerst einen Kunden aus.",
+    "pleaseSelectATableToCreateAKot": "Bitte wählen Sie einen Tisch aus, um einen KOT zu erstellen.",
+    "noStaffFound": "Kein Mitarbeiter gefunden!\\n Bitte versuchen Sie, einen Mitarbeiter hinzuzufügen.",
+    "noIngredientFound": "Keine Zutat gefunden!\\n Bitte versuchen Sie, eine Zutat hinzuzufügen.",
+    "exceedsPaymentAmount": "Der erhaltene Betrag sollte nicht größer sein als der zu zahlende Betrag.",
+    "noItemModifierFound": "Kein Artikelmodifikator gefunden!\\n Bitte versuchen Sie, einen Artikelmodifikator hinzuzufügen.",
+    "noModifierGroupFound": "Keine Modifikatorgruppe gefunden!\\n Bitte versuchen Sie, eine Modifikatorgruppe hinzuzufügen.",
+    "noOptionsFound": "Keine Optionen gefunden!",
+    "maxImageCountLimit": "Sie können nur bis zu 5 Bilder auswählen.",
+    "noQuotationFound": "Kein Angebot gefunden!\\n Bitte versuchen Sie, ein Angebot hinzuzufügen.",
+    "noPermittedUserFound": "Kein berechtigter Benutzer gefunden!\\n Bitte versuchen Sie, einen Benutzer hinzuzufügen."
+  },
+  "prompt": {
+    "logout": {
+      "title": "@:common.logout",
+      "message": "Möchten Sie sich wirklich abmelden?"
+    },
+    "unsavedWarning": {
+      "title": "Möchten Sie zurückgehen?",
+      "message": "Geänderte Felder werden möglicherweise nicht gespeichert!"
+    },
+    "verify": {
+      "title": "Bestätigen Sie Ihre E-Mail",
+      "description(rich)": "Wir haben eine E-Mail mit einem Bestätigungscode gesendet${emailSpan}\n\nEs kann sein, dass die E-Mail in Ihrem Spam-Ordner gelandet ist."
+    },
+    "subscriptionExpired": {
+      "title": "Abonnement abgelaufen!",
+      "message": "Bitte abonnieren Sie, um fortzufahren.",
+      "action": "Abonnieren"
+    },
+    "items": {
+      "delete": {
+        "title": "Möchten Sie diesen Artikel löschen?"
+      },
+      "filter": {
+        "title": "Filtern nach",
+        "extra": {
+          "lowToHigh": "Niedrig bis Hoch @:common.price",
+          "highToLow": "Hoch bis Niedrig @:common.price"
+        }
+      }
+    },
+    "checkInternet": {
+      "title": "Keine Internetverbindung",
+      "message": "Bitte überprüfen Sie Ihre WLAN- oder mobile Netzwerkverbindung und versuchen Sie es erneut."
+    },
+    "back": {
+      "title": "Erneut zurückdrücken, um zu beenden."
+    },
+    "stockModelSheet": {
+      "title": "Neuen Lagerbestand hinzufügen"
+    },
+    "paymentMethod": {
+      "title": "Möchten Sie diese Zahlungsmethode löschen?"
+    },
+    "extMsg": {
+      "kotSavedSuccessfully": "KOT erfolgreich gespeichert"
+    },
+    "deleteStaff": "Möchten Sie diesen Mitarbeiter löschen?",
+    "deleteIngredient": "Möchten Sie diese Zutat löschen?",
+    "deleteItemModifier": "Möchten Sie diesen Artikelmodifikator löschen?",
+    "deleteModifierGroup": "Möchten Sie diese Modifikatorgruppe löschen?",
+    "deleteQuotation": "Möchten Sie dieses Angebot löschen?"
+  },
+  "form": {
+    "fullName": {
+      "label": "@:common.fullName",
+      "hint": "@:common.fullName eingeben",
+      "errors": {
+        "required": "Bitte geben Sie Ihren vollständigen Namen ein."
+      }
+    },
+    "email": {
+      "label": "@:common.email",
+      "hint": "Ihre E-Mail-Adresse eingeben",
+      "errors": {
+        "required": "Bitte geben Sie Ihre E-Mail-Adresse ein.",
+        "invalid": "⦸ Ungültige E-Mail-Adresse, bitte versuchen Sie es erneut."
+      }
+    },
+    "password": {
+      "label": "@:common.password",
+      "hint": "* * * * * * * *",
+      "errors": {
+        "required": "Bitte geben Sie Ihr Passwort ein.",
+        "minLength": "Das Passwort muss mindestens ${count} Zeichen lang sein!"
+      }
+    },
+    "confirmPassword": {
+      "label": "Passwort bestätigen",
+      "hint": "* * * * * * * *",
+      "errors": {
+        "required": "Bitte geben Sie Ihr Passwort ein.",
+        "invalid": "'Passwortbestätigung stimmt nicht überein!"
+      }
+    },
+    "otp": {
+      "errors": {
+        "required": "Bitte geben Sie das OTP ein.",
+        "invalid": "Bitte geben Sie das aktuelle OTP ein."
+      }
+    },
+    "profile": {
+      "businessCategory": {
+        "label": "Geschäftskategorie",
+        "hint": "Geschäftskategorie auswählen",
+        "errors": {
+          "required": "Bitte wählen Sie eine Geschäftskategorie aus."
+        }
+      },
+      "shopOrStore": {
+        "label": "Name des Geschäfts/Ladens*",
+        "hint": "Namen des Geschäfts oder Ladens eingeben",
+        "errors": {
+          "required": "Bitte geben Sie den Namen Ihres Geschäfts oder Ladens ein."
+        }
+      },
+      "openingBalance": {
+        "label": "Eröffnungssaldo",
+        "hint": "Eröffnungssaldo eingeben"
+      },
+      "vatGstTitle": {
+        "label": "MwSt./GST-Titel",
+        "hint": "MwSt./GST eingeben"
+      },
+      "vatGstNumber": {
+        "label": "MwSt./GST-Nummer",
+        "hint": "MwSt./GST-Nummer eingeben"
+      }
+    },
+    "vat": {
+      "name": {
+        "label": "Name",
+        "hint": "MwSt.-Name eingeben",
+        "error": {
+          "required": "Bitte geben Sie den MwSt.-Namen ein."
+        }
+      },
+      "subVat": {
+        "label": "Unter-MwSt.",
+        "hint": "Unter-MwSt. auswählen",
+        "errors": {
+          "required": "Bitte wählen Sie eine Unter-MwSt."
+        }
+      },
+      "rate": {
+        "label": "MwSt.-Satz %",
+        "hint": "Mehrwertsteuersatz eingeben",
+        "errors": {
+          "required": "Bitte Mehrwertsteuersatz eingeben."
+        }
+      }
+    },
+    "category": {
+      "label": "@:common.category",
+      "hint": "Artikelkategorie auswählen",
+      "error": {
+        "required": "Bitte geben Sie den Kategorienamen ein."
+      }
+    },
+    "items": {
+      "barcode": {
+        "label": "Barcode",
+        "hint": "@:common.selectOne"
+      },
+      "itemName": {
+        "label": "Artikelname",
+        "hint": "Artikelnamen eingeben",
+        "extra": {
+          "required": "Bitte geben Sie den Artikelnamen ein."
+        }
+      },
+      "itemCategory": {
+        "label": "Artikelkategorie",
+        "hint": "Artikelkategorie",
+        "extra": {
+          "label": "Kategorie auswählen",
+          "required": "Bitte wählen Sie eine Kategorie aus."
+        }
+      },
+      "brand": {
+        "label": "@:common.brand",
+        "hint": "@:common.selectOne",
+        "extra": {
+          "hint": "Markennamen eingeben",
+          "required": "Bitte geben Sie den Markennamen ein."
+        }
+      },
+      "unit": {
+        "label": "@:common.unit",
+        "hint": "@:common.selectOne",
+        "error": {
+          "required": "Bitte geben Sie den Namen der Einheit ein."
+        }
+      },
+      "stock": {
+        "label": "Eröffnungslager",
+        "hint": "@:common.commonHint",
+        "extra": {
+          "required": "Bitte geben Sie die Artikelqualität ein."
+        }
+      },
+      "lowStock": {
+        "label": "@:common.lowStock",
+        "hint": "Bsp.: 5"
+      },
+      "purchasePrice": {
+        "label": "@:common.purchasePrice",
+        "hint": "Bsp.: \\$40",
+        "error": {
+          "required": "Bitte geben Sie den Einkaufspreis ein."
+        }
+      },
+      "salePrice": {
+        "label": "Verkaufspreis",
+        "hint": "Bsp.: \\$60",
+        "error": {
+          "required": "Bitte geben Sie den Verkaufspreis ein."
+        }
+      },
+      "totalSalePrice": {
+        "label": "Gesamtverkaufspreis",
+        "hint": "Bsp.: \\$100"
+      },
+      "wholeSalePrice": {
+        "label": "@:common.wholeSalePrice",
+        "hint": "Großhandelspreis eingeben"
+      },
+      "dealerPrice": {
+        "label": "@:common.dealerPrice",
+        "hint": "Händlerpreis eingeben"
+      },
+      "discount": {
+        "label": "Rabatt (%)",
+        "hint": "@:common.commonHint"
+      },
+      "applicableTax": {
+        "label": "Anwendbare Steuer",
+        "hint": "@:common.selectOne"
+      },
+      "vatType": {
+        "label": "@:common.taxType",
+        "errorText": {
+          "required": "Bitte wählen Sie einen MwSt.-Typ aus."
+        }
+      },
+      "menu": {
+        "label": "Menü wählen",
+        "errors": {
+          "required": "Bitte wählen Sie ein Menü aus."
+        },
+        "hint": "Wählen Sie ein Menü",
+        "extra": {
+          "selectNavLabel": "Artikelmenü auswählen"
+        }
+      },
+      "modifierItems": {
+        "label": "Modifikator-Artikel",
+        "hint": "Modifikator-Artikel auswählen"
+      },
+      "preparationTime": {
+        "label(rich)": "Zubereitungszeit ${minutes(Minuten)}",
+        "hint": "Bsp.: 30"
+      },
+      "variation": {
+        "name": {
+          "label": "Name",
+          "hint": "Variation eingeben",
+          "errors": {
+            "required": "Bitte geben Sie einen Variantenname ein."
+          }
+        },
+        "price": {
+          "errors": {
+            "required": "Bitte geben Sie einen Preis ein."
+          },
+          "label": "Preis",
+          "hint": "Bsp.: \\$30"
+        }
+      }
+    },
+    "itemCart": {
+      "hint": "@:common.commonHint",
+      "error": {
+        "required": "@:common.pleaseEnterQuantity",
+        "noZero": "@:common.quantityMustBeGreaterThanZero"
+      }
+    },
+    "sales": {
+      "autoGenerateInvoice": {
+        "label": "Rechnungsnr.",
+        "hint": "P-00001"
+      },
+      "date": {
+        "label": "Datum"
+      },
+      "customer": {
+        "label": "Kunde",
+        "hint": "Kunden auswählen"
+      },
+      "phone": {
+        "label": "Telefonnummer",
+        "hint": "Telefonnummer eingeben"
+      },
+      "address": {
+        "label": "Adresse",
+        "hint": "Adresse eingeben"
+      },
+      "deliveryCharge": {
+        "label": "@:common.deliveryCharge",
+        "hint": "Bsp.: \\$20",
+        "hint2": "Gebühr Bsp.: \\$10"
+      },
+      "table": {
+        "hint": "Tisch auswählen"
+      },
+      "waiter": {
+        "hint": "Kellner auswählen"
+      }
+    },
+    "bill": {
+      "label": "Rechnungsnr.",
+      "hint": "P-00001"
+    },
+    "supplier": {
+      "label": "Lieferant",
+      "hint": "Lieferant auswählen",
+      "extra": {
+        "required": "Bitte wählen Sie einen Lieferanten aus."
+      }
+    },
+    "phone": {
+      "label": "Telefonnummer",
+      "hint": "Telefonnummer eingeben",
+      "errors": {
+        "required": "Bitte geben Sie die Telefonnummer ein."
+      }
+    },
+    "address": {
+      "label": "Adresse",
+      "hint": "Adresse eingeben"
+    },
+    "payment": {
+      "label": "Name",
+      "hint": "Zahlungsnamen eingeben",
+      "error": {
+        "required": "Bitte geben Sie einen Namen für die Zahlungsmethode ein."
+      }
+    },
+    "expense": {
+      "label": "Ausgabenkategorie",
+      "hint": "Ausgabenkategorie auswählen",
+      "error": {
+        "required": "Bitte geben Sie die Ausgabenkategorie ein."
+      }
+    },
+    "income": {
+      "label": "Einnahmenkategorie",
+      "hint": "Kategorienamen eingeben",
+      "error": {
+        "required": "Bitte geben Sie den Kategorienamen ein."
+      },
+      "incomeTitle": {
+        "label": "Einnahmentitel",
+        "hint": "Einnahmen eingeben"
+      },
+      "incomeCategory": {
+        "label": "Einnahmenkategorie",
+        "hint": "Kategorie auswählen"
+      },
+      "payment": {
+        "label": "Zahlung",
+        "hint": "Bsp.: \\$10"
+      }
+    },
+    "note": {
+      "label": "Notiz (Optional)",
+      "hint": "Text eingeben"
+    },
+    "parties": {
+      "partyName": {
+        "label": "Parteiname",
+        "hint": "Parteinamen eingeben",
+        "error": {
+          "required": "Bitte geben Sie den Parteinamen ein."
+        }
+      },
+      "partyPhone": {
+        "label": "Telefonnummer",
+        "hint": "Telefonnummer eingeben",
+        "error": {
+          "required": "Bitte geben Sie die Telefonnummer ein."
+        }
+      }
+    },
+    "table": {
+      "name": {
+        "label": "Tischnummer",
+        "hint": "Tischnummer eingeben",
+        "error": {
+          "required": "Bitte geben Sie die Tischnummer ein."
+        }
+      },
+      "capacity": {
+        "label": "Kapazität",
+        "hint": "Kapazität eingeben",
+        "error": {
+          "required": "Bitte geben Sie die Kapazität ein."
+        }
+      }
+    },
+    "designation": {
+      "label": "@:common.designation",
+      "hint": "Wählen Sie eine Bezeichnung",
+      "errors": {
+        "required": "Bitte wählen Sie eine Bezeichnung."
+      }
+    },
+    "ingredientName": {
+      "label": "Zutatname",
+      "hint": "Zutatname eingeben",
+      "errors": {
+        "required": "Bitte geben Sie den Zutatnamen ein"
+      }
+    },
+    "item": {
+      "label": "Artikel",
+      "hint": "Artikel auswählen",
+      "errors": {
+        "required": "Bitte wählen Sie einen Artikel aus."
+      }
+    },
+    "modifierGroup": {
+      "label": "Modifikatorgruppe",
+      "hint": "Modifikatorgruppe auswählen",
+      "errors": {
+        "required": "Bitte wählen Sie eine Modifikatorgruppe aus."
+      }
+    },
+    "description": {
+      "label": "Beschreibung",
+      "hint": "Beschreibung eingeben"
+    },
+    "staff": {
+      "label": "@:common.staff",
+      "hint": "Mitarbeiter auswählen",
+      "errors": {
+        "required": "Bitte wählen Sie einen Mitarbeiter aus"
+      }
+    },
+    "loginUserName": {
+      "label": "Anmeldebenutzername",
+      "hint": "Benutzernamen oder E-Mail-Adresse eingeben",
+      "errors": {
+        "required": "Bitte geben Sie den Benutzernamen oder die E-Mail-Adresse ein"
+      }
+    }
+  },
+  "action": {
+    "next": "Weiter",
+    "getStarted": "Los geht's",
+    "skip": "Überspringen",
+    "select": "Auswählen",
+    "save": "Speichern",
+    "verify": "Überprüfen",
+    "signIn": "@:common.signIn",
+    "signUp": "@:common.signUp",
+    "continue": "Fortfahren",
+    "no": "Nein",
+    "yes": "Ja",
+    "okay": "Okay",
+    "cancel": "Abbrechen",
+    "confirm": "Bestätigen",
+    "tryAgain": "Erneut versuchen",
+    "reset": "Zurücksetzen",
+    "apply": "Anwenden",
+    "stockAdjust": "Lager anpassen",
+    "addMoreItems": "Weitere Artikel hinzufügen",
+    "hold": "Reservieren",
+    "parcel": "@:common.parcel",
+    "buyNow": "Jetzt kaufen",
+    "viewAll": "Alle anzeigen",
+    "viewLedger": "Hauptbuch anzeigen",
+    "submit": "Senden",
+    "selected": "Ausgewählt",
+    "addToCart": "Zum Warenkorb hinzufügen",
+    "selectAll": "Alles auswählen",
+    "update": "@:common.update",
+    "addRole": "Rolle hinzufügen"
+  },
+  "pages": {
+    "language": {
+      "appbarTitle": "@:action.select @:common.language"
+    },
+    "onboard": {
+      "onboardData": {
+        "data1": {
+          "title": "Einfach zu bedienen @:common.appName",
+          "description": "Nahtlose Bestellungen, mühelose Reservierungen\\nStärken Sie Ihr Restaurant mühelos!"
+        },
+        "data2": {
+          "title": "Mühelose Bestellverwaltung",
+          "description": "Optimieren Sie den Bestellvorgang Ihres Restaurants mit unserem intuitiven POS-System."
+        },
+        "data3": {
+          "title": "Exzellente Analysen & Berichte",
+          "description": "Unser Analyse-Dashboard bietet Echtzeit-Berichte zu Verkäufen und Einkäufen"
+        }
+      }
+    },
+    "signIn": {
+      "title": "Willkommen zurück",
+      "subtitle": "Bitte geben Sie Ihre Daten ein.",
+      "extra": {
+        "rememberMe": "Angemeldet bleiben",
+        "signUpNavigator(rich)": "Sie haben noch kein Konto? ${getStarted(@:action.getStarted)}",
+        "forgotPassword": "@:common.forgotPassword?"
+      }
+    },
+    "signUp": {
+      "title": "Konto erstellen",
+      "subtitle": "Bitte geben Sie Ihre Daten ein",
+      "extra": {
+        "signInNavigator(rich)": "Sie haben bereits ein Konto? ${signIn(@:action.signIn)}"
+      }
+    },
+    "forgotPassword": {
+      "title": "@:common.forgotPassword",
+      "subtitle": "Geben Sie Ihre E-Mail-Adresse ein, um Ihr Passwort wiederherzustellen."
+    },
+    "otpVerification": {
+      "title": "Verifizierung",
+      "subtitle": "Ein 6-stelliger Pin wurde an Ihre E-Mail-Adresse gesendet.",
+      "extra": {
+        "codeResend": {
+          "codeSendIn": "Code gesendet in",
+          "resendCode": "Code erneut senden"
+        }
+      }
+    },
+    "resetPassword": {
+      "title": "Passwort zurücksetzen",
+      "subtitle": "Setzen Sie Ihr Passwort zurück, um es wiederherzustellen und sich in Ihrem Konto anzumelden.",
+      "extra": {
+        "dialog": {
+          "title": "Erfolgreich geändert!",
+          "subtitle": "Melden Sie sich mit Ihrem neuen Passwort an.\nSie werden zum Anmeldebildschirm weitergeleitet..."
+        }
+      }
+    },
+    "items": {
+      "itemList": {
+        "extra": {
+          "emptyItem": "Kein Artikel gefunden!\nBitte versuchen Sie, einen Artikel hinzuzufügen."
+        }
+      },
+      "manageItems": {
+        "title": "Neuen Artikel hinzufügen",
+        "title2": "Artikel bearbeiten",
+        "extra": {
+          "maximum": "Maximal 5",
+          "wholeSaleAndDealerPrice": "Groß- und Händlerpreis",
+          "addDiscount": "Rabatt hinzufügen",
+          "addVat": "MwSt. hinzufügen"
+        }
+      },
+      "itemDetails": {
+        "title": "Artikeldetails",
+        "extra": {
+          "noImageAvailable": "Kein Bild verfügbar!",
+          "preparationTime(rich)": "Zubereitungszeit: ${min: String} ${mins(mins)}",
+          "pleaseSelectVariation": "Bitte wählen Sie eine Variation aus",
+          "pleaseSelectOption": "Bitte wählen Sie eine Option aus.",
+          "enterYourInstruction": "Geben Sie Ihre Anweisungen ein"
+        }
+      }
+    },
+    "category": {
+      "addNewCategory": "Neue Kategorie hinzufügen",
+      "editCategory": "Kategorie bearbeiten"
+    },
+    "brand": {
+      "addNewBrand": "Neue Marke hinzufügen",
+      "editBrand": "Marke bearbeiten"
+    },
+    "unit": {
+      "addNewUnit": "Neue Einheit hinzufügen",
+      "editUnit": "Einheit bearbeiten"
+    },
+    "stock": {
+      "stockList": "Lagerliste"
+    },
+    "aboutUs": {
+      "title": "Über uns"
+    },
+    "privacyPolicy": {
+      "title": "Datenschutzbestimmungen"
+    },
+    "termAndCondition": {
+      "title": "@:common.termAndCondition"
+    },
+    "orders": {
+      "manageOrders": {
+        "extra": {
+          "billItems": "Rechnungspositionen",
+          "manageQuantity": "Menge verwalten"
+        },
+        "title": {
+          "editOrder": "Bestellung bearbeiten",
+          "editKOT": "KOT bearbeiten"
+        }
+      }
+    },
+    "onlinePayment": {
+      "title": "Online-Zahlung"
+    },
+    "paymentStatus": {
+      "success": {
+        "title": "Vielen Dank!",
+        "message": "Wir werden die Zahlung prüfen und innerhalb von 24 Stunden genehmigen.",
+        "actionButtonText": "Rechnung anzeigen"
+      },
+      "fail": {
+        "title": "Hoppla! Zahlung fehlgeschlagen",
+        "message": "Ihre Transaktion ist aufgrund eines technischen Fehlers fehlgeschlagen.",
+        "actionButtonText": "Erneut versuchen"
+      }
+    },
+    "confirmationDialog": {
+      "title": "Abmelden",
+      "message": "Möchten Sie sich wirklich abmelden?",
+      "acceptationText": "Nein",
+      "rejectionText": "Abmelden"
+    },
+    "payment": {
+      "title": "@:common.paymentMethod",
+      "addPaymentMethod": "Neue Zahlungsmethode hinzufügen",
+      "editPaymentMethod": "Zahlungsmethode bearbeiten",
+      "choseOnlinePayment": "Online-Zahlung wählen",
+      "selectPaymentMethod": "Zahlungsmethode auswählen",
+      "pleaseSelectAPaymentMethod": "Bitte wählen Sie eine Zahlungsmethode aus.",
+      "methodStatus": {
+        "title": "Status",
+        "message": "Der Status kann nicht inaktiv sein, wenn die Schnellansicht aktiviert ist!."
+      }
+    },
+    "subscriptionPlan": {
+      "title": "Premium-Plan erwerben",
+      "extra": {
+        "actionButtonText": "Zurück",
+        "message": "Abonnementzahlung erfolgreich.\n\nSie können jetzt auf die abonnierten Funktionen zugreifen.",
+        "mostPopular": "Am beliebtesten"
+      }
+    },
+    "invoicePreview": {
+      "title": "Rechnungsansicht",
+      "message": "PDF-Vorschau folgt in Kürze"
+    },
+    "currency": {
+      "title": "@:common.currency"
+    },
+    "dashboard": {
+      "overview": "Übersicht",
+      "dashboardPrivacy": "Dashboard-Datenschutz",
+      "moneyInAndMoneyOut": "Einnahmen & Ausgaben",
+      "lossAndProfitOverView": "Gewinn- und Verlustübersicht"
+    },
+    "due": {
+      "title": "@:common.dueList",
+      "collectionList": "Inkassoliste",
+      "dueCollection": "Fällige Forderungen"
+    },
+    "expense": {
+      "title": "@:common.expense",
+      "editExpense": "Ausgabe bearbeiten",
+      "addNewExpense": "Neue Ausgabe hinzufügen",
+      "editExpenseCategory": "Ausgabenkategorie bearbeiten",
+      "addNewExpenseCategory": "Neue Ausgabenkategorie hinzufügen",
+      "payment": "Zahlung",
+      "expenseCategory": "Ausgabenkategorie",
+      "selectCategory": "Kategorie auswählen",
+      "allExpense": "Alle Ausgaben",
+      "pleaseSelectACategory": "Bitte wählen Sie eine Kategorie",
+      "expenseTitle": {
+        "label": "Ausgabenbezeichnung",
+        "hint": "Ausgabe eingeben"
+      }
+    },
+    "lossProfit": {
+      "title": "Verlust-/Gewinnliste",
+      "noLossProfitFound": "Kein Verlust/Gewinn gefunden!\nBitte versuchen Sie, Verkäufe zu erstellen."
+    },
+    "income": {
+      "editIncomeCategory": "Einnahmenkategorie bearbeiten",
+      "addNewIncomeCategory": "Neue Einnahmenkategorie hinzufügen",
+      "incomeCategory": "Einnahmenkategorie",
+      "allIncome": "Alle Einnahmen",
+      "editIncome": "Einnahmen bearbeiten",
+      "addNewIncome": "Einnahmen bearbeiten",
+      "addIncome": "Einnahmen hinzufügen"
+    },
+    "moneyIn": {
+      "title": "Einnahmenliste",
+      "totalPaymentIn": "Gesamteinnahmen"
+    },
+    "moneyOut": {
+      "title": "Ausgabenliste",
+      "totalMoneyOut": "Gesamtausgaben"
+    },
+    "profile": {
+      "title": "Mein Profil",
+      "editProfile": "Profil bearbeiten",
+      "businessInformation": "Unternehmensinformationen",
+      "profileInformation": "Profilinformationen"
+    },
+    "parties": {
+      "title": "Parteienliste",
+      "allParties": "Alle Parteien",
+      "customer": "Kunde",
+      "supplier": "Lieferant",
+      "addParties": "Parteien hinzufügen",
+      "editParties": "Parteien bearbeiten",
+      "partiesDetails": "Parteidetails",
+      "personalInfo": "Persönliche Informationen"
+    },
+    "ledger": {
+      "subTitle": "Hauptbuch"
+    },
+    "purchase": {
+      "title": "Neuen Einkauf hinzufügen",
+      "editPurchase": "Einkauf bearbeiten"
+    },
+    "reports": {
+      "title": "Berichte"
+    },
+    "table": {
+      "title": "Neuen Tisch hinzufügen",
+      "editTable": "Tisch bearbeiten"
+    },
+    "tax": {
+      "title": "MwSt.-Sätze",
+      "buildHeaderTitle": "MwSt.-Sätze - Verwalten Sie Ihre MwSt.-Sätze",
+      "vatGroup": {
+        "title": "MwSt.-Gruppe",
+        "subTitle": "MwSt.-Gruppe - Verwalten Sie Ihre MwSt.-Gruppe"
+      }
+    },
+    "vat": {
+      "addNewVat": "Neue MwSt. hinzufügen",
+      "editVat": "MwSt. bearbeiten",
+      "addNewVatGroup": "Neue MwSt.-Gruppe hinzufügen",
+      "editVatGroup": "MwSt.-Gruppe bearbeiten"
+    },
+    "orderList": {
+      "title": "Bestellliste",
+      "filters": {
+        "orderType": {
+          "label": "@:common.orderType",
+          "hint": "Bestellart auswählen"
+        },
+        "paymentStatus": {
+          "hint": "Zahlungsstatus auswählen",
+          "label": "Zahlungsstatus"
+        }
+      }
+    },
+    "staffs": {
+      "staffList": {
+        "filters": {
+          "designation": {
+            "label": "Bezeichnung",
+            "hint": "Bezeichnung auswählen"
+          }
+        },
+        "title": "Alle Mitarbeiter"
+      },
+      "manageStaff": {
+        "title1": "Neuen Mitarbeiter hinzufügen",
+        "title2": "Mitarbeiter aktualisieren"
+      }
+    },
+    "ingredient": {
+      "ingredientList": {
+        "title1": "Zutatenliste",
+        "title2": "Zutat auswählen"
+      },
+      "manageIngredient": {
+        "title1": "Neue Zutat hinzufügen",
+        "title2": "Zutat bearbeiten"
+      }
+    },
+    "itemModifier": {
+      "itemModifierList": {
+        "title": "@:common.itemModifiers"
+      },
+      "manageItemModifier": {
+        "title1": "Artikelmodifikatoren hinzufügen",
+        "title2": "Artikelmodifikatoren bearbeiten"
+      }
+    },
+    "quotation": {
+      "manageQuotation": {
+        "title": {
+          "add": "Neues Angebot hinzufügen",
+          "edit": "Angebot bearbeiten",
+          "convert": "In Verkauf umwandeln"
+        }
+      }
+    },
+    "rolePermission": {
+      "rolePermissionList": {
+        "title": "Rollen- & Berechtigungsliste"
+      },
+      "manageRolePermission": {
+        "title1": "Neue Rolle hinzufügen",
+        "title2": "Rolle bearbeiten"
+      }
+    },
+    "printingOption": {
+      "title": "Druckoption",
+      "form": {
+        "companyAddress": {
+          "label": "Firmenadresse",
+          "hint": "Firmenadresse eingeben"
+        },
+        "noteLabel": {
+          "label": "Notizbezeichnung",
+          "hint": "Notizbezeichnung eingeben."
+        },
+        "note": {
+          "label": "Notiz",
+          "hint": "Notiz eingeben."
+        },
+        "postSaleMessage": {
+          "label": "Nachverkaufsnachricht",
+          "hint": "Nachverkaufsnachricht eingeben"
+        },
+        "printingMethod": {
+          "label": "Druckmethode",
+          "hint": "Druckmethode auswählen"
+        },
+        "printerProfile": {
+          "label": "Druckerprofil",
+          "hint": "Druckerprofil auswählen"
+        },
+        "paperSize": {
+          "label": "Thermische Druckerpapiergröße",
+          "hint": "Druckerpapiergröße auswählen"
+        },
+        "printerDpi": {
+          "label": "Drucker DPI",
+          "hint": "Bsp: 203"
+        },
+        "printingMargin": {
+          "label": "Druckrand",
+          "hint": "Bsp: 2"
+        }
+      },
+      "tooltip": {
+        "printingMethod": {
+          "title": "Dropdown mit Optionen:",
+          "default": "• Standard (Native Methode zum Drucken von EU-Standardzeichen)",
+          "image": "• Bild (Empfohlen für Unicode-Zeichendruck)"
+        }
+      },
+      "action": {
+        "save": "Speichern"
+      }
+    },
+    "kitchen": {
+      "list": {
+        "noKitchensFound": "Keine Küchen gefunden.\n Bitte fügen Sie eine hinzu."
+      },
+      "manage": {
+        "addKitchen": "Küche Hinzufügen",
+        "editKitchen": "Küche Bearbeiten",
+        "kitchenName": {
+          "label": "Küchenname",
+          "hint": "Küchennamen eingeben",
+          "error": "Bitte Küchennamen eingeben."
+        },
+        "description": {
+          "label": "Beschreibung",
+          "hint": "Beschreibung eingeben"
+        }
+      },
+      "manageItems": {
+        "title": "Artikel Verwalten",
+        "addedItems": "Hinzugefügte Artikel",
+        "selectItemsError": "Bitte Artikel auswählen.",
+        "noItemsAdded": "Noch keine Artikel hinzugefügt!\nBitte Artikel hinzufügen."
+      },
+      "card": {
+        "itemName": "Artikelname",
+        "manageItems": "+ Artikel Verwalten",
+        "deleteItemConfirm": "Möchten Sie diesen Artikel löschen?",
+        "deleteKitchenConfirm": "Möchten Sie diese Küche löschen?"
+      }
+    }
+  },
+  "enums": {
+    "dropdownDateFilter": {
+      "daily": "Täglich",
+      "weekly": "Wöchentlich",
+      "monthly": "Monatlich",
+      "yearly": "Jährlich",
+      "custom": "Benutzerdefiniert"
+    },
+    "orderTypes": {
+      "dineIn": "Im Restaurant",
+      "pickUp": "Abholung",
+      "delivery": "Lieferung",
+      "reservation": "Reservierung",
+      "quotation": "Angebot"
+    },
+    "paymentStatus": {
+      "paid": "Bezahlt",
+      "unpaid": "Unbezahlt"
+    },
+    "staffTypes": {
+      "manager": "Manager",
+      "waiter": "Kellner",
+      "chef": "Koch",
+      "cleaner": "Reiniger",
+      "driver": "Fahrer",
+      "deliveryBoy": "Lieferjunge"
+    },
+    "itemFoodTypes": {
+      "veg": "Vegetarisch",
+      "nonVeg": "Nicht-Vegetarisch",
+      "egg": "Ei",
+      "drink": "Getränk",
+      "others": "Sonstiges"
+    },
+    "itemTypes": {
+      "single": "Einzel",
+      "variation": "Variante"
+    },
+    "quotationStatus": {
+      "open": "Offen",
+      "closed": "Geschlossen"
+    },
+    "tableStatus": {
+      "running": "Belegt",
+      "available": "Frei"
+    },
+    "thermalPrinterPrintingMethod": {
+      "image": "Bild",
+      "default": "Standard"
+    },
+    "kotOrderStatus": {
+      "label": {
+        "pending": "Ausstehend",
+        "preparing": "In Zubereitung",
+        "ready": "Essen ist fertig",
+        "served": "Serviert",
+        "cancelled": "Storniert"
+      },
+      "pending": "Ausstehend",
+      "preparing": "In Zubereitung",
+      "ready": "Essen ist fertig",
+      "served": "Serviert",
+      "cancelled": "Storniert"
+    },
+    "kotItemStatus": {
+      "pending": "Zubereitung starten",
+      "start": "Als fertig markieren",
+      "ready": "Bereit"
+    }
+  },
+  "thermalPrint": {
+    "invoice": {
+      "purchaseInvoiceLabel": "Einkaufsrechnung: ${invoiceNumber: String}",
+      "saleInvoiceLabel": "Bestell-Nr.: ${invoiceNumber: String}",
+      "receiptNoLabel": "Beleg-Nr.: ${invoiceNumber: String}",
+      "orderNoKotLabel": "Bestell-Nr.: ${invoiceNumber: String}",
+      "nameLabel": "Name: ${name: String}",
+      "mobileLabel": "Mobil: ${phone: String}",
+      "purchasedByLabel": "Gekauft von: ${role: String}",
+      "salesByLabel": "Verkauft von: ${role: String}",
+      "paidByLabel": "${label: String}: ${role: String}",
+      "paidToReceivedFromLabel": "${label: String}: ${name: String}",
+      "orderTypeLabel": "Bestellart: ${orderType: String}",
+      "tableLabel": "Tisch: ${tableName: String}",
+      "tableNoLabel": "Tischnummer: ${tableName: String}",
+      "dateLabel": "Datum: ${dateTime: String}",
+      "invoiceFlag": "RECHNUNG",
+      "receiptFlag": "BELEG",
+      "paidBy": "Bezahlt von",
+      "receivedBy": "Empfangen von",
+      "paidTo": "Bezahlt an",
+      "receivedFrom": "Empfangen von",
+      "seller": "Verkäufer: ${name: String}",
+      "address": "Adresse: ${addr: String}",
+      "vatNo": "USt-IdNr.",
+      "tel": "Tel: ${phoneNumber: String}",
+      "timeLabel": "Uhrzeit: ${dateTime: String}"
+    },
+    "tableHeaders": {
+      "sl": "Lfd. Nr.",
+      "item": "Artikel",
+      "cost": "Kosten",
+      "qty": "Menge",
+      "uPrice": "E.Preis",
+      "amount": "Betrag",
+      "total": "Gesamt",
+      "invoiceTable": "Rechnung",
+      "dueTable": "Fällig"
+    },
+    "summary": {
+      "subTotal": "Zwischensumme:",
+      "discount": "Rabatt: ${percentFmt: String}",
+      "vat": "${vatName: String}: ${rateFmt: String}%",
+      "tip": "Trinkgeld:",
+      "deliveryCharge": "Liefergebühr:",
+      "totalPayable": "Gesamtbetrag fällig:",
+      "paidAmount": "Bezahlter Betrag:",
+      "dueAmount": "Fälliger Betrag:",
+      "paymentType": "Zahlungsart: ${method: String}",
+      "remainingDue": "Restbetrag fällig:",
+      "paymentAmount": "Zahlungsbetrag:",
+      "itemsCount": "Artikel: ${count: int}",
+      "qtyTotal": "Menge: ${totalQty: int}"
+    },
+    "footer": {
+      "note": "${noteLabel: String}: ${note: String}",
+      "developedBy": "${developByLabel: String} ${developBy: String}"
+    }
+  },
+  "hrm": {
+    "department": "Abteilung",
+    "designation": "Bezeichnung",
+    "shift": "Schicht",
+    "employee": "Mitarbeiter",
+    "leave": "Urlaub",
+    "leaveType": "Urlaubsart",
+    "leaveRequest": "Urlaubsantrag",
+    "holiday": "Feiertag",
+    "attendance": "Anwesenheit",
+    "payroll": "Gehaltsabrechnung",
+    "pageTitles": {
+      "department": "Abteilung",
+      "designation": "Bezeichnung",
+      "shift": "Schicht",
+      "employee": "Mitarbeiter",
+      "leave": "Urlaub",
+      "leaveType": "Urlaubsart",
+      "holiday": "Feiertag",
+      "attendance": "Anwesenheit",
+      "payroll": "Gehaltsabrechnung",
+      "leaveReports": "Urlaubsberichte",
+      "payrollReports": "Gehaltsabrechnungsberichte",
+      "attendanceReports": "Anwesenheitsberichte",
+      "addDepartment": "Abteilung hinzufügen",
+      "editDepartment": "Abteilung bearbeiten",
+      "addDesignation": "Bezeichnung hinzufügen",
+      "editDesignation": "Bezeichnung bearbeiten",
+      "addShift": "Schicht hinzufügen",
+      "editShift": "Schicht bearbeiten",
+      "addEmployee": "Mitarbeiter hinzufügen",
+      "editEmployee": "Mitarbeiter bearbeiten",
+      "addLeave": "Urlaub hinzufügen",
+      "editLeave": "Urlaub bearbeiten",
+      "addLeaveType": "Urlaubsart hinzufügen",
+      "editLeaveType": "Urlaubsart bearbeiten",
+      "addHoliday": "Feiertag hinzufügen",
+      "editHoliday": "Feiertag bearbeiten",
+      "addAttendance": "Anwesenheit hinzufügen",
+      "editAttendance": "Anwesenheit bearbeiten",
+      "addPayroll": "Gehaltsabrechnung hinzufügen",
+      "editPayroll": "Gehaltsabrechnung bearbeiten"
+    },
+    "form": {
+      "labels": {
+        "department": "Abteilung",
+        "designation": "Bezeichnung",
+        "shift": "Schicht",
+        "employee": "Mitarbeiter",
+        "leaveType": "Urlaubsart",
+        "leaveDuration": "Urlaubsdauer",
+        "paymentYear": "Zahlungsjahr",
+        "paymentType": "Zahlungsart",
+        "breakStatus": "Pausenstatus",
+        "startTime": "Startzeit",
+        "endTime": "Endzeit",
+        "startBreakTime": "Pausenbeginn",
+        "endBreakTime": "Pausenende",
+        "breakTime": "Pausenzeit",
+        "breakDuration": "Pausendauer",
+        "timeIn": "Eintrittszeit",
+        "timeOut": "Austrittszeit",
+        "duration": "Dauer",
+        "country": "Land",
+        "salary": "Gehalt",
+        "gender": "Geschlecht",
+        "birthDate": "Geburtsdatum",
+        "joinDate": "Eintrittsdatum",
+        "holidayName": "Feiertagsname",
+        "startDate": "Startdatum",
+        "endDate": "Enddatum",
+        "month": "Monat",
+        "year": "Jahr",
+        "status": "Status",
+        "description": "Beschreibung",
+        "amount": "Betrag",
+        "payment": "Zahlung",
+        "departmentName": "Abteilungsname",
+        "designationName": "Bezeichnungsname",
+        "image": "Bild",
+        "name": "Name"
+      },
+      "hints": {
+        "selectEmployee": "Mitarbeiter auswählen",
+        "selectDepartment": "Abteilung auswählen",
+        "selectDesignation": "Bezeichnung auswählen",
+        "selectShift": "Schicht auswählen",
+        "selectLeaveType": "Urlaubsart auswählen",
+        "selectMonth": "Monat auswählen",
+        "selectYear": "Jahr auswählen",
+        "selectDate": "Datum auswählen",
+        "selectStartDate": "Startdatum auswählen",
+        "selectEndDate": "Enddatum auswählen",
+        "selectTimeIn": "Eintrittszeit auswählen",
+        "selectTimeOut": "Austrittszeit auswählen",
+        "selectStartTime": "Startzeit auswählen",
+        "selectEndTime": "Endzeit auswählen",
+        "selectStatus": "Status auswählen",
+        "selectGender": "Geschlecht auswählen",
+        "selectPaymentType": "Zahlungsart auswählen",
+        "enterFullName": "Vollen Namen eingeben",
+        "enterEmail": "E-Mail eingeben",
+        "enterPhone": "Telefon eingeben",
+        "enterCountry": "Land eingeben",
+        "enterSalary": "Bsp.: 500",
+        "enterHolidayName": "Feiertagsname eingeben",
+        "enterDescription": "Beschreibung eingeben...",
+        "autoCalculated": "Automatisch berechnet",
+        "selectDatesFirst": "Zuerst Daten auswählen",
+        "allEmployee": "Alle Mitarbeiter",
+        "selectEmployeeFirst": "Zuerst Mitarbeiter auswählen",
+        "enterDepartmentName": "Abteilungsnamen eingeben",
+        "enterDesignationName": "Bezeichnungsnamen eingeben",
+        "ex": "{value}",
+        "selectBirthDate": "Geburtsdatum auswählen",
+        "selectJoinDate": "Eintrittsdatum auswählen",
+        "selectBreakStatus": "Pausenstatus auswählen",
+        "enterLeaveTypeName": "Urlaubsartnamen eingeben"
+      }
+    },
+    "emptyStates": {
+      "noLeaves": "Keine Urlaube gefunden",
+      "noPayrollRecords": "Keine Gehaltsabrechnungen gefunden",
+      "noAttendanceRecords": "Keine Anwesenheitslisten gefunden",
+      "noLeaveTypes": "Keine Urlaubsarten gefunden",
+      "noEmployees": "Keine Mitarbeiter gefunden",
+      "noHolidays": "Keine Feiertage gefunden",
+      "noShifts": "Keine Schichten gefunden",
+      "noDesignations": "Keine Bezeichnungen gefunden",
+      "noDepartments": "Keine Abteilungen gefunden"
+    },
+    "confirmations": {
+      "deleteAttendance": "Möchten Sie diese Anwesenheit löschen?",
+      "deletePayroll": "Möchten Sie diese Gehaltsabrechnung löschen?",
+      "deleteLeave": "Möchten Sie diesen Urlaub löschen?",
+      "deleteLeaveType": "Möchten Sie diese Urlaubsart löschen?",
+      "deleteEmployee": "Möchten Sie diesen Mitarbeiter löschen?",
+      "deleteHoliday": "Möchten Sie diesen Feiertag löschen?",
+      "deleteShift": "Möchten Sie diese Schicht löschen?",
+      "deleteDesignation": "Möchten Sie diese Bezeichnung löschen?",
+      "deleteDepartment": "Möchten Sie diese Abteilung löschen?"
+    },
+    "validation": {
+      "selectEmployee": "Bitte Mitarbeiter auswählen",
+      "selectMonth": "Bitte Monat auswählen",
+      "selectEndDate": "Bitte Enddatum auswählen",
+      "endDateAfterStart": "Enddatum muss nach Startdatum liegen",
+      "selectStatus": "Bitte Status auswählen",
+      "selectLeaveType": "Bitte Urlaubsart auswählen",
+      "selectStartDate": "Bitte Startdatum auswählen",
+      "selectDate": "Bitte Datum auswählen",
+      "selectTimeIn": "Bitte Kommen-Zeit auswählen",
+      "selectTimeOut": "Bitte Gehen-Zeit auswählen",
+      "enterDepartmentName": "Bitte Abteilungsnamen eingeben",
+      "enterDesignationName": "Bitte Bezeichnungsnamen eingeben",
+      "enterName": "Bitte Namen eingeben",
+      "selectDesignation": "Bitte Bezeichnung auswählen",
+      "selectDepartment": "Bitte Abteilung auswählen",
+      "enterEmail": "Bitte E-Mail eingeben",
+      "enterValidEmail": "Bitte gültige E-Mail eingeben",
+      "enterPhoneNumber": "Bitte Telefonnummer eingeben",
+      "enterCountry": "Bitte Land eingeben",
+      "enterSalary": "Bitte Gehalt eingeben",
+      "selectGender": "Bitte Geschlecht auswählen",
+      "selectShift": "Bitte Schicht auswählen",
+      "selectBirthDate": "Bitte Geburtsdatum auswählen",
+      "selectJoinDate": "Bitte Eintrittsdatum auswählen",
+      "enterHolidayName": "Bitte Feiertagsname eingeben",
+      "selectBreakStatus": "Bitte Pausenstatus auswählen",
+      "selectPaymentYear": "Bitte Zahlungsjahr auswählen",
+      "selectPaymentType": "Bitte Zahlungsart auswählen",
+      "enterAmount": "Bitte Betrag eingeben",
+      "selectStartBreakTime": "Bitte Pausenbeginn auswählen",
+      "selectEndBreakTime": "Bitte Pausenende auswählen",
+      "enterLeaveTypeName": "Bitte Urlaubsartnamen eingeben",
+      "selectStartTime": "Bitte Beginnzeit auswählen",
+      "selectEndTime": "Bitte Endzeit auswählen"
+    },
+    "dropdowns": {
+      "addNew": "+ Neu hinzufügen",
+      "morning": "Morgen",
+      "day": "Tag",
+      "evening": "Abend",
+      "night": "Nacht",
+      "yes": "Ja",
+      "no": "Nein",
+      "approved": "Genehmigt",
+      "rejected": "Abgelehnt",
+      "terminated": "Gekündigt",
+      "suspended": "Suspendiert",
+      "male": "Männlich",
+      "female": "Weiblich",
+      "pending": "Ausstehend",
+      "active": "Aktiv",
+      "inactive": "Inaktiv",
+      "paid": "Bezahlt",
+      "unpaid": "Unbezahlt"
+    },
+    "units": {
+      "days": "Tage"
+    },
+    "fallbacks": {
+      "noNoteAvailable": "Keine Notiz verfügbar",
+      "noDescriptionAvailable": "Keine Beschreibung verfügbar",
+      "selectEmployeeFirst": "Zuerst Mitarbeiter auswählen"
+    },
+    "success": {
+      "leaveDelete": "Urlaub erfolgreich gelöscht",
+      "attendanceDelete": "Anwesenheit erfolgreich gelöscht",
+      "attendanceAdd": "Anwesenheit erfolgreich hinzugefügt",
+      "attendanceUpdate": "Anwesenheit erfolgreich aktualisiert",
+      "leaveAdd": "Urlaub erfolgreich hinzugefügt",
+      "leaveUpdate": "Urlaub erfolgreich aktualisiert",
+      "departmentDelete": "Abteilung erfolgreich gelöscht",
+      "departmentAdd": "Abteilung erfolgreich hinzugefügt",
+      "departmentUpdate": "Abteilung erfolgreich aktualisiert",
+      "designationDelete": "Bezeichnung erfolgreich gelöscht",
+      "designationAdd": "Bezeichnung erfolgreich hinzugefügt",
+      "designationUpdate": "Bezeichnung erfolgreich aktualisiert",
+      "employeeDelete": "Mitarbeiter erfolgreich gelöscht",
+      "employeeAdd": "Mitarbeiter erfolgreich hinzugefügt",
+      "employeeUpdate": "Mitarbeiter erfolgreich aktualisiert",
+      "holidayDelete": "Feiertag erfolgreich gelöscht",
+      "holidayAdd": "Feiertag erfolgreich hinzugefügt",
+      "holidayUpdate": "Feiertag erfolgreich aktualisiert",
+      "leaveTypeDelete": "Urlaubsart erfolgreich gelöscht"
+    }
+  }
+}

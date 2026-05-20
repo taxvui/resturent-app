@@ -1,0 +1,1561 @@
+{
+  "@@meta": {
+    "languageCode": "cz_CZ",
+    "languageName": "Czech",
+    "version": "1.0.0"
+  },
+  "common": {
+    "signIn": "Přihlásit se",
+    "signUp": "Zaregistrovat se",
+    "verifyEmail": "Ověřit e-mail",
+    "customizeProfile": "Přizpůsobit profil",
+    "imageOrLogo": "Logo nebo obrázek",
+    "createNewPassword": "Vytvořit nové heslo",
+    "itemsList": "Seznam položek",
+    "searchItemsName": "Hledat název položky",
+    "categoryList": "Seznam kategorií",
+    "brandList": "Seznam značek",
+    "unitList": "Seznam jednotek",
+    "itemDetails": "Podrobnosti položky",
+    "addStock": "Přidat sklad",
+    "profile": "Profil",
+    "language": "Jazyk",
+    "termsAndConditions": "Obchodní podmínky",
+    "aboutUs": "O nás",
+    "logout": "Odhlásit se",
+    "editProfile": "Upravit profil",
+    "fullName": "Celé jméno",
+    "email": "E-mail",
+    "mobileNumber": "Mobilní číslo",
+    "address": "Adresa",
+    "password": "Heslo",
+    "forgotPassword": "Zapomenuté heslo",
+    "edit": "Upravit",
+    "delete": "Smazat",
+    "addItems": "Přidat položky",
+    "stock": "Sklad",
+    "currentStock": "Aktuální sklad",
+    "value": "Hodnota",
+    "sales": "Prodej",
+    "purchase": "Nákup",
+    "price": "Cena",
+    "image": "Obrázek",
+    "upload": "Nahrát",
+    "addNew": "Přidat nový",
+    "pricing": "Ceny",
+    "name": "Název",
+    "category(plural)": {
+      "one": "Kategorie",
+      "other": "Kategories"
+    },
+    "areas": "Areas",
+    "brand": "Značka",
+    "lowStock": "Nízký sklad",
+    "unit": "Jednotka",
+    "vat": "DPH",
+    "taxType": "Typ daně",
+    "purchasePrice": "Nákupní cena",
+    "sellingPrice": "Prodejní cena",
+    "wholeSalePrice": "Velkoobchodní cena",
+    "dealerPrice": "Dealerská cena",
+    "searchHere": "Hledat zde",
+    "totalItems": "Celkem položek",
+    "stockValue": "Hodnota skladu",
+    "congratulation": "Gratulujeme",
+    "salesList": "Seznam prodejů",
+    "searchInvoiceNumber": "Hledat číslo faktury",
+    "view": "Zobrazit",
+    "kFor": "Pro",
+    "total": "Celkem",
+    "subTotal": "Mezisoučet",
+    "insufficientStockAvailableStock": "Nedostatečný sklad, dostupný sklad",
+    "discount": "Sleva",
+    "selectOne": "Vyberte jednu",
+    "allCategory": "Všechny kategorie",
+    "details": "Podrobnosti",
+    "parcel": "Balík",
+    "kot": "KOT",
+    "table": "Stůl",
+    "holdTable": "Držet stůl",
+    "capacity": "Kapacita",
+    "commonHint": "Např.: 10",
+    "pleaseEnterQuantity": "Zadejte prosím množství",
+    "quantityMustBeGreaterThanZero": "Množství musí být větší než 0",
+    "mobile": "Mobil",
+    "orderNo": "Číslo objednávky",
+    "dateAndTime": "Datum a čas",
+    "items": "Položky",
+    "totalAmount": "Celková částka",
+    "paidAmount": "Zaplacená částka",
+    "dueAmount": "Dlužná částka",
+    "paymentType": "Typ platby",
+    "thankYou": "Děkujeme",
+    "developedBy": "Vyvinuto společností ${domain: String}",
+    "qty": "Cena",
+    "amount": "Částka",
+    "dashboard": "Přehled",
+    "reports": "Přehledy",
+    "home": "Domů",
+    "parties": "Strany",
+    "subscriptionPlan": "Plán předplatného",
+    "estimateList": "Seznam odhadů",
+    "purchaseList": "Seznam nákupů",
+    "dueList": "Seznam dlužných částek",
+    "lossOrProfit": "Zisk/ztráta",
+    "stocks": "Sklady",
+    "moneyInList": "Seznam příjmů",
+    "moneyOutList": "Seznam výdajů",
+    "transactionList": "Seznam transakcí",
+    "income": "Příjem",
+    "expense": "Výdaj",
+    "quickView": "Rychlý přehled",
+    "to": "do",
+    "totalSales": "Celkový prodej",
+    "totalPurchase": "Celkový nákup",
+    "holdNumber": "Držené objednávky",
+    "totalExpense": "Celkové výdaje",
+    "loss": "Ztráta",
+    "profit": "Zisk",
+    "recentTransaction": "Poslední transakce",
+    "invoice": "Faktura",
+    "moneyIn": "Příjem",
+    "moneyOut": "Výdaj",
+    "paid": "Zaplaceno",
+    "due": "Dlužné",
+    "partial": "Částečně",
+    "print": "Tisk",
+    "addCategory": "Přidat kategorii",
+    "addExpense": "Přidat výdaj",
+    "search": "Hledat...",
+    "viewDetails": "Zobrazit podrobnosti",
+    "title": "Název",
+    "date": "Datum",
+    "note": "Poznámka",
+    "phoneNumber": "Telefonní číslo",
+    "type": "Typ",
+    "selectContactSType": "Vyberte typ kontaktu",
+    "moreInfo": "Více informací",
+    "paymentReceived": "Platba přijata",
+    "selectSupplier": "Vyberte dodavatele",
+    "supplier": "Dodavatel",
+    "received": "Přijato",
+    "balanceDue": "Zbývající dlužná částka",
+    "addPurchase": "Přidat nákup",
+    "selectedItemWillBeCleared": "Vybrané položky budou vymazány.",
+    "searchItemName": "Hledat název položky",
+    "billItems": "Položky účtu",
+    "addMoreItems": "Přidat další položky",
+    "payAmount": "Zaplatit částku",
+    "salesReport": "Přehled prodejů",
+    "purchaseReport": "Přehled nákupů",
+    "stockReport": "Přehled skladu",
+    "dueReport": "Přehled dlužných částek",
+    "dueCollectionReport": "Přehled inkasa dlužných částek",
+    "transactionReport": "Přehled transakcí",
+    "incomeReport": "Přehled příjmů",
+    "dueCollectionList": "Seznam inkas dlužných částek",
+    "expenseReport": "Přehled výdajů",
+    "dueCollection": "Inkaso dlužných částek",
+    "myProfile": "Můj profil",
+    "printingOption": "Možnosti tisku",
+    "currency": "Měna",
+    "paymentMethod": "Způsob platby",
+    "rateUs": "Ohodnoťte nás",
+    "termAndCondition": "Obchodní podmínky",
+    "tableList": "Seznam stolů",
+    "addTable": "Přidat stůl",
+    "vatRate": "Sazba DPH %",
+    "action": "Akce",
+    "status": "Stav",
+    "active": "Aktivní",
+    "inActive": "Neaktivní",
+    "subVats": "Pod DPH",
+    "add": "Přidat",
+    "taxRate": "Sazba daně %",
+    "subTaxes": "Pod daně",
+    "group": "skupina",
+    "VAT": "DPH",
+    "subTaxList": "Seznam pod daní",
+    "vatPercent": "Procento DPH",
+    "statusIsCannotInActive": "Stav nemůže být neaktivní, pokud je DPH u prodeje aktivní.",
+    "vatOnSales": "DPH u prodeje",
+    "transaction": "Transakce",
+    "version": "Verze ${version: String}",
+    "hold": "Držet",
+    "empty": "Prázdný",
+    "appName": "Aplikace pro restaurace",
+    "duePayment": "Splatná platba",
+    "orders": "Objednávky",
+    "all": "Vše",
+    "ingredient": "Přísada",
+    "menus": "Menu",
+    "modifierGroups": "Skupiny modifikátorů",
+    "itemModifiers": "Modifikátory položek",
+    "staff": "Personál",
+    "coupon": "Kupón",
+    "pay": "Zaplatit",
+    "pendingOrders": "Čekající objednávky",
+    "order": "Objednávka",
+    "payNow": "Zaplatit hned",
+    "addStaff": "Přidat personál",
+    "designation": "Označení",
+    "itemAdded": "Položka přidána",
+    "noItemAdded": "Žádná položka nebyla přidána",
+    "saveNPrint": "Uložit a tisknout",
+    "allowMultiSelection": "Povolit vícenásobný výběr",
+    "required": "Povinné",
+    "optional": "Volitelné",
+    "allowMultiSelectionForSale": "Povolit vícenásobný výběr pro prodej",
+    "isRequired": "Je povinné",
+    "modifier": "Modifikátor",
+    "fullPayment": "Plná platba",
+    "payment": "Platba",
+    "addTip": "Přidat spropitné",
+    "netPayable": "Čistá splatná částka",
+    "receiveAmount": "Přijatá částka",
+    "changeAmount": "Částka změny",
+    "quotationList": "Seznam nabídek",
+    "addQuotation": "Přidat nabídku",
+    "convert": "Převést",
+    "variations": "Varianty",
+    "instructions": "Pokyny",
+    "unavailable": "Nedostupné",
+    "tip": "Spropitné",
+    "salesQuotationReport": "Report obchodních nabídek",
+    "orderType": "Typ objednávky",
+    "deliveryCharge": "Poplatek za doručení",
+    "receiptNo": "Číslo dokladu",
+    "paidBy": "Zaplaceno od",
+    "receivedBy": "Přijato od",
+    "paymentAmount": "Částka platby",
+    "remainingDue": "Zbývající nedoplatek",
+    "roleNPermission": "Role a oprávnění",
+    "sl": "SL",
+    "features": "Funkce",
+    "create": "Vytvořit",
+    "update": "Aktualizovat",
+    "quotations": "Nabídky",
+    "restaurant": "Restaurace",
+    "printerProfile": "Profil tiskárny",
+    "kitchenOrders": "Objednávky do kuchyně",
+    "kitchen(plural)": {
+      "one": "Kuchyně",
+      "other": "Kuchyně"
+    },
+    "allKOT": "Všechny KOT",
+    "cancelKOT": "Zrušit KOT",
+    "selectCancelReason": "Vyberte důvod zrušení",
+    "additionalComment": "Další komentář",
+    "enterComment": "Zadejte komentář",
+    "orderStatus": "Stav objednávky",
+    "selectOrderStatus": "Vyberte stav objednávky",
+    "kotReport": "KOT Report",
+    "itemFoodType": "Typ jídla",
+    "selectItemFoodType": "Vyberte @:common.itemFoodType",
+    "markAllAsRead": "Označit vše jako přečtené",
+    "online": "Online",
+    "cancelledReason": "Důvod zrušení",
+    "hrm": "HRM",
+    "notAvailable": "N/A"
+  },
+  "exceptions": {
+    "somethingWentWrong": "Něco se pokazilo, zkuste to prosím znovu",
+    "noCategoryFound": "Žádná kategorie nenalezena!\n Zkuste prosím přidat kategorii.",
+    "doYouWantToDeleteThisCategory": "Chcete smazat tuto kategorii?",
+    "noBrandFound": "Žádná značka nenalezena!\n Zkuste prosím přidat značku.",
+    "doYouWantToDeleteThisBrand": "Chcete smazat tuto značku?",
+    "noItemStockFound": "Žádné položky na skladě nenalezeny!\n Zkuste prosím přidat položku.",
+    "noUnitFound": "Žádná jednotka nenalezena!\n Zkuste prosím přidat jednotku.",
+    "doYouDeleteThisUnit": "Chcete smazat tuto jednotku?",
+    "noSaleFoundPleaseSAddProduct": "Žádný prodej nenalezen!\n Zkuste prosím přidat prodej.",
+    "doYouWantToDeleteThisSale": "Chcete smazat tento prodej?",
+    "pleaseAddItemToTheCartFirst": "Nejprve prosím přidejte položky do košíku",
+    "noItemAdded": "Žádné položky nebyly přidány",
+    "cannotEditOthersTable": "Nelze upravit cizí stůl.",
+    "tableIsAlreadyBlocked": "Stůl je již rezervován.",
+    "failedToGetCustomerDetails": "Nepodařilo se získat podrobnosti o zákazníkovi.",
+    "noTableFoundPleaseTryAgain": "Žádné stoly nenalezeny!\n Zkuste prosím přidat stůl.",
+    "noDueCollectionFound": "Žádné dlužné faktury nenalezeny!\n Dlužné faktury se zobrazí, až budou k dispozici.",
+    "noExpenseFoundPleaseTryAddingExpense": "Žádný výdaj nenalezen!\n Zkuste prosím přidat výdaj.",
+    "doYouWantToDeleteThisExpense": "Chcete smazat tento výdaj?",
+    "noExpenseCategoryFound": "Žádná kategorie výdajů nenalezena!\n Zkuste prosím přidat kategorii výdajů.",
+    "noTransactionFound": "Žádné transakce nenalezeny, zkuste to prosím později!",
+    "pleaseSelectACategory": "Vyberte prosím kategorii",
+    "noIncomeFound": "Žádný příjem nenalezen!\n Zkuste prosím přidat příjem",
+    "doYouWantToDeleteThisIncome": "Chcete smazat tento příjem?",
+    "noIncomeCategoryFoundAddingAIncome": "Žádná kategorie příjmů nenalezena!\n Zkuste prosím přidat kategorii příjmů.",
+    "noItemFoundPleaseTryAddingItem": "Žádná položka nenalezena!\n Zkuste prosím přidat položku.",
+    "noPartiesFound": "Žádné strany nenalezeny",
+    "doYouWantToDeleteThisParty": "Chcete smazat tuto stranu?",
+    "noLedgerFound": "Žádná kniha nenalezena!\n Zkuste prosím přidat ${transactionType: String}",
+    "areYouSureYouSureWantToDeleteThisTaxType": "Opravdu chcete smazat tento typ daně: ${taxType: String}?",
+    "noItemFoundPleaseSTryAddingAnPurchase": "Žádná položka nenalezena!\n Zkuste prosím přidat nákup.",
+    "doYouWantToDeleteThisPurchase": "Chcete smazat tento nákup?",
+    "noTransactionFoundYouSeeTransactionHereWhenAvailable": "Žádná transakce nenalezena!\n Transakce se zde zobrazí, až budou k dispozici.",
+    "noSaleFoundPleaseTryAddingSale": "Žádný prodej nenalezen!\n Zkuste prosím přidat prodej.",
+    "noPurchaseFoundPleaseTryAddingPurchase": "Žádný nákup nenalezen!\n Zkuste prosím přidat nákup.",
+    "noItemIncomeFound": "Žádné příjmy z položek nenalezeny!\n Údaje o příjmech se zobrazí, až budou k dispozici.",
+    "noItemExpenseFound": "Žádné výdaje na položky nenalezeny!\n Údaje o výdajích se zobrazí, až budou k dispozici.",
+    "noItemDueInvoiceFound": "Žádné dlužné faktury k položkám nenalezeny!\n Dlužné faktury se zobrazí, až budou k dispozici.",
+    "noItemDueCollectionInvoiceFound": "'Žádné faktury k inkasu dlužných částek nenalezeny!\n Faktury k inkasu dlužných částek se zobrazí, až budou k dispozici.",
+    "doYouWantToDeleteThisTable": "Chcete smazat tento stůl?'",
+    "thisVatIsBeingUsedOnSales": "Tato DPH se používá při prodeji!",
+    "noPaymentMethodFoundPleaseTryAddingAPaymentMethod": "Žádný způsob platby nenalezen!\n Zkuste prosím přidat způsob platby.",
+    "pleaseSelectACustomerFirst": "Nejprve prosím vyberte zákazníka.",
+    "pleaseSelectATableToCreateAKot": "Pro vytvoření KOT prosím vyberte stůl.",
+    "noStaffFound": "Nebyl nalezen žádný personál!\\n Zkuste prosím přidat personál",
+    "noIngredientFound": "Nebyla nalezena žádná přísada!\\n Zkuste prosím přidat přísadu.",
+    "exceedsPaymentAmount": "Přijatá částka by neměla být větší než splatná částka",
+    "noItemModifierFound": "Nebyl nalezen žádný modifikátor položky!\\n Zkuste prosím přidat modifikátor položky.",
+    "noModifierGroupFound": "Nebyla nalezena žádná skupina modifikátorů!\\n Zkuste prosím přidat skupinu modifikátorů.",
+    "noOptionsFound": "Nenalezeny žádné možnosti!",
+    "maxImageCountLimit": "Můžete vybrat pouze do 5 obrázků.",
+    "noQuotationFound": "Nenalezena žádná nabídka!\n Zkuste přidat nabídku.",
+    "noPermittedUserFound": "Nenalezen žádný povolený uživatel!\\n Zkuste přidat uživatele."
+  },
+  "prompt": {
+    "logout": {
+      "title": "@:common.logout",
+      "message": "Opravdu se chcete odhlásit?"
+    },
+    "unsavedWarning": {
+      "title": "Chcete se vrátit?",
+      "message": "Změněná pole nemusí být uložena!"
+    },
+    "verify": {
+      "title": "Ověřte svůj e-mail",
+      "description(rich)": "Odeslali jsme e-mail s ověřovacím kódem${emailSpan}\n\nMůže se stát, že e-mail skončil ve složce spamu."
+    },
+    "subscriptionExpired": {
+      "title": "Platnost předplatného vypršela!",
+      "message": "Pro pokračování se prosím přihlaste k odběru.",
+      "action": "Přihlásit se k odběru"
+    },
+    "items": {
+      "delete": {
+        "title": "Chcete smazat tuto položku?"
+      },
+      "filter": {
+        "title": "Filtrovat podle",
+        "extra": {
+          "lowToHigh": "Od nejnižší po nejvyšší @:common.price",
+          "highToLow": "Od nejvyšší po nejnižší @:common.price"
+        }
+      }
+    },
+    "checkInternet": {
+      "title": "Žádné připojení k internetu",
+      "message": "Zkontrolujte prosím připojení k Wi-Fi nebo mobilní síti a zkuste to znovu"
+    },
+    "back": {
+      "title": "Pro ukončení stiskněte znovu tlačítko Zpět."
+    },
+    "stockModelSheet": {
+      "title": "Přidat nový sklad"
+    },
+    "paymentMethod": {
+      "title": "Chcete smazat tento způsob platby?"
+    },
+    "extMsg": {
+      "kotSavedSuccessfully": "KOT úspěšně uložen"
+    },
+    "deleteStaff": "Chcete smazat tohoto zaměstnance?",
+    "deleteIngredient": "Chcete smazat tuto přísadu?",
+    "deleteItemModifier": "Chcete smazat tento modifikátor položky?",
+    "deleteModifierGroup": "Chcete smazat tuto skupinu modifikátorů?",
+    "deleteQuotation": "Chcete tuto nabídku smazat?"
+  },
+  "form": {
+    "fullName": {
+      "label": "@:common.fullName",
+      "hint": "Zadejte @:common.fullName",
+      "errors": {
+        "required": "Zadejte prosím své @:common.fullName"
+      }
+    },
+    "email": {
+      "label": "@:common.email",
+      "hint": "Zadejte svůj @:common.email",
+      "errors": {
+        "required": "Zadejte prosím svou e-mailovou adresu @:common.email",
+        "invalid": "⦸ Neplatný e-mail, zkuste to prosím znovu"
+      }
+    },
+    "password": {
+      "label": "@:common.password",
+      "hint": "* * * * * * * *",
+      "errors": {
+        "required": "Zadejte prosím své @:common.password",
+        "minLength": "Heslo musí mít alespoň ${count} znaků!"
+      }
+    },
+    "confirmPassword": {
+      "label": "Potvrdit heslo",
+      "hint": "* * * * * * * *",
+      "errors": {
+        "required": "Zadejte prosím své @:common.password",
+        "invalid": "'Potvrzení hesla se neshoduje!"
+      }
+    },
+    "otp": {
+      "errors": {
+        "required": "Zadejte prosím OTP.",
+        "invalid": "Zadejte prosím aktuální OTP."
+      }
+    },
+    "profile": {
+      "businessCategory": {
+        "label": "Obchodní kategorie",
+        "hint": "Vyberte obchodní kategorii",
+        "errors": {
+          "required": "Vyberte prosím obchodní kategorii"
+        }
+      },
+      "shopOrStore": {
+        "label": "Název obchodu/prodejny*",
+        "hint": "Zadejte název obchodu nebo prodejny",
+        "errors": {
+          "required": "Zadejte prosím název svého obchodu nebo prodejny"
+        }
+      },
+      "openingBalance": {
+        "label": "Počáteční zůstatek",
+        "hint": "Zadejte počáteční zůstatek"
+      },
+      "vatGstTitle": {
+        "label": "Název DPH/GST",
+        "hint": "Zadejte DPH/GST"
+      },
+      "vatGstNumber": {
+        "label": "Číslo DPH/GST",
+        "hint": "Zadejte číslo DPH/GST"
+      }
+    },
+    "vat": {
+      "name": {
+        "label": "Název",
+        "hint": "Zadejte název DPH",
+        "error": {
+          "required": "Zadejte prosím název DPH"
+        }
+      },
+      "subVat": {
+        "label": "Pod DPH",
+        "hint": "Vyberte pod DPH",
+        "errors": {
+          "required": "Vyberte prosím pod DPH"
+        }
+      },
+      "rate": {
+        "label": "Sazba DPH %",
+        "hint": "Zadejte sazbu DPH",
+        "errors": {
+          "required": "Zadejte prosím sazbu DPH."
+        }
+      }
+    },
+    "category": {
+      "label": "@:common.category",
+      "hint": "Vyberte kategorii položky",
+      "error": {
+        "required": "Zadejte prosím název kategorie"
+      }
+    },
+    "items": {
+      "barcode": {
+        "label": "Čárový kód",
+        "hint": "@:common.selectOne"
+      },
+      "itemName": {
+        "label": "Název položky",
+        "hint": "Zadejte název položky",
+        "extra": {
+          "required": "Zadejte prosím název položky"
+        }
+      },
+      "itemCategory": {
+        "label": "Kategorie položky",
+        "hint": "Kategorie položky",
+        "extra": {
+          "label": "Vyberte kategorii",
+          "required": "Vyberte prosím kategorii"
+        }
+      },
+      "brand": {
+        "label": "@:common.brand",
+        "hint": "@:common.selectOne",
+        "extra": {
+          "hint": "Zadejte název značky",
+          "required": "Zadejte prosím název značky"
+        }
+      },
+      "unit": {
+        "label": "@:common.unit",
+        "hint": "@:common.selectOne",
+        "error": {
+          "required": "Zadejte prosím název jednotky"
+        }
+      },
+      "stock": {
+        "label": "Počáteční sklad",
+        "hint": "@:common.commonHint",
+        "extra": {
+          "required": "Zadejte prosím množství položky."
+        }
+      },
+      "lowStock": {
+        "label": "@:common.lowStock",
+        "hint": "Např.: 5"
+      },
+      "purchasePrice": {
+        "label": "@:common.purchasePrice",
+        "hint": "Např.: \\$40",
+        "error": {
+          "required": "Zadejte prosím nákupní cenu."
+        }
+      },
+      "salePrice": {
+        "label": "Prodejní cena",
+        "hint": "Např.: \\$60",
+        "error": {
+          "required": "Zadejte prosím prodejní cenu."
+        }
+      },
+      "totalSalePrice": {
+        "label": "Celková prodejní cena",
+        "hint": "Např.: \\$100"
+      },
+      "wholeSalePrice": {
+        "label": "@:common.wholeSalePrice",
+        "hint": "Zadejte velkoobchodní cenu"
+      },
+      "dealerPrice": {
+        "label": "@:common.dealerPrice",
+        "hint": "Zadejte dealerskou cenu"
+      },
+      "discount": {
+        "label": "Sleva (%)",
+        "hint": "@:common.commonHint"
+      },
+      "applicableTax": {
+        "label": "Použitelná daň",
+        "hint": "@:common.selectOne"
+      },
+      "vatType": {
+        "label": "@:common.taxType",
+        "errorText": {
+          "required": "Vyberte prosím typ DPH"
+        }
+      },
+      "menu": {
+        "label": "Vybrat menu",
+        "errors": {
+          "required": "Prosím vyberte menu."
+        },
+        "hint": "Vyberte menu",
+        "extra": {
+          "selectNavLabel": "Vybrat menu položky"
+        }
+      },
+      "modifierItems": {
+        "label": "Modifikátory položek",
+        "hint": "Vybrat modifikátory položek"
+      },
+      "preparationTime": {
+        "label(rich)": "Čas přípravy ${minutes(Minuty)}",
+        "hint": "Příklad: 30"
+      },
+      "variation": {
+        "name": {
+          "label": "Název",
+          "hint": "Zadejte variaci",
+          "errors": {
+            "required": "Prosím zadejte název variace."
+          }
+        },
+        "price": {
+          "errors": {
+            "required": "Prosím zadejte cenu."
+          },
+          "label": "Cena",
+          "hint": "Příklad: \\$30"
+        }
+      }
+    },
+    "itemCart": {
+      "hint": "@:common.commonHint",
+      "error": {
+        "required": "@:common.pleaseEnterQuantity",
+        "noZero": "@:common.quantityMustBeGreaterThanZero"
+      }
+    },
+    "sales": {
+      "autoGenerateInvoice": {
+        "label": "Číslo účtenky",
+        "hint": "P-00001"
+      },
+      "date": {
+        "label": "Datum"
+      },
+      "customer": {
+        "label": "Zákazník",
+        "hint": "Vybrat zákazníka"
+      },
+      "phone": {
+        "label": "Telefonní číslo",
+        "hint": "Zadejte telefonní číslo"
+      },
+      "address": {
+        "label": "Adresa",
+        "hint": "Zadejte adresu"
+      },
+      "deliveryCharge": {
+        "label": "@:common.deliveryCharge",
+        "hint": "Např.: \\$20",
+        "hint2": "Poplatek např.: \\$10"
+      },
+      "table": {
+        "hint": "Vybrat stůl"
+      },
+      "waiter": {
+        "hint": "Vybrat číšníka"
+      }
+    },
+    "bill": {
+      "label": "Číslo účtenky",
+      "hint": "P-00001"
+    },
+    "supplier": {
+      "label": "Dodavatel",
+      "hint": "Vyberte dodavatele",
+      "extra": {
+        "required": "Vyberte prosím dodavatele"
+      }
+    },
+    "phone": {
+      "label": "Telefonní číslo",
+      "hint": "Zadejte telefonní číslo",
+      "errors": {
+        "required": "Zadejte prosím telefonní číslo."
+      }
+    },
+    "address": {
+      "label": "Adresa",
+      "hint": "Zadejte adresu"
+    },
+    "payment": {
+      "label": "Název",
+      "hint": "Zadejte název platby",
+      "error": {
+        "required": "Zadejte prosím název způsobu platby"
+      }
+    },
+    "expense": {
+      "label": "Kategorie výdajů",
+      "hint": "Vyberte kategorii výdajů",
+      "error": {
+        "required": "Zadejte prosím kategorii výdajů"
+      }
+    },
+    "income": {
+      "label": "Kategorie příjmů",
+      "hint": "Zadejte název kategorie",
+      "error": {
+        "required": "Zadejte prosím název kategorie"
+      },
+      "incomeTitle": {
+        "label": "Název příjmu",
+        "hint": "Zadejte příjem"
+      },
+      "incomeCategory": {
+        "label": "Kategorie příjmů",
+        "hint": "Vyberte kategorii"
+      },
+      "payment": {
+        "label": "Platba",
+        "hint": "Např.: \\$10"
+      }
+    },
+    "note": {
+      "label": "Poznámka (volitelné)",
+      "hint": "Zadejte text"
+    },
+    "parties": {
+      "partyName": {
+        "label": "Název strany",
+        "hint": "Zadejte název strany",
+        "error": {
+          "required": "Zadejte prosím název strany"
+        }
+      },
+      "partyPhone": {
+        "label": "Telefonní číslo",
+        "hint": "Zadejte telefonní číslo",
+        "error": {
+          "required": "Zadejte prosím telefonní číslo"
+        }
+      }
+    },
+    "table": {
+      "name": {
+        "label": "Název stolu",
+        "hint": "Zadejte název stolu",
+        "error": {
+          "required": "Zadejte prosím název stolu"
+        }
+      },
+      "capacity": {
+        "label": "Kapacita",
+        "hint": "Zadejte kapacitu",
+        "error": {
+          "required": "Zadejte prosím kapacitu"
+        }
+      }
+    },
+    "designation": {
+      "label": "@:common.designation",
+      "hint": "Vyberte označení",
+      "errors": {
+        "required": "Prosím vyberte označení."
+      }
+    },
+    "ingredientName": {
+      "label": "Název přísady",
+      "hint": "Zadejte název přísady",
+      "errors": {
+        "required": "Prosím zadejte název přísady"
+      }
+    },
+    "item": {
+      "label": "Položka",
+      "hint": "Vybrat položku",
+      "errors": {
+        "required": "Prosím vyberte položku."
+      }
+    },
+    "modifierGroup": {
+      "label": "Skupina modifikátorů",
+      "hint": "Vybrat skupinu modifikátorů",
+      "errors": {
+        "required": "Prosím vyberte skupinu modifikátorů."
+      }
+    },
+    "description": {
+      "label": "Popis",
+      "hint": "Zadejte popis"
+    },
+    "staff": {
+      "label": "@:common.staff",
+      "hint": "Vyberte zaměstnance",
+      "errors": {
+        "required": "Prosím, vyberte zaměstnance"
+      }
+    },
+    "loginUserName": {
+      "label": "Uživatelské jméno pro přihlášení",
+      "hint": "Zadejte uživatelské jméno nebo e-mailovou adresu",
+      "errors": {
+        "required": "Prosím, zadejte uživatelské jméno nebo e-mailovou adresu"
+      }
+    }
+  },
+  "action": {
+    "next": "Další",
+    "getStarted": "Začít",
+    "skip": "Přeskočit",
+    "select": "Vybrat",
+    "save": "Uložit",
+    "verify": "Ověřit",
+    "signIn": "@:common.signIn",
+    "signUp": "@:common.signUp",
+    "continue": "Pokračovat",
+    "no": "Ne",
+    "yes": "Ano",
+    "okay": "Dobře",
+    "cancel": "Zrušit",
+    "confirm": "Potvrdit",
+    "tryAgain": "Zkusit znovu",
+    "reset": "Resetovat",
+    "apply": "Použít",
+    "stockAdjust": "Upravit sklad",
+    "addMoreItems": "Přidat další položky",
+    "hold": "Držet",
+    "parcel": "@:common.parcel",
+    "buyNow": "Koupit nyní",
+    "viewAll": "Zobrazit vše",
+    "viewLedger": "Zobrazit knihu",
+    "submit": "Odeslat",
+    "selected": "Vybráno",
+    "addToCart": "Přidat do košíku",
+    "selectAll": "Vybrat vše",
+    "update": "@:common.update",
+    "addRole": "Přidat roli"
+  },
+  "pages": {
+    "language": {
+      "appbarTitle": "@:action.select @:common.language"
+    },
+    "onboard": {
+      "onboardData": {
+        "data1": {
+          "title": "Snadné použití @:common.appName",
+          "description": "Bezproblémové objednávky, rezervace bez námahy\\nPosilte svou restauraci s lehkostí!"
+        },
+        "data2": {
+          "title": "Snadná správa objednávek",
+          "description": "Zjednodušte proces přijímání objednávek ve vaší restauraci pomocí našeho intuitivního POS systému."
+        },
+        "data3": {
+          "title": "Vynikající analýzy a reporting",
+          "description": "Náš analytický panel poskytuje zprávy o prodejích a nákupech v reálném čase"
+        }
+      }
+    },
+    "signIn": {
+      "title": "Vítejte zpět",
+      "subtitle": "Zadejte prosím své údaje.",
+      "extra": {
+        "rememberMe": "Zapamatovat si mě",
+        "signUpNavigator(rich)": "Nemáte účet? ${getStarted(@:action.getStarted)}",
+        "forgotPassword": "@:common.forgotPassword?"
+      }
+    },
+    "signUp": {
+      "title": "Vytvořit účet",
+      "subtitle": "Zadejte prosím své údaje",
+      "extra": {
+        "signInNavigator(rich)": "Již máte účet? ${signIn(@:action.signIn)}"
+      }
+    },
+    "forgotPassword": {
+      "title": "@:common.forgotPassword",
+      "subtitle": "Zadejte svou e-mailovou adresu pro obnovení hesla."
+    },
+    "otpVerification": {
+      "title": "Ověření",
+      "subtitle": "Na vaši e-mailovou adresu byl odeslán 6místný kód",
+      "extra": {
+        "codeResend": {
+          "codeSendIn": "Kód bude odeslán za",
+          "resendCode": "Znovu odeslat kód"
+        }
+      }
+    },
+    "resetPassword": {
+      "title": "Obnovit heslo",
+      "subtitle": "Obnovte své heslo pro zotavení a přihlášení k vašemu účtu",
+      "extra": {
+        "dialog": {
+          "title": "Úspěšně změněno!",
+          "subtitle": "Přihlaste se svým novým heslem.\n Přesměrování na přihlášení..."
+        }
+      }
+    },
+    "items": {
+      "itemList": {
+        "extra": {
+          "emptyItem": "Žádná položka nenalezena!\n Zkuste prosím přidat položku."
+        }
+      },
+      "manageItems": {
+        "title": "Přidat novou položku",
+        "title2": "Upravit položku",
+        "extra": {
+          "maximum": "Maximálně 5",
+          "wholeSaleAndDealerPrice": "Velkoobchodní a dealerská cena",
+          "addDiscount": "Přidat slevu",
+          "addVat": "Přidat DPH"
+        }
+      },
+      "itemDetails": {
+        "title": "Podrobnosti položky",
+        "extra": {
+          "noImageAvailable": "Obrázek není k dispozici!",
+          "preparationTime(rich)": "Doba přípravy: ${min: String} ${mins(mins)}",
+          "pleaseSelectVariation": "Prosím, vyberte variantu",
+          "pleaseSelectOption": "Prosím, vyberte možnost.",
+          "enterYourInstruction": "Zadejte své pokyny"
+        }
+      }
+    },
+    "category": {
+      "addNewCategory": "Přidat novou kategorii",
+      "editCategory": "Upravit kategorii"
+    },
+    "brand": {
+      "addNewBrand": "Přidat novou značku",
+      "editBrand": "Upravit značku"
+    },
+    "unit": {
+      "addNewUnit": "Přidat novou jednotku",
+      "editUnit": "Upravit jednotku"
+    },
+    "stock": {
+      "stockList": "Seznam skladu"
+    },
+    "aboutUs": {
+      "title": "O nás"
+    },
+    "privacyPolicy": {
+      "title": "Zásady ochrany osobních údajů"
+    },
+    "termAndCondition": {
+      "title": "@:common.termAndCondition"
+    },
+    "orders": {
+      "manageOrders": {
+        "extra": {
+          "billItems": "Položky účtu",
+          "manageQuantity": "Správa množství"
+        },
+        "title": {
+          "editOrder": "Upravit objednávku",
+          "editKOT": "Úprava KOT"
+        }
+      }
+    },
+    "onlinePayment": {
+      "title": "Online platba"
+    },
+    "paymentStatus": {
+      "success": {
+        "title": "Děkujeme!",
+        "message": "Platbu zkontrolujeme a schválíme do 24 hodin.",
+        "actionButtonText": "Zobrazit fakturu"
+      },
+      "fail": {
+        "title": "Jejda! Platba se nezdařila",
+        "message": "Vaše transakce se nezdařila z důvodu technické chyby.",
+        "actionButtonText": "Zkusit znovu"
+      }
+    },
+    "confirmationDialog": {
+      "title": "Odhlásit se",
+      "message": "Opravdu se chcete odhlásit?",
+      "acceptationText": "Ne",
+      "rejectionText": "Odhlásit se"
+    },
+    "payment": {
+      "title": "@:common.paymentMethod",
+      "addPaymentMethod": "Přidat nový způsob platby",
+      "editPaymentMethod": "Upravit způsob platby",
+      "choseOnlinePayment": "Vybrat online platbu",
+      "selectPaymentMethod": "Vyberte způsob platby",
+      "pleaseSelectAPaymentMethod": "Vyberte prosím způsob platby.",
+      "methodStatus": {
+        "title": "Stav",
+        "message": "Stav nemůže být neaktivní, pokud je povoleno Rychlé zobrazení!."
+      }
+    },
+    "subscriptionPlan": {
+      "title": "Zakoupit prémiový plán",
+      "extra": {
+        "actionButtonText": "Jít zpět",
+        "message": "Platba předplatného proběhla úspěšně.\n\nNyní máte přístup k předplaceným funkcím.",
+        "mostPopular": "Nejoblíbenější"
+      }
+    },
+    "invoicePreview": {
+      "title": "Náhled faktury",
+      "message": "Náhled PDF bude brzy k dispozici"
+    },
+    "currency": {
+      "title": "@:common.currency"
+    },
+    "dashboard": {
+      "overview": "Přehled",
+      "dashboardPrivacy": "Soukromí panelu",
+      "moneyInAndMoneyOut": "Příjmy a výdaje",
+      "lossAndProfitOverView": "Přehled zisků a ztrát"
+    },
+    "due": {
+      "title": "@:common.dueList",
+      "collectionList": "Seznam inkas",
+      "dueCollection": "Inkaso dlužných částek"
+    },
+    "expense": {
+      "title": "@:common.expense",
+      "editExpense": "Upravit výdaj",
+      "addNewExpense": "Přidat nový výdaj",
+      "editExpenseCategory": "Upravit kategorii výdajů",
+      "addNewExpenseCategory": "Přidat novou kategorii výdajů",
+      "payment": "Platba",
+      "expenseCategory": "Kategorie výdajů",
+      "selectCategory": "Vyberte kategorii",
+      "allExpense": "Všechny výdaje",
+      "pleaseSelectACategory": "Prosím, vyberte kategorii",
+      "expenseTitle": {
+        "label": "Název výdaje",
+        "hint": "Zadejte výdaj"
+      }
+    },
+    "lossProfit": {
+      "title": "Seznam Ztrát/Zisků",
+      "noLossProfitFound": "Nebyly nalezeny žádné ztráty/zisky!\nZkuste prosím vytvořit nějaké prodeje."
+    },
+    "income": {
+      "editIncomeCategory": "Upravit kategorii příjmů",
+      "addNewIncomeCategory": "Přidat novou kategorii příjmů",
+      "incomeCategory": "Kategorie příjmů",
+      "allIncome": "Všechny příjmy",
+      "editIncome": "Upravit příjem",
+      "addNewIncome": "Upravit příjem",
+      "addIncome": "Přidat příjem"
+    },
+    "moneyIn": {
+      "title": "Seznam příjmů",
+      "totalPaymentIn": "Celkové příjmy"
+    },
+    "moneyOut": {
+      "title": "Seznam výdajů",
+      "totalMoneyOut": "Celkové výdaje"
+    },
+    "profile": {
+      "title": "Můj profil",
+      "editProfile": "Upravit profil",
+      "businessInformation": "Obchodní informace",
+      "profileInformation": "Informace o profilu"
+    },
+    "parties": {
+      "title": "Seznam stran",
+      "allParties": "Všechny strany",
+      "customer": "Zákazník",
+      "supplier": "Dodavatel",
+      "addParties": "Přidat strany",
+      "editParties": "Upravit strany",
+      "partiesDetails": "Podrobnosti o stranách",
+      "personalInfo": "Osobní údaje"
+    },
+    "ledger": {
+      "subTitle": "Kniha"
+    },
+    "purchase": {
+      "title": "Přidat nový nákup",
+      "editPurchase": "Upravit nákup"
+    },
+    "reports": {
+      "title": "Přehledy"
+    },
+    "table": {
+      "title": "Přidat nový stůl",
+      "editTable": "Upravit stůl"
+    },
+    "tax": {
+      "title": "Sazby DPH",
+      "buildHeaderTitle": "Sazby DPH – Správa sazeb DPH",
+      "vatGroup": {
+        "title": "Skupina DPH",
+        "subTitle": "Skupina DPH – Správa skupin DPH"
+      }
+    },
+    "vat": {
+      "addNewVat": "Přidat novou DPH",
+      "editVat": "Upravit DPH",
+      "addNewVatGroup": "Přidat novou skupinu DPH",
+      "editVatGroup": "Upravit skupinu DPH"
+    },
+    "orderList": {
+      "title": "Seznam objednávek",
+      "filters": {
+        "orderType": {
+          "label": "@:common.orderType",
+          "hint": "Vybrat typ objednávky"
+        },
+        "paymentStatus": {
+          "hint": "Vybrat stav platby",
+          "label": "Stav platby"
+        }
+      }
+    },
+    "staffs": {
+      "staffList": {
+        "filters": {
+          "designation": {
+            "label": "Označení",
+            "hint": "Vyberte označení"
+          }
+        },
+        "title": "Veškerý personál"
+      },
+      "manageStaff": {
+        "title1": "Přidat nového zaměstnance",
+        "title2": "Aktualizovat personál"
+      }
+    },
+    "ingredient": {
+      "ingredientList": {
+        "title1": "Seznam přísad",
+        "title2": "Vybrat přísadu"
+      },
+      "manageIngredient": {
+        "title1": "Přidat novou přísadu",
+        "title2": "Upravit přísadu"
+      }
+    },
+    "itemModifier": {
+      "itemModifierList": {
+        "title": "@:common.itemModifiers"
+      },
+      "manageItemModifier": {
+        "title1": "Přidat modifikátory položek",
+        "title2": "Upravit modifikátory položek"
+      }
+    },
+    "quotation": {
+      "manageQuotation": {
+        "title": {
+          "add": "Přidat novou nabídku",
+          "edit": "Upravit nabídku",
+          "convert": "Převést na prodej"
+        }
+      }
+    },
+    "rolePermission": {
+      "rolePermissionList": {
+        "title": "Seznam rolí a oprávnění"
+      },
+      "manageRolePermission": {
+        "title1": "Přidat novou roli",
+        "title2": "Upravit roli"
+      }
+    },
+    "printingOption": {
+      "title": "Možnost tisku",
+      "form": {
+        "companyAddress": {
+          "label": "Adresa společnosti",
+          "hint": "Zadejte adresu společnosti"
+        },
+        "noteLabel": {
+          "label": "Štítek poznámky",
+          "hint": "Zadejte štítek poznámky."
+        },
+        "note": {
+          "label": "Poznámka",
+          "hint": "Zadejte poznámku."
+        },
+        "postSaleMessage": {
+          "label": "Zpráva po prodeji",
+          "hint": "Zadejte zprávu po prodeji"
+        },
+        "printingMethod": {
+          "label": "Metoda tisku",
+          "hint": "Vyberte metodu tisku"
+        },
+        "printerProfile": {
+          "label": "Profil tiskárny",
+          "hint": "Vyberte profil tiskárny"
+        },
+        "paperSize": {
+          "label": "Velikost papíru termální tiskárny",
+          "hint": "Vyberte velikost papíru tiskárny"
+        },
+        "printerDpi": {
+          "label": "DPI tiskárny",
+          "hint": "Př: 203"
+        },
+        "printingMargin": {
+          "label": "Okraj tisku",
+          "hint": "Př: 2"
+        }
+      },
+      "tooltip": {
+        "printingMethod": {
+          "title": "Rozbalovací seznam s možnostmi:",
+          "default": "• Výchozí (Nativní metoda pro tisk standardních znaků EU)",
+          "image": "• Obrázek (Doporučeno pro tisk znaků Unicode)"
+        }
+      },
+      "action": {
+        "save": "Uložit"
+      }
+    },
+    "kitchen": {
+      "list": {
+        "noKitchensFound": "Nebyly nalezeny žádné kuchyně.\n Zkuste prosím nějakou přidat."
+      },
+      "manage": {
+        "addKitchen": "Přidat kuchyni",
+        "editKitchen": "Upravit kuchyni",
+        "kitchenName": {
+          "label": "Název kuchyně",
+          "hint": "Zadejte název kuchyně",
+          "error": "Zadejte prosím název kuchyně."
+        },
+        "description": {
+          "label": "Popis",
+          "hint": "Zadejte popis"
+        }
+      },
+      "manageItems": {
+        "title": "Spravovat položky",
+        "addedItems": "Přidané položky",
+        "selectItemsError": "Vyberte prosím položky.",
+        "noItemsAdded": "Zatím nebyly přidány žádné položky!\nZkuste prosím přidat položky."
+      },
+      "card": {
+        "itemName": "Název položky",
+        "manageItems": "+ Spravovat položky",
+        "deleteItemConfirm": "Chcete tuto položku smazat?",
+        "deleteKitchenConfirm": "Chcete smazat tuto kuchyni?"
+      }
+    }
+  },
+  "enums": {
+    "dropdownDateFilter": {
+      "daily": "Denně",
+      "weekly": "Týdně",
+      "monthly": "Měsíčně",
+      "yearly": "Ročně",
+      "custom": "Vlastní"
+    },
+    "orderTypes": {
+      "dineIn": "Jídlo v restauraci",
+      "pickUp": "Vyzvednutí",
+      "delivery": "Doručení",
+      "reservation": "Rezervace",
+      "quotation": "Nabídka"
+    },
+    "paymentStatus": {
+      "paid": "Zaplaceno",
+      "unpaid": "Nezaplaceno"
+    },
+    "staffTypes": {
+      "manager": "Manažer",
+      "waiter": "Číšník",
+      "chef": "Šéfkuchař",
+      "cleaner": "Uklízeč",
+      "driver": "Řidič",
+      "deliveryBoy": "Doručovatel"
+    },
+    "itemFoodTypes": {
+      "veg": "Vegetariánské",
+      "nonVeg": "Nevegetariánské",
+      "egg": "Vejce",
+      "drink": "Nápoj",
+      "others": "Ostatní"
+    },
+    "itemTypes": {
+      "single": "Jednotlivé",
+      "variation": "Variace"
+    },
+    "quotationStatus": {
+      "open": "Otevřená",
+      "closed": "Uzavřená"
+    },
+    "tableStatus": {
+      "running": "Obsazeno",
+      "available": "Volno"
+    },
+    "thermalPrinterPrintingMethod": {
+      "image": "Obrázek",
+      "default": "Výchozí"
+    },
+    "kotOrderStatus": {
+      "label": {
+        "pending": "Čeká",
+        "preparing": "Připravuje se",
+        "ready": "Jídlo je hotové",
+        "served": "Naservírováno",
+        "cancelled": "Zrušeno"
+      },
+      "pending": "Čeká",
+      "preparing": "Připravuje se",
+      "ready": "Jídlo je hotové",
+      "served": "Naservírováno",
+      "cancelled": "Zrušeno"
+    },
+    "kotItemStatus": {
+      "pending": "Začít vařit",
+      "start": "Označit jako hotové",
+      "ready": "Hotovo"
+    }
+  },
+  "thermalPrint": {
+    "invoice": {
+      "purchaseInvoiceLabel": "Nákupní faktura: ${invoiceNumber: String}",
+      "saleInvoiceLabel": "Číslo objednávky: ${invoiceNumber: String}",
+      "receiptNoLabel": "Číslo účtenky: ${invoiceNumber: String}",
+      "orderNoKotLabel": "Číslo objednávky: ${invoiceNumber: String}",
+      "nameLabel": "Jméno: ${name: String}",
+      "mobileLabel": "Mobil: ${phone: String}",
+      "purchasedByLabel": "Zakoupeno od: ${role: String}",
+      "salesByLabel": "Prodáno od: ${role: String}",
+      "paidByLabel": "${label: String}: ${role: String}",
+      "paidToReceivedFromLabel": "${label: String}: ${name: String}",
+      "orderTypeLabel": "Typ objednávky: ${orderType: String}",
+      "tableLabel": "Stůl: ${tableName: String}",
+      "tableNoLabel": "Číslo stolu: ${tableName: String}",
+      "dateLabel": "Datum: ${dateTime: String}",
+      "invoiceFlag": "FAKTURA",
+      "receiptFlag": "ÚČTENKA",
+      "paidBy": "Zaplaceno od",
+      "receivedBy": "Přijato od",
+      "paidTo": "Zaplaceno na",
+      "receivedFrom": "Přijato od",
+      "seller": "Prodejce: ${name: String}",
+      "address": "Adresa: ${addr: String}",
+      "vatNo": "DIČ",
+      "tel": "Tel: ${phoneNumber: String}",
+      "timeLabel": "Čas: ${dateTime: String}"
+    },
+    "tableHeaders": {
+      "sl": "Poř.",
+      "item": "Položka",
+      "cost": "Cena",
+      "qty": "Množství",
+      "uPrice": "Jedn. cena",
+      "amount": "Částka",
+      "total": "Celkem",
+      "invoiceTable": "Faktura",
+      "dueTable": "Dlužné"
+    },
+    "summary": {
+      "subTotal": "Mezisoučet:",
+      "discount": "Sleva: ${percentFmt: String}",
+      "vat": "${vatName: String}: ${rateFmt: String}%",
+      "tip": "Spropitné:",
+      "deliveryCharge": "Poplatek za doručení:",
+      "totalPayable": "Celkem k úhradě:",
+      "paidAmount": "Zaplacená částka:",
+      "dueAmount": "Dlužná částka:",
+      "paymentType": "Způsob platby: ${method: String}",
+      "remainingDue": "Zbývající dlužné:",
+      "paymentAmount": "Částka platby:",
+      "itemsCount": "Položky: ${count: int}",
+      "qtyTotal": "Množství: ${totalQty: int}"
+    },
+    "footer": {
+      "note": "${noteLabel: String}: ${note: String}",
+      "developedBy": "${developByLabel: String} ${developBy: String}"
+    }
+  },
+  "hrm": {
+    "department": "Oddělení",
+    "designation": "Označení",
+    "shift": "Směna",
+    "employee": "Zaměstnanec",
+    "leave": "Dovolená",
+    "leaveType": "Typ dovolené",
+    "leaveRequest": "Žádost o dovolenou",
+    "holiday": "Svátek",
+    "attendance": "Docházka",
+    "payroll": "Mzdy",
+    "pageTitles": {
+      "department": "Oddělení",
+      "designation": "Označení",
+      "shift": "Směna",
+      "employee": "Zaměstnanec",
+      "leave": "Dovolená",
+      "leaveType": "Typ dovolené",
+      "holiday": "Svátek",
+      "attendance": "Docházka",
+      "payroll": "Mzdy",
+      "leaveReports": "Zprávy o dovolené",
+      "payrollReports": "Mzdové zprávy",
+      "attendanceReports": "Zprávy o docházce",
+      "addDepartment": "Přidat oddělení",
+      "editDepartment": "Upravit oddělení",
+      "addDesignation": "Přidat označení",
+      "editDesignation": "Upravit označení",
+      "addShift": "Přidat směnu",
+      "editShift": "Upravit směnu",
+      "addEmployee": "Přidat zaměstnance",
+      "editEmployee": "Upravit zaměstnance",
+      "addLeave": "Přidat dovolenou",
+      "editLeave": "Upravit dovolenou",
+      "addLeaveType": "Přidat typ dovolené",
+      "editLeaveType": "Upravit typ dovolené",
+      "addHoliday": "Přidat svátek",
+      "editHoliday": "Upravit svátek",
+      "addAttendance": "Přidat docházku",
+      "editAttendance": "Upravit docházku",
+      "addPayroll": "Přidat mzdu",
+      "editPayroll": "Upravit mzdu"
+    },
+    "form": {
+      "labels": {
+        "department": "Oddělení",
+        "designation": "Označení",
+        "shift": "Směna",
+        "employee": "Zaměstnanec",
+        "leaveType": "Typ dovolené",
+        "leaveDuration": "Délka dovolené",
+        "paymentYear": "Platební rok",
+        "paymentType": "Typ platby",
+        "breakStatus": "Stav přestávky",
+        "startTime": "Čas zahájení",
+        "endTime": "Čas ukončení",
+        "startBreakTime": "Začátek přestávky",
+        "endBreakTime": "Konec přestávky",
+        "breakTime": "Čas přestávky",
+        "breakDuration": "Doba trvání přestávky",
+        "timeIn": "Čas příchodu",
+        "timeOut": "Čas odchodu",
+        "duration": "Trvání",
+        "country": "Země",
+        "salary": "Plat",
+        "gender": "Pohlaví",
+        "birthDate": "Datum narození",
+        "joinDate": "Datum nástupu",
+        "holidayName": "Název svátku",
+        "startDate": "Datum zahájení",
+        "endDate": "Datum ukončení",
+        "month": "Měsíc",
+        "year": "Rok",
+        "status": "Stav",
+        "description": "Popis",
+        "amount": "Částka",
+        "payment": "Platba",
+        "departmentName": "Název oddělení",
+        "designationName": "Název pozice",
+        "image": "Obrázek",
+        "name": "Jméno"
+      },
+      "hints": {
+        "selectEmployee": "Vyberte zaměstnance",
+        "selectDepartment": "Vyberte oddělení",
+        "selectDesignation": "Vyberte označení",
+        "selectShift": "Vyberte směnu",
+        "selectLeaveType": "Vyberte typ dovolené",
+        "selectMonth": "Vyberte měsíc",
+        "selectYear": "Vyberte rok",
+        "selectDate": "Vyberte datum",
+        "selectStartDate": "Vyberte datum zahájení",
+        "selectEndDate": "Vyberte datum ukončení",
+        "selectTimeIn": "Vyberte čas příchodu",
+        "selectTimeOut": "Vyberte čas odchodu",
+        "selectStartTime": "Vyberte čas zahájení",
+        "selectEndTime": "Vyberte čas ukončení",
+        "selectStatus": "Vyberte stav",
+        "selectGender": "Vyberte pohlaví",
+        "selectPaymentType": "Vyberte typ platby",
+        "enterFullName": "Zadejte celé jméno",
+        "enterEmail": "Zadejte email",
+        "enterPhone": "Zadejte telefon",
+        "enterCountry": "Zadejte zemi",
+        "enterSalary": "Např.: 500",
+        "enterHolidayName": "Zadejte název svátku",
+        "enterDescription": "Zadejte popis...",
+        "autoCalculated": "Automaticky vypočítáno",
+        "selectDatesFirst": "Nejprve vyberte data",
+        "allEmployee": "Všichni zaměstnanci",
+        "selectEmployeeFirst": "Nejprve vyberte zaměstnance",
+        "enterDepartmentName": "Zadejte název oddělení",
+        "enterDesignationName": "Zadejte název pozice",
+        "ex": "{value}",
+        "selectBirthDate": "Vyberte datum narození",
+        "selectJoinDate": "Vyberte datum nástupu",
+        "selectBreakStatus": "Vybrat stav přestávky",
+        "enterLeaveTypeName": "Zadejte název typu dovolené"
+      }
+    },
+    "emptyStates": {
+      "noLeaves": "Nebyly nalezeny žádné dovolené",
+      "noPayrollRecords": "Nebyly nalezeny žádné mzdové záznamy",
+      "noAttendanceRecords": "Nebyly nalezeny žádné záznamy o docházce",
+      "noLeaveTypes": "Žádné typy dovolené nenalezeny",
+      "noEmployees": "Nebyli nalezeni žádní zaměstnanci",
+      "noHolidays": "Nebyly nalezeny žádné svátky",
+      "noShifts": "Žádné směny nenalezeny",
+      "noDesignations": "Nebyly nalezeny žádné označení",
+      "noDepartments": "Nebyly nalezeny žádné oddělení"
+    },
+    "confirmations": {
+      "deleteAttendance": "Opravdu chcete smazat tuto docházku?",
+      "deletePayroll": "Opravdu chcete smazat tuto mzdu?",
+      "deleteLeave": "Opravdu chcete smazat tuto dovolenou?",
+      "deleteLeaveType": "Chcete smazat tento typ dovolené?",
+      "deleteEmployee": "Opravdu chcete smazat tohoto zaměstnance?",
+      "deleteHoliday": "Opravdu chcete smazat tento svátek?",
+      "deleteShift": "Chcete smazat tuto směnu?",
+      "deleteDesignation": "Opravdu chcete smazat toto označení?",
+      "deleteDepartment": "Opravdu chcete smazat toto oddělení?"
+    },
+    "validation": {
+      "selectEmployee": "Prosím vyberte zaměstnance",
+      "selectMonth": "Prosím vyberte měsíc",
+      "selectEndDate": "Prosím vyberte datum ukončení",
+      "endDateAfterStart": "Datum ukončení musí být po datu zahájení",
+      "selectStatus": "Vyberte prosím stav",
+      "selectLeaveType": "Prosím vyberte typ dovolené",
+      "selectStartDate": "Prosím vyberte datum zahájení",
+      "selectDate": "Prosím vyberte datum",
+      "selectTimeIn": "Vyberte prosím čas příchodu",
+      "selectTimeOut": "Vyberте prosím čas odchodu",
+      "enterDepartmentName": "Prosím zadejte název oddělení",
+      "enterDesignationName": "Zadejte prosím název pozice",
+      "enterName": "Prosím zadejte jméno",
+      "selectDesignation": "Prosím vyberte označení",
+      "selectDepartment": "Prosím vyberte oddělení",
+      "enterEmail": "Prosím zadejte email",
+      "enterValidEmail": "Prosím zadejte platný email",
+      "enterPhoneNumber": "Prosím zadejte telefonní číslo",
+      "enterCountry": "Prosím zadejte zemi",
+      "enterSalary": "Prosím zadejte plat",
+      "selectGender": "Prosím vyberte pohlaví",
+      "selectShift": "Prosím vyberte směnu",
+      "selectBirthDate": "Prosím vyberte datum narození",
+      "selectJoinDate": "Prosím vyberte datum nástupu",
+      "enterHolidayName": "Prosím zadejte název svátku",
+      "selectBreakStatus": "Vyberte prosím stav přestávky",
+      "selectPaymentYear": "Vyberte prosím rok platby",
+      "selectPaymentType": "Vyberte prosím typ platby",
+      "enterAmount": "Zadejte prosím částku",
+      "selectStartBreakTime": "Vyberte prosím čas začátku přestávky",
+      "selectEndBreakTime": "Vyberte prosím čas konce přestávky",
+      "enterLeaveTypeName": "Zadejte prosím název typu dovolené",
+      "selectStartTime": "Vyberte prosím čas začátku",
+      "selectEndTime": "Vyberte prosím čas konce"
+    },
+    "dropdowns": {
+      "addNew": "+ Přidat nové",
+      "morning": "Ráno",
+      "day": "Den",
+      "evening": "Večer",
+      "night": "Noc",
+      "yes": "Ano",
+      "no": "Ne",
+      "approved": "Schváleno",
+      "rejected": "Zamítnuto",
+      "terminated": "Ukončeno",
+      "suspended": "Pozastaveno",
+      "male": "Muž",
+      "female": "Žena",
+      "pending": "Čekající",
+      "active": "Aktivní",
+      "inactive": "Neaktivní",
+      "paid": "Zaplaceno",
+      "unpaid": "Nezaplaceno"
+    },
+    "units": {
+      "days": "dny"
+    },
+    "fallbacks": {
+      "noNoteAvailable": "Žádná poznámka k dispozici",
+      "noDescriptionAvailable": "Popis není k dispozici",
+      "selectEmployeeFirst": "Nejprve vyberte zaměstnance"
+    },
+    "success": {
+      "leaveDelete": "Dovolená úspěšně smazána",
+      "attendanceDelete": "Docházka úspěšně smazána",
+      "attendanceAdd": "Docházka úspěšně přidána",
+      "attendanceUpdate": "Docházka úspěšně aktualizována",
+      "leaveAdd": "Dovolená úspěšně přidána",
+      "leaveUpdate": "Dovolená úspěšně aktualizována",
+      "departmentDelete": "Oddělení úspěšně smazáno",
+      "departmentAdd": "Oddělení úspěšně přidáno",
+      "departmentUpdate": "Oddělení úspěšně aktualizováno",
+      "designationDelete": "Označení úspěšně smazáno",
+      "designationAdd": "Označení úspěšně přidáno",
+      "designationUpdate": "Označení úspěšně aktualizováno",
+      "employeeDelete": "Zaměstnanec úspěšně smazán",
+      "employeeAdd": "Zaměstnanec úspěšně přidán",
+      "employeeUpdate": "Zaměstnanec úspěšně aktualizován",
+      "holidayDelete": "Svátek úspěšně smazán",
+      "holidayAdd": "Svátek úspěšně přidán",
+      "holidayUpdate": "Svátek úspěšně aktualizován",
+      "leaveTypeDelete": "Typ dovolené úspěšně smazán"
+    }
+  }
+}
