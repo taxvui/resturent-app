@@ -1,4 +1,4 @@
-package com.acnoo.restaurant_app
+package com.maxui.net
 
 import io.flutter.embedding.android.FlutterActivity
 
