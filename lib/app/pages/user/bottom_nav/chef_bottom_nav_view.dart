@@ -5,7 +5,7 @@ import 'package:hugeicons_pro/hugeicons.dart';
 import 'package:iconly/iconly.dart';
 import 'package:icons_plus/icons_plus.dart';
 
-import '../../../../i18n/strings.g.dart';
+import 'package:restaurant_pos/i18n/strings.g.dart';
 import '../../../routes/app_routes.gr.dart';
 import '../../../widgets/widgets.dart';
 import 'components/components.export.dart';

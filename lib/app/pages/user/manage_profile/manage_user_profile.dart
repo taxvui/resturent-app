@@ -4,7 +4,7 @@ import 'package:flutter/material.dart';
 import 'package:auto_route/auto_route.dart';
 import 'package:form_builder_validators/form_builder_validators.dart';
 
-import '../../../../i18n/strings.g.dart';
+import 'package:restaurant_pos/i18n/strings.g.dart';
 import '../../../widgets/widgets.dart';
 import '../../../routes/app_routes.gr.dart';
 import '../../../data/repository/repository.dart';

@@ -4,7 +4,7 @@ import 'package:flutter/gestures.dart';
 import 'package:flutter/material.dart';
 import 'package:pinput/pinput.dart';
 
-import '../../../../i18n/strings.g.dart';
+import 'package:restaurant_pos/i18n/strings.g.dart';
 import '../../../widgets/widgets.dart';
 
 import '../../../data/repository/repository.dart';

@@ -5,7 +5,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 
-import '../../../../i18n/strings.g.dart';
+import 'package:restaurant_pos/i18n/strings.g.dart';
 import '../../../core/core.dart';
 import '../../../../app/services/services.dart';
 import '../../../routes/app_routes.gr.dart';

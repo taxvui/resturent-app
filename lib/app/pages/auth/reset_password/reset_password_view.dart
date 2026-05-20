@@ -2,7 +2,7 @@ import 'package:auto_route/auto_route.dart';
 import 'package:fdevs_fitkit/fdevs_fitkit.dart';
 import 'package:flutter/material.dart';
 
-import '../../../../i18n/strings.g.dart';
+import 'package:restaurant_pos/i18n/strings.g.dart';
 import '../../../data/repository/repository.dart';
 import '../../../routes/app_routes.gr.dart';
 import '../../../widgets/widgets.dart';

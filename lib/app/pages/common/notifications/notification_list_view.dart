@@ -4,7 +4,7 @@ import 'package:flutter/material.dart';
 import 'package:feather_icons/feather_icons.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 
-import '../../../../i18n/strings.g.dart';
+import 'package:restaurant_pos/i18n/strings.g.dart';
 import '../../../core/core.dart';
 import '../../../data/model/model.dart' as model;
 import '../../../data/repository/repository.dart' as repo;

@@ -1,6 +1,6 @@
 import 'package:auto_route/auto_route.dart';
 import 'package:flutter/material.dart';
-import '../../../../i18n/strings.g.dart';
+import 'package:restaurant_pos/i18n/strings.g.dart';
 import 'package:flutter_widget_from_html/flutter_widget_from_html.dart';
 import 'package:skeletonizer/skeletonizer.dart';
 

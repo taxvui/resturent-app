@@ -3,7 +3,7 @@ import 'package:fdevs_fitkit/fdevs_fitkit.dart';
 import 'package:flutter/material.dart';
 import 'package:form_builder_validators/form_builder_validators.dart';
 
-import '../../../../i18n/strings.g.dart';
+import 'package:restaurant_pos/i18n/strings.g.dart';
 import '../../../core/core.dart';
 import '../../../data/repository/repository.dart';
 import '../../../widgets/widgets.dart';

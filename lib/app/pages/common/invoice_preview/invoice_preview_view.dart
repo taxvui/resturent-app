@@ -4,7 +4,7 @@ import 'package:flutter/material.dart';
 import 'package:hugeicons_pro/hugeicons.dart';
 import 'package:qr_flutter/qr_flutter.dart';
 
-import '../../../../i18n/strings.g.dart';
+import 'package:restaurant_pos/i18n/strings.g.dart';
 import '../../../core/core.dart';
 import '../widgets/widgets.dart';
 import '../../../widgets/widgets.dart';

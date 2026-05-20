@@ -3,7 +3,7 @@ import 'package:fdevs_fitkit/fdevs_fitkit.dart';
 import 'package:flutter/gestures.dart';
 import 'package:flutter/material.dart';
 
-import '../../../../i18n/strings.g.dart';
+import 'package:restaurant_pos/i18n/strings.g.dart';
 import '../../../core/core.dart';
 import '../../../widgets/widgets.dart';
 import '../../../routes/app_routes.gr.dart';
